@@ -1,0 +1,45 @@
+site_name: Rising Ruby/Sinking Sapphire Wiki
+site_url: https://zhenga8533.github.io/sgss-wiki/
+site_description: A fanmade wiki for the Rising Ruby and Sinking Sapphire ROM hacks.
+site_author: Volcaronitee
+repo_url: https://github.com/zhenga8533/sgss-wiki
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+theme:
+  name: material
+  favicon: assets/favicon.png
+  features:
+    - content.tooltips
+    - navigation.footer
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Getting Started:
+      - Home: index.md
+  - Mechanics:
+      - Area Changes: area_changes.md
