@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Area Changes | Wild & Trainer Data in the Hoenn Region                            |
 o-----------------------------------------------------------------------------------o
 | This document contains a listing of the wild Pokémon and/or trainers found in     |

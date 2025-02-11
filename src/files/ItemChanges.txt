@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Item Changes | Modifications to Item Values and Shopping                          |
 o-----------------------------------------------------------------------------------o
 | This document covers any changes made to items such as usability or price, as     |

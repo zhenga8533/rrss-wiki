@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Evolution Changes | Modifications to Pokémon Evolution Methods                    |
 o-----------------------------------------------------------------------------------o
 | This document covers any changes made to the way a Pokémon evolves. The Pokémon   |

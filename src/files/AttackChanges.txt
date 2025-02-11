@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Attack Changes | Modifications to Pokémon Move Values                             |
 o-----------------------------------------------------------------------------------o
 | This document covers any changes made to any attacks. Only modified attacks are   |

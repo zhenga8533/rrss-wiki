@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Pokémon Changes | Personal Stats and Level Up Move Changes                        |
 o-----------------------------------------------------------------------------------o
 | In this document you'll find any changes made to the abilities, types, stats,     |

@@ -1,6 +1,4 @@
 o-----------------------------------------------------------------------------------o
-| POKÉMON RISING RUBY / SINKING SAPPHIRE                                            |
-o-----------------------------------------------------------------------------------o
 | Gift/Static Encounter Changes | IVs, Levels and more for gifts and statics        |
 o-----------------------------------------------------------------------------------o
 | This document covers any changes made to the Gift Pokémon you receive as well as  |
