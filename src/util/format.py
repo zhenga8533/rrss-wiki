@@ -155,26 +155,24 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
     :return: True if the form is valid, False otherwise.
     """
 
-    pokemon_with_forms = [
-        "unown",
-        "deoxys",
-        "castform",
-        "burmy",
-        "wormadam",
-        "cherrim",
-        "shellos",
-        "gastrodon",
-        "rotom",
-        "giratina",
-        "shaymin",
-        "arceus",
+    invalid_forms = [
+        "alola",
+        "galar",
+        "hisui",
+        "paldea",
+        "-cap",
+        "-starter",
+        "-gmax",
+        "white-striped",
+        "dialga-origin",
+        "palkia-origin",
     ]
 
     # Validate if the Pokemon has a form
-    for pokemon in pokemon_with_forms:
-        if pokemon in id:
-            logger.log(logging.DEBUG, f"Valid form {id} for {pokemon}")
-            return True
+    for form in invalid_forms:
+        if form in id:
+            logger.log(logging.DEBUG, f"Invalid form: {id}")
+            return False
 
-    logger.log(logging.DEBUG, f"Invalid form {id}")
-    return False
+    logger.log(logging.DEBUG, f"Valid form: {id}")
+    return True
