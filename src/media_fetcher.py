@@ -1,281 +1,132 @@
-from bs4 import BeautifulSoup
-from dotenv import load_dotenv
-from util.file import load
-from util.format import verify_pokemon_form
-from util.logger import Logger
-import json
-import logging
 import os
 import re
-import requests
-import threading
+import logging
 import time
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor
+from util.logger import Logger
 
 
-def request_data(url: str, timeout: int, logger: Logger) -> dict:
+def request(url: str, timeout: int, session: requests.Session, logger: Logger) -> requests.models.Response:
     """
-    Request data from the PokeAPI (or any API).
+    Fetch the HTML content of the URL using a session with retries.
 
-    :param url: The URL of the data.
-    :param timeout: Request timeout in seconds.
-    :param logger: The logger to log messages.
-    :return: The JSON data from the URL, or None if unsuccessful.
+    :param url: The URL to fetch the HTML content from.
+    :param timeout: The timeout (in seconds) for the request.
+    :param session: The session to use for the request.
+    :param logger: The logger to log the request.
+    :return: The response from the URL.
     """
-
-    attempt = 0
 
     while True:
-        attempt += 1
-        logger.log(logging.INFO, f'Requesting data from "{url}" (attempt {attempt}).')
-
         try:
-            response = requests.get(url, timeout=timeout)
-        except KeyboardInterrupt:
-            # Re-raise KeyboardInterrupt to allow the program to stop immediately.
-            raise
-        except requests.exceptions.Timeout:
-            # Log the timeout and retry the request.
-            logger.log(logging.ERROR, f'Request to "{url}" timed out.')
-            time.sleep(1)
-            continue
-        except requests.exceptions.RequestException:
-            # Log the exception and retry.
-            logger.log(logging.ERROR, f'Request to "{url}" failed.')
-            time.sleep(1)
-            continue
-
-        # Check the status code of the response.
-        status = response.status_code
-        if status != 200:
-            logger.log(logging.ERROR, f'Failed to request data from "{url}": {status}.')
-            return None
-        return response
+            response = session.get(url, timeout=timeout)
+            logger.log(logging.INFO, f"Fetched the URL: {url}.")
+            return response
+        except requests.exceptions.RequestException as e:
+            logger.log(logging.ERROR, f"Failed to fetch the URL: {url}. {e}")
+            time.sleep(timeout)  # Wait before retrying
 
 
-def save_media(media_path: str, media: str, logger: Logger) -> None:
+def save_sprite(url: str, view: str, pokemon: str, timeout: int, session: requests.Session, logger: Logger) -> None:
     """
-    Save the media content to the specified path.
+    Fetch and save a single sprite image.
 
-    :param media_path: The path to save the media content.
-    :param media: The media content to save.
-    :param logger: The logger to use.
-    :return: None
+    :param url: The URL of the sprite image.
+    :param view: The view name (used as file name).
+    :param pokemon: The Pokémon name (used as directory name).
+    :param timeout: The timeout for the request.
+    :param session: The session to use for the request.
+    :param logger: The logger to log the actions.
     """
 
-    # Create the directory if it does not exist
-    dirs = media_path.rsplit("/", 1)[0]
-    if not os.path.exists(dirs):
-        os.makedirs(dirs)
-        logger.log(logging.INFO, f"Created directory '{dirs}'.")
+    # Fetch the sprite image
+    response = request(url, timeout, session, logger)
 
-    # Save the media content to the specified path
-    try:
-        with open(media_path, "wb") as file:
-            file.write(media)
-            logger.log(logging.INFO, f"The content was saved to '{media_path}'.")
-    except Exception as e:
-        logger.log(logging.ERROR, f"An error occurred while saving to {media_path}:\n{e}")
-        exit(1)
+    # Create the directory for the sprite image if it doesn't exist
+    directory = os.path.join("..", "docs", "assets", "sprites", pokemon)
+    os.makedirs(directory, exist_ok=True)
+
+    # Save the sprite image
+    file_path = os.path.join(directory, f"{view}.gif")
+    with open(file_path, "wb") as file:
+        file.write(response.content)
+
+    logger.log(logging.INFO, f"Saved the sprite: {file_path}.")
 
 
-def fetch_media(pokemon: dict, pokemon_path: str, timeout: int, logger: Logger) -> None:
+def fetch_sprites(url: str, threads: int, timeout: int, session: requests.Session, logger: Logger):
     """
-    Fetch and save media for the specified Pokémon.
+    Fetch the sprites from the given URL using a thread pool.
 
-    :param pokemon: The Pokémon to fetch media for.
-    :param pokemon_path: The path to the Pokémon data files.
-    :param timeout: Request timeout in seconds.
-    :param logger: The logger to use.
-    :return: None
+    :param url: The URL to fetch the sprites from.
+    :param threads: Maximum number of threads to use concurrently.
+    :param timeout: The timeout for each request.
+    :param session: The session to use for the requests.
+    :param logger: The logger to log the actions.
     """
 
-    # Load the Pokémon data
-    name = pokemon["name"]
-    data = json.loads(load(pokemon_path + name + ".json", logger))
-    forms = data.get("forms")
+    # Fetch the HTML content of the URL
+    response = request(url, timeout, session, logger)
 
-    # Fetch media for each form
-    for form in forms:
-        if form != name and not verify_pokemon_form(form, logger):
-            continue
+    # Parse the HTML content for the sprites
+    soup = BeautifulSoup(response.text, "html.parser")
+    sprites = soup.find_all("img")
 
-        form_data = load(pokemon_path + form + ".json", logger)
-        form_data = json.loads(form_data) if form_data != "" else data
-
-        # Official artwork
-        sprites = form_data["sprites"]
-        official_artwork = sprites["other"]["official-artwork"]
-        official = official_artwork["front_default"]
-        official_shiny = official_artwork["front_shiny"]
-        sprite_data = {"official": official, "official_shiny": official_shiny}
-
-        # Generation 4, heartgold-soulsilver sprites
-        gen_4 = sprites["versions"]["generation-iv"]["heartgold-soulsilver"]
-        for key in gen_4:
-            sprite_name = key.replace("_default", "")
-            sprite = gen_4[key]
-            if sprite:
-                sprite_data[sprite_name] = sprite
-
-        # Save all sprites
-        for key in sprite_data:
-            sprite = sprite_data[key]
-            logger.log(logging.INFO, f"Fetching sprite for {form} from {sprite}.")
-            response = request_data(sprite, timeout, logger).content
-            save_media(f"../docs/assets/sprites/{form}/{key}.png", response, logger)
-
-        # Save cries
-        cries = {
-            "latest": form_data["cry_latest"] or form_data["cry_legacy"],
-            "legacy": form_data["cry_legacy"] or form_data["cry_latest"],
-        }
-        for key in cries:
-            cry = cries[key]
-            if cry is None:
+    # Use a ThreadPoolExecutor to fetch and save sprites concurrently
+    with ThreadPoolExecutor(max_workers=threads) as executor:
+        futures = []
+        for sprite in sprites:
+            src = sprite.get("src", "")
+            # Define the pattern to match the sprite URL
+            pattern = r"https:\/\/projectpokemon\.org\/images\/sprites-models\/([a-z\-]+)\/([a-z\-]+)\.gif"
+            match = re.match(pattern, src)
+            if not match:
                 continue
 
-            logger.log(logging.INFO, f"Fetching cry for {form} from {cry}.")
-            response = request_data(cry, timeout, logger).content
-            save_media(f"../docs/assets/cries/{form}/{key}.ogg", response, logger)
-
-
-def fetch_media_range(
-    start_index: int, end_index: int, pokedex: list, pokemon_path: str, timeout: int, logger: Logger
-) -> None:
-    """
-    Fetch and save media for a range of Pokémon.
-
-    :param start_index: The starting index for the Pokémon range.
-    :param end_index: The ending index for the Pokémon range.
-    :param pokedex: The list of Pokémon to process.
-    :param pokemon_path: Path where Pokémon data is stored.
-    :param timeout: Request timeout in seconds.
-    :param logger: Logger instance for logging.
-    :return: None
-    """
-
-    for i in range(start_index, end_index + 1):
-        pokemon = pokedex[i]
-        fetch_media(pokemon, pokemon_path, timeout, logger)
-
-
-def fetch_bulbagarden(url: str, pokedex: list[dict], num_threads: int, timeout: int, logger: Logger) -> None:
-    """
-    Fetch and save Bulbagarden sprites from the specified URL using threading.
-
-    :param url: The URL of the Bulbagarden sprites.
-    :param pokedex: The list of Pokémon to process.
-    :param num_threads: Number of threads to use for fetching sprites.
-    :param timeout: Request timeout in seconds.
-    :param logger: Logger instance for logging.
-    :return: None
-    """
-
-    logger.log(logging.INFO, f"Fetching Bulbagarden sprites from {url}.")
-    response = request_data(url, timeout, logger)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    sprites = [img["src"] for img in soup.find_all("img") if "src" in img.attrs and "Spr_" in img["src"]]
-    id_regex = r".*?spr_4[hdp]_(\d+)?([a-z-]+)?(?:_([mf]))?$"
-
-    def process_sprite(sprite: str):
-        """
-        Process the sprite URL to fetch and save the sprite.
-
-        :param sprite: The URL of the sprite.
-        :return: None
-        """
-
-        sprite_id = sprite.rsplit("/", 1)[1].split(".")[0].lower()
-
-        # Match the sprite ID to extract the number, extension
-        match = re.match(id_regex, sprite_id)
-        if match:
-            num, extension, gender = match.groups()
-            extension = extension.replace("-", "") if extension else None
-            logger.log(logging.INFO, f"Fetching sprite for {num} ({extension}, {gender}).")
-
-            name = pokedex[int(num) - 1]["name"] + (f"-{extension}" if extension else "")
-            view = "front" + ("_female" if gender == "f" else "")
-            sprite_img = request_data(sprite, timeout, logger).content
-            save_media(f"../docs/assets/sprites/{name}/{view}.png", sprite_img, logger)
-        else:
-            logger.log(logging.ERROR, f"Failed to match sprite ID: {sprite_id}")
-
-    # Create threads to process each sprite
-    threads = []
-    for i in range(0, len(sprites), num_threads):
-        for sprite in sprites[i : i + num_threads]:
-            thread = threading.Thread(target=process_sprite, args=(sprite,))
-            threads.append(thread)
-            thread.start()
-
-        for thread in threads:
-            thread.join()
-
-    # Fetch the next page if it exists
-    next_page = soup.find("a", string="next page")
-    if next_page:
-        next_url = "https://archives.bulbagarden.net" + next_page["href"]
-        fetch_bulbagarden(next_url, pokedex, num_threads, timeout, logger)
+            view, pokemon = match.groups()
+            if pokemon.endswith("-f"):
+                pokemon = pokemon[:-2]
+                view += "-f"
+            futures.append(executor.submit(save_sprite, src, view, pokemon, timeout, session, logger))
+        # Optionally, wait for all submitted tasks to complete
+        for future in futures:
+            # Calling result() will re-raise any exceptions from the worker threads
+            future.result()
 
 
 def main():
-    """
-    Main function for the media fetcher.
-
-    :return: None
-    """
-
-    # Load environment variables and logger
+    # Load environment variables and logger configuration
     load_dotenv()
-    TIMEOUT = int(os.getenv("TIMEOUT"))
-    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
-
-    LOG = os.getenv("LOG") == "True"
+    THREADS = int(os.getenv("THREADS", 5))
+    TIMEOUT = int(os.getenv("TIMEOUT", 10))
+    LOG = os.getenv("LOG")
     LOG_PATH = os.getenv("LOG_PATH")
-    logger = Logger("Media Fetcher", LOG_PATH + "media_fetcher.log", LOG)
 
-    # Fetch pokedex
-    pokedex = request_data("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=493", TIMEOUT, logger)
-    pokedex = pokedex.json().get("results")
-    logger.log(logging.INFO, pokedex)
+    logger = Logger("Media Fetcher", os.path.join(LOG_PATH, "media_fetcher.log"), LOG)
 
-    # Determine the range for each thread
-    THREADS = int(os.getenv("THREADS"))
-    total_pokemon = len(pokedex)
-    chunk_size = total_pokemon // THREADS
-    remainder = total_pokemon % THREADS
+    # Create a session and configure it with a retry strategy
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=5,  # Total number of retries allowed
+        backoff_factor=1,  # A delay factor between retries (e.g., 1, 2, 4, 8 seconds)
+        status_forcelist=[429, 500, 502, 503, 504],  # HTTP statuses to force a retry
+        allowed_methods=["HEAD", "GET", "OPTIONS"],  # Methods to retry
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
 
-    threads = []
-    start_index = 0
-
-    for t in range(THREADS):
-        # Calculate the end index for each thread's range
-        end_index = start_index + chunk_size - 1
-        if remainder > 0:
-            end_index += 1
-            remainder -= 1
-
-        # Start each thread to handle a specific range of Pokémon
-        thread = threading.Thread(
-            target=fetch_media_range,
-            args=(start_index, end_index, pokedex, POKEMON_INPUT_PATH, logger),
-        )
-        threads.append(thread)
-        thread.start()
-
-        # Update the start_index for the next thread
-        start_index = end_index + 1
-
-    # Ensure all threads are completed
-    for t in threads:
-        t.join()
-
-    # Fetch Bulbagarden media
-    url = "https://archives.bulbagarden.net/wiki/Category:HeartGold_and_SoulSilver_sprites"
-    fetch_bulbagarden(url, pokedex, THREADS, TIMEOUT, logger)
+    # Fetch the sprites for each generation
+    generations = 6
+    for i in range(1, generations + 1):
+        url = f"https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-{i}-pokémon-r{89 + i}"
+        logger.log(logging.INFO, f"Processing generation {i} from URL: {url}")
+        fetch_sprites(url, THREADS, TIMEOUT, session, logger)
 
 
 if __name__ == "__main__":
