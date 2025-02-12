@@ -162,6 +162,7 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
         "paldea",
         "-cap",
         "-starter",
+        "-totem",
         "-gmax",
         "white-striped",
         "dialga-origin",

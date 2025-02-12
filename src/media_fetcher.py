@@ -121,11 +121,51 @@ def fetch_sprites(url: str, threads: int, timeout: int, session: requests.Sessio
                 pokemon = pokemon[:-2]
                 view += "_female"
 
+            # Fix certain Pokemon forms
+            if "pikachu" in pokemon:
+                if "cap" in pokemon:
+                    continue
+                pokemon = pokemon.replace("popstar", "pop-star")
+                pokemon = pokemon.replace("rockstar", "rock-star")
+            if "nidoran" in pokemon:
+                pokemon = pokemon.replace("_m", "-m")
+                pokemon = pokemon.replace("_f", "-f")
+            if "unown" in pokemon:
+                if "interrogation" in pokemon:
+                    pokemon = pokemon.replace("interrogation", "question")
+                elif "-" in pokemon:
+                    pokemon, extension = pokemon.split("-")
+                    pokemon = f"{pokemon}-{extension[0]}"
+            if pokemon == "basculin":
+                pokemon = "basculin-red-striped"
+            if pokemon == "basculin-blue":
+                pokemon = "basculin-blue-striped"
+            if pokemon == "darmanitan":
+                pokemon = "darmanitan-standard"
+            if "genesect" in pokemon:
+                pokemon = pokemon.replace("water", "douse")
+                pokemon = pokemon.replace("fire", "burn")
+                pokemon = pokemon.replace("electric", "shock")
+                pokemon = pokemon.replace("ice", "chill")
+            if "scatterbug" in pokemon or "spewpa" in pokemon or "vivillon" in pokemon:
+                pokemon = pokemon.replace("highplains", "high-plains")
+                pokemon = pokemon.replace("pokeball", "poke-ball")
+                pokemon = pokemon.replace("savannah", "savanna")
+            if "furfrou" in pokemon:
+                pokemon = pokemon.replace("lareine", "la-reine")
+
+            # Mega evolutions
+            pokemon = pokemon.replace("megax", "mega-x")
+            pokemon = pokemon.replace("megay", "mega-y")
+
             # Gen 6 mismatch with higher generations
             pokemon = pokemon.replace("_g6", "")
             if pokemon == "glameow":
                 continue
 
+            # Check if the form is valid before saving the sprite
+            if not verify_pokemon_form(pokemon, logger):
+                continue
             directory = "../docs/assets/sprites/" + pokemon
             futures.append(executor.submit(save_media, src, view, directory, timeout, session, logger))
 
@@ -224,6 +264,13 @@ def main():
     session.mount("http://", adapter)
     session.mount("https://", adapter)
 
+    # Fetch Project Pokémon sprites for specified generations concurrently
+    generations = 6
+    for i in range(1, generations + 1):
+        url = f"https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-{i}-pokémon-r{89 + i}"
+        logger.log(logging.INFO, f"Processing generation {i} from URL: {url}")
+        fetch_sprites(url, THREADS, TIMEOUT, session, logger)
+
     # Fetch the list of Pokémon from the API
     pokedex_url = "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=721"
     pokedex_response = fetch_url(pokedex_url, TIMEOUT, session, logger)
@@ -242,13 +289,6 @@ def main():
         # Wait for all tasks to complete, propagating any exceptions
         for future in futures:
             future.result()
-
-    # Fetch Project Pokémon sprites for specified generations concurrently
-    generations = 6
-    for i in range(1, generations + 1):
-        url = f"https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-{i}-pokémon-r{89 + i}"
-        logger.log(logging.INFO, f"Processing generation {i} from URL: {url}")
-        fetch_sprites(url, THREADS, TIMEOUT, session, logger)
 
 
 if __name__ == "__main__":
