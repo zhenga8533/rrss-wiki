@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 from util.file import load, save
-from util.format import check_empty, format_id
+from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
 
 
@@ -50,7 +50,7 @@ def change_pokemon(columns: list[str], pokemon_path: str, logger: Logger) -> Non
     for pokemon in pokemon_evolutions:
         evolution_data = json.loads(load(pokemon_path + format_id(pokemon) + ".json", logger))
         evolution_data["evolutions"] = evolutions
-        save(pokemon_path + format_id(pokemon) + ".json", json.dumps(data, indent=4), logger)
+        save(pokemon_path + format_id(pokemon) + ".json", json.dumps(evolution_data, indent=4), logger)
 
 
 def main():
@@ -96,16 +96,26 @@ def main():
 
             # Change table formatting
             if " | " in line:
-                md += f"| {line} |\n"
                 columns = [s.strip() for s in line.split(" | ")]
 
                 # Table header
                 if line.startswith("###"):
-                    dividers = " | ".join(["---"] * (len(columns) + 1))
-                    md += f"| {dividers} |\n"
+                    dividers = ["---"] * len(columns)
+                    dividers[1] = ":---:"
+                    dividers[2] = ":---:"
+
+                    md += f"| {line} |\n"
+                    md += f"| {' | '.join(dividers)} |"
                 # Table body (evolution changes)
                 else:
                     change_pokemon(columns, POKEMON_INPUT_PATH, logger)
+                    columns[1] = (
+                        f"<div class='sprite-cell'>{find_pokemon_sprite(columns[1], 'front', logger)}<br>{columns[1]}</div>"
+                    )
+                    columns[2] = (
+                        f"<div class='sprite-cell'>{find_pokemon_sprite(columns[2], 'front', logger)}<br>{columns[2]}</div>"
+                    )
+                    md += f"| {' | '.join(columns) } |\n"
 
                 # Add new line to bottom of table
                 if check_empty(next_line):

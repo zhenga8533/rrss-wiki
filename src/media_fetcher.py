@@ -2,14 +2,16 @@ import json
 import logging
 import os
 import re
+from concurrent.futures import ThreadPoolExecutor
+
 import requests
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor
 from dotenv import load_dotenv
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
 from util.file import load
-from util.format import verify_pokemon_form
+from util.format import fix_pokemon_form, verify_pokemon_form
 from util.logger import Logger
 
 
@@ -72,9 +74,13 @@ def save_media(
 
     file_path = os.path.join(directory, view + extension)
     try:
-        with open(file_path, "wb") as file:
-            file.write(response.content)
-        logger.log(logging.INFO, f"Saved sprite: {file_path}")
+        file_path = file_path.replace("\\", "/")
+        if not os.path.exists(file_path):
+            with open(file_path, "wb") as file:
+                file.write(response.content)
+            logger.log(logging.INFO, f"Saved sprite: {file_path}")
+        else:
+            logger.log(logging.WARNING, f"Skipping existing sprite: {file_path}")
     except Exception as e:
         logger.log(logging.ERROR, f"Error saving sprite at {file_path}: {e}")
         raise
@@ -136,12 +142,12 @@ def fetch_sprites(url: str, threads: int, timeout: int, session: requests.Sessio
                 elif "-" in pokemon:
                     pokemon, extension = pokemon.split("-")
                     pokemon = f"{pokemon}-{extension[0]}"
-            if pokemon == "basculin":
-                pokemon = "basculin-red-striped"
             if pokemon == "basculin-blue":
                 pokemon = "basculin-blue-striped"
-            if pokemon == "darmanitan":
-                pokemon = "darmanitan-standard"
+            if pokemon == "xerneas":
+                pokemon = "xerneas-neutral"
+            if pokemon == "xerneas-active":
+                pokemon = "xerneas"
             if "genesect" in pokemon:
                 pokemon = pokemon.replace("water", "douse")
                 pokemon = pokemon.replace("fire", "burn")
@@ -153,6 +159,7 @@ def fetch_sprites(url: str, threads: int, timeout: int, session: requests.Sessio
                 pokemon = pokemon.replace("savannah", "savanna")
             if "furfrou" in pokemon:
                 pokemon = pokemon.replace("lareine", "la-reine")
+            pokemon = fix_pokemon_form(pokemon)
 
             # Mega evolutions
             pokemon = pokemon.replace("megax", "mega-x")
@@ -206,8 +213,8 @@ def fetch_media(pokemon: dict, pokemon_path: str, session: requests.Session, log
         sprite_data = {"official": official, "official_shiny": official_shiny}
 
         # Generation 6, ORAS sprites
-        gen_4 = sprites.get("versions", {}).get("generation-vi", {}).get("omegaruby-alphasapphire", {})
-        for key, sprite in gen_4.items():
+        oras = sprites["versions"]["generation-vi"]["omegaruby-alphasapphire"]
+        for key, sprite in oras.items():
             sprite_name = key.replace("_default", "")
             if sprite:
                 sprite_data[sprite_name] = sprite

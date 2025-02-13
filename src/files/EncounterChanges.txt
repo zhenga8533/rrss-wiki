@@ -1,25 +1,23 @@
 o-----------------------------------------------------------------------------------o
-| Gift/Static Encounter Changes | IVs, Levels and more for gifts and statics        |
-o-----------------------------------------------------------------------------------o
-| This document covers any changes made to the Gift Pokémon you receive as well as  |
-| any static encounters within the game e.g. the Kecleon you encounter throughout   |
-| the game, many legendary Pokémon and even the Wild Pokémon you encounter when     |
-| Soaring in the Sky.                                                               |
+| 1. This document covers any changes made to the Gift Pokémon you receive as well  |
+| as any static encounters within the game e.g. the Kecleon you encounter           |
+| throughout the game, many legendary Pokémon and even the Wild Pokémon you         |
+| encounter when Soaring in the Sky.                                                |
 |                                                                                   |
-| To see these changes, you need to include the DllField.cro file when building     |
+| 2. To see these changes, you need to include the DllField.cro file when building  |
 | your game. However you will only be able to actually use these changes if you're  |
 | playing with a method that is able to 'patch the RO module', else your game will  |
 | crash upon trying to launch it. This means for Gateway and HANS users you can't   |
 | use these changes, but Luma3DS or Citra users should be able to include it with   |
 | no problems whatsoever.                                                           |
 o-----------------------------------------------------------------------------------o
-| Files mentioned in this document                                                  |
-o-----------------------------------------------------------------------------------o
-| DllField  | Static Encounter / Gift Pokémon Values                                |
-o-----------------------------------------------------------------------------------o
 
-o-----------------------------------------------------------------------------------o
-| Gift Pokémon Changes                                                              |
+## Files Mentioned
+
+1. DllField - Static Encounter / Gift Pokémon Values
+
+## Gift Pokémon changes
+
 o-----------------------------------------------------------------------------------o
 | Description                       | Changes                                       |
 o-----------------------------------------------------------------------------------o
@@ -51,8 +49,8 @@ o-------------------------------------------------------------------------------
 | Gift from Birch, Oshawott         | Always has max IVs                            |
 o-----------------------------------------------------------------------------------o
 
-o-----------------------------------------------------------------------------------o
-| Static Encounter Changes                                                          |
+## Static Encounter Changes
+
 o-----------------------------------------------------------------------------------o
 | Description                       | Changes                                       |
 o-----------------------------------------------------------------------------------o

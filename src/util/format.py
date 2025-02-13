@@ -38,7 +38,7 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
         file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
     pokemon_data = json.loads(load(file_path, logger))
 
-    pokemon_text = pokemon_data["flavor_text_entries"].get("soulsilver", pokemon).replace("\n", " ")
+    pokemon_text = pokemon_data["flavor_text_entries"].get("alpha-sapphire", pokemon).replace("\n", " ")
     sprite = f"../assets/sprites/{pokemon_id}/{view}"
 
     # Return the sprite that exists
@@ -99,16 +99,24 @@ def fix_pokemon_form(form: str) -> str:
     :return: Fixed form id.
     """
 
-    if form == "deoxys":
-        return "deoxys-normal"
-    if form == "wormadam":
-        return "wormadam-plant"
-    if form == "giratina":
-        return "giratina-altered"
-    if form == "shaymin":
-        return "shaymin-land"
-    if form == "pumpkaboo" or form == "gourgeist":
-        return form + "-average"
+    fix_map = {
+        "deoxys": "deoxys-normal",
+        "wormadam": "wormadam-plant",
+        "giratina": "giratina-altered",
+        "shaymin": "shaymin-land",
+        "darmantian": "darmanitan-standard",
+        "basculin": "basculin-red-striped",
+        "pumpkaboo": "pumpkaboo-average",
+        "gourgeist": "gourgeist-average",
+        "tornadus": "tornadus-incarnate",
+        "thundurus": "thundurus-incarnate",
+        "landorus": "landorus-incarnate",
+        "keldeo": "keldeo-ordinary",
+        "meloetta": "meloetta-aria",
+    }
+
+    if form in fix_map:
+        return fix_map[form]
     return form
 
 
@@ -184,6 +192,8 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
         "white-striped",
         "dialga-origin",
         "palkia-origin",
+        "scatterbug-",
+        "spewpa-",
     ]
 
     # Validate if the Pokemon has a form
