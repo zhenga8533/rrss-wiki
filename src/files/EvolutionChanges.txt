@@ -1,11 +1,9 @@
 o-----------------------------------------------------------------------------------o
-| Evolution Changes | Modifications to Pokémon Evolution Methods                    |
-o-----------------------------------------------------------------------------------o
-| This document covers any changes made to the way a Pokémon evolves. The Pokémon   |
-| modified can be split into two distinct sections.                                 |
+| 1. This document covers any changes made to the way a Pokémon evolves. The        |
+| Pokémon modified can be split into two distinct sections.                         |
 |                                                                                   |
-| Any Pokémon with a trade evolution has been modified so that they no longer need  |
-| to be traded to evolve. There are three distinct subtypes of this evolution:      |
+| 2. Any Pokémon with a trade evolution has been modified so that they no longer    |
+| need to be traded to evolve. There are three distinct subtypes of this evolution: |
 |                                                                                   |
 | - Pokémon that needed to be traded with an item can now use that item like an     |
 | evolution stone. Evolution items can be found in Slateport Market and Lilycove    |
@@ -19,11 +17,11 @@ o-------------------------------------------------------------------------------
 | evolve by having that other Pokémon in the party and levelling up. It doesn't     |
 | make a whole lot of sense, but it's the best we've got!                           |
 |                                                                                   |
-| Please note that these new evolution methods are in addition to the trading way,  |
-| meaning that trading the Pokémon will still evolve it as before.                  |
+| 3. Please note that these new evolution methods are in addition to the trading    |
+| way, meaning that trading the Pokémon will still evolve it as before.             |
 |                                                                                   |
-| The other type of evolution change is a Pokémon evolution level reduction, as a   |
-| lot of Pokémon have an evolution level that's too high to keep up with the pace   |
+| 4. The other type of evolution change is a Pokémon evolution level reduction, as  |
+| a lot of Pokémon have an evolution level that's too high to keep up with the pace |
 | of the game. The majority of Pokémon affected by this change are from Unova where |
 | the evolution levels were incredibly high, but levels have also been reduced for  |
 | Pokémon from the other regions that are caught fairly early but still have an     |
@@ -31,17 +29,18 @@ o-------------------------------------------------------------------------------
 | latest evolution, but now evolves at 59 instead of 64 before. All new numbers and |
 | the amount subtracted from the old number are listed below.                       |
 |                                                                                   |
-| A version of the evolution GARC is available without evolution level reductions   |
-| is available if preferred. However, level up moves for Pokémon affected by this   |
-| have been modified to assume that they evolve at the levels listed here.          |
-o-----------------------------------------------------------------------------------o
-| Files mentioned in this document                                                  |
-o-----------------------------------------------------------------------------------o
-| a/1/9/2   | Pokémon Evolution Methods                                             |
+| 5. A version of the evolution GARC is available without evolution level           |
+| reductions is available if preferred. However, level up moves for Pokémon         |
+| affected by this have been modified to assume that they evolve at the levels      |
+| listed here.                                                                      |
 o-----------------------------------------------------------------------------------o
 
-o-------------------------------------------------------------------------------------------------------o
-| Trade Evolutions                                                                                      |
+## Files Mentioned
+
+1. a/1/9/2 - Pokémon Evolution Methods
+
+## Trade Evolutions
+
 o-------------------------------------------------------------------------------------------------------o
 | ### | Unevolved   | Evolved       | New Evolution Methods                                             |
 o-------------------------------------------------------------------------------------------------------o
@@ -54,7 +53,9 @@ o-------------------------------------------------------------------------------
 | 708 | Phantump    | Trevenant     | Level up with 220+ friendship value or at Lv. 23.                 |
 | 710 | Pumpkaboo   | Gourgeist     | Level up with 220+ friendship value or at Lv. 23.                 |
 o-------------------------------------------------------------------------------------------------------o
-| Trade with Item Evolutions                                                                            |
+
+## Trade with Item Evolutions
+
 o-------------------------------------------------------------------------------------------------------o
 | ### | Unevolved   | Evolved       | New Evolution Methods | Evolution Item Location                   |
 o-------------------------------------------------------------------------------------------------------o
@@ -73,7 +74,9 @@ o-------------------------------------------------------------------------------
 | 366 | Clamperl    | Huntail       | Use a Deep Sea Tooth. | Slateport Market                          |
 | 366 | Clamperl    | Gorebyss      | Use a Deep Sea Scale. | Slateport Market                          |
 o-------------------------------------------------------------------------------------------------------o
-| Trade with Pokémon Evolutions                                                                         |
+
+## Trade with Pokémon Evolutions
+
 o-------------------------------------------------------------------------------------------------------o
 | ### | Unevolved   | Evolved       | New Evolution Methods                                             |
 o-------------------------------------------------------------------------------------------------------o
@@ -81,8 +84,8 @@ o-------------------------------------------------------------------------------
 | 616 | Shelmet     | Accelgor      | Level up with a Karrablast in the party.                          |
 o-------------------------------------------------------------------------------------------------------o
 
-o---------------------------------------------------------------o
-| Level Adjustments                                             |
+## Level Adjustments
+
 o---------------------------------------------------------------o
 | ### | Unevolved   | Evolved       | Old    | New    | Diff    |
 o---------------------------------------------------------------o
@@ -105,7 +108,7 @@ o---------------------------------------------------------------o
 | 431 | Glameow     | Purugly       | Lv. 38 | Lv. 33 | - 5     |
 | 451 | Skorupi     | Drapion       | Lv. 40 | Lv. 37 | - 3     |
 | 453 | Croagunk    | Toxicroak     | Lv. 37 | Lv. 35 | - 2     |
-| 559 | Scraggy     | Scrafty       | Lv. 39 | Lv. 34 | - 5     | 
+| 559 | Scraggy     | Scrafty       | Lv. 39 | Lv. 34 | - 5     |
 | 568 | Trubbish    | Garbodor      | Lv. 36 | Lv. 34 | - 2     |
 | 574 | Gothita     | Gothorita     | Lv. 32 | Lv. 26 | - 6     |
 | 575 | Gothorita   | Gothitelle    | Lv. 41 | Lv. 39 | - 2     |
