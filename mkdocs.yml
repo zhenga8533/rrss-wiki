@@ -42,4 +42,4 @@ nav:
   - Getting Started:
       - Home: index.md
   - Mechanics:
-      - Area Changes: area_changes.md
+      - Area Changes: mechanics/area_changes.md
