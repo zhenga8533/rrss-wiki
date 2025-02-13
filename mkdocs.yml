@@ -43,3 +43,4 @@ nav:
       - Home: index.md
   - Mechanics:
       - Area Changes: mechanics/area_changes.md
+      - Attack Changes: mechanics/attack_changes.md

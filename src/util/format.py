@@ -1,10 +1,22 @@
-from util.file import load, verify_asset_path
-from util.logger import Logger
 import json
 import logging
 import os
 import re
 import string
+
+from util.file import load, verify_asset_path
+from util.logger import Logger
+
+
+def check_empty(line: str) -> bool:
+    """
+    Check if a line is empty.
+
+    :param line: The line to check.
+    :return: True if the line is empty, False otherwise.
+    """
+
+    return len(line) == 0 or line.startswith("o-") or line.startswith("===") or len(line.strip("| ")) == 0
 
 
 def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
@@ -20,13 +32,16 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     # Load Pokemon data
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     pokemon_id = format_id(pokemon)
-    sprite = f"../assets/sprites/{pokemon_id}/{view}"
+
     file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
     if not os.path.exists(file_path):
         file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
     pokemon_data = json.loads(load(file_path, logger))
-    pokemon_text = pokemon_data["flavor_text_entries"].get("soulsilver", pokemon).replace("\n", " ")
 
+    pokemon_text = pokemon_data["flavor_text_entries"].get("soulsilver", pokemon).replace("\n", " ")
+    sprite = f"../assets/sprites/{pokemon_id}/{view}"
+
+    # Return the sprite that exists
     return (
         f'![{pokemon}]({sprite}.gif "{pokemon}: {pokemon_text}")'
         if verify_asset_path(sprite + ".gif", logger)

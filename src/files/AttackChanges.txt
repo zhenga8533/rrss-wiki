@@ -1,20 +1,20 @@
 o-----------------------------------------------------------------------------------o
-| Attack Changes | Modifications to Pokémon Move Values                             |
-o-----------------------------------------------------------------------------------o
-| This document covers any changes made to any attacks. Only modified attacks are   |
-| listed here, with modifications to power, type, accuracy, PP, or effects written  |
-| out if applicable.                                                                |
+| 1. This document covers any changes made to any attacks. Only modified attacks    |
+| are listed here, with modifications to power, type, accuracy, PP, or effects      |
+| written out if applicable.                                                        |
 |                                                                                   |
-| The changes here mostly focus on making HM moves usable, as well as boosting the  |
-| base power of some moves that feel too weak early or buffing the effectiveness of |
-| some moves obtainable by only a few Pokémon.                                      |
+| 2. The changes here mostly focus on making HM moves usable, as well as boosting   |
+| the base power of some moves that feel too weak early or buffing the              |
+| effectiveness of some moves obtainable by only a few Pokémon.                     |
 |                                                                                   |
-| Moves are listed in alphabetical order.                                           |
+| 3. Moves are listed in alphabetical order.                                        |
 o-----------------------------------------------------------------------------------o
-| Files mentioned in this document                                                  |
-o-----------------------------------------------------------------------------------o
-| a/1/8/9   | Pokémon Move Values                                                   |
-o-----------------------------------------------------------------------------------o
+
+## Files Mentioned
+
+1. a/1/8/9 - Pokémon Move Values
+
+## Moves
 
 Ancient Power
 ============================
