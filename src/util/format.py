@@ -36,6 +36,8 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
     if not os.path.exists(file_path):
         file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
+        if not os.path.exists(file_path):
+            return "?"
     pokemon_data = json.loads(load(file_path, logger))
 
     pokemon_text = pokemon_data["flavor_text_entries"].get("alpha-sapphire", pokemon).replace("\n", " ")

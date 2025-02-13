@@ -52,6 +52,8 @@ o-------------------------------------------------------------------------------
 ## Static Encounter Changes
 
 o-----------------------------------------------------------------------------------o
+| \* Pokémon species also changed. See area changes doc for details.                 |
+o-----------------------------------------------------------------------------------o
 | Description                       | Changes                                       |
 o-----------------------------------------------------------------------------------o
 | Route 101, First Battle on Route  | Changed from Lv. 3 Wurmple to Lv. 5 Pidgey    |
@@ -86,6 +88,4 @@ o-------------------------------------------------------------------------------
 | Sea Mauville, Spiritomb           | Level increased to 60                         |
 | Southern Island, Latias           | Level increased to 40                         |
 | Southern Island, Latios           | Level increased to 40                         |
-o-----------------------------------------------------------------------------------o
-| * Pokémon species also changed. See area changes doc for details.                 |
 o-----------------------------------------------------------------------------------o
