@@ -1,11 +1,56 @@
+import json
 import logging
 import os
 
 from dotenv import load_dotenv
 
 from util.file import load, save
-from util.format import check_empty
+from util.format import check_empty, format_id
 from util.logger import Logger
+
+
+def change_evolution(evolutions: list[dict], pokemon: str, change: str, pokemon_path: str, logger: Logger) -> list:
+    pokemon_evolutions = []
+
+    for evolution in evolutions:
+        # Get evolution name
+        name = evolution["name"]
+        pokemon_evolutions.append(name)
+
+        # Add evolution change to Pokemon data
+        if name == pokemon:
+            if evolution.get("evolution_changes") is None:
+                evolution["evolution_changes"] = [change]
+            elif change not in evolution["evolution_changes"]:
+                evolution["evolution_changes"].append(change)
+
+        # Recursively change evolution data
+        pokemon_evolutions += change_evolution(evolution.get("evolutions", []), pokemon, change, pokemon_path, logger)
+
+    return pokemon_evolutions
+
+
+def change_pokemon(columns: list[str], pokemon_path: str, logger: Logger) -> None:
+    # Parse evolution data
+    unevolved = columns[1]
+    evolved = columns[2]
+    evolution_method = (
+        f"{unevolved} now evolves into {evolved} via: {columns[3]}"
+        if len(columns) < 6
+        else f"{unevolved} now evolves into {evolved} at {columns[4]}."
+    )
+
+    # Load Pokemon data
+    id = format_id(unevolved)
+    data = json.loads(load(pokemon_path + id + ".json", logger))
+    evolutions = data["evolutions"]
+
+    # Change evolution data and save changes
+    pokemon_evolutions = change_evolution(evolutions, id, evolution_method, pokemon_path, logger)
+    for pokemon in pokemon_evolutions:
+        evolution_data = json.loads(load(pokemon_path + format_id(pokemon) + ".json", logger))
+        evolution_data["evolutions"] = evolutions
+        save(pokemon_path + format_id(pokemon) + ".json", json.dumps(data, indent=4), logger)
 
 
 def main():
@@ -19,6 +64,7 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
 
     # Initialize logger object
     LOG = os.getenv("LOG") == "True"
@@ -48,13 +94,23 @@ def main():
         elif line.startswith("| "):
             line = line.strip("| ")
 
+            # Change table formatting
             if " | " in line:
                 md += f"| {line} |\n"
+                columns = [s.strip() for s in line.split(" | ")]
+
+                # Table header
                 if line.startswith("###"):
-                    dividers = " | ".join(["---"] * (line.count("|") + 1))
+                    dividers = " | ".join(["---"] * (len(columns) + 1))
                     md += f"| {dividers} |\n"
-                elif check_empty(next_line):
+                # Table body (evolution changes)
+                else:
+                    change_pokemon(columns, POKEMON_INPUT_PATH, logger)
+
+                # Add new line to bottom of table
+                if check_empty(next_line):
                     md += "\n"
+            # Overview table
             else:
                 if line.startswith("- "):
                     md += "\t"

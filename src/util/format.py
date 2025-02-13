@@ -107,6 +107,8 @@ def fix_pokemon_form(form: str) -> str:
         return "giratina-altered"
     if form == "shaymin":
         return "shaymin-land"
+    if form == "pumpkaboo" or form == "gourgeist":
+        return form + "-average"
     return form
 
 
