@@ -60,7 +60,7 @@ def main():
                     dividers[0] = ":---:"
 
                     md += f"| Pokémon | {line} |\n"
-                    md += f"| {' | '.join(dividers)} |"
+                    md += f"| {' | '.join(dividers)} |\n"
                     parse_table = True
                 # Table body (Encounter changes)
                 else:
@@ -80,10 +80,10 @@ def main():
 
                     md += f"| {' | '.join(columns) } |\n"
 
-                # Add new line to bottom of table
-                if check_empty(next_line):
-                    parse_table = False
-                    md += "\n"
+                    # Add new line to bottom of table
+                    if check_empty(next_line):
+                        parse_table = False
+                        md += "\n"
             # Overview table
             else:
                 if line.startswith("- "):
