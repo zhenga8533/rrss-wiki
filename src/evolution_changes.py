@@ -78,6 +78,8 @@ def main():
     n = len(lines)
     md = "# Evolution Changes\n\n---\n\n## Overview\n\n"
 
+    parse_table = False
+
     # Parse all lines from the input data file
     logger.log(logging.INFO, f"Parsing {n} lines of data from {file_path}...")
     i = 0
@@ -99,13 +101,14 @@ def main():
                 columns = [s.strip() for s in line.split(" | ")]
 
                 # Table header
-                if line.startswith("###"):
+                if not parse_table:
                     dividers = ["---"] * len(columns)
                     dividers[1] = ":---:"
                     dividers[2] = ":---:"
 
                     md += f"| {line} |\n"
                     md += f"| {' | '.join(dividers)} |"
+                    parse_table = True
                 # Table body (evolution changes)
                 else:
                     change_pokemon(columns, POKEMON_INPUT_PATH, logger)
@@ -119,6 +122,7 @@ def main():
 
                 # Add new line to bottom of table
                 if check_empty(next_line):
+                    parse_table = False
                     md += "\n"
             # Overview table
             else:
