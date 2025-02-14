@@ -31,7 +31,7 @@ o-------------------------------------------------------------------------------
 | The legal moves only version of the a/1/9/1 GARC file omits all of these moves.   |
 | Levels may be adjusted to fill the gap left by a removed move but are not         |
 | documented. There are two specific cases that are documented with what they've    |
-| changed into.											                                  							|
+| changed into.                                                                     |
 |                                                                                   |
 | 5. Additionally, a location on where to obtain a Pokémon (or what to evolve if    |
 | not) is listed for each species, though you'll want to check out the wild         |
@@ -135,7 +135,7 @@ Ability 2: Tough Claws **
 25  Slash
 28  Dragon Pulse *
 31  Flamethrower
-34  Crunch*
+34  Crunch *
 37  Fire Spin
 40  Dragon Dance *
 43  Outrage *
@@ -162,7 +162,7 @@ Ability 2: Tough Claws **
 40  Crunch *
 44  Fire Spin
 48  Dragon Dance *
-52  Outrage*
+52  Outrage *
 56  Inferno
 
 #006 CHARIZARD
@@ -188,7 +188,7 @@ Ability 2: Tough Claws **
 32  Dragon Pulse *
 36  Wing Attack
 37  Flamethrower
-42  Crunch*
+42  Crunch *
 47  Fire Spin
 52  Dragon Dance *
 57  Outrage *
@@ -210,7 +210,7 @@ Ability 2: Shell Armor **
 13  Fake Out *
 15  Rapid Spin
 17  Water Pulse
-19  Yawn*
+19  Yawn *
 21  Rapid Spin
 24  Protect
 27  Aqua Tail
@@ -234,7 +234,7 @@ Ability 2: Shell Armor **
 13  Fake Out *
 15  Rapid Spin
 18  Water Pulse
-21  Yawn*
+21  Yawn *
 24  Rapid Spin
 28  Protect
 31  Aqua Tail
@@ -322,7 +322,7 @@ Total       395 >> 450
 30  Safeguard
 32  Bug Buzz
 34  Rage Powder
-36  Psychic 
+36  Psychic
 38  Captivate
 40  Quiver Dance
 42  Hurricane **
@@ -811,7 +811,7 @@ Location: Safari Zone
 19  Horn Attack
 23  Poison Jab
 27  Helping Hand
-31  Drill Run*
+31  Drill Run *
 35  Toxic Spikes
 39  Flatter
 43  Captivate
@@ -1092,9 +1092,9 @@ Total       285 >> 295
 3   Stun Spore
 6   Poison Powder
 9   Leech Life
-12  Bullet Seed*
+12  Bullet Seed *
 15  Fury Cutter
-18  Cross Poison*
+18  Cross Poison *
 21  Spore
 24  Slash
 27  Growth
@@ -1828,7 +1828,7 @@ Evolution Level: 40 >> 37
 29  Low Kick *
 32  Inferno
 35  Agility
-38  Hypnosis*
+38  Hypnosis *
 41  Wild Charge *
 44  Flare Blitz
 47  Bounce
@@ -1881,7 +1881,7 @@ New TM/HMs: Waterfall
 16  Disable
 19  Zen Headbutt
 22  Water Pulse
-26  Belch*
+26  Belch *
 30  Slack Off
 34  Amnesia
 38  Psychic
@@ -2024,7 +2024,7 @@ Location: Route 116, Route 121
 41  Uproar
 45  Endeavor
 49  Thrash
-53  Brave Bird*
+53  Brave Bird *
 
 #085 DODRIO
 =======================
@@ -2208,7 +2208,7 @@ New TM/HMs: Sludge Wave
 5   Mean Look
 8   Clear Smog *
 11  Night Shade
-14  Hex*
+14  Hex *
 17  Curse
 20  Confuse Ray
 23  Dark Pulse
@@ -2438,7 +2438,7 @@ Location: New Mauville
 11  Rollout
 13  Screech
 15  Charge Beam
-17  Thunder Wave*
+17  Thunder Wave *
 19  Swift
 21  Electro Ball
 23  Self-Destruct
@@ -2468,7 +2468,7 @@ Ability 2: Harvest
 15  Sleep Powder
 18  Extrasensory
 21  Worry Seed
-24  Giga Drain * 
+24  Giga Drain *
 27  Natural Gift
 30  Bestow
 33  Psychic *
@@ -2506,7 +2506,7 @@ Location: Granite Cave
 25  Rage
 28  False Swipe
 31  Thrash
-34  Iron Head*
+34  Iron Head *
 37  Bone Rush
 40  Fling
 43  Endeavor
@@ -2664,7 +2664,7 @@ New TM/HMs: Sludge Wave
 13  Clear Smog
 16  Self-Destruct
 19  Sludge
-22  Psybeam*
+22  Psybeam *
 25  Haze
 28  Double Hit
 31  Sludge Bomb
@@ -2890,7 +2890,7 @@ Total       450 >> 460
 32  Aqua Tail *
 36  Drill Run *
 40  Soak
-44  Skull Bash*
+44  Skull Bash *
 48  Bounce *
 52  Horn Drill
 56  Megahorn
@@ -3639,7 +3639,7 @@ Ability 2: Natural Cure **
 7   Poison Powder
 9   Synthesis
 11  Grass Whistle *
-13  Nature Power*
+13  Nature Power *
 15  Magical Leaf
 18  Reflect
 21  Natural Gift
@@ -3651,7 +3651,7 @@ Ability 2: Natural Cure **
 42  Safeguard
 46  Aromatherapy
 50  Solar Beam
-54  Leaf Storm*
+54  Leaf Storm *
 
 #154 MEGANIUM
 =======================
@@ -3734,8 +3734,8 @@ Location: Evolve Quilava (Lv. 36)
 Ability 2: Flash Fire
 
 1   Eruption
-1   Fire Punch*
-1   Thunder Punch*
+1   Fire Punch *
+1   Thunder Punch *
 1   Tackle
 1   Leer
 5   Ember
@@ -5642,7 +5642,7 @@ Ability 2: Sand Veil
 21  Ice Shard *
 24  Slam
 27  Take Down
-30  Play Rough*
+30  Play Rough *
 33  Charm
 36  Last Resort
 39  Head Smash *
@@ -5837,8 +5837,8 @@ Ability 2: Vital Spirit
 32  Lava Plume
 35  Sunny Day
 38  Flamethrower
-41  Cross Chop*
-44  Flare Blitz*
+41  Cross Chop *
+44  Flare Blitz *
 47  Fire Blast
 
 #241 MILTANK
@@ -6176,7 +6176,7 @@ Ability 2: Speed Boost
 11  Fire Spin
 13  Feather Dance *
 15  Flame Charge
-17  Night Slash*
+17  Night Slash *
 19  Quick Attack
 21  Flame Burst
 23  Aerial Ace *
@@ -6240,7 +6240,7 @@ Ability 2: Speed Boost
 33  Focus Energy
 36  Blaze Kick
 37  Slash
-41  Bounce*
+41  Bounce *
 45  Flamethrower *
 49  Brave Bird
 53  Sky Uppercut
@@ -6259,7 +6259,7 @@ Ability 2: Damp
 11  Bide
 13  Rock Throw
 15  Water Pulse *
-17  Yawn*
+17  Yawn *
 19  Protect
 21  Aqua Tail *
 23  Mud Sport
@@ -6805,7 +6805,7 @@ Location: Evolve Kirlia (Lv. 30)
 19  Wish
 23  Heal Pulse
 26  Psychic
-30	Hyper Voice *
+30  Hyper Voice *
 31  Calm Mind
 35  Imprison
 40  Future Sight
@@ -7620,7 +7620,7 @@ Total       400 >> 450
 1   Wild Charge **
 1   Acrobatics *
 1   Brick Break *
-1   U-turn*
+1   U-turn *
 1   Flash
 1   Tackle
 5   Double Team
@@ -7657,7 +7657,7 @@ Total       400 >> 450
 1   Thunder *
 1   Giga Drain *
 1   Shadow Ball *
-1   U-turn*
+1   U-turn *
 1   Play Nice
 1   Tackle
 5   Sweet Scent
@@ -8121,7 +8121,7 @@ Ability 2: Water Absorb
 7   Growth
 10  Leech Seed
 13  Sand Attack
-16  Ingrain 
+16  Ingrain
 19  Feint Attack
 22  Needle Arm
 25  Payback
@@ -8170,7 +8170,7 @@ Location: Route 120, Sky Pillar
 Ability 2: Cloud Nine
 
 1   Sky Attack
-1   Outrage*
+1   Outrage *
 1   Peck
 1   Growl
 3   Astonish
@@ -8595,7 +8595,7 @@ Location: Route 119
 11  Captivate
 14  Attract
 17  Water Pulse
-20  Disarming Voice 
+20  Disarming Voice
 23  Dragon Tail
 26  Mirror Coat *
 29  Recover
@@ -8827,7 +8827,7 @@ Total       425 >> 485
 19  Cosmic Power *
 22  Extrasensory
 25  Heal Bell
-28  Wish*
+28  Wish *
 31  Uproar
 34  Safeguard
 37  Psychic *
@@ -9038,7 +9038,7 @@ Ability 2: Hydration
 34  Psychic
 39  Aqua Tail
 45  Coil
-50  Hydro Pump   
+50  Hydro Pump
 
 #369 RELICANTH
 =======================
@@ -9326,7 +9326,7 @@ Held Item: Soul Dew (100%)
 46  Zen Headbutt
 51  Guard Split
 56  Psychic
-61  Dragon Pulse  
+61  Dragon Pulse
 
 #381 LATIOS
 =======================
@@ -9352,7 +9352,7 @@ Held Item: Soul Dew (100%)
 46  Zen Headbutt
 51  Power Split
 56  Psychic
-61  Dragon Pulse  
+61  Dragon Pulse
 
 #382 KYOGRE
 =======================
@@ -9430,7 +9430,7 @@ Location: Mirage Cave
 60  Future Sight
 65  Doom Desire
 70  Cosmic Power
-75  Last Resort  
+75  Last Resort
 80  Meteor Mash *
 
 #386 DEOXYS
@@ -9696,7 +9696,7 @@ Location: Evolve Prinplup (Lv. 36)
 Ability 2: Defiant
 
 1   Flash Cannon *
-1   Hydro Pump 
+1   Hydro Pump
 1   Tackle
 1   Growl
 5   Bubble
@@ -9709,7 +9709,7 @@ Ability 2: Defiant
 26  Yawn *
 30  Fury Attack
 34  Brine
-36	Agility *
+36  Agility *
 39  Drill Peck
 44  Whirlpool
 49  Mist
@@ -10459,7 +10459,7 @@ Location: Route 120
 1   Hurricane **
 1   Phantom Force
 1   Weather Ball *
-1   Icy Wind * 
+1   Icy Wind *
 1   Constrict
 1   Minimize
 3   Astonish
@@ -10591,7 +10591,7 @@ Evolution Level: 38 >> 33
 31  Slash
 34  Sucker Punch
 37  Captivate
-40  Attract 
+40  Attract
 43  Foul Play *
 46  Hone Claws
 49  Play Rough
@@ -10652,7 +10652,7 @@ Location: Jagged Pass
 25  Acid Spray
 28  Poison Jab *
 31  Crunch *
-34	Sucker Punch *
+34  Sucker Punch *
 37  Memento
 40  Belch
 43  Explosion
@@ -10676,7 +10676,7 @@ Location: Route 120
 22  Toxic
 25  Acid Spray
 28  Poison Jab *
-31	Crunch *
+31  Crunch *
 34  Flamethrower
 35  Sucker Punch *
 39  Memento
@@ -10791,7 +10791,7 @@ HP          76 >> 80
 Defense     45 >> 55
 Sp. Attack  92 >> 110
 Sp. Defense 42 >> 55
-Speed       91 >> 110    
+Speed       91 >> 110
 Total       411 >> 475
 
 1   Boomburst *
@@ -11744,13 +11744,12 @@ Ability 2: Cursed Body
 =======================
 Location: New Mauville
 
-Rotom
-Frost Rotom
-Heat Rotom
-Mow Rotom
-Wash Rotom
+Frost Forme
+Heat Forme
+Mow Forme
+Wash Forme
 =======================
-1	Pain Split *
+1   Pain Split *
 1   Trick
 1   Astonish
 1   Thunder Wave
@@ -11774,7 +11773,7 @@ Wash Rotom
 Fan Rotom
 =======================
 1   Hurricane **
-1	Pain Split *
+1   Pain Split *
 1   Trick
 1   Astonish
 1   Thunder Wave
@@ -12119,7 +12118,7 @@ Ability 2: Contrary
 7   Wrap
 9   Growth
 11  Leaf Tornado
-13  Twister* 
+13  Twister*
 15  Leech Seed
 17  Glare *
 20  Mega Drain
@@ -12662,7 +12661,7 @@ New TM/HMs: Acrobatics
 3   Growl
 7   Quick Attack
 9   Leer
-11  Pluck*
+11  Pluck *
 13  Roost
 17  Air Cutter
 19  Facade
@@ -13122,7 +13121,7 @@ New TM/HMs: Waterfall, Dive
 Location: Route 112 North
 
 1   Ice Punch *
-1   Fire Punch* 
+1   Fire Punch *
 1   Thunder Punch *
 1   Knock Off *
 1   Bind
@@ -13622,7 +13621,7 @@ Location: Route 120
 1   Fire Punch
 1   Thunder Punch
 1   Leer
-1   Fake Out*
+1   Fake Out *
 1   Low Kick
 4   Sand Attack
 7   Feint Attack
@@ -14033,7 +14032,7 @@ Evolution Level: 32 >> 26
 
 1   Psywave
 3   Reflect
-5   Trick*
+5   Trick *
 7   Rollout
 10  Snatch
 13  Hidden Power
@@ -15178,7 +15177,7 @@ Evolution Level: 52 >> 37
 14  Dual Chop *
 18  Scary Face
 21  Metal Claw
-23  Knock Off*
+23  Knock Off *
 26  Slash
 29  Revenge *
 31  Night Slash
@@ -15210,7 +15209,7 @@ Location: Route 120
 21  Metal Claw
 23  Knock Off *
 26  Slash
-29  Revenge*
+29  Revenge *
 31  Night Slash
 33  Assurance
 38  Iron Head
@@ -15437,7 +15436,7 @@ Evolution Level: 64 >> 59
 13  Roar
 17  Zen Headbutt *
 21  Ice Fang *
-21  Thunder Fang* 
+21  Thunder Fang*
 21  Fire Fang *
 25  Crunch
 29  Slam
@@ -16453,7 +16452,7 @@ Location: Route 116
 24  Circle Throw
 27  Vital Throw
 30  Body Slam
-34  Crunch 
+34  Crunch
 38  Storm Throw *
 42  Entrainment
 46  Drain Punch *
@@ -17117,7 +17116,7 @@ Total       431 >> 465
 24  Volt Switch
 27  Rest
 27  Snore
-27  Sleep Talk*
+27  Sleep Talk *
 30  Charge Beam
 33  Play Rough
 36  Discharge

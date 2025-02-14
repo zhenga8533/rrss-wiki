@@ -146,20 +146,19 @@ def format_stat(stat: str) -> str:
     """
 
     stat = format_id(stat)
-    if stat == "health" or stat == "hp":
-        return "HP"
-    elif stat == "attack":
-        return "Atk"
-    elif stat == "defense":
-        return "Def"
-    elif stat == "special-attack":
-        return "Sp. Atk"
-    elif stat == "special-defense":
-        return "Sp. Def"
-    elif stat == "speed":
-        return "Spd"
-    else:
-        return stat
+    formats = [
+        ("health", "HP"),
+        ("hp", "HP"),
+        ("attack", "Atk"),
+        ("defense", "Def"),
+        ("special", "Sp."),
+        ("speed", "Spd"),
+    ]
+
+    for old, new in formats:
+        stat = stat.replace(old, new)
+
+    return stat
 
 
 def revert_id(id: str, symbol: str = "-") -> str:

@@ -86,8 +86,6 @@ def main():
                         md += "\n"
             # Overview table
             else:
-                if line.startswith("- "):
-                    md += "\t"
                 while i < n and not check_empty(next_line):
                     line += " " + next_line.strip("| ")
                     i += 1
