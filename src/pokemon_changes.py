@@ -10,31 +10,115 @@ from util.file import load, save
 from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
 
+stat_ids = {
+    "HP": "hp",
+    "Attack": "attack",
+    "Atk": "attack",
+    "Defense": "defense",
+    "Def": "defense",
+    "Sp. Attack": "special-attack",
+    "Sp. Atk": "special-attack",
+    "Sp. Defense": "special-defense",
+    "Sp. Def": "special-defense",
+    "Speed": "speed",
+    "Spd": "speed",
+    "Total": "total",
+}
 
-def change_attribute(attribute: str, change: str, logger: Logger) -> str:
-    pass
+
+def replace_move(move_changes: str, learn_method: str, data: dict) -> None:
+    for move in move_changes.split(", "):
+        move_id = format_id(move)
+        moves = data["moves"]["omega-ruby-alpha-sapphire"]
+        move_index = next(
+            (i for i, m in enumerate(moves) if m["name"] == move_id and m["learn_method"] == learn_method), None
+        )
+
+        learn_data = {"name": move_id, "level_learned_at": 0, "learn_method": learn_method}
+        if move_index is None:
+            moves.append(learn_data)
+        else:
+            moves[move_index] = learn_data
 
 
-def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data: Data, logger: Logger) -> str:
+def change_attribute(attribute: str, change: str, pokemon: str, pokemon_data: Data) -> str:
+    data = pokemon_data.get_data(pokemon)
+
+    # Pokemon location/obtainment method
+    if attribute == "Location":
+        data["locations"] = change.split(", ")
+    # Pokemon held item changes
+    elif attribute == "Held Item":
+        for item in change.split(", "):
+            item, chance = item.rsplit(" ", 1)
+            item_id = format_id(item)
+            held_items = data["held_items"]
+
+            held_items[item_id] = held_items.get(item_id, {})
+            held_items[item_id]["omega-ruby"] = int(chance[1:-2])
+            held_items[item_id]["alpha-sapphire"] = int(chance[1:-2])
+    # Pokemon type changes
+    elif attribute == "Type":
+        old_type, new_type = change.split(" >> ")
+        types = new_type.split("/")
+        data["types"] = [format_id(t) for t in types]
+    # Pokemon EV yield changes
+    elif attribute == "Effort Values":
+        evs = change.split(" >> ")[1].split(", ")
+
+        for ev in evs:
+            num, stat = ev.split(" ", 1)
+            stat = stat_ids[stat]
+            data["ev_yield"][stat] = int(num)
+    # Pokemon ability changes
+    elif attribute == "Base Happiness":
+        happiness = int(change.split(" >> ")[1])
+        data["base_happiness"] = happiness
+    # Pokemon capture rate changes
+    elif attribute == "Catch Rate":
+        catch_rate = int(change.split(" >> ")[1])
+        data["capture_rate"] = catch_rate
+    # Pokemon ability changes
+    elif attribute.startswith("Ability"):
+        slot = int(attribute[-1])
+        ability = change.split(" >> ")[1] if " >> " in change else change
+        ability_data = {
+            "name": format_id(ability),
+            "hidden": slot == 3,
+            "slot": slot,
+        }
+
+        # Replace the ability or add it to the list
+        abilities = data["abilities"]
+        ability_index = next((i for i, a in enumerate(abilities) if a["slot"] == slot), None)
+        if ability_index is not None:
+            abilities[ability_index] = ability_data
+        else:
+            abilities.append(ability_data)
+    # Pokemon move changes
+    elif attribute == "New TM/HMs":
+        replace_move(change, "machine", data)
+    elif attribute == "Move Tutor":
+        replace_move(change, "tutor", data)
+    # Skip evolution (parsed from seperate file)
+    elif attribute.startswith("Evolution"):
+        pass
+
+    return f"**{attribute}**: {change}\n\n"
+
+
+def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data: Data) -> str:
     table = ""
     data = pokemon_data.get_data(pokemon)
 
     ## Stat changes
     if " >> " in changes[-1]:
+        table += "**Base Stat Changes:**\n\n"
         table += "| Stat | Base | Change |\n"
         table += "| ---- | ---- | ------ |\n"
 
         # Stat formatting constants
         pattern = r"([A-Z. a-z]+)([0-9]+) >> ([0-9]+)"
-        stat_ids = {
-            "HP": "hp",
-            "Attack": "attack",
-            "Defense": "defense",
-            "Sp. Attack": "special-attack",
-            "Sp. Defense": "special-defense",
-            "Speed": "speed",
-            "Total": "total",
-        }
 
         for change in changes:
             # Format the stat data
@@ -47,6 +131,7 @@ def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data
             data["stats"][stat_id] = int(change)
     # Level up move changes
     else:
+        table += "**Level Up Moves:**\n\n"
         table += "| Moves | Level |     | Cont. | Level |\n"
         table += "| ----- | ----- | --- | ----- | ----- |\n"
 
@@ -152,7 +237,7 @@ def main():
         # Skip empty lines
         if check_empty(line):
             if len(changes) > 0:
-                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, move_data, logger)
+                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, move_data)
                 md += "\n"
         # Table lines
         elif line.startswith("| "):
@@ -202,7 +287,7 @@ def main():
         # Pokemon attribute changes
         elif ": " in line:
             attribute, change = line.split(": ")
-            md += f"**{attribute}:** {change}\n\n"
+            md += change_attribute(attribute, change, curr_pokemon + curr_form, pokemon_data)
         # Header lines
         elif line == "## Changes":
             save(OUTPUT_PATH + "pokemon_changes/overview.md", md, logger)

@@ -116,6 +116,7 @@ def fix_pokemon_form(form: str) -> str:
         "keldeo": "keldeo-ordinary",
         "meloetta": "meloetta-aria",
         "aegislash": "aegislash-shield",
+        "meowstic": "meowstic-male",
         "zygarde": "zygarde-50",
     }
 
@@ -197,6 +198,7 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
         "palkia-origin",
         "scatterbug-",
         "spewpa-",
+        "battle-bond",
     ]
 
     # Validate if the Pokemon has a form

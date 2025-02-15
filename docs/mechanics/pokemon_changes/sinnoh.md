@@ -6,9 +6,11 @@
 
 ![Turtwig](../../assets/sprites/turtwig/front.gif "Turtwig: It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Ability 2:** Shell Armor
+**Ability 2**: Shell Armor
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -27,9 +29,11 @@
 
 ![Grotle](../../assets/sprites/grotle/front.gif "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.")
 
-**Location:** Evolve Turtwig (Lv. 18)
+**Location**: Evolve Turtwig (Lv. 18)
 
-**Ability 2:** Shell Armor
+**Ability 2**: Shell Armor
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -48,9 +52,11 @@
 
 ![Torterra](../../assets/sprites/torterra/front.gif "Torterra: Small Pokémon occasionally gather on its unmoving back to begin building their nests.")
 
-**Location:** Evolve Grotle (Lv. 32)
+**Location**: Evolve Grotle (Lv. 32)
 
-**Ability 2:** Shell Armor
+**Ability 2**: Shell Armor
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -71,9 +77,11 @@
 
 ![Chimchar](../../assets/sprites/chimchar/front.gif "Chimchar: The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.")
 
-**Location:** Rusturf Tunnel
+**Location**: Rusturf Tunnel
 
-**Ability 2:** Iron Fist
+**Ability 2**: Iron Fist
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -92,9 +100,11 @@
 
 ![Monferno](../../assets/sprites/monferno/front.gif "Monferno: It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.")
 
-**Location:** Evolve Chimchar (Lv. 14)
+**Location**: Evolve Chimchar (Lv. 14)
 
-**Ability 2:** Iron Fist
+**Ability 2**: Iron Fist
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -114,9 +124,11 @@
 
 ![Infernape](../../assets/sprites/infernape/front.gif "Infernape: It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.")
 
-**ocation:** Evolve Monferno (Lv. 36)
+**Location**: Evolve Monferno (Lv. 36)
 
-**Ability 2:** Iron Fist
+**Ability 2**: Iron Fist
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -137,9 +149,11 @@
 
 ![Piplup](../../assets/sprites/piplup/front.gif "Piplup: Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.")
 
-**Location:** Route 103
+**Location**: Route 103
 
-**Ability 2:** Defiant
+**Ability 2**: Defiant
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -158,9 +172,11 @@
 
 ![Prinplup](../../assets/sprites/prinplup/front.gif "Prinplup: It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.")
 
-**Location:** Evolve Piplup (Lv. 16)
+**Location**: Evolve Piplup (Lv. 16)
 
-**Ability 2:** Defiant
+**Ability 2**: Defiant
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -180,9 +196,11 @@
 
 ![Empoleon](../../assets/sprites/empoleon/front.gif "Empoleon: The three horns that extend from its beak attest to its power. The leader has the biggest horns.")
 
-**Location:** Evolve Prinplup (Lv. 36)
+**Location**: Evolve Prinplup (Lv. 36)
 
-**Ability 2:** Defiant
+**Ability 2**: Defiant
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -204,9 +222,11 @@
 
 ![Starly](../../assets/sprites/starly/front.gif "Starly: They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.")
 
-**Location:** Route 101
+**Location**: Route 101
 
-**Ability 2:** Reckless
+**Ability 2**: Reckless
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -224,9 +244,11 @@
 
 ![Staravia](../../assets/sprites/staravia/front.gif "Staravia: It lives in forests and fields. Squabbles over territory occur when flocks collide.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
 
-**Ability 2:** Reckless
+**Ability 2**: Reckless
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -244,9 +266,11 @@
 
 ![Staraptor](../../assets/sprites/staraptor/front.gif "Staraptor: When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.")
 
-**Location:** Soaring in the Sky
+**Location**: Soaring in the Sky
 
-**Ability 2:** Reckless
+**Ability 2**: Reckless
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -265,7 +289,9 @@
 
 ![Bidoof](../../assets/sprites/bidoof/front.gif "Bidoof: It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.")
 
-**Location:** Route 101
+**Location**: Route 101
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -283,7 +309,9 @@
 
 ![Bibarel](../../assets/sprites/bibarel/front.gif "Bibarel: It makes its nest by damming streams with bark and mud. It is known as an industrious worker.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -292,6 +320,8 @@
 | Defense | 60 | 65 |
 | Speed | 71 | 75 |
 | Total | 410 | 435 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -311,9 +341,11 @@
 
 ![Kricketot](../../assets/sprites/kricketot/front.gif "Kricketot: When its antennae hit each other, it sounds like the music of a xylophone.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Ability 2:** Run Away
+**Ability 2**: Run Away
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -327,9 +359,11 @@
 
 ![Kricketune](../../assets/sprites/kricketune/front.gif "Kricketune: It signals its emotions with its melodies. Scientists are studying these melodic patterns.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
 
-**Ability 2:** Technician
+**Ability 2**: Technician
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -338,6 +372,8 @@
 | Defense | 51 | 65 |
 | Sp. Defense | 51 | 65 |
 | Total | 384 | 440 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -356,7 +392,9 @@
 
 ![Shinx](../../assets/sprites/shinx/front.gif "Shinx: All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.")
 
-**Location:** Route 116
+**Location**: Route 116
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -376,7 +414,9 @@
 
 ![Luxio](../../assets/sprites/luxio/front.gif "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.")
 
-**Location:** Route 118
+**Location**: Route 118
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -396,11 +436,13 @@
 
 ![Luxray](../../assets/sprites/luxray/front.gif "Luxray: Luxray’s ability to see through objects comes in handy when it’s scouting for danger.")
 
-**Location:** Evolve Luxio (Lv. 30)
+**Location**: Evolve Luxio (Lv. 30)
 
-**New TM/HMs:** Payback, Dark Pulse
+**New TM/HMs**: Payback, Dark Pulse
 
-**Type:** Electric >> Electric/Dark
+**Type**: Electric >> Electric/Dark
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -423,9 +465,11 @@
 
 ![Budew](../../assets/sprites/budew/front.gif "Budew: Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Base Happiness:** 70 >> 200
+**Base Happiness**: 70 >> 200
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -439,7 +483,9 @@
 
 ![Roserade](../../assets/sprites/roserade/front.gif "Roserade: With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.")
 
-**Location:** Evolve Roselia (Shiny Stone)
+**Location**: Evolve Roselia (Shiny Stone)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -455,9 +501,11 @@
 
 ![Cranidos](../../assets/sprites/cranidos/front.gif "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts.")
 
-**Location:** Seafloor Cavern, Revive Skull Fossil
+**Location**: Seafloor Cavern, Revive Skull Fossil
 
-**Ability 2:** Sheer Force
+**Ability 2**: Sheer Force
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -476,9 +524,11 @@
 
 ![Rampardos](../../assets/sprites/rampardos/front.gif "Rampardos: Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.")
 
-**Location:** Seafloor Cavern
+**Location**: Seafloor Cavern
 
-**Ability 2:** Sheer Force
+**Ability 2**: Sheer Force
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -499,9 +549,11 @@
 
 ![Shieldon](../../assets/sprites/shieldon/front.gif "Shieldon: It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.")
 
-**Location:** Seafloor Cavern, Revive Armor Fossil
+**Location**: Seafloor Cavern, Revive Armor Fossil
 
-**Ability 2:** Soundproof
+**Ability 2**: Soundproof
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -520,9 +572,11 @@
 
 ![Bastiodon](../../assets/sprites/bastiodon/front.gif "Bastiodon: Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.")
 
-**Location:** Seafloor Cavern
+**Location**: Seafloor Cavern
 
-**Ability 2:** Soundproof
+**Ability 2**: Soundproof
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -542,9 +596,11 @@
 
 ![Burmy](../../assets/sprites/burmy/front.gif "Burmy: If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Ability 2:** Overcoat
+**Ability 2**: Overcoat
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -558,13 +614,15 @@
 
 ![Wormadam](../../assets/sprites/wormadam-plant/front.gif "Wormadam: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
 
-**Ability 2:** Overcoat
+**Ability 2**: Overcoat
 
 ### Plant Forme
 
 ![Wormadam-plant](../../assets/sprites/wormadam-plant/front.gif "Wormadam-plant: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -575,6 +633,8 @@
 | Sp. Defense | 105 | 110 |
 | Speed | 36 | 30 |
 | Total | 424 | 460 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -592,6 +652,8 @@
 
 ![Wormadam-sandy](../../assets/sprites/wormadam-sandy/front.gif "Wormadam-sandy: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
+**Base Stat Changes:**
+
 | Stat | Base | Change |
 | ---- | ---- | ------ |
 | HP | 60 | 80 |
@@ -601,6 +663,8 @@
 | Sp. Defense | 85 | 100 |
 | Speed | 36 | 30 |
 | Total | 424 | 460 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -618,6 +682,8 @@
 
 ![Wormadam-trash](../../assets/sprites/wormadam-trash/front.gif "Wormadam-trash: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
+**Base Stat Changes:**
+
 | Stat | Base | Change |
 | ---- | ---- | ------ |
 | HP | 60 | 80 |
@@ -627,6 +693,8 @@
 | Sp. Defense | 95 | 105 |
 | Speed | 36 | 30 |
 | Total | 424 | 460 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -646,11 +714,13 @@
 
 ![Mothim](../../assets/sprites/mothim/front.gif "Mothim: It flutters around at night and steals honey from the Combee hive.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
 
-**Ability 2:** Tinted Lens
+**Ability 2**: Tinted Lens
 
-**New TM/HMs:** Fly
+**New TM/HMs**: Fly
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -659,6 +729,8 @@
 | Sp. Attack | 94 | 100 |
 | Speed | 66 | 80 |
 | Total | 424 | 460 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -679,9 +751,11 @@
 
 ![Combee](../../assets/sprites/combee/front.gif "Combee: It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Ability 2:** Hustle
+**Ability 2**: Hustle
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -695,11 +769,13 @@
 
 ![Vespiquen](../../assets/sprites/vespiquen/front.gif "Vespiquen: Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Ability 2:** Unnerve
+**Ability 2**: Unnerve
 
-**New TM/HMs:** Fly
+**New TM/HMs**: Fly
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -721,9 +797,11 @@
 
 ![Pachirisu](../../assets/sprites/pachirisu/front.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.")
 
-**Location:** Route 118
+**Location**: Route 118
 
-**Ability 1:** Adaptability **
+**Ability 1**: Adaptability **
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -732,6 +810,8 @@
 | Defense | 70 | 90 |
 | Sp. Attack | 45 | 60 |
 | Total | 405 | 465 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -753,9 +833,11 @@
 
 ![Buizel](../../assets/sprites/buizel/front.gif "Buizel: It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.")
 
-**Location:** Route 103, Route 120, Scorched Slab
+**Location**: Route 103, Route 120, Scorched Slab
 
-**Ability 2:** Water Veil
+**Ability 2**: Water Veil
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -774,9 +856,11 @@
 
 ![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.")
 
-**Location:** Route 103, Route 120, Scorched Slab, Victory Road
+**Location**: Route 103, Route 120, Scorched Slab, Victory Road
 
-**Ability 2:** Water Veil
+**Ability 2**: Water Veil
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -796,7 +880,9 @@
 
 ![Cherubi](../../assets/sprites/cherubi/front.gif "Cherubi: It evolves by sucking the energy out of the small ball where it had been storing nutrients.")
 
-**Location:** Route 117
+**Location**: Route 117
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -815,11 +901,13 @@
 
 ![Cherrim](../../assets/sprites/cherrim/front.gif "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
-**Location:** Evolve Cherubi (Lv. 25)
+**Location**: Evolve Cherubi (Lv. 25)
 
 ### Normal Forme
 
 
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -831,6 +919,8 @@
 
 ![Cherrim-sunshine](../../assets/sprites/cherrim-sunshine/front.gif "Cherrim-sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
+**Base Stat Changes:**
+
 | Stat | Base | Change |
 | ---- | ---- | ------ |
 | Defense | 70 | 80 |
@@ -838,6 +928,8 @@
 | Sp. Defense | 78 | 110 |
 | Speed | 85 | 115 |
 | Total | 450 | 555 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -857,7 +949,9 @@
 
 ![Shellos](../../assets/sprites/shellos/front.gif "Shellos: Its shape and coloration vary, depending on its habitat.")
 
-**Location:** Route 103
+**Location**: Route 103
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -875,7 +969,9 @@
 
 ![Gastrodon](../../assets/sprites/gastrodon/front.gif "Gastrodon: It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -893,7 +989,9 @@
 
 ![Ambipom](../../assets/sprites/ambipom/front.gif "Ambipom: To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -915,7 +1013,9 @@
 
 ![Drifloon](../../assets/sprites/drifloon/front.gif "Drifloon: These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.")
 
-**Location:** Route 110
+**Location**: Route 110
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -936,7 +1036,9 @@
 
 ![Drifblim](../../assets/sprites/drifblim/front.gif "Drifblim: It’s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.")
 
-**Location:** Route 120
+**Location**: Route 120
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -960,9 +1062,11 @@
 
 ![Buneary](../../assets/sprites/buneary/front.gif "Buneary: When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.")
 
-**Location:** Route 104 North
+**Location**: Route 104 North
 
-**Base Happiness:** 0 >> 140
+**Base Happiness**: 0 >> 140
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -982,7 +1086,9 @@
 
 ![Lopunny](../../assets/sprites/lopunny/front.gif "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.")
 
-**Location:** Evolve Buneary (Happiness)
+**Location**: Evolve Buneary (Happiness)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1006,9 +1112,11 @@
 
 ![Mismagius](../../assets/sprites/mismagius/front.gif "Mismagius: Its cries sound like incantations to torment the foe. It appears where you least expect it.")
 
-**Location:** Mt. Pyre
+**Location**: Mt. Pyre
 
-**Type:** Ghost >> Ghost/Fairy
+**Type**: Ghost >> Ghost/Fairy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1025,7 +1133,9 @@
 
 ![Honchkrow](../../assets/sprites/honchkrow/front.gif "Honchkrow: Becoming active at night, it is known to swarm with numerous Murkrow in tow.")
 
-**Location:** Soaring in the Sky
+**Location**: Soaring in the Sky
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1043,9 +1153,11 @@
 
 ![Glameow](../../assets/sprites/glameow/front.png "Glameow: When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.")
 
-**Location:** Jagged Pass
+**Location**: Jagged Pass
 
-**Evolution Level:** 38 >> 33
+**Evolution Level**: 38 >> 33
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1065,7 +1177,9 @@
 
 ![Purugly](../../assets/sprites/purugly/front.gif "Purugly: To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.")
 
-**Location:** Route 120
+**Location**: Route 120
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1086,9 +1200,11 @@
 
 ![Chingling](../../assets/sprites/chingling/front.gif "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.")
 
-**Location:** Mt. Pyre
+**Location**: Mt. Pyre
 
-**Base Happiness:** 70 >> 200
+**Base Happiness**: 70 >> 200
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1103,7 +1219,9 @@
 
 ![Stunky](../../assets/sprites/stunky/front.gif "Stunky: It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.")
 
-**Location:** Jagged Pass
+**Location**: Jagged Pass
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1123,7 +1241,9 @@
 
 ![Skuntank](../../assets/sprites/skuntank/front.gif "Skuntank: It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.")
 
-**Location:** Route 120
+**Location**: Route 120
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1145,7 +1265,9 @@
 
 ![Bronzor](../../assets/sprites/bronzor/front.gif "Bronzor: Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.")
 
-**Location:** Route 113, Mt. Pyre
+**Location**: Route 113, Mt. Pyre
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1164,9 +1286,11 @@
 
 ![Bronzong](../../assets/sprites/bronzong/front.gif "Bronzong: Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.")
 
-**Location:** Mt. Pyre
+**Location**: Mt. Pyre
 
-**New TM/HMs:** Fly
+**New TM/HMs**: Fly
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1187,7 +1311,9 @@
 
 ![Bonsly](../../assets/sprites/bonsly/front.gif "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.")
 
-**Location:** Route 117
+**Location**: Route 117
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1205,7 +1331,9 @@
 
 ![Mime Jr.](../../assets/sprites/mime-jr/front.png "Mime Jr.: It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.")
 
-**Location:** Route 117
+**Location**: Route 117
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1225,7 +1353,9 @@
 
 ![Happiny](../../assets/sprites/happiny/front.gif "Happiny: It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.")
 
-**Location:** Route 114
+**Location**: Route 114
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1239,11 +1369,13 @@
 
 ![Chatot](../../assets/sprites/chatot/front.gif "Chatot: It can learn and speak human words. If they gather, they all learn the same saying.")
 
-**Location:** Route 118
+**Location**: Route 118
 
-**Ability 1:** Gale Wings **
+**Ability 1**: Gale Wings **
 
-**Effort Values:** 1 Atk >> 1 Sp. Atk, 1 Spd
+**Effort Values**: 1 Atk >> 1 Sp. Atk, 1 Spd
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -1253,6 +1385,8 @@
 | Sp. Defense | 42 | 55 |
 | Speed | 91 | 110 |
 | Total | 411 | 475 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1275,9 +1409,11 @@
 
 ![Spiritomb](../../assets/sprites/spiritomb/front.gif "Spiritomb: It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.")
 
-**Location:** Sea Mauville, Sky Pillar
+**Location**: Sea Mauville, Sky Pillar
 
-**Ability 2:** Infiltrator
+**Ability 2**: Infiltrator
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1295,11 +1431,13 @@
 
 ![Gible](../../assets/sprites/gible/front.gif "Gible: It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.")
 
-**Location:** Route 111
+**Location**: Route 111
 
-**Ability 2:** Rough Skin
+**Ability 2**: Rough Skin
 
-**Held Item:** Skull Fossil (50%)
+**Held Item**: Skull Fossil (50%)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1317,9 +1455,11 @@
 
 ![Gabite](../../assets/sprites/gabite/front.gif "Gabite: As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.")
 
-**Location:** Victory Road
+**Location**: Victory Road
 
-**Ability 2:** Rough Skin
+**Ability 2**: Rough Skin
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1337,9 +1477,11 @@
 
 ![Garchomp](../../assets/sprites/garchomp/front.gif "Garchomp: It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.")
 
-**Location:** Evolve Gabite (Lv. 48)
+**Location**: Evolve Gabite (Lv. 48)
 
-**Ability 2:** Rough Skin
+**Ability 2**: Rough Skin
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1358,7 +1500,9 @@
 
 ![Munchlax](../../assets/sprites/munchlax/front.gif "Munchlax: It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.")
 
-**Location:** Route 113
+**Location**: Route 113
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1380,7 +1524,9 @@
 
 ![Riolu](../../assets/sprites/riolu/front.gif "Riolu: The aura that emanates from its body intensifies to alert others if it is afraid or sad.")
 
-**Location:** Route 103
+**Location**: Route 103
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1398,7 +1544,9 @@
 
 ![Lucario](../../assets/sprites/lucario/front.gif "Lucario: By reading the auras of all things, it can tell how others are feeling from over half a mile away.")
 
-**Location:** Evolve Riolu (Happiness @ Day)
+**Location**: Evolve Riolu (Happiness @ Day)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1421,11 +1569,13 @@
 
 ![Hippopotas](../../assets/sprites/hippopotas/front.gif "Hippopotas: It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.")
 
-**Location:** Route 111
+**Location**: Route 111
 
-**Ability 2:** Sand Force
+**Ability 2**: Sand Force
 
-**Held Item:** Armor Fossil (50%)
+**Held Item**: Armor Fossil (50%)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1444,9 +1594,11 @@
 
 ![Hippowdon](../../assets/sprites/hippowdon/front.gif "Hippowdon: It blasts internally stored sand from ports on its body to create a towering twister for attack.")
 
-**Location:** Evolve Hippopotas (Lv. 34)
+**Location**: Evolve Hippopotas (Lv. 34)
 
-**Ability 2:** Sand Force
+**Ability 2**: Sand Force
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1467,9 +1619,11 @@
 
 ![Skorupi](../../assets/sprites/skorupi/front.gif "Skorupi: It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.")
 
-**Location:** Route 114
+**Location**: Route 114
 
-**Evolution Level:** 40 >> 37
+**Evolution Level**: 40 >> 37
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1490,7 +1644,9 @@
 
 ![Drapion](../../assets/sprites/drapion/front.gif "Drapion: It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.")
 
-**Location:** Route 119
+**Location**: Route 119
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1513,9 +1669,11 @@
 
 ![Croagunk](../../assets/sprites/croagunk/front.gif "Croagunk: Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.")
 
-**Location:** Jagged Pass, Safari Zone
+**Location**: Jagged Pass, Safari Zone
 
-**Evolution Level:** 37 >> 35
+**Evolution Level**: 37 >> 35
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1536,7 +1694,9 @@
 
 ![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak: Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.")
 
-**Location:** Safari Zone
+**Location**: Safari Zone
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1559,7 +1719,9 @@
 
 ![Carnivine](../../assets/sprites/carnivine/front.gif "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.")
 
-**Location:** Route 119
+**Location**: Route 119
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1579,7 +1741,9 @@
 
 ![Finneon](../../assets/sprites/finneon/front.gif "Finneon: After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.")
 
-**Location:** Route 108, Route 109, Route 122, Safari Zone
+**Location**: Route 108, Route 109, Route 122, Safari Zone
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1598,7 +1762,9 @@
 
 ![Lumineon](../../assets/sprites/lumineon/front.gif "Lumineon: To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.")
 
-**Location:** Route 108, Route 109, Route 122, Safari Zone
+**Location**: Route 108, Route 109, Route 122, Safari Zone
+
+**Base Stat Changes:**
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
@@ -1609,6 +1775,8 @@
 | Sp. Defense | 86 | 90 |
 | Speed | 91 | 95 |
 | Total | 460 | 505 |
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1630,7 +1798,9 @@
 
 ![Mantyke](../../assets/sprites/mantyke/front.gif "Mantyke: When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back.")
 
-**Location:** Route 108, Route 124
+**Location**: Route 108, Route 124
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1649,9 +1819,11 @@
 
 ![Snover](../../assets/sprites/snover/front.gif "Snover: In the spring, it grows berries with the texture of frozen treats around its belly.")
 
-**Location:** Shoal Cave
+**Location**: Shoal Cave
 
-**Ability 2:** Soundproof
+**Ability 2**: Soundproof
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1670,7 +1842,9 @@
 
 ![Abomasnow](../../assets/sprites/abomasnow/front.gif "Abomasnow: It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.")
 
-**Ability 2:** Soundproof
+**Ability 2**: Soundproof
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1689,11 +1863,13 @@
 
 ![Weavile](../../assets/sprites/weavile/front.gif "Weavile: They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.")
 
-**Location:** Shoal Cave
+**Location**: Shoal Cave
 
-**Ability 2:** Technician **
+**Ability 2**: Technician **
 
-**Held Items:** Grip Claw (50%), Quick Claw (5%)
+**Held Item**: Grip Claw (50%), Quick Claw (5%)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1716,7 +1892,9 @@
 
 ![Magnezone](../../assets/sprites/magnezone/front.gif "Magnezone: It evolved from exposure to a special magnetic field. Three units generate magnetism.")
 
-**Location:** Evolve Magneton (New Mauville)
+**Location**: Evolve Magneton (New Mauville)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1738,7 +1916,9 @@
 
 ![Lickilicky](../../assets/sprites/lickilicky/front.gif "Lickilicky: Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.")
 
-**Location:** Route 114
+**Location**: Route 114
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1759,7 +1939,9 @@
 
 ![Rhyperior](../../assets/sprites/rhyperior/front.gif "Rhyperior: It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.")
 
-**Location:** Evolve Rhydon (Protector)
+**Location**: Evolve Rhydon (Protector)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1782,7 +1964,9 @@
 
 ![Tangrowth](../../assets/sprites/tangrowth/front.gif "Tangrowth: Its vines grow so profusely that, in the warm season, you can’t even see its eyes.")
 
-**Location:** Evolve Tangela (Level w/Ancient Power)
+**Location**: Evolve Tangela (Level w/Ancient Power)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1804,11 +1988,13 @@
 
 ![Electivire](../../assets/sprites/electivire/front.gif "Electivire: It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.")
 
-**Location:** Evolve Electabuzz (Electirizer)
+**Location**: Evolve Electabuzz (Electirizer)
 
-**Ability 2:** Vital Spirit
+**Ability 2**: Vital Spirit
 
-**Type:** Electric >> Electric/Fighting
+**Type**: Electric >> Electric/Fighting
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1832,9 +2018,11 @@
 
 ![Magmortar](../../assets/sprites/magmortar/front.gif "Magmortar: It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.")
 
-**Location:** Evolve Magmar (Magmarizer)
+**Location**: Evolve Magmar (Magmarizer)
 
-**Ability 2:** Vital Spirit
+**Ability 2**: Vital Spirit
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1855,7 +2043,9 @@
 
 ![Togekiss](../../assets/sprites/togekiss/front.gif "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.")
 
-**Location:** Soaring in the Sky
+**Location**: Soaring in the Sky
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1869,9 +2059,11 @@
 
 ![Yanmega](../../assets/sprites/yanmega/front.gif "Yanmega: This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.")
 
-**Location:** Route 115
+**Location**: Route 115
 
-**New TM/HMs:** Fly
+**New TM/HMs**: Fly
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1894,9 +2086,11 @@
 
 ![Leafeon](../../assets/sprites/leafeon/front.gif "Leafeon: Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.")
 
-**Location:** Evolve Eevee (Petalburg Woods)
+**Location**: Evolve Eevee (Petalburg Woods)
 
-**Ability 2:** Chlorophyll
+**Ability 2**: Chlorophyll
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1915,9 +2109,11 @@
 
 ![Glaceon](../../assets/sprites/glaceon/front.gif "Glaceon: It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.")
 
-**Location:** Evolve Eevee (Shoal Cave)
+**Location**: Evolve Eevee (Shoal Cave)
 
-**Ability 2:** Ice Body
+**Ability 2**: Ice Body
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1936,9 +2132,11 @@
 
 ![Gliscor](../../assets/sprites/gliscor/front.gif "Gliscor: Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.")
 
-**Location:** Evolve Gligar (Razor Fang + Level Up @ Night)
+**Location**: Evolve Gligar (Razor Fang + Level Up @ Night)
 
-**New TM/HMs:** Fly
+**New TM/HMs**: Fly
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1960,7 +2158,9 @@
 
 ![Mamoswine](../../assets/sprites/mamoswine/front.gif "Mamoswine: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.")
 
-**Location:** Evolve Piloswine (Level w/Ancient Power)
+**Location**: Evolve Piloswine (Level w/Ancient Power)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -1983,7 +2183,9 @@
 
 ![Porygon-Z](../../assets/sprites/porygon-z/front.gif "Porygon-Z: Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...")
 
-**Location:** Evolve Porygon2 (Dubious Disc)
+**Location**: Evolve Porygon2 (Dubious Disc)
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2004,9 +2206,11 @@
 
 ![Gallade](../../assets/sprites/gallade/front.gif "Gallade: A master of courtesy and swordsmanship, it fights using extending swords on its elbows.")
 
-**Location:** Evolve Kirlia (Dawn Stone ♂)
+**Location**: Evolve Kirlia (Dawn Stone ♂)
 
-**Ability 2:** Justified
+**Ability 2**: Justified
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2029,7 +2233,9 @@
 
 ![Probopass](../../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.")
 
-**Location:** Granite Cave
+**Location**: Granite Cave
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2050,9 +2256,11 @@
 
 ![Dusknoir](../../assets/sprites/dusknoir/front.gif "Dusknoir: The antenna on its head captures radio waves from the world of spirits that command it to take people there.")
 
-**Location:** Evolve Dusclops (Reaper Cloth)
+**Location**: Evolve Dusclops (Reaper Cloth)
 
-**Ability 2:** Frisk
+**Ability 2**: Frisk
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2076,9 +2284,11 @@
 
 ![Froslass](../../assets/sprites/froslass/front.gif "Froslass: Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.")
 
-**Location:** Shoal Cave
+**Location**: Shoal Cave
 
-**Ability 2:** Cursed Body
+**Ability 2**: Cursed Body
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2098,11 +2308,13 @@
 
 ![Rotom](../../assets/sprites/rotom/front.gif "Rotom: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
-**Location:** New Mauville
+**Location**: New Mauville
 
 ### Frost Forme, Heat Forme, Mow Forme, Wash Forme
 
 ![Rotom-frost](../../assets/sprites/rotom-frost/front.gif "Rotom-frost: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-heat](../../assets/sprites/rotom-heat/front.gif "Rotom-heat: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-mow](../../assets/sprites/rotom-mow/front.gif "Rotom-mow: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-wash](../../assets/sprites/rotom-wash/front.gif "Rotom-wash: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2120,6 +2332,8 @@
 ### Fan Forme
 
 ![Rotom-fan](../../assets/sprites/rotom-fan/front.gif "Rotom-fan: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2141,9 +2355,11 @@
 
 ![Uxie](../../assets/sprites/uxie/front.gif "Uxie: It is said that its emergence gave humans the intelligence to improve their quality of life.")
 
-**Location:** Nameless Cavern, Mirage Cave
+**Location**: Nameless Cavern, Mirage Cave
 
-**Type:** Psychic >> Psychic/Fairy
+**Type**: Psychic >> Psychic/Fairy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2162,9 +2378,11 @@
 
 ![Mesprit](../../assets/sprites/mesprit/front.gif "Mesprit: It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.")
 
-**Location:** Nameless Cavern, Mirage Cave
+**Location**: Nameless Cavern, Mirage Cave
 
-**Type:** Psychic >> Psychic/Fairy
+**Type**: Psychic >> Psychic/Fairy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2183,9 +2401,11 @@
 
 ![Azelf](../../assets/sprites/azelf/front.gif "Azelf: It is thought that Uxie, Mesprit, and Azelf all came from the same egg.")
 
-**Location:** Nameless Cavern, Mirage Cave
+**Location**: Nameless Cavern, Mirage Cave
 
-**Type:** Psychic >> Psychic/Fairy
+**Type**: Psychic >> Psychic/Fairy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2204,9 +2424,11 @@
 
 ![Dialga](../../assets/sprites/dialga/front.gif "Dialga: It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.")
 
-**Location:** Soaring in the Sky, Mirage Mountain
+**Location**: Soaring in the Sky, Mirage Mountain
 
-**Ability 2:** Telepathy
+**Ability 2**: Telepathy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2224,11 +2446,13 @@
 
 ![Palkia](../../assets/sprites/palkia/front.gif "Palkia: It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.")
 
-**Location:** Soaring in the Sky, Mirage Mountain
+**Location**: Soaring in the Sky, Mirage Mountain
 
-**Ability 2:** Telepathy
+**Ability 2**: Telepathy
 
-**New TM/HMs:** Waterfall
+**New TM/HMs**: Waterfall
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2246,9 +2470,11 @@
 
 ![Heatran](../../assets/sprites/heatran/front.gif "Heatran: Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.")
 
-**Location:** Scorched Slab
+**Location**: Scorched Slab
 
-**Ability 2:** Flame Body
+**Ability 2**: Flame Body
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2266,7 +2492,9 @@
 
 ![Regigigas](../../assets/sprites/regigigas/front.gif "Regigigas: There is an enduring legend that states this Pokémon towed continents with ropes.")
 
-**Location:** Route 105
+**Location**: Route 105
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2284,9 +2512,11 @@
 
 ![Giratina](../../assets/sprites/giratina-altered/front.gif "Giratina: It was banished for its violence. It silently gazed upon the old world from the Distortion World.")
 
-**Location:** Soaring in the Sky
+**Location**: Soaring in the Sky
 
-**Ability 2:** Telepathy
+**Ability 2**: Telepathy
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2304,7 +2534,9 @@
 
 ![Cresselia](../../assets/sprites/cresselia/front.gif "Cresselia: Those who sleep holding Cresselia’s feather are assured of joyful dreams. It is said to represent the crescent moon.")
 
-**Location:** Crescent Isle, Mirage Island
+**Location**: Crescent Isle, Mirage Island
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2322,7 +2554,9 @@
 
 ![Phione](../../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.")
 
-**Location:** Slateport City, Route 132, Route 133, Route 134
+**Location**: Slateport City, Route 132, Route 133, Route 134
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2339,7 +2573,9 @@
 
 ![Manaphy](../../assets/sprites/manaphy/front.gif "Manaphy: It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.")
 
-**Location:** Mirage Island
+**Location**: Mirage Island
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2357,7 +2593,9 @@
 
 ![Darkrai](../../assets/sprites/darkrai/front.gif "Darkrai: It can lull people to sleep and make them dream. It is active during nights of the new moon.")
 
-**Location:** Mirage Island
+**Location**: Mirage Island
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2374,7 +2612,9 @@
 
 ![Shaymin](../../assets/sprites/shaymin-land/front.gif "Shaymin: The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.")
 
-**Location:** Mirage Forest
+**Location**: Mirage Forest
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |
@@ -2391,7 +2631,9 @@
 
 ![Arceus](../../assets/sprites/arceus/front.gif "Arceus: It is told in mythology that this Pokémon was born before the universe even existed.")
 
-**Location:** Mirage Mountain
+**Location**: Mirage Mountain
+
+**Level Up Moves:**
 
 | Moves | Level |     | Cont. | Level |
 | ----- | ----- | --- | ----- | ----- |

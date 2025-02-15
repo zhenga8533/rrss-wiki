@@ -624,7 +624,7 @@ Total       438 >> 450
 #025 PIKACHU
 =======================
 Location: New Mauville
-Ability 2: Lighting Rod
+Ability 2: Lightning Rod
 New TM/HMs: Surf
 
 1   Tail Whip
@@ -652,7 +652,7 @@ New TM/HMs: Surf
 #026 RAICHU
 =======================
 Location: Evolve Pikachu (Thunder Stone)
-Ability 2: Lighting Rod
+Ability 2: Lightning Rod
 New TM/HMs: Surf
 
 Attack      90 >> 100
@@ -1974,7 +1974,7 @@ Location: New Mauville
 Location: Route 117
 Type: Normal/Flying >> Fighting/Flying
 New TM/HMs: Brick Break, Focus Blast, Rock Smash
-EVs: 1 Atk >> 2 Atk
+Effort Values: 1 Atk >> 2 Atk
 
 HP          52 >> 65
 Attack      65 >> 130
@@ -4998,7 +4998,7 @@ Total       415 >> 455
 #207 GLIGAR
 =======================
 Location: Jagged Pass
-Held Items: Razor Fang (50%)
+Held Item: Razor Fang (50%)
 New TM/HMs: Fly
 
 1   Poison Sting
@@ -5208,7 +5208,7 @@ Location: Route 112 North
 =======================
 Location: Shoal Cave
 Ability 2: Keen Eye >> Technician **
-Held Items: Razor Claw (50%), Quick Claw (5%)
+Held Item: Razor Claw (50%), Quick Claw (5%)
 
 1   Scratch
 1   Leer
@@ -5401,8 +5401,8 @@ Location: Shoal Cave
 =======================
 Location: Route 105, Route 106, Dewford Town, Route 107, Route 108, Route 109, Lilycove City, Ever Grande City, Route 131, Pacifidlog Town, Underwater
 Ability 1: Hustle >> Regenerator
+Ability 3: Regenerator >> Hustle
 Held Item: Prism Scale (50%), Luminous Moss (5%)
-Hidden Ability: Regenerator >> Hustle
 New TM/HMs: Waterfall, Dive
 
 HP          55 >> 75
@@ -5476,7 +5476,7 @@ Location: Route 110
 =======================
 Location: Shoal Cave
 Ability 2: Hustle >> Aerilate **
-Hidden Ability: Insomnia >> Hustle
+Ability 3: Insomnia >> Hustle
 
 HP          45 >> 65
 Attack      55 >> 80
@@ -6591,7 +6591,7 @@ Location: Evolve Lombre (Water Stone)
 
 #273 SEEDOT
 =======================
-ocation: Route 102
+Location: Route 102
 
 1   Bide
 3   Harden
@@ -9625,7 +9625,7 @@ Ability 2: Iron Fist
 
 #392 INFERNAPE
 =======================
-ocation: Evolve Monferno (Lv. 36)
+Location: Evolve Monferno (Lv. 36)
 Ability 2: Iron Fist
 
 1   Flare Blitz
@@ -11279,7 +11279,7 @@ Ability 2: Soundproof
 =======================
 Location: Shoal Cave
 Ability 2: Technician **
-Held Items: Grip Claw (50%), Quick Claw (5%)
+Held Item: Grip Claw (50%), Quick Claw (5%)
 
 1   Icicle Crash *
 1   Embargo
@@ -16200,7 +16200,7 @@ Location: Evolve Scatterbug (Lv. 9)
 #666 VIVILLON
 =======================
 Location: Evolve Spewpa (Lv. 12)
-Effort Values: 1 SAtk, 1 Spd >> 2 SAtk
+Effort Values: 1 Sp. Atk, 1 Spd >> 2 Sp. Atk
 New TM/HMs: Fly
 
 Attack          52 >> 50

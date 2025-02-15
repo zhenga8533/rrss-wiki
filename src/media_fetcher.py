@@ -144,10 +144,15 @@ def fetch_sprites(url: str, threads: int, timeout: int, session: requests.Sessio
                     pokemon = f"{pokemon}-{extension[0]}"
             if pokemon == "basculin-blue":
                 pokemon = "basculin-blue-striped"
+            if pokemon == "greninja-active":
+                pokemon = "greninja-ash"
             if pokemon == "xerneas":
                 pokemon = "xerneas-neutral"
             if pokemon == "xerneas-active":
                 pokemon = "xerneas"
+            if pokemon == "meowstic" and view == "_female":
+                pokemon = "meowstic-female"
+                view = ""
             if "genesect" in pokemon:
                 pokemon = pokemon.replace("water", "douse")
                 pokemon = pokemon.replace("fire", "burn")
