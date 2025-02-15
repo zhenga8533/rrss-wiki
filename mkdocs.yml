@@ -47,3 +47,11 @@ nav:
       - Encounter Changes: mechanics/encounter_changes.md
       - Evolution Changes: mechanics/evolution_changes.md
       - Item Changes: mechanics/item_changes.md
+      - Pokémon Changes:
+          - Overview: mechanics/pokemon_changes/overview.md
+          - Kanto Pokémon: mechanics/pokemon_changes/kanto.md
+          - Johto Pokémon: mechanics/pokemon_changes/johto.md
+          - Hoenn Pokémon: mechanics/pokemon_changes/hoenn.md
+          - Sinnoh Pokémon: mechanics/pokemon_changes/sinnoh.md
+          - Unova Pokémon: mechanics/pokemon_changes/unova.md
+          - Kalos Pokémon: mechanics/pokemon_changes/kalos.md

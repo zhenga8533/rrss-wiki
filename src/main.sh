@@ -69,6 +69,7 @@ $PYTHON attack_changes.py
 $PYTHON encounter_changes.py
 $PYTHON evolution_changes.py
 $PYTHON item_changes.py
+$PYTHON pokemon_changes.py
 echo "Finished running all parsers"
 echo ""
 

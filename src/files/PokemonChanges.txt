@@ -40,10 +40,14 @@ o-------------------------------------------------------------------------------
 
 ## Files Mentioned
 
-1. a/0/1/3 - Pokémon Encounter Data
-2. a/1/9/1 - Pokémon Level Up Moves
-3. a/1/9/2 - Pokémon Evolution Methods
-4. a/1/9/5 - Pokémon Personal Stats
+o----------------------------------------o
+| 1. a/0/1/3 - Pokémon Encounter Data    |
+| 2. a/1/9/1 - Pokémon Level Up Moves    |
+| 3. a/1/9/2 - Pokémon Evolution Methods |
+| 4. a/1/9/5 - Pokémon Personal Stats    |
+o----------------------------------------o
+
+## Changes
 
 #001 BULBASAUR
 =======================
@@ -10333,13 +10337,13 @@ Location: Route 117
 =======================
 Location: Evolve Cherubi (Lv. 25)
 
-Overcast Form
+Normal Forme
 =======================
 Sp. Attack  87 >> 90
 Sp. Defense 78 >> 80
 Total       450 >> 455
 
-Sunshine Form
+Sunshine Forme
 =======================
 Defense     70 >> 80
 Sp. Attack  87 >> 120
@@ -11744,10 +11748,7 @@ Ability 2: Cursed Body
 =======================
 Location: New Mauville
 
-Frost Forme
-Heat Forme
-Mow Forme
-Wash Forme
+Frost Forme, Heat Forme, Mow Forme, Wash Forme
 =======================
 1   Pain Split *
 1   Trick
@@ -11770,7 +11771,7 @@ Wash Forme
 56  Dark Pulse *
 60  Thunder
 
-Fan Rotom
+Fan Forme
 =======================
 1   Hurricane **
 1   Pain Split *
@@ -15701,7 +15702,7 @@ Ability 2: Sheer Force
 =======================
 Location: Gnarled Den
 
-Standard Kyurem
+Normal Forme
 =======================
 1   Icy Wind
 1   Dragon Rage
@@ -15719,7 +15720,7 @@ Standard Kyurem
 60  Outrage
 65  Hyper Voice
 
-White Kyurem
+White Forme
 =======================
 1   Icy Wind
 1   Dragon Rage
@@ -15737,7 +15738,7 @@ White Kyurem
 60  Outrage
 65  Hyper Voice
 
-Black Kyurem
+Black Forme
 =======================
 1   Icy Wind
 1   Dragon Rage
@@ -16302,7 +16303,7 @@ Ability 2: Symbiosis
 Location: Route 115
 Ability 2: Symbiosis
 
-Red/Yellow/Orange/Blue/White Flower
+Normal Forme
 =======================
 1   Tackle
 1   Vine Whip
@@ -16322,7 +16323,7 @@ Red/Yellow/Orange/Blue/White Flower
 53  Misty Terrain
 57  Solar Beam
 
-Eternal Flower
+Eternal Forme
 =======================
 1   Tackle
 1   Vine Whip
@@ -16502,7 +16503,7 @@ Location: Route 113
 =======================
 Location: Safari Zone
 
-Male Meowstic
+Male Forme
 =======================
 1   Quick Guard
 1   Mean Look
@@ -16526,7 +16527,7 @@ Male Meowstic
 50  Misty Terrain
 53  Quick Guard
 
-Female Meowstic
+Female Forme
 =======================
 1   Stored Power
 1   Me First
@@ -17510,7 +17511,7 @@ Held Item: Diancite (100%)
 Location: Mirage Island
 Held Item: Prison Bottle (100%)
 
-Hoopa Confined
+Normal Forme
 =======================
 1   Trick
 1   Destiny Bond
@@ -17532,7 +17533,7 @@ Hoopa Confined
 65  Nasty Plot
 70  Psychic
 
-Hoopa Unbound
+Unbound Forme
 =======================
 1   Trick
 1   Destiny Bond
