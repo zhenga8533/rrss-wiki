@@ -722,7 +722,7 @@ Held Item: Dome Fossil (50%), Grip Claw (5%)
 55  Swords Dance
 59  Sandstorm
 
-#029 NIDORAN♀
+#029 NIDORAN F
 =======================
 Location: Route 103
 
@@ -780,7 +780,7 @@ Location: Evolve Nidorina (Moon Stone)
 43  Earth Power
 58  Superpower
 
-#032 NIDORAN♂
+#032 NIDORAN M
 =======================
 Location: Route 103
 
@@ -3784,7 +3784,7 @@ Ability 2: Sheer Force
 40  Superpower
 43  Hydro Pump
 
-#159 CROOCNAW
+#159 CROCONAW
 =======================
 Evolution: Evolve Totodile (Lv. 18)
 Ability 2: Sheer Force
@@ -4191,7 +4191,7 @@ Base Happiness: 70 >> 200
 #174 IGGLYBUFF
 =======================
 Location: Route 115
-Base Happiness  70 >> 200
+Base Happiness: 70 >> 200
 
 1   Sing
 1   Charm
@@ -7175,7 +7175,7 @@ Location: Granite Cave, Victory Road
 #298 AZURILL
 =======================
 Location: Route 104 South
-Base Happiness  70 >> 200
+Base Happiness: 70 >> 200
 
 1   Splash
 1   Water Gun
@@ -8815,8 +8815,8 @@ Location: Mt. Pyre
 HP          65 >> 80
 Attack      50 >> 35
 Defense     70 >> 85
-Sp. Atk     95 >> 110
-Sp. Def     80 >> 95
+Sp. Attack  95 >> 110
+Sp. Defense 80 >> 95
 Speed       65 >> 80
 Total       425 >> 485
 
@@ -9991,7 +9991,7 @@ Ability 2: Sheer Force
 50  Screech
 54  Head Smash
 
-#409 RAMAPRDOS
+#409 RAMPARDOS
 =======================
 Location: Seafloor Cavern
 Ability 2: Sheer Force
@@ -10076,7 +10076,7 @@ Ability 2: Overcoat
 Location: Safari Zone
 Ability 2: Overcoat
 
-Plant Cloak
+Plant Forme
 =======================
 HP          60 >> 80
 Attack      59 >> 50
@@ -10105,7 +10105,7 @@ Total       424 >> 460
 50  Psychic
 53  Leaf Storm
 
-Sandy Cloak
+Sandy Forme
 =======================
 HP          60 >> 80
 Attack      79 >> 90
@@ -10134,7 +10134,7 @@ Total       424 >> 460
 50  Psychic
 53  Fissure
 
-Trash Cloak
+Trash Forme
 =======================
 HP          60 >> 80
 Attack      69 >> 70
@@ -10627,7 +10627,7 @@ Location: Route 120
 #433 CHINGLING
 =======================
 Location: Mt. Pyre
-Base Happiness  70 >> 200
+Base Happiness: 70 >> 200
 
 1   Wrap
 4   Growl

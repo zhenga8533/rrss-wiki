@@ -5,8 +5,9 @@ import re
 
 from dotenv import load_dotenv
 
+from util.data import Data
 from util.file import load, save
-from util.format import check_empty, find_pokemon_sprite, format_id
+from util.format import check_empty, find_pokemon_sprite
 from util.logger import Logger
 
 
@@ -14,17 +15,32 @@ def change_attribute(attribute: str, change: str, logger: Logger) -> str:
     pass
 
 
-def change_table(changes: list[str], logger: Logger) -> str:
+def change_table(changes: list[str], pokemon: str, pokemon_data: Data, logger: Logger) -> str:
     table = ""
+    data = pokemon_data.get_data(pokemon)
 
     if " >> " in changes[-1]:
         table += "| Stat | Base | Change |\n"
         table += "| ---- | ---- | ------ |\n"
 
-        pattern = r"([A-Z. a-z]+) ([0-9]+) >> ([0-9]+)"
+        pattern = r"([A-Z. a-z]+)([0-9]+) >> ([0-9]+)"
+        stat_ids = {
+            "HP": "hp",
+            "Attack": "attack",
+            "Defense": "defense",
+            "Sp. Attack": "special-attack",
+            "Sp. Defense": "special-defense",
+            "Speed": "speed",
+            "Total": "total",
+        }
+
         for change in changes:
             stat, base, change = re.match(pattern, change).groups()
+            stat = stat.strip()
+            stat_id = stat_ids[stat]
+
             table += f"| {stat} | {base} | {change} |\n"
+            data["stats"][stat_id] = int(change)
     else:
         table += "| Level | Move |     | Cont. | Move |\n"
         table += "| ----- | ---- | --- | ----- | ---- |\n"
@@ -45,6 +61,7 @@ def change_table(changes: list[str], logger: Logger) -> str:
             else:
                 table += "  |   |\n"
 
+    pokemon_data.save_data(pokemon, data)
     changes.clear()
     return table
 
@@ -89,6 +106,10 @@ def main():
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Pokémon Changes Parser", LOG_PATH + "pokemon_changes.log", LOG)
 
+    # Initialize item data object
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    pokemon_data = Data(POKEMON_INPUT_PATH, logger)
+
     # Read input data file
     file_path = INPUT_PATH + "PokemonChanges.txt"
     data = load(file_path, logger)
@@ -98,6 +119,7 @@ def main():
 
     changes = []
     curr_pokemon = None
+    curr_form = ""
 
     # Parse all lines from the input data file
     logger.log(logging.INFO, f"Parsing {n} lines of data from {file_path}...")
@@ -111,7 +133,8 @@ def main():
         # Skip empty lines
         if check_empty(line):
             if len(changes) > 0:
-                md += change_table(changes, logger) + "\n"
+                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, logger)
+                md += "\n"
         # Table lines
         elif line.startswith("| "):
             line = line.strip("| ")
@@ -125,18 +148,20 @@ def main():
                 md += "\t"
             md += line + "\n\n"
         # Pokemon forms
-        elif line.endswith("Forme") or line.endswith("Cloak"):
+        elif line.endswith("Forme"):
             forms = []
             sprites = []
 
             # Get all forms of the current Pokemon
             for form in line.split(", "):
                 forms.append(form)
-                form = form.split(" ")[0].lower()
+                curr_form = "-" + form.split(" ")[0].lower()
 
-                if form != "normal":
-                    pokemon_id = f"{curr_pokemon}-{form}"
+                if curr_form != "-normal":
+                    pokemon_id = curr_pokemon + curr_form
                     sprites.append(find_pokemon_sprite(pokemon_id, "front", logger).replace("../", "../../"))
+                else:
+                    curr_form = ""
 
             # Add the forms to the markdown file
             md += f"### {', '.join(forms)}\n\n"
@@ -144,16 +169,16 @@ def main():
         # Pokemon headers
         elif next_line.startswith("==="):
             # Save the changes to the appropriate region file
-            num, pokemon = line.split(" ", 1)
+            num, curr_pokemon = line.split(" ", 1)
             index = int(num[1:])
             md = save_region(index, md, OUTPUT_PATH, logger)
 
             # Add Pokemon header to the markdown file
-            pokemon = pokemon.title()
-            curr_pokemon = format_id(pokemon)
-            sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
+            curr_pokemon = curr_pokemon.title()
+            curr_form = ""
+            sprite = find_pokemon_sprite(curr_pokemon, "front", logger).replace("../", "../../")
 
-            md += f"---\n\n## {num} {pokemon}\n\n"
+            md += f"---\n\n## {num} {curr_pokemon}\n\n"
             md += sprite + "\n\n"
         # Pokemon attribute changes
         elif ": " in line:

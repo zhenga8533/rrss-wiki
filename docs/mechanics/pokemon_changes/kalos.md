@@ -239,10 +239,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 85 | 96 |
-| Defense     | 77 | 80 |
+| HP | 85 | 96 |
+| Defense | 77 | 80 |
 | Sp. Defense | 77 | 80 |
-| Total       | 423 | 440 |
+| Total | 423 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -363,12 +363,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack          | 52 | 50 |
-| Defense         | 50 | 55 |
-| Sp. Attack      | 90 | 115 |
-| Sp. Defense     | 50 | 55 |
-| Speed           | 89 | 100 |
-| Total           | 411 | 455 |
+| Attack | 52 | 50 |
+| Defense | 50 | 55 |
+| Sp. Attack | 90 | 115 |
+| Sp. Defense | 50 | 55 |
+| Speed | 89 | 100 |
+| Total | 411 | 455 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -474,7 +474,7 @@
 
 ### Eternal Forme
 
-![floette-eternal](../../assets/sprites/floette-eternal/front.gif "floette-eternal: When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.")
+![Floette-eternal](../../assets/sprites/floette-eternal/front.gif "Floette-eternal: When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -642,7 +642,7 @@
 
 ### Male Forme
 
-![meowstic-male](../../assets/sprites/meowstic-male/front.png "meowstic-male: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
+![Meowstic-male](../../assets/sprites/meowstic-male/front.png "Meowstic-male: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -660,7 +660,7 @@
 
 ### Female Forme
 
-![meowstic-female](../../assets/sprites/meowstic-female/front.png "meowstic-female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
+![Meowstic-female](../../assets/sprites/meowstic-female/front.png "Meowstic-female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -718,7 +718,7 @@
 
 ## #681 Aegislash
 
-?
+![Aegislash](../../assets/sprites/aegislash-shield/front.png "Aegislash: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.")
 
 **Location:** Evolve Doublade (Dusk Stone)
 
@@ -1180,13 +1180,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 67 | 75 |
-| Attack      | 58 | 60 |
-| Defense     | 57 | 60 |
-| Sp. Attack  | 81 | 90 |
+| HP | 67 | 75 |
+| Attack | 58 | 60 |
+| Defense | 57 | 60 |
+| Sp. Attack | 81 | 90 |
 | Sp. Defense | 67 | 70 |
-| Speed       | 101 | 110 |
-| Total       | 431 | 465 |
+| Speed | 101 | 110 |
+| Total | 431 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1511,7 +1511,7 @@
 
 ## #718 Zygarde
 
-?
+![Zygarde](../../assets/sprites/zygarde-50/front.png "Zygarde: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.")
 
 **Location:** Mirage Cave
 
@@ -1579,7 +1579,7 @@
 
 ### Unbound Forme
 
-![hoopa-unbound](../../assets/sprites/hoopa-unbound/front.gif "hoopa-unbound: It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.")
+![Hoopa-unbound](../../assets/sprites/hoopa-unbound/front.gif "Hoopa-unbound: It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

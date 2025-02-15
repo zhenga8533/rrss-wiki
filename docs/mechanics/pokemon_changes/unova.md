@@ -80,9 +80,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 75 | 80 |
-| Sp. Attack  | 75 | 80 |
-| Total       | 528 | 538 |
+| Attack | 75 | 80 |
+| Sp. Attack | 75 | 80 |
+| Total | 528 | 538 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -156,8 +156,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 123 | 128 |
-| Total       | 528 | 533 |
+| Attack | 123 | 128 |
+| Total | 528 | 533 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -234,8 +234,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 108 | 113 |
-| Total       | 528 | 533 |
+| Sp. Attack | 108 | 113 |
+| Total | 528 | 533 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -282,12 +282,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 65 |
-| Attack      | 85 | 95 |
-| Defense     | 69 | 70 |
+| HP | 60 | 65 |
+| Attack | 85 | 95 |
+| Defense | 69 | 70 |
 | Sp. Defense | 69 | 70 |
-| Speed       | 77 | 80 |
-| Total       | 420 | 440 |
+| Speed | 77 | 80 |
+| Total | 420 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -395,11 +395,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 64 | 65 |
-| Attack      | 88 | 90 |
-| Sp. Attack  | 88 | 90 |
-| Speed       | 106 | 115 |
-| Total       | 446 | 460 |
+| HP | 64 | 65 |
+| Attack | 88 | 90 |
+| Sp. Attack | 88 | 90 |
+| Speed | 106 | 115 |
+| Total | 446 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -784,13 +784,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 67 | 75 |
-| Attack      | 57 | 60 |
-| Defense     | 55 | 60 |
-| Sp. Attack  | 77 | 95 |
+| HP | 67 | 75 |
+| Attack | 57 | 60 |
+| Defense | 55 | 60 |
+| Sp. Attack | 77 | 95 |
 | Sp. Defense | 55 | 60 |
-| Speed       | 114 | 115 |
-| Total       | 425 | 465 |
+| Speed | 114 | 115 |
+| Total | 425 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1341,7 +1341,7 @@
 
 ## #555 Darmanitan
 
-?
+![Darmanitan](../../assets/sprites/darmanitan-standard/front.png "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.")
 
 **Location:** Route 111
 
@@ -2047,13 +2047,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 55 | 60 |
-| Attack      | 75 | 85 |
-| Defense     | 60 | 65 |
-| Sp. Attack  | 75 | 85 |
+| HP | 55 | 60 |
+| Attack | 75 | 85 |
+| Defense | 60 | 65 |
+| Sp. Attack | 75 | 85 |
 | Sp. Defense | 60 | 65 |
-| Speed       | 103 | 105 |
-| Total       | 428 | 465 |
+| Speed | 103 | 105 |
+| Total | 428 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3348,7 +3348,7 @@
 
 ### White Forme
 
-![kyurem-white](../../assets/sprites/kyurem-white/front.gif "kyurem-white: It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.")
+![Kyurem-white](../../assets/sprites/kyurem-white/front.gif "Kyurem-white: It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3363,7 +3363,7 @@
 
 ### Black Forme
 
-![kyurem-black](../../assets/sprites/kyurem-black/front.gif "kyurem-black: It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.")
+![Kyurem-black](../../assets/sprites/kyurem-black/front.gif "Kyurem-black: It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

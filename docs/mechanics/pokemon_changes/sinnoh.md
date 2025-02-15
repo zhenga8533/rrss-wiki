@@ -287,11 +287,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 79 | 90 |
-| Attack      | 85 | 95 |
-| Defense     | 60 | 65 |
-| Speed       | 71 | 75 |
-| Total       | 410 | 435 |
+| HP | 79 | 90 |
+| Attack | 85 | 95 |
+| Defense | 60 | 65 |
+| Speed | 71 | 75 |
+| Total | 410 | 435 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -333,11 +333,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 77 | 80 |
-| Attack      | 85 | 110 |
-| Defense     | 51 | 65 |
+| HP | 77 | 80 |
+| Attack | 85 | 110 |
+| Defense | 51 | 65 |
 | Sp. Defense | 51 | 65 |
-| Total       | 384 | 440 |
+| Total | 384 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -472,9 +472,9 @@
 
 ---
 
-## #409 Ramaprdos
+## #409 Rampardos
 
-?
+![Rampardos](../../assets/sprites/rampardos/front.gif "Rampardos: Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.")
 
 **Location:** Seafloor Cavern
 
@@ -562,19 +562,19 @@
 
 **Ability 2:** Overcoat
 
-### Plant Cloak
+### Plant Forme
 
-?
+![Wormadam-plant](../../assets/sprites/wormadam-plant/front.gif "Wormadam-plant: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 59 | 50 |
-| Defense     | 85 | 100 |
-| Sp. Attack  | 79 | 90 |
+| HP | 60 | 80 |
+| Attack | 59 | 50 |
+| Defense | 85 | 100 |
+| Sp. Attack | 79 | 90 |
 | Sp. Defense | 105 | 110 |
-| Speed       | 36 | 30 |
-| Total       | 424 | 460 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -588,19 +588,19 @@
 | 23 |  Signal Beam |   | 50 |  Psychic |
 | 26 |  Giga Drain |   | 53 |  Leaf Storm |
 
-### Sandy Cloak
+### Sandy Forme
 
-?
+![Wormadam-sandy](../../assets/sprites/wormadam-sandy/front.gif "Wormadam-sandy: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 79 | 90 |
-| Defense     | 105 | 110 |
-| Sp. Attack  | 59 | 50 |
+| HP | 60 | 80 |
+| Attack | 79 | 90 |
+| Defense | 105 | 110 |
+| Sp. Attack | 59 | 50 |
 | Sp. Defense | 85 | 100 |
-| Speed       | 36 | 30 |
-| Total       | 424 | 460 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -614,19 +614,19 @@
 | 23 |  Steamroller |   | 50 |  Psychic |
 | 26 |  Bulldoze |   | 53 |  Fissure |
 
-### Trash Cloak
+### Trash Forme
 
-?
+![Wormadam-trash](../../assets/sprites/wormadam-trash/front.gif "Wormadam-trash: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 69 | 70 |
-| Defense     | 95 | 105 |
-| Sp. Attack  | 69 | 70 |
+| HP | 60 | 80 |
+| Attack | 69 | 70 |
+| Defense | 95 | 105 |
+| Sp. Attack | 69 | 70 |
 | Sp. Defense | 95 | 105 |
-| Speed       | 36 | 30 |
-| Total       | 424 | 460 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -654,11 +654,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 80 |
-| Attack      | 94 | 100 |
-| Sp. Attack  | 94 | 100 |
-| Speed       | 66 | 80 |
-| Total       | 424 | 460 |
+| HP | 70 | 80 |
+| Attack | 94 | 100 |
+| Sp. Attack | 94 | 100 |
+| Speed | 66 | 80 |
+| Total | 424 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -727,11 +727,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 70 |
-| Attack      | 45 | 60 |
-| Defense     | 70 | 90 |
-| Sp. Attack  | 45 | 60 |
-| Total       | 405 | 465 |
+| HP | 60 | 70 |
+| Attack | 45 | 60 |
+| Defense | 70 | 90 |
+| Sp. Attack | 45 | 60 |
+| Total | 405 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -823,21 +823,21 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 87 | 90 |
+| Sp. Attack | 87 | 90 |
 | Sp. Defense | 78 | 80 |
-| Total       | 450 | 455 |
+| Total | 450 | 455 |
 
 ### Sunshine Forme
 
-![cherrim-sunshine](../../assets/sprites/cherrim-sunshine/front.gif "cherrim-sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
+![Cherrim-sunshine](../../assets/sprites/cherrim-sunshine/front.gif "Cherrim-sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Defense     | 70 | 80 |
-| Sp. Attack  | 87 | 120 |
+| Defense | 70 | 80 |
+| Sp. Attack | 87 | 120 |
 | Sp. Defense | 78 | 110 |
-| Speed       | 85 | 115 |
-| Total       | 450 | 555 |
+| Speed | 85 | 115 |
+| Total | 450 | 555 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1088,9 +1088,7 @@
 
 **Location:** Mt. Pyre
 
-| Stat | Base | Change |
-| ---- | ---- | ------ |
-| Base Happiness  | 70 | 200 |
+**Base Happiness:** 70 >> 200
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1249,12 +1247,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 76 | 80 |
-| Defense     | 45 | 55 |
-| Sp. Attack  | 92 | 110 |
+| HP | 76 | 80 |
+| Defense | 45 | 55 |
+| Sp. Attack | 92 | 110 |
 | Sp. Defense | 42 | 55 |
-| Speed       | 91 | 110 |
-| Total       | 411 | 475 |
+| Speed | 91 | 110 |
+| Total | 411 | 475 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1604,13 +1602,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 69 | 75 |
-| Attack      | 69 | 80 |
-| Defense     | 76 | 85 |
-| Sp. Attack  | 69 | 80 |
+| HP | 69 | 75 |
+| Attack | 69 | 80 |
+| Defense | 76 | 85 |
+| Sp. Attack | 69 | 80 |
 | Sp. Defense | 86 | 90 |
-| Speed       | 91 | 95 |
-| Total       | 460 | 505 |
+| Speed | 91 | 95 |
+| Total | 460 | 505 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2104,7 +2102,7 @@
 
 ### Frost Forme, Heat Forme, Mow Forme, Wash Forme
 
-![rotom-frost](../../assets/sprites/rotom-frost/front.gif "rotom-frost: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![rotom-heat](../../assets/sprites/rotom-heat/front.gif "rotom-heat: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![rotom-mow](../../assets/sprites/rotom-mow/front.gif "rotom-mow: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![rotom-wash](../../assets/sprites/rotom-wash/front.gif "rotom-wash: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
+![Rotom-frost](../../assets/sprites/rotom-frost/front.gif "Rotom-frost: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-heat](../../assets/sprites/rotom-heat/front.gif "Rotom-heat: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-mow](../../assets/sprites/rotom-mow/front.gif "Rotom-mow: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-wash](../../assets/sprites/rotom-wash/front.gif "Rotom-wash: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2121,7 +2119,7 @@
 
 ### Fan Forme
 
-![rotom-fan](../../assets/sprites/rotom-fan/front.gif "rotom-fan: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
+![Rotom-fan](../../assets/sprites/rotom-fan/front.gif "Rotom-fan: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

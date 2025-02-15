@@ -163,9 +163,9 @@
 
 ---
 
-## #159 Croocnaw
+## #159 Croconaw
 
-?
+![Croconaw](../../assets/sprites/croconaw/front.gif "Croconaw: Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.")
 
 **Evolution:** Evolve Totodile (Lv. 18)
 
@@ -239,12 +239,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 85 | 95 |
-| Attack      | 76 | 85 |
-| Defense     | 64 | 65 |
-| Sp. Attack  | 45 | 40 |
-| Speed       | 90 | 100 |
-| Total       | 415 | 440 |
+| HP | 85 | 95 |
+| Attack | 76 | 85 |
+| Defense | 64 | 65 |
+| Sp. Attack | 45 | 40 |
+| Speed | 90 | 100 |
+| Total | 415 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -271,11 +271,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack          | 30 | 25 |
-| Defense         | 30 | 25 |
-| Sp. Attack      | 36 | 45 |
-| Sp. Defense     | 56 | 65 |
-| Total           | 262 | 270 |
+| Attack | 30 | 25 |
+| Defense | 30 | 25 |
+| Sp. Attack | 36 | 45 |
+| Sp. Defense | 56 | 65 |
+| Total | 262 | 270 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -306,12 +306,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 50 | 30 |
-| Defense     | 50 | 60 |
-| Sp. Attack  | 76 | 90 |
+| Attack | 50 | 30 |
+| Defense | 50 | 60 |
+| Sp. Attack | 76 | 90 |
 | Sp. Defense | 96 | 110 |
-| Speed       | 70 | 75 |
-| Total       | 442 | 465 |
+| Speed | 70 | 75 |
+| Total | 442 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -339,9 +339,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack          | 20 | 50 |
-| Sp. Attack      | 40 | 20 |
-| Total           | 265 | 275 |
+| Attack | 20 | 50 |
+| Sp. Attack | 40 | 20 |
+| Total | 265 | 275 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -368,9 +368,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 35 | 110 |
-| Sp. Attack  | 55 | 40 |
-| Total       | 390 | 450 |
+| Attack | 35 | 110 |
+| Sp. Attack | 55 | 40 |
+| Total | 390 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -396,9 +396,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 60 | 70 |
-| Speed       | 30 | 40 |
-| Total       | 250 | 270 |
+| Attack | 60 | 70 |
+| Speed | 30 | 40 |
+| Total | 250 | 270 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -424,10 +424,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 90 | 120 |
-| Sp. Attack  | 60 | 50 |
-| Speed       | 40 | 80 |
-| Total       | 390 | 450 |
+| Attack | 90 | 120 |
+| Sp. Attack | 60 | 50 |
+| Speed | 40 | 80 |
+| Total | 390 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -554,9 +554,7 @@
 
 **Location:** Route 115
 
-| Stat | Base | Change |
-| ---- | ---- | ------ |
-| Base Happiness  | 70 | 200 |
+**Base Happiness:** 70 >> 200
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -766,8 +764,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 60 | 80 |
-| Total       | 420 | 440 |
+| Sp. Attack | 60 | 80 |
+| Total | 420 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -790,12 +788,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 80 |
-| Attack      | 100 | 110 |
-| Defense     | 115 | 125 |
-| Sp. Attack  | 30 | 40 |
+| HP | 70 | 80 |
+| Attack | 100 | 110 |
+| Defense | 115 | 125 |
+| Sp. Attack | 30 | 40 |
 | Sp. Defense | 65 | 75 |
-| Total       | 410 | 460 |
+| Total | 410 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -838,11 +836,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 35 | 50 |
-| Sp. Attack  | 35 | 50 |
+| Attack | 35 | 50 |
+| Sp. Attack | 35 | 50 |
 | Sp. Defense | 55 | 60 |
-| Speed       | 50 | 55 |
-| Total       | 250 | 280 |
+| Speed | 50 | 55 |
+| Total | 250 | 280 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -870,10 +868,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 45 | 65 |
-| Sp. Attack  | 45 | 65 |
+| Attack | 45 | 65 |
+| Sp. Attack | 45 | 65 |
 | Sp. Defense | 65 | 75 |
-| Total       | 340 | 390 |
+| Total | 340 | 390 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -901,9 +899,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 55 | 75 |
-| Sp. Attack  | 55 | 75 |
-| Total       | 460 | 500 |
+| Attack | 55 | 75 |
+| Sp. Attack | 55 | 75 |
+| Total | 460 | 500 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -968,12 +966,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP              | 75 | 95 |
-| Attack          | 75 | 55 |
-| Defense         | 55 | 95 |
-| Sp. Attack      | 105 | 125 |
-| Sp. Defense     | 85 | 105 |
-| Total           | 425 | 505 |
+| HP | 75 | 95 |
+| Attack | 75 | 55 |
+| Defense | 55 | 95 |
+| Sp. Attack | 105 | 125 |
+| Sp. Defense | 85 | 105 |
+| Total | 425 | 505 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1021,9 +1019,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 45 | 55 |
-| Defense     | 45 | 55 |
-| Total       | 210 | 230 |
+| Attack | 45 | 55 |
+| Defense | 45 | 55 |
+| Total | 210 | 230 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1046,9 +1044,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 85 | 95 |
-| Defense     | 85 | 95 |
-| Total       | 430 | 450 |
+| Attack | 85 | 95 |
+| Defense | 85 | 95 |
+| Total | 430 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1182,13 +1180,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 48 | 50 |
-| Attack      | 72 | 150 |
-| Defense     | 48 | 50 |
-| Sp. Attack  | 72 | 150 |
+| HP | 48 | 50 |
+| Attack | 72 | 150 |
+| Defense | 48 | 50 |
+| Sp. Attack | 72 | 150 |
 | Sp. Defense | 48 | 50 |
-| Speed       | 48 | 50 |
-| Total       | 336 | 500 |
+| Speed | 48 | 50 |
+| Total | 336 | 500 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1207,13 +1205,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 190 | 240 |
-| Attack      | 33 | 30 |
-| Defense     | 58 | 60 |
-| Sp. Attack  | 33 | 30 |
+| HP | 190 | 240 |
+| Attack | 33 | 30 |
+| Defense | 58 | 60 |
+| Sp. Attack | 33 | 30 |
 | Sp. Defense | 58 | 60 |
-| Speed       | 33 | 30 |
-| Total       | 405 | 450 |
+| Speed | 33 | 30 |
+| Total | 405 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1303,11 +1301,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 100 | 110 |
-| Attack      | 70 | 80 |
-| Defense     | 70 | 80 |
-| Speed       | 45 | 55 |
-| Total       | 415 | 455 |
+| HP | 100 | 110 |
+| Attack | 70 | 80 |
+| Defense | 70 | 80 |
+| Speed | 45 | 55 |
+| Total | 415 | 455 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1421,9 +1419,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 95 | 100 |
-| Speed       | 85 | 90 |
-| Total       | 430 | 450 |
+| Attack | 95 | 100 |
+| Speed | 85 | 90 |
+| Total | 430 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1584,12 +1582,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 40 | 50 |
-| Attack      | 40 | 50 |
-| Defense     | 40 | 50 |
-| Sp. Attack  | 70 | 80 |
+| HP | 40 | 50 |
+| Attack | 40 | 50 |
+| Defense | 40 | 50 |
+| Sp. Attack | 70 | 80 |
 | Sp. Defense | 40 | 50 |
-| Total       | 250 | 300 |
+| Total | 250 | 300 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1615,10 +1613,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 50 | 80 |
-| Sp. Attack  | 80 | 115 |
+| HP | 50 | 80 |
+| Sp. Attack | 80 | 115 |
 | Sp. Defense | 80 | 110 |
-| Total       | 410 | 505 |
+| Total | 410 | 505 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1694,11 +1692,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 55 | 75 |
-| Defense     | 85 | 105 |
-| Sp. Attack  | 65 | 85 |
+| HP | 55 | 75 |
+| Defense | 85 | 105 |
+| Sp. Attack | 65 | 85 |
 | Sp. Defense | 85 | 105 |
-| Total       | 380 | 460 |
+| Total | 380 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1765,13 +1763,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 45 | 65 |
-| Attack      | 55 | 80 |
-| Defense     | 45 | 65 |
-| Sp. Attack  | 65 | 110 |
+| HP | 45 | 65 |
+| Attack | 55 | 80 |
+| Defense | 45 | 65 |
+| Sp. Attack | 65 | 110 |
 | Sp. Defense | 45 | 65 |
-| Speed       | 75 | 120 |
-| Total       | 330 | 505 |
+| Speed | 75 | 120 |
+| Total | 330 | 505 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

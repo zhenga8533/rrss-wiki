@@ -248,9 +248,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 90 | 110 |
-| Speed       | 70 | 80 |
-| Total       | 420 | 450 |
+| Attack | 90 | 110 |
+| Speed | 70 | 80 |
+| Total | 420 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -276,8 +276,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 30 | 40 |
-| Sp. Attack  | 30 | 20 |
+| Attack | 30 | 40 |
+| Sp. Attack | 30 | 20 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -302,13 +302,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 78 | 80 |
-| Attack      | 70 | 90 |
-| Defense     | 61 | 60 |
-| Sp. Attack  | 50 | 40 |
+| HP | 78 | 80 |
+| Attack | 70 | 90 |
+| Defense | 61 | 60 |
+| Sp. Attack | 50 | 40 |
 | Sp. Defense | 61 | 60 |
-| Speed       | 100 | 110 |
-| Total       | 420 | 440 |
+| Speed | 100 | 110 |
+| Total | 420 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -367,12 +367,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 65 |
-| Defense     | 50 | 55 |
-| Sp. Attack  | 100 | 120 |
+| HP | 60 | 65 |
+| Defense | 50 | 55 |
+| Sp. Attack | 100 | 120 |
 | Sp. Defense | 50 | 55 |
-| Speed       | 65 | 85 |
-| Total       | 395 | 450 |
+| Speed | 65 | 85 |
+| Total | 395 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -414,9 +414,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 50 | 85 |
+| Sp. Attack | 50 | 85 |
 | Sp. Defense | 90 | 120 |
-| Total       | 385 | 450 |
+| Total | 385 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -565,9 +565,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 85 | 95 |
+| Attack | 85 | 95 |
 | Sp. Defense | 50 | 60 |
-| Total       | 430 | 450 |
+| Total | 430 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -617,8 +617,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Total       | 430 | 450 |
+| HP | 60 | 80 |
+| Total | 430 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -645,9 +645,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 45 | 65 |
+| Sp. Attack | 45 | 65 |
 | Sp. Defense | 35 | 55 |
-| Total       | 198 | 238 |
+| Total | 198 | 238 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -671,9 +671,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 65 | 85 |
+| Sp. Attack | 65 | 85 |
 | Sp. Defense | 55 | 75 |
-| Total       | 278 | 318 |
+| Total | 278 | 318 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -723,9 +723,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 50 | 60 |
-| Sp. Attack  | 60 | 62 |
-| Total       | 269 | 289 |
+| Attack | 50 | 60 |
+| Sp. Attack | 60 | 62 |
+| Total | 269 | 289 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -754,12 +754,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack          | 60 | 50 |
-| Defense         | 62 | 65 |
-| Sp. Attack      | 80 | 105 |
-| Sp. Defense     | 82 | 105 |
-| Speed           | 60 | 85 |
-| Total           | 414 | 480 |
+| Attack | 60 | 50 |
+| Defense | 62 | 65 |
+| Sp. Attack | 80 | 105 |
+| Sp. Defense | 82 | 105 |
+| Speed | 60 | 85 |
+| Total | 414 | 480 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1051,9 +1051,7 @@
 
 **Location:** Route 104 South
 
-| Stat | Base | Change |
-| ---- | ---- | ------ |
-| Base Happiness  | 70 | 200 |
+**Base Happiness:** 70 >> 200
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1093,9 +1091,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 35 | 45 |
+| Sp. Attack | 35 | 45 |
 | Sp. Defense | 35 | 45 |
-| Total       | 260 | 280 |
+| Total | 260 | 280 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1125,11 +1123,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 80 |
-| Sp. Attack  | 55 | 100 |
+| HP | 70 | 80 |
+| Sp. Attack | 55 | 100 |
 | Sp. Defense | 55 | 65 |
-| Speed       | 70 | 80 |
-| Total       | 380 | 455 |
+| Speed | 70 | 80 |
+| Total | 380 | 455 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1153,27 +1151,27 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 50 | 55 |
-| Attack      | 75 | 80 |
-| Defense     | 75 | 80 |
-| Sp. Attack  | 65 | 70 |
+| HP | 50 | 55 |
+| Attack | 75 | 80 |
+| Defense | 75 | 80 |
+| Sp. Attack | 65 | 70 |
 | Sp. Defense | 65 | 70 |
-| Speed       | 50 | 55 |
-| Total       | 380 | 410 |
+| Speed | 50 | 55 |
+| Total | 380 | 410 |
 
 ### Mega Forme
 
-![sableye-mega](../../assets/sprites/sableye-mega/front.gif "sableye-mega: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.")
+![Sableye-mega](../../assets/sprites/sableye-mega/front.gif "Sableye-mega: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 50 | 55 |
-| Attack      | 85 | 90 |
-| Defense     | 125 | 130 |
-| Sp. Attack  | 85 | 90 |
+| HP | 50 | 55 |
+| Attack | 85 | 90 |
+| Defense | 125 | 130 |
+| Sp. Attack | 85 | 90 |
 | Sp. Defense | 115 | 120 |
-| Speed       | 20 | 25 |
-| Total       | 480 | 510 |
+| Speed | 20 | 25 |
+| Total | 480 | 510 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1204,27 +1202,27 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 50 | 55 |
-| Attack      | 85 | 90 |
-| Defense     | 85 | 90 |
-| Sp. Attack  | 55 | 60 |
+| HP | 50 | 55 |
+| Attack | 85 | 90 |
+| Defense | 85 | 90 |
+| Sp. Attack | 55 | 60 |
 | Sp. Defense | 55 | 60 |
-| Speed       | 50 | 55 |
-| Total       | 380 | 410 |
+| Speed | 50 | 55 |
+| Total | 380 | 410 |
 
 ### Mega Forme
 
-![mawile-mega](../../assets/sprites/mawile-mega/front.gif "mawile-mega: Don’t be taken in by this Pokémon’s cute face—it’s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.")
+![Mawile-mega](../../assets/sprites/mawile-mega/front.gif "Mawile-mega: Don’t be taken in by this Pokémon’s cute face—it’s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 50 | 55 |
-| Attack      | 105 | 110 |
-| Defense     | 125 | 130 |
-| Sp. Attack  | 55 | 60 |
+| HP | 50 | 55 |
+| Attack | 105 | 110 |
+| Defense | 125 | 130 |
+| Sp. Attack | 55 | 60 |
 | Sp. Defense | 95 | 100 |
-| Speed       | 50 | 55 |
-| Total       | 480 | 510 |
+| Speed | 50 | 55 |
+| Total | 480 | 510 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1403,13 +1401,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 70 |
-| Attack      | 50 | 60 |
-| Defense     | 40 | 50 |
-| Sp. Attack  | 85 | 95 |
+| HP | 60 | 70 |
+| Attack | 50 | 60 |
+| Defense | 40 | 50 |
+| Sp. Attack | 85 | 95 |
 | Sp. Defense | 75 | 85 |
-| Speed       | 95 | 105 |
-| Total       | 405 | 465 |
+| Speed | 95 | 105 |
+| Total | 405 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1437,13 +1435,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 70 |
-| Attack      | 40 | 50 |
-| Defense     | 50 | 60 |
-| Sp. Attack  | 75 | 85 |
+| HP | 60 | 70 |
+| Attack | 40 | 50 |
+| Defense | 50 | 60 |
+| Sp. Attack | 75 | 85 |
 | Sp. Defense | 85 | 95 |
-| Speed       | 95 | 105 |
-| Total       | 405 | 465 |
+| Speed | 95 | 105 |
+| Total | 405 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1475,12 +1473,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 73 | 105 |
-| Defense     | 55 | 60 |
-| Sp. Attack  | 47 | 45 |
+| Attack | 73 | 105 |
+| Defense | 55 | 60 |
+| Sp. Attack | 47 | 45 |
 | Sp. Defense | 75 | 80 |
-| Speed       | 85 | 95 |
-| Total       | 400 | 450 |
+| Speed | 85 | 95 |
+| Total | 400 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1511,12 +1509,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 47 | 45 |
-| Defense     | 55 | 60 |
-| Sp. Attack  | 73 | 105 |
+| Attack | 47 | 45 |
+| Defense | 55 | 60 |
+| Sp. Attack | 73 | 105 |
 | Sp. Defense | 75 | 80 |
-| Speed       | 85 | 95 |
-| Total       | 400 | 450 |
+| Speed | 85 | 95 |
+| Total | 400 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1801,13 +1799,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 60 | 80 |
-| Defense     | 60 | 80 |
-| Sp. Attack  | 60 | 80 |
+| HP | 60 | 80 |
+| Attack | 60 | 80 |
+| Defense | 60 | 80 |
+| Sp. Attack | 60 | 80 |
 | Sp. Defense | 60 | 80 |
-| Speed       | 60 | 80 |
-| Total       | 360 | 480 |
+| Speed | 60 | 80 |
+| Total | 360 | 480 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1873,10 +1871,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 100 | 110 |
-| Sp. Attack  | 80 | 90 |
-| Speed       | 100 | 110 |
-| Total       | 520 | 550 |
+| Attack | 100 | 110 |
+| Sp. Attack | 80 | 90 |
+| Speed | 100 | 110 |
+| Total | 520 | 550 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2050,11 +2048,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 80 |
-| Defense     | 65 | 80 |
-| Sp. Attack  | 95 | 110 |
+| HP | 70 | 80 |
+| Defense | 65 | 80 |
+| Sp. Attack | 95 | 110 |
 | Sp. Defense | 85 | 100 |
-| Total       | 440 | 495 |
+| Total | 440 | 495 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2080,11 +2078,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 80 |
-| Attack      | 95 | 110 |
-| Defense     | 85 | 100 |
+| HP | 70 | 80 |
+| Attack | 95 | 110 |
+| Defense | 85 | 100 |
 | Sp. Defense | 65 | 80 |
-| Total       | 440 | 495 |
+| Total | 440 | 495 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2377,13 +2375,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 70 | 60 |
-| Attack      | 70 | 60 |
-| Defense     | 70 | 60 |
-| Sp. Attack  | 70 | 100 |
+| HP | 70 | 60 |
+| Attack | 70 | 60 |
+| Defense | 70 | 60 |
+| Sp. Attack | 70 | 100 |
 | Sp. Defense | 70 | 100 |
-| Speed       | 70 | 100 |
-| Total       | 420 | 480 |
+| Speed | 70 | 100 |
+| Total | 420 | 480 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2407,10 +2405,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 90 | 100 |
-| Defense     | 70 | 80 |
-| Total       | 440 | 480 |
+| HP | 60 | 80 |
+| Attack | 90 | 100 |
+| Defense | 70 | 80 |
+| Total | 440 | 480 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2530,13 +2528,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 99 | 105 |
-| Attack      | 68 | 75 |
-| Defense     | 83 | 105 |
-| Sp. Attack  | 72 | 85 |
+| HP | 99 | 105 |
+| Attack | 68 | 75 |
+| Defense | 83 | 105 |
+| Sp. Attack | 72 | 85 |
 | Sp. Defense | 87 | 105 |
-| Speed       | 51 | 60 |
-| Total       | 460 | 535 |
+| Speed | 51 | 60 |
+| Total | 460 | 535 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2562,13 +2560,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 65 | 80 |
-| Attack      | 50 | 35 |
-| Defense     | 70 | 85 |
-| Sp. Atk     | 95 | 110 |
-| Sp. Def     | 80 | 95 |
-| Speed       | 65 | 80 |
-| Total       | 425 | 485 |
+| HP | 65 | 80 |
+| Attack | 50 | 35 |
+| Defense | 70 | 85 |
+| Sp. Attack | 95 | 110 |
+| Sp. Defense | 80 | 95 |
+| Speed | 65 | 80 |
+| Total | 425 | 485 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2820,11 +2818,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 43 | 45 |
-| Sp. Attack  | 40 | 100 |
+| HP | 43 | 45 |
+| Sp. Attack | 40 | 100 |
 | Sp. Defense | 65 | 90 |
-| Speed       | 97 | 145 |
-| Total       | 330 | 465 |
+| Speed | 97 | 145 |
+| Total | 330 | 465 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3186,7 +3184,7 @@
 
 ### Attack Forme
 
-?
+![Deoxys-attack](../../assets/sprites/deoxys-attack/front.gif "Deoxys-attack: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3200,7 +3198,7 @@
 
 ### Defense Forme
 
-?
+![Deoxys-defense](../../assets/sprites/deoxys-defense/front.gif "Deoxys-defense: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3215,7 +3213,7 @@
 
 ### Speed Forme
 
-?
+![Deoxys-speed](../../assets/sprites/deoxys-speed/front.gif "Deoxys-speed: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

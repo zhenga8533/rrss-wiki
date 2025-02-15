@@ -2,7 +2,7 @@ import json
 import logging
 import os
 
-from util.file import load
+from util.file import load, save
 from util.format import format_id
 
 
@@ -35,3 +35,10 @@ class Data:
 
         tooltip = f'<span class="tooltip" title="{flavor_text}">{name}</span>'
         return tooltip
+
+    def save_data(self, name: str, data: dict) -> None:
+        data_id = format_id(name)
+        self.cache[data_id] = data
+
+        file_path = self.input_path + data_id + ".json"
+        save(file_path, json.dumps(data, indent=4), self.logger)

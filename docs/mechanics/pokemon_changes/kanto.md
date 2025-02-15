@@ -249,11 +249,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 45 | 25 |
-| Sp. Attack  | 90 | 115 |
+| Attack | 45 | 25 |
+| Sp. Attack | 90 | 115 |
 | Sp. Defense | 80 | 105 |
-| Speed       | 70 | 95 |
-| Total       | 395 | 450 |
+| Speed | 70 | 95 |
+| Total | 395 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -315,22 +315,22 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 90 | 115 |
-| Sp. Attack  | 45 | 25 |
+| Attack | 90 | 115 |
+| Sp. Attack | 45 | 25 |
 | Sp. Defense | 80 | 105 |
-| Speed       | 75 | 100 |
-| Total       | 395 | 450 |
+| Speed | 75 | 100 |
+| Total | 395 | 450 |
 
 ### Mega Forme
 
-![beedrill-mega](../../assets/sprites/beedrill-mega/front.gif "beedrill-mega: Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.")
+![Beedrill-mega](../../assets/sprites/beedrill-mega/front.gif "Beedrill-mega: Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.")
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Defense     | 40 | 50 |
-| Sp. Attack  | 15 | 30 |
+| Defense | 40 | 50 |
+| Sp. Attack | 15 | 30 |
 | Sp. Defense | 80 | 110 |
-| Total       | 495 | 550 |
+| Total | 495 | 550 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -436,11 +436,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 55 | 60 |
-| Attack      | 81 | 100 |
-| Sp. Attack  | 50 | 35 |
-| Speed       | 97 | 115 |
-| Total       | 413 | 440 |
+| HP | 55 | 60 |
+| Attack | 81 | 100 |
+| Sp. Attack | 50 | 35 |
+| Speed | 97 | 115 |
+| Total | 413 | 440 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -487,10 +487,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 90 | 100 |
-| Sp. Attack  | 61 | 60 |
+| Attack | 90 | 100 |
+| Sp. Attack | 61 | 60 |
 | Sp. Defense | 61 | 60 |
-| Total       | 442 | 450 |
+| Total | 442 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -534,12 +534,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 85 | 95 |
-| Defense     | 69 | 70 |
-| Sp. Attack  | 65 | 55 |
+| Attack | 85 | 95 |
+| Defense | 69 | 70 |
+| Sp. Attack | 65 | 55 |
 | Sp. Defense | 79 | 85 |
-| Speed       | 80 | 85 |
-| Total       | 438 | 450 |
+| Speed | 80 | 85 |
+| Total | 438 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -597,9 +597,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 90 | 100 |
-| Sp. Attack  | 90 | 100 |
-| Total       | 485 | 505 |
+| Attack | 90 | 100 |
+| Sp. Attack | 90 | 100 |
+| Total | 485 | 505 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -660,9 +660,9 @@
 
 ---
 
-## #029 Nidoran♀
+## #029 Nidoran F
 
-?
+![Nidoran F](../../assets/sprites/nidoran-f/front.gif "Nidoran F: Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.")
 
 **Location:** Route 103
 
@@ -715,9 +715,9 @@
 
 ---
 
-## #032 Nidoran♂
+## #032 Nidoran M
 
-?
+![Nidoran M](../../assets/sprites/nidoran-m/front.gif "Nidoran M: Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.")
 
 **Location:** Route 103
 
@@ -858,10 +858,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Defense     | 20 | 40 |
-| Sp. Attack  | 45 | 60 |
+| Defense | 20 | 40 |
+| Sp. Attack | 45 | 60 |
 | Sp. Defense | 25 | 40 |
-| Total       | 270 | 320 |
+| Total | 270 | 320 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -885,12 +885,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 140 | 150 |
-| Attack      | 70 | 80 |
-| Defense     | 45 | 55 |
-| Sp. Attack  | 85 | 95 |
+| HP | 140 | 150 |
+| Attack | 70 | 80 |
+| Defense | 45 | 55 |
+| Sp. Attack | 85 | 95 |
 | Sp. Defense | 50 | 60 |
-| Total       | 435 | 485 |
+| Total | 435 | 485 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1018,8 +1018,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 70 | 80 |
-| Total       | 285 | 295 |
+| Attack | 70 | 80 |
+| Total | 285 | 295 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1042,12 +1042,12 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 60 | 80 |
-| Attack      | 95 | 115 |
-| Defense     | 80 | 90 |
-| Sp. Attack  | 60 | 45 |
+| HP | 60 | 80 |
+| Attack | 95 | 115 |
+| Defense | 80 | 90 |
+| Sp. Attack | 60 | 45 |
 | Sp. Defense | 80 | 90 |
-| Total       | 435 | 450 |
+| Total | 435 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1090,10 +1090,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 65 | 55 |
-| Sp. Attack  | 90 | 100 |
-| Speed       | 90 | 100 |
-| Total       | 450 | 460 |
+| Attack | 65 | 55 |
+| Sp. Attack | 90 | 100 |
+| Speed | 90 | 100 |
+| Total | 450 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1138,11 +1138,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 35 | 45 |
-| Attack      | 80 | 100 |
-| Defense     | 50 | 60 |
+| HP | 35 | 45 |
+| Attack | 80 | 100 |
+| Defense | 50 | 60 |
 | Sp. Defense | 70 | 80 |
-| Total       | 405 | 455 |
+| Total | 405 | 455 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1188,9 +1188,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 70 | 85 |
-| Sp. Attack  | 65 | 75 |
-| Total       | 440 | 460 |
+| Attack | 70 | 85 |
+| Sp. Attack | 65 | 75 |
+| Total | 440 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1832,13 +1832,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 52 | 65 |
-| Attack      | 65 | 130 |
-| Defense     | 55 | 65 |
-| Sp. Attack  | 58 | 30 |
+| HP | 52 | 65 |
+| Attack | 65 | 130 |
+| Defense | 55 | 65 |
+| Sp. Attack | 58 | 30 |
 | Sp. Defense | 62 | 65 |
-| Speed       | 60 | 120 |
-| Total       | 352 | 475 |
+| Speed | 60 | 120 |
+| Total | 352 | 475 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -1926,10 +1926,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 70 | 80 |
-| Sp. Attack  | 70 | 80 |
-| Speed       | 70 | 60 |
-| Total       | 475 | 485 |
+| Attack | 70 | 80 |
+| Sp. Attack | 70 | 80 |
+| Speed | 70 | 60 |
+| Total | 475 | 485 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2107,10 +2107,10 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP          | 35 | 65 |
-| Attack      | 45 | 75 |
-| Speed       | 70 | 100 |
-| Total       | 385 | 475 |
+| HP | 35 | 65 |
+| Attack | 45 | 75 |
+| Speed | 70 | 100 |
+| Total | 385 | 475 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2327,9 +2327,9 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| HP      | 60 | 70 |
-| Speed   | 45 | 60 |
-| Total   | 425 | 450 |
+| HP | 60 | 70 |
+| Speed | 45 | 60 |
+| Total | 425 | 450 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2638,11 +2638,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Attack      | 92 | 100 |
-| Defense     | 65 | 80 |
-| Sp. Attack  | 65 | 40 |
-| Speed       | 68 | 80 |
-| Total       | 450 | 460 |
+| Attack | 92 | 100 |
+| Defense | 65 | 80 |
+| Sp. Attack | 65 | 40 |
+| Speed | 68 | 80 |
+| Total | 450 | 460 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -2999,8 +2999,8 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
-| Sp. Attack  | 95 | 65 |
-| Speed       | 65 | 95 |
+| Sp. Attack | 95 | 65 |
+| Speed | 65 | 95 |
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |
@@ -3171,9 +3171,7 @@
 
 **Location:** Mirage Mountain
 
-### Ability 2: Snow Cloak
-
-?
+**Ability 2:** Snow Cloak
 
 | Level | Move |     | Cont. | Move |
 | ----- | ---- | --- | ----- | ---- |

@@ -106,7 +106,7 @@ def fix_pokemon_form(form: str) -> str:
         "wormadam": "wormadam-plant",
         "giratina": "giratina-altered",
         "shaymin": "shaymin-land",
-        "darmantian": "darmanitan-standard",
+        "darmanitan": "darmanitan-standard",
         "basculin": "basculin-red-striped",
         "pumpkaboo": "pumpkaboo-average",
         "gourgeist": "gourgeist-average",
@@ -115,6 +115,8 @@ def fix_pokemon_form(form: str) -> str:
         "landorus": "landorus-incarnate",
         "keldeo": "keldeo-ordinary",
         "meloetta": "meloetta-aria",
+        "aegislash": "aegislash-shield",
+        "zygarde": "zygarde-50",
     }
 
     if form in fix_map:
