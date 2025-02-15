@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 from util.data import Data
 from util.file import load, save
-from util.format import check_empty, find_pokemon_sprite
+from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
 
 
@@ -15,14 +15,16 @@ def change_attribute(attribute: str, change: str, logger: Logger) -> str:
     pass
 
 
-def change_table(changes: list[str], pokemon: str, pokemon_data: Data, logger: Logger) -> str:
+def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data: Data, logger: Logger) -> str:
     table = ""
     data = pokemon_data.get_data(pokemon)
 
+    ## Stat changes
     if " >> " in changes[-1]:
         table += "| Stat | Base | Change |\n"
         table += "| ---- | ---- | ------ |\n"
 
+        # Stat formatting constants
         pattern = r"([A-Z. a-z]+)([0-9]+) >> ([0-9]+)"
         stat_ids = {
             "HP": "hp",
@@ -35,31 +37,46 @@ def change_table(changes: list[str], pokemon: str, pokemon_data: Data, logger: L
         }
 
         for change in changes:
+            # Format the stat data
             stat, base, change = re.match(pattern, change).groups()
             stat = stat.strip()
             stat_id = stat_ids[stat]
 
+            # Add the stat to the table and the data
             table += f"| {stat} | {base} | {change} |\n"
             data["stats"][stat_id] = int(change)
+    # Level up move changes
     else:
-        table += "| Level | Move |     | Cont. | Move |\n"
-        table += "| ----- | ---- | --- | ----- | ---- |\n"
+        table += "| Moves | Level |     | Cont. | Level |\n"
+        table += "| ----- | ----- | --- | ----- | ----- |\n"
 
-        pattern = r"([0-9]+) ([A-Z a-z]+)"
+        # Parse the move data
+        pattern = r"([0-9]+) ([A-Z' \-a-z]+)"
         n = len(changes)
         half = math.ceil(n / 2)
 
-        for i in range(half):
-            move1 = changes[i]
-            level1, move1 = re.match(pattern, move1.strip(" *")).groups()
-            table += f"| {level1} | {move1} |   | "
+        # Remove all level-up moves
+        data["moves"]["omega-ruby-alpha-sapphire"] = [
+            move for move in data["moves"]["omega-ruby-alpha-sapphire"] if move["learn_method"] != "level-up"
+        ]
+        moves = data["moves"]["omega-ruby-alpha-sapphire"]
 
-            if i + half < n:
-                move2 = changes[i + half]
-                level2, move2 = re.match(pattern, move2.strip(" *")).groups()
-                table += f"{level2} | {move2} |\n"
-            else:
-                table += "  |   |\n"
+        for i in range(half):
+            for j in range(2):
+                # Get the move index
+                index = i + j * half
+                if index >= n:
+                    table += "|   |   |   "
+                    break
+
+                # Format the move data
+                move = changes[index]
+                level, move = re.match(pattern, move).groups()
+
+                # Add the move to the table and the data
+                table += f"| {move_data.get_tooltip(move, "omega-ruby-alpha-sapphire")} | {level} |   "
+                moves.append({"name": format_id(move), "level_learned_at": int(level), "learn_method": "level-up"})
+            table = table[:-3] + "\n"
 
     pokemon_data.save_data(pokemon, data)
     changes.clear()
@@ -106,9 +123,11 @@ def main():
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Pokémon Changes Parser", LOG_PATH + "pokemon_changes.log", LOG)
 
-    # Initialize item data object
+    # Initialize data objects
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     pokemon_data = Data(POKEMON_INPUT_PATH, logger)
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
+    move_data = Data(MOVE_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "PokemonChanges.txt"
@@ -133,7 +152,7 @@ def main():
         # Skip empty lines
         if check_empty(line):
             if len(changes) > 0:
-                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, logger)
+                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, move_data, logger)
                 md += "\n"
         # Table lines
         elif line.startswith("| "):

@@ -218,7 +218,7 @@ Ability 2: Shell Armor **
 21  Rapid Spin
 24  Protect
 27  Aqua Tail
-29  Skull Bush
+29  Skull Bash
 31  Muddy Water *
 33  Iron Defense
 36  Rain Dance
@@ -242,7 +242,7 @@ Ability 2: Shell Armor **
 24  Rapid Spin
 28  Protect
 31  Aqua Tail
-34  Skull Bush
+34  Skull Bash
 37  Muddy Water *
 40  Iron Defense
 44  Rain Dance
@@ -271,7 +271,7 @@ Ability 2: Mega Launcher **
 24  Rapid Spin
 28  Protect
 31  Aqua Tail
-34  Skull Bush
+34  Skull Bash
 38  Muddy Water *
 42  Iron Defense
 46  Rain Dance
@@ -372,7 +372,7 @@ Total       495 >> 550
 
 1   Fury Attack
 10  Fury Attack
-10  Twinneedle
+10  Twineedle
 12  Focus Energy
 14  Cross Poison **
 16  Pursuit
@@ -2505,7 +2505,7 @@ Location: Granite Cave
 10  Headbutt
 13  Leer
 16  Focus Energy
-19  Boomerang
+19  Bonemerang
 22  Double Kick *
 25  Rage
 28  False Swipe
@@ -2536,7 +2536,7 @@ Total   425 >> 450
 10  Headbutt
 13  Leer
 16  Focus Energy
-19  Boomerang
+19  Bonemerang
 22  Double Kick *
 25  Rage
 28  False Swipe
@@ -3185,7 +3185,7 @@ Base Happiness: 70 >> 140
 9   Baby-Doll Eyes
 10  Swift
 13  Quick Attack
-17  Bote
+17  Bite
 20  Refresh
 23  Covet
 25  Take Down
@@ -8014,7 +8014,7 @@ Held Item: Jaw Fossil (50%), Soft Sand (5%)
 
 1   Sand Attack
 1   Bite
-1   Faint Attack
+1   Feint Attack
 1   Bide
 5   Mud-Slap
 8   Bulldoze
@@ -12854,7 +12854,7 @@ Base Happiness: 70 >> 140
 7   Gust
 10  Heart Stamp
 13  Assurance
-16  Imprision
+16  Imprison
 19  Air Cutter
 22  Knock Off *
 25  Psyshock *
@@ -12889,7 +12889,7 @@ Total       425 >> 465
 7   Gust
 10  Heart Stamp
 13  Assurance
-16  Imprision
+16  Imprison
 19  Air Cutter
 22  Knock Off *
 25  Psyshock *
@@ -13220,7 +13220,7 @@ Location: Safari Zone
 =======================
 Location: Petalburg Woods
 
-1   Twinneedle *
+1   Twineedle *
 1   Defense Curl
 1   Rollout
 5   Poison Sting
@@ -13242,7 +13242,7 @@ Location: Petalburg Woods
 =======================
 Location: Safari Zone
 
-1   Twinneedle *
+1   Twineedle *
 1   Defense Curl
 1   Rollout
 5   Poison Sting
@@ -13267,7 +13267,7 @@ Location: Evolve Whirlipede (Lv. 30)
 
 1   Megahorn
 1   Aqua Tail *
-1   Twinneedle *
+1   Twineedle *
 1   Defense Curl
 1   Rollout
 5   Poison Sting
@@ -14232,7 +14232,7 @@ Location: Route 117
 10  Double Kick
 13  Leech Seed
 16  Facade *
-19  Faint Attack
+19  Feint Attack
 22  Take Down
 25  Jump Kick
 28  Aromatherapy
@@ -14255,7 +14255,7 @@ Location: Route 117
 10  Double Kick
 13  Leech Seed
 16  Facade *
-19  Faint Attack
+19  Feint Attack
 22  Take Down
 25  Jump Kick
 28  Aromatherapy
@@ -14542,7 +14542,7 @@ Evolution Level: 40 >> 37
 3   Rollout
 6   Curse
 9   Metal Claw
-12  Pin Missle
+12  Pin Missile
 15  Gyro Ball
 18  Bullet Seed *
 21  Iron Defense
@@ -14565,7 +14565,7 @@ Location: Meteor Falls
 3   Rollout
 6   Curse
 9   Metal Claw
-12  Pin Missle
+12  Pin Missile
 15  Gyro Ball
 18  Bullet Seed *
 21  Iron Defense
@@ -16291,7 +16291,7 @@ Ability 2: Symbiosis
 23  Dazzling Gleam *
 26  Grass Knot *
 29  Grassy Terrain
-32  Petal Blizard
+32  Petal Blizzard
 35  Moonblast
 38  Aromatherapy
 41  Petal Dance
@@ -16316,7 +16316,7 @@ Normal Forme
 25  Dazzling Gleam *
 29  Grass Knot *
 33  Grassy Terrain
-37  Petal Blizard
+37  Petal Blizzard
 41  Moonblast
 45  Aromatherapy
 49  Petal Dance
@@ -16336,7 +16336,7 @@ Eternal Forme
 25  Dazzling Gleam *
 29  Grass Knot *
 33  Grassy Terrain
-37  Petal Blizard
+37  Petal Blizzard
 41  Moonblast
 45  Aromatherapy
 49  Petal Dance

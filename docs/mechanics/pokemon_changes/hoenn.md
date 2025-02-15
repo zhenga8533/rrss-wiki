@@ -10,18 +10,18 @@
 
 **Ability 2:** Unburden
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 21 |  Pursuit |
-| 3 |   Leer |   | 23 |  Energy Ball |
-| 5 |   Absorb |   | 25 |  Slam |
-| 7 |   Quick Attack |   | 27 |  Detect |
-| 9 |   Mega Drain |   | 29 |  Crunch |
-| 11 |  Dragon Breath |   | 31 |  Endeavor |
-| 13 |  Double Kick |   | 33 |  Quick Guard |
-| 15 |  Grass Whistle |   | 35 |  Screech |
-| 17 |  Agility |   | 37 |  Leaf Storm |
-| 19 |  Giga Drain |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 21 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 3 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 23 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 5 |   | <span class="tooltip" title="The target is slammed with a long tail, vines, or the like to inflict damage.">Slam</span> | 25 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 7 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 27 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 9 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 29 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 11 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 31 |
+| <span class="tooltip" title="The target is quickly kicked twice in succession using both feet.">Double Kick</span> | 13 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 33 |
+| <span class="tooltip" title="The user plays a pleasant melody that lulls the target into a deep sleep.">Grass Whistle</span> | 15 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 35 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 17 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 37 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 19 |   |   |   |
 
 ---
 
@@ -33,19 +33,19 @@
 
 **Ability 2:** Unburden
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 24 |  Pursuit |
-| 3 |   Leer |   | 27 |  Leaf Blade |
-| 5 |   Absorb |   | 30 |  Acrobatics |
-| 7 |   Quick Attack |   | 33 |  Detect |
-| 9 |   Mega Drain |   | 36 |  Crunch |
-| 11 |  Dragon Breath |   | 39 |  Endeavor |
-| 13 |  Double Kick |   | 42 |  X |
-| 15 |  Grass Whistle |   | 45 |  Quick Guard |
-| 16 |  Fury Cutter |   | 48 |  Screech |
-| 18 |  Agility |   | 51 |  Leaf Storm |
-| 21 |  Giga Drain |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 24 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 3 |   | <span class="tooltip" title="The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.">Leaf Blade</span> | 27 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 5 |   | <span class="tooltip" title="The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.">Acrobatics</span> | 30 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 7 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 33 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 9 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 36 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 11 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 39 |
+| <span class="tooltip" title="The target is quickly kicked twice in succession using both feet.">Double Kick</span> | 13 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 42 |
+| <span class="tooltip" title="The user plays a pleasant melody that lulls the target into a deep sleep.">Grass Whistle</span> | 15 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 45 |
+| <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 16 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 48 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 18 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 51 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 21 |   |   |   |
 
 ---
 
@@ -57,21 +57,21 @@
 
 **Ability 2:** Unburden
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leaf Storm |   | 21 |  Giga Drain |
-| 1 |   Night Slash |   | 24 |  Pursuit |
-| 1 |   Thunder Punch |   | 27 |  Leaf Blade |
-| 1 |   Pound |   | 30 |  Acrobatics |
-| 3 |   Leer |   | 33 |  Detect |
-| 5 |   Absorb |   | 36 |  Dual Chop |
-| 7 |   Quick Attack |   | 37 |  Crunch |
-| 9 |   Mega Drain |   | 41 |  Endeavor |
-| 11 |  Dragon Breath |   | 45 |  X |
-| 13 |  Double Kick |   | 49 |  Dragon Pulse |
-| 15 |  Grass Whistle |   | 53 |  Screech |
-| 16 |  Fury Cutter |   | 57 |  Leaf Storm |
-| 18 |  Agility |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 1 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 21 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 24 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.">Leaf Blade</span> | 27 |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.">Acrobatics</span> | 30 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 3 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 33 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 5 |   | <span class="tooltip" title="The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.">Dual Chop</span> | 36 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 7 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 37 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 9 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 41 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 11 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 45 |
+| <span class="tooltip" title="The target is quickly kicked twice in succession using both feet.">Double Kick</span> | 13 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 49 |
+| <span class="tooltip" title="The user plays a pleasant melody that lulls the target into a deep sleep.">Grass Whistle</span> | 15 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 53 |
+| <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 16 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 57 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 18 |   |   |   |
 
 ---
 
@@ -83,18 +83,18 @@
 
 **Ability 2:** Speed Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 21 |  Flame Burst |
-| 3 |   Growl |   | 23 |  Aerial Ace |
-| 5 |   Ember |   | 25 |  Focus Energy |
-| 7 |   Sand Attack |   | 27 |  Slash |
-| 9 |   Peck |   | 29 |  Bounce |
-| 11 |  Fire Spin |   | 31 |  Flamethrower |
-| 13 |  Feather Dance |   | 33 |  Mirror Move |
-| 15 |  Flame Charge |   | 35 |  Reversal |
-| 17 |  Night Slash |   | 37 |  Fire Blast |
-| 19 |  Quick Attack |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="The user confounds the target with speed, then slashes. This attack never misses.">Aerial Ace</span> | 23 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 5 |   | <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 25 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 27 |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 9 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 29 |
+| <span class="tooltip" title="The target becomes trapped within a fierce vortex of fire that rages for four to five turns.">Fire Spin</span> | 11 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 31 |
+| <span class="tooltip" title="The user covers the target’s body with a mass of down that harshly lowers its Attack stat.">Feather Dance</span> | 13 |   | <span class="tooltip" title="The user counters the target by mimicking the target’s last move.">Mirror Move</span> | 33 |
+| <span class="tooltip" title="Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.">Flame Charge</span> | 15 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 35 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 17 |   | <span class="tooltip" title="The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.">Fire Blast</span> | 37 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 19 |   |   |   |
 
 ---
 
@@ -106,19 +106,19 @@
 
 **Ability 2:** Speed Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 24 |  Flame Burst |
-| 3 |   Growl |   | 27 |  Low Kick |
-| 5 |   Ember |   | 30 |  Bulk Up |
-| 7 |   Sand Attack |   | 33 |  Focus Energy |
-| 9 |   Peck |   | 36 |  Slash |
-| 11 |  Fire Spin |   | 39 |  Bounce |
-| 13 |  Feather Dance |   | 42 |  Flamethrower |
-| 15 |  Flame Charge |   | 45 |  Mirror Move |
-| 16 |  Double Kick |   | 48 |  Sky Uppercut |
-| 18 |  Night Slash |   | 51 |  Flare Blitz |
-| 21 |  Quick Attack |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 24 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.">Low Kick</span> | 27 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 5 |   | <span class="tooltip" title="The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.">Bulk Up</span> | 30 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 33 |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 9 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 36 |
+| <span class="tooltip" title="The target becomes trapped within a fierce vortex of fire that rages for four to five turns.">Fire Spin</span> | 11 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 39 |
+| <span class="tooltip" title="The user covers the target’s body with a mass of down that harshly lowers its Attack stat.">Feather Dance</span> | 13 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 42 |
+| <span class="tooltip" title="Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.">Flame Charge</span> | 15 |   | <span class="tooltip" title="The user counters the target by mimicking the target’s last move.">Mirror Move</span> | 45 |
+| <span class="tooltip" title="The target is quickly kicked twice in succession using both feet.">Double Kick</span> | 16 |   | <span class="tooltip" title="The user attacks the target with an uppercut thrown skyward with force.">Sky Uppercut</span> | 48 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 18 |   | <span class="tooltip" title="The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn.">Flare Blitz</span> | 51 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 21 |   |   |   |
 
 ---
 
@@ -130,21 +130,21 @@
 
 **Ability 2:** Speed Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Flare Blitz |   | 21 |  Quick Attack |
-| 1 |   Fire Punch |   | 24 |  Flame Burst |
-| 1 |   Thunder Punch |   | 27 |  Low Kick |
-| 1 |   High Jump Kick |   | 30 |  Bulk Up |
-| 3 |   Growl |   | 33 |  Focus Energy |
-| 5 |   Ember |   | 36 |  Blaze Kick |
-| 7 |   Sand Attack |   | 37 |  Slash |
-| 9 |   Peck |   | 41 |  Bounce |
-| 11 |  Fire Spin |   | 45 |  Flamethrower |
-| 13 |  Feather Dance |   | 49 |  Brave Bird |
-| 15 |  Flame Charge |   | 53 |  Sky Uppercut |
-| 16 |  Double Kick |   | 57 |  Flare Blitz |
-| 18 |  Night Slash |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn.">Flare Blitz</span> | 1 |   | <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 21 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 24 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.">Low Kick</span> | 27 |
+| <span class="tooltip" title="The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.">High Jump Kick</span> | 1 |   | <span class="tooltip" title="The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.">Bulk Up</span> | 30 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 33 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 5 |   | <span class="tooltip" title="The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.">Blaze Kick</span> | 36 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 37 |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 9 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 41 |
+| <span class="tooltip" title="The target becomes trapped within a fierce vortex of fire that rages for four to five turns.">Fire Spin</span> | 11 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 45 |
+| <span class="tooltip" title="The user covers the target’s body with a mass of down that harshly lowers its Attack stat.">Feather Dance</span> | 13 |   | <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.">Brave Bird</span> | 49 |
+| <span class="tooltip" title="Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.">Flame Charge</span> | 15 |   | <span class="tooltip" title="The user attacks the target with an uppercut thrown skyward with force.">Sky Uppercut</span> | 53 |
+| <span class="tooltip" title="The target is quickly kicked twice in succession using both feet.">Double Kick</span> | 16 |   | <span class="tooltip" title="The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn.">Flare Blitz</span> | 57 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 18 |   |   |   |
 
 ---
 
@@ -156,18 +156,18 @@
 
 **Ability 2:** Damp
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 21 |  Aqua Tail |
-| 3 |   Growl |   | 23 |  Mud Sport |
-| 5 |   Water Gun |   | 25 |  Whirlpool |
-| 7 |   Mud |   | 27 |  Sludge Wave |
-| 9 |   Foresight |   | 29 |  Take Down |
-| 11 |  Bide |   | 31 |  Avalanche |
-| 13 |  Rock Throw |   | 33 |  Endeavor |
-| 15 |  Water Pulse |   | 35 |  Mirror Coat |
-| 17 |  Yawn |   | 37 |  Hydro Pump |
-| 19 |  Protect |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 23 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 5 |   | <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 25 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 7 |   | <span class="tooltip" title="The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.">Sludge Wave</span> | 27 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 9 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 29 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 11 |   | <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.">Avalanche</span> | 31 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 13 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 33 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 35 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 17 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 37 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 19 |   |   |   |
 
 ---
 
@@ -179,19 +179,19 @@
 
 **Ability 2:** Damp
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 24 |  Aqua Tail |
-| 3 |   Growl |   | 27 |  Rock Slide |
-| 5 |   Water Gun |   | 30 |  Muddy Water |
-| 7 |   Mud |   | 33 |  Sludge Wave |
-| 9 |   Foresight |   | 36 |  Take Down |
-| 11 |  Bide |   | 39 |  Earthquake |
-| 13 |  Rock Throw |   | 42 |  Avalanche |
-| 15 |  Water Pulse |   | 45 |  Endeavor |
-| 16 |  Mud Shot |   | 48 |  Mirror Coat |
-| 18 |  Yawn |   | 51 |  Hydro Pump |
-| 21 |  Mud Bomb |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 24 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 27 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 5 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 30 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 7 |   | <span class="tooltip" title="The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.">Sludge Wave</span> | 33 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 9 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 36 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 11 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 39 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 13 |   | <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.">Avalanche</span> | 42 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 45 |
+| <span class="tooltip" title="The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.">Mud Shot</span> | 16 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 48 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 18 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 51 |
+| <span class="tooltip" title="The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.">Mud Bomb</span> | 21 |   |   |   |
 
 ---
 
@@ -203,21 +203,21 @@
 
 **Ability 2:** Damp
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hydro Pump |   | 21 |  Mud Bomb |
-| 1 |   Ice Punch |   | 24 |  Aqua Tail |
-| 1 |   Stone Edge |   | 27 |  Rock Slide |
-| 1 |   Tackle |   | 30 |  Muddy Water |
-| 3 |   Growl |   | 33 |  Sludge Wave |
-| 5 |   Water Gun |   | 36 |  Hammer Arm |
-| 7 |   Mud |   | 37 |  Take Down |
-| 9 |   Foresight |   | 41 |  Earthquake |
-| 11 |  Bide |   | 45 |  Avalanche |
-| 13 |  Rock Throw |   | 49 |  Endeavor |
-| 15 |  Water Pulse |   | 53 |  Mirror Coat |
-| 16 |  Mud Shot |   | 57 |  Hydro Pump |
-| 18 |  Yawn |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 1 |   | <span class="tooltip" title="The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.">Mud Bomb</span> | 21 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 24 |
+| <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 27 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 30 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 3 |   | <span class="tooltip" title="The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.">Sludge Wave</span> | 33 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 5 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 36 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 7 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 37 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 9 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 41 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 11 |   | <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.">Avalanche</span> | 45 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 13 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 49 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 53 |
+| <span class="tooltip" title="The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.">Mud Shot</span> | 16 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 57 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 18 |   |   |   |
 
 ---
 
@@ -227,16 +227,16 @@
 
 **Location:** Route 101
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 25 |  Swagger |
-| 4 |   Howl |   | 28 |  Scary Face |
-| 7 |   Sand Attack |   | 31 |  Take Down |
-| 10 |  Bite |   | 34 |  Taunt |
-| 13 |  Odor Sleuth |   | 37 |  Play Rough |
-| 16 |  Assurance |   | 40 |  Embargo |
-| 19 |  Roar |   | 43 |  Sucker Punch |
-| 22 |  Crunch |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 25 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 4 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 28 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 31 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 10 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 34 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 13 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 37 |
+| <span class="tooltip" title="If the target has already taken some damage in the same turn, this attack’s power is doubled.">Assurance</span> | 16 |   | <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 40 |
+| <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 19 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 43 |
+| <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 22 |   |   |   |
 
 ---
 
@@ -252,19 +252,19 @@
 | Speed | 70 | 80 |
 | Total | 420 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Sucker Punch |   | 16 |  Assurance |
-| 1 |   Fire Fang |   | 20 |  Roar |
-| 1 |   Thunder Fang |   | 24 |  Crunch |
-| 1 |   Ice Fang |   | 28 |  Swagger |
-| 1 |   Poison Fang |   | 32 |  Scary Face |
-| 1 |   Super Fang |   | 36 |  Take Down |
-| 1 |   Tackle |   | 40 |  Taunt |
-| 4 |   Howl |   | 44 |  Play Rough |
-| 7 |   Sand Attack |   | 48 |  Embargo |
-| 10 |  Bite |   | 52 |  Sucker Punch |
-| 13 |  Odor Sleuth |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 1 |   | <span class="tooltip" title="If the target has already taken some damage in the same turn, this attack’s power is doubled.">Assurance</span> | 16 |
+| <span class="tooltip" title="The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.">Fire Fang</span> | 1 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 20 |
+| <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 24 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 1 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 28 |
+| <span class="tooltip" title="The user bites the target with toxic fangs. This may also leave the target badly poisoned.">Poison Fang</span> | 1 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 32 |
+| <span class="tooltip" title="The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.">Super Fang</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 36 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 40 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 4 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 44 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 48 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 10 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 52 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 13 |   |   |   |
 
 ---
 
@@ -279,18 +279,18 @@
 | Attack | 30 | 40 |
 | Sp. Attack | 30 | 20 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 21 |  Flail |
-| 1 |   Growl |   | 24 |  Seed Bomb |
-| 5 |   Tail Whip |   | 27 |  Bestow |
-| 7 |   Sand Attack |   | 30 |  Take Down |
-| 9 |   Headbutt |   | 33 |  Belly Drum |
-| 11 |  Baby |   | 36 |  Rest |
-| 13 |  Odor Sleuth |   | 39 |  Gunk Shot |
-| 15 |  Covet |   | 42 |  Fling |
-| 17 |  Pin Missile |   | 45 |  Extreme Speed |
-| 19 |  Mud Sport |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 24 |
+| <span class="tooltip" title="The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.">Tail Whip</span> | 5 |   | <span class="tooltip" title="The user passes its held item to the target when the target isn’t holding an item.">Bestow</span> | 27 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 30 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 9 |   | <span class="tooltip" title="The user maximizes its Attack stat in exchange for HP equal to half its max HP.">Belly Drum</span> | 33 |
+| <span class="tooltip" title="The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.">Baby-Doll Eyes</span> | 11 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 36 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 13 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 39 |
+| <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 15 |   | <span class="tooltip" title="The user flings its held item at the target to attack. This move’s power and effects depend on the item.">Fling</span> | 42 |
+| <span class="tooltip" title="Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.">Pin Missile</span> | 17 |   | <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 45 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 19 |   |   |   |
 
 ---
 
@@ -310,19 +310,19 @@
 | Speed | 100 | 110 |
 | Total | 420 | 440 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Extreme Speed |   | 19 |  Mud Sport |
-| 1 |   Switcheroo |   | 20 |  Play Rough |
-| 1 |   Tackle |   | 22 |  Slash |
-| 1 |   Growl |   | 26 |  Seed Bomb |
-| 5 |   Tail Whip |   | 30 |  Bestow |
-| 7 |   Sand Attack |   | 34 |  Double |
-| 9 |   Headbutt |   | 38 |  Belly Drum |
-| 11 |  Rototiller |   | 42 |  Rest |
-| 13 |  Odor Sleuth |   | 46 |  Gunk Shot |
-| 15 |  Covet |   | 50 |  Fling |
-| 17 |  Fury Swipes |   | 54 |  Extreme Speed |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 1 |   | <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 19 |
+| <span class="tooltip" title="The user trades held items with the target faster than the eye can follow.">Switcheroo</span> | 1 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 20 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 22 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 26 |
+| <span class="tooltip" title="The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.">Tail Whip</span> | 5 |   | <span class="tooltip" title="The user passes its held item to the target when the target isn’t holding an item.">Bestow</span> | 30 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 7 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 34 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 9 |   | <span class="tooltip" title="The user maximizes its Attack stat in exchange for HP equal to half its max HP.">Belly Drum</span> | 38 |
+| <span class="tooltip" title="Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon.">Rototiller</span> | 11 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 42 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 13 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 46 |
+| <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 15 |   | <span class="tooltip" title="The user flings its held item at the target to attack. This move’s power and effects depend on the item.">Fling</span> | 50 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 17 |   | <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 54 |
 
 ---
 
@@ -334,11 +334,11 @@
 
 **Ability 2:** Run Away
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 3 |   Bug Bite |
-| 1 |   String Shot |   | 5 |   Electroweb |
-| 1 |   Poison Sting |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 3 |
+| <span class="tooltip" title="The opposing Pokémon are bound with silk blown from the user’s mouth that harshly lowers the Speed stat.">String Shot</span> | 1 |   | <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 5 |
+| <span class="tooltip" title="The user stabs the target with a poisonous stinger. This may also poison the target.">Poison Sting</span> | 1 |   |   |   |
 
 ---
 
@@ -348,10 +348,10 @@
 
 **Location:** Evolve Wurmple (Lv. 7)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Harden |   | 9 |   Iron Defense |
-| 7 |   Harden |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 9 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 7 |   |   |   |
 
 ---
 
@@ -374,18 +374,18 @@
 | Speed | 65 | 85 |
 | Total | 395 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Gust |   | 28 |  Giga Drain |
-| 10 |  Gust |   | 30 |  Bug Buzz |
-| 12 |  Absorb |   | 32 |  Whirlwind |
-| 14 |  Struggle Bug |   | 34 |  Rage |
-| 16 |  Stun Spore |   | 36 |  Energy Ball |
-| 18 |  Morning Sun |   | 38 |  Psychic |
-| 20 |  Air Cutter |   | 40 |  Air Slash |
-| 22 |  Mega Drain |   | 42 |  Quiver Dance |
-| 24 |  Silver Wind |   | 44 |  Hurricane |
-| 26 |  Attract |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 1 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 28 |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 10 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 30 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 12 |   | <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 32 |
+| <span class="tooltip" title="While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.">Struggle Bug</span> | 14 |   | <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 34 |
+| <span class="tooltip" title="The user scatters a cloud of numbing powder that paralyzes the target.">Stun Spore</span> | 16 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 36 |
+| <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Morning Sun</span> | 18 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 38 |
+| <span class="tooltip" title="The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.">Air Cutter</span> | 20 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 40 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 22 |   | <span class="tooltip" title="The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.">Quiver Dance</span> | 42 |
+| <span class="tooltip" title="The target is attacked with powdery scales blown by wind. This may also raise all the user’s stats.">Silver Wind</span> | 24 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 44 |
+| <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 26 |   |   |   |
 
 ---
 
@@ -395,10 +395,10 @@
 
 **Location:** Evolve Wurmple (Lv. 7)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Harden |   | 9 |   Iron Defense |
-| 7 |   Harden |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 9 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 7 |   |   |   |
 
 ---
 
@@ -418,17 +418,17 @@
 | Sp. Defense | 90 | 120 |
 | Total | 385 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Gust |   | 26 |  Light Screen |
-| 10 |  Gust |   | 28 |  Psychic |
-| 12 |  Confusion |   | 30 |  Bug Buzz |
-| 14 |  Struggle Bug |   | 32 |  Toxic |
-| 16 |  Poison Powder |   | 34 |  Protect |
-| 18 |  Moonlight |   | 36 |  Sludge Bomb |
-| 20 |  Venoshock |   | 38 |  Shadow Ball |
-| 22 |  Psybeam |   | 40 |  Roost |
-| 24 |  Silver Wind |   | 42 |  Quiver Dance |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 1 |   | <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from special attacks for five turns.">Light Screen</span> | 26 |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 10 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 28 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 12 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 30 |
+| <span class="tooltip" title="While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.">Struggle Bug</span> | 14 |   | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | 32 |
+| <span class="tooltip" title="The user scatters a cloud of poisonous dust on the target. This may also poison the target.">Poison Powder</span> | 16 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 34 |
+| <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Moonlight</span> | 18 |   | <span class="tooltip" title="Unsanitary sludge is hurled at the target. This may also poison the target.">Sludge Bomb</span> | 36 |
+| <span class="tooltip" title="The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.">Venoshock</span> | 20 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 38 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 22 |   | <span class="tooltip" title="The user lands and rests its body. It restores the user’s HP by up to half of its max HP.">Roost</span> | 40 |
+| <span class="tooltip" title="The target is attacked with powdery scales blown by wind. This may also raise all the user’s stats.">Silver Wind</span> | 24 |   | <span class="tooltip" title="The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.">Quiver Dance</span> | 42 |
 
 ---
 
@@ -438,15 +438,15 @@
 
 **Location:** Route 102
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Astonish |   | 19 |  Mist |
-| 1 |   Growl |   | 22 |  Nature Power |
-| 5 |   Absorb |   | 25 |  Rain Dance |
-| 7 |   Bubble |   | 28 |  Giga Drain |
-| 10 |  Natural Gift |   | 31 |  Zen Headbutt |
-| 13 |  Mega Drain |   | 34 |  Energy Ball |
-| 16 |  Bubble Beam |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 19 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 22 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 5 |   | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water-type moves.">Rain Dance</span> | 25 |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 7 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 28 |
+| <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.">Natural Gift</span> | 10 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 31 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 13 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 34 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 16 |   |   |   |
 
 ---
 
@@ -456,16 +456,16 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Astonish |   | 22 |  Water Sport |
-| 1 |   Growl |   | 26 |  Nature Power |
-| 5 |   Absorb |   | 30 |  Giga Drain |
-| 7 |   Bubble |   | 34 |  Uproar |
-| 10 |  Fury Swipes |   | 38 |  Knock Off |
-| 13 |  Mega Drain |   | 42 |  Zen Headbutt |
-| 14 |  Fake Out |   | 46 |  Energy Ball |
-| 18 |  Bubble Beam |   | 50 |  Hydro Pump |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 22 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 26 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 5 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 30 |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 7 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 34 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 10 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 38 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 13 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 42 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 14 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 46 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 18 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
 
 ---
 
@@ -475,14 +475,14 @@
 
 **Location:** Evolve Lombre (Water Stone)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Ice Punch |   | 1 |   Mega Drain |
-| 1 |   Fire Punch |   | 1 |   Nature Power |
-| 1 |   Thunder Punch |   | 23 |  Teeter Dance |
-| 1 |   Drain Punch |   | 38 |  Rain Dance |
-| 1 |   Astonish |   | 53 |  Hydro Pump |
-| 1 |   Growl |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 1 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 1 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user performs a wobbly dance that confuses the Pokémon around it.">Teeter Dance</span> | 23 |
+| <span class="tooltip" title="An energy-draining punch. The user’s HP is restored by half the damage taken by the target.">Drain Punch</span> | 1 |   | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water-type moves.">Rain Dance</span> | 38 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 53 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   |   |   |
 
 ---
 
@@ -492,13 +492,13 @@
 
 **ocation:** Route 102
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Bide |   | 15 |  Synthesis |
-| 3 |   Harden |   | 18 |  Seed Bomb |
-| 6 |   Bullet Seed |   | 21 |  Sunny Day |
-| 9 |   Growth |   | 24 |  Explosion |
-| 12 |  Nature Power |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | 15 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 3 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 18 |
+| <span class="tooltip" title="The user forcefully shoots seeds at the target two to five times in a row.">Bullet Seed</span> | 6 |   | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | 21 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 9 |   | <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 24 |
+| <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 12 |   |   |   |
 
 ---
 
@@ -508,15 +508,15 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 19 |  Feint Attack |
-| 3 |   Harden |   | 23 |  Razor Wind |
-| 6 |   Fake Out |   | 27 |  Leaf Blade |
-| 9 |   Growth |   | 31 |  Dark Pulse |
-| 12 |  Nature Power |   | 35 |  Swagger |
-| 14 |  Razor Leaf |   | 39 |  Low Kick |
-| 15 |  Torment |   | 43 |  Extrasensory |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 19 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 3 |   | <span class="tooltip" title="A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily.">Razor Wind</span> | 23 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 6 |   | <span class="tooltip" title="The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.">Leaf Blade</span> | 27 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 9 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 31 |
+| <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 12 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 35 |
+| <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 14 |   | <span class="tooltip" title="A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.">Low Kick</span> | 39 |
+| <span class="tooltip" title="The user torments and enrages the target, making it incapable of using the same move twice in a row.">Torment</span> | 15 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 43 |
 
 ---
 
@@ -526,13 +526,13 @@
 
 **Location:** Evolve Nuzleaf (Leaf Stone)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Twister |   | 1 |   Whirlwind |
-| 1 |   Ominous Wind |   | 1 |   Nasty Plot |
-| 1 |   Silver Wind |   | 20 |  Leaf Tornado |
-| 1 |   Razor Leaf |   | 32 |  Hurricane |
-| 1 |   Feint Attack |   | 44 |  Leaf Storm |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch.">Twister</span> | 1 |   | <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 1 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 1 |   | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk.">Nasty Plot</span> | 1 |
+| <span class="tooltip" title="The target is attacked with powdery scales blown by wind. This may also raise all the user’s stats.">Silver Wind</span> | 1 |   | <span class="tooltip" title="The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy.">Leaf Tornado</span> | 20 |
+| <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 1 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 32 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 1 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 44 |
 
 ---
 
@@ -544,14 +544,14 @@
 
 **Ability 2:** Scrappy
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Peck |   | 21 |  Aerial Ace |
-| 1 |   Growl |   | 25 |  Quick Guard |
-| 5 |   Focus Energy |   | 29 |  Agility |
-| 9 |   Quick Attack |   | 33 |  Air Slash |
-| 13 |  Wing Attack |   | 37 |  Endeavor |
-| 17 |  Double Team |   | 41 |  Brave Bird |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 1 |   | <span class="tooltip" title="The user confounds the target with speed, then slashes. This attack never misses.">Aerial Ace</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 25 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 5 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 29 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 9 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 33 |
+| <span class="tooltip" title="The target is struck with large, imposing wings spread wide to inflict damage.">Wing Attack</span> | 13 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 37 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 17 |   | <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.">Brave Bird</span> | 41 |
 
 ---
 
@@ -569,17 +569,17 @@
 | Sp. Defense | 50 | 60 |
 | Total | 430 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Brave Bird |   | 21 |  Aerial Ace |
-| 1 |   Air Slash |   | 26 |  Quick Guard |
-| 1 |   Pluck |   | 31 |  Agility |
-| 1 |   Peck |   | 36 |  Air Slash |
-| 1 |   Growl |   | 41 |  Endeavor |
-| 5 |   Focus Energy |   | 46 |  Brave Bird |
-| 9 |   Quick Attack |   | 51 |  Superpower |
-| 13 |  Wing Attack |   | 56 |  Extreme Speed |
-| 17 |  Double Team |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.">Brave Bird</span> | 1 |   | <span class="tooltip" title="The user confounds the target with speed, then slashes. This attack never misses.">Aerial Ace</span> | 21 |
+| <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 1 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 26 |
+| <span class="tooltip" title="The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.">Pluck</span> | 1 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 31 |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 1 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 36 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | 41 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 5 |   | <span class="tooltip" title="The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.">Brave Bird</span> | 46 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 9 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 51 |
+| <span class="tooltip" title="The target is struck with large, imposing wings spread wide to inflict damage.">Wing Attack</span> | 13 |   | <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 56 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 17 |   |   |   |
 
 ---
 
@@ -593,15 +593,15 @@
 
 **New TM/HMs:** Surf, Waterfall, Dive
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Growl |   | 22 |  Air Cutter |
-| 1 |   Water Gun |   | 26 |  Pursuit |
-| 5 |   Supersonic |   | 29 |  Aerial Ace |
-| 8 |   Wing Attack |   | 33 |  Roost |
-| 12 |  Mist |   | 36 |  Agility |
-| 15 |  Water Pulse |   | 40 |  Air Slash |
-| 19 |  Quick Attack |   | 43 |  Hurricane |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.">Air Cutter</span> | 22 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 26 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 5 |   | <span class="tooltip" title="The user confounds the target with speed, then slashes. This attack never misses.">Aerial Ace</span> | 29 |
+| <span class="tooltip" title="The target is struck with large, imposing wings spread wide to inflict damage.">Wing Attack</span> | 8 |   | <span class="tooltip" title="The user lands and rests its body. It restores the user’s HP by up to half of its max HP.">Roost</span> | 33 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 12 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 36 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 40 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 19 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 43 |
 
 ---
 
@@ -620,20 +620,20 @@
 | HP | 60 | 80 |
 | Total | 430 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hurricane |   | 19 |  Payback |
-| 1 |   Hydro Pump |   | 22 |  Roost |
-| 1 |   Tailwind |   | 25 |  Protect |
-| 1 |   Soak |   | 28 |  Brine |
-| 1 |   Shock Wave |   | 33 |  Stockpile |
-| 1 |   Growl |   | 33 |  Swallow |
-| 1 |   Water Gun |   | 33 |  Spit Up |
-| 1 |   Water Sport |   | 39 |  Fling |
-| 5 |   Supersonic |   | 44 |  Tailwind |
-| 8 |   Wing Attack |   | 50 |  Hydro Pump |
-| 12 |  Mist |   | 55 |  Hurricane |
-| 15 |  Water Pulse |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 19 |
+| <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 1 |   | <span class="tooltip" title="The user lands and rests its body. It restores the user’s HP by up to half of its max HP.">Roost</span> | 22 |
+| <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns.">Tailwind</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 25 |
+| <span class="tooltip" title="The user shoots a torrent of water at the target and changes the target’s type to Water.">Soak</span> | 1 |   | <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 28 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 1 |   | <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 33 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 33 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 33 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 1 |   | <span class="tooltip" title="The user flings its held item at the target to attack. This move’s power and effects depend on the item.">Fling</span> | 39 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 5 |   | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns.">Tailwind</span> | 44 |
+| <span class="tooltip" title="The target is struck with large, imposing wings spread wide to inflict damage.">Wing Attack</span> | 8 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 12 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 55 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   |   |   |
 
 ---
 
@@ -649,17 +649,17 @@
 | Sp. Defense | 35 | 55 |
 | Total | 198 | 238 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Growl |   | 24 |  Psychic |
-| 4 |   Confusion |   | 27 |  Calm Mind |
-| 6 |   Double Team |   | 29 |  Imprison |
-| 9 |   Teleport |   | 32 |  Future Sight |
-| 11 |  Disarming Voice |   | 34 |  Charm |
-| 14 |  Magical Leaf |   | 37 |  Hypnosis |
-| 17 |  Draining Kiss |   | 39 |  Dream Eater |
-| 19 |  Lucky Chant |   | 42 |  Stored Power |
-| 22 |  Heal Pulse |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 24 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 4 |   | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 27 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 6 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 29 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 9 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 32 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 34 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 14 |   | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 37 |
+| <span class="tooltip" title="The user steals the target’s energy with a kiss. The user’s HP is restored by over half of the damage taken by the target.">Draining Kiss</span> | 17 |   | <span class="tooltip" title="The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.">Dream Eater</span> | 39 |
+| <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 19 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 42 |
+| <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 22 |   |   |   |
 
 ---
 
@@ -675,18 +675,18 @@
 | Sp. Defense | 55 | 75 |
 | Total | 278 | 318 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Growl |   | 19 |  Lucky Chant |
-| 1 |   Confusion |   | 23 |  Heal Pulse |
-| 1 |   Double Team |   | 26 |  Psychic |
-| 1 |   Teleport |   | 30 |  Calm Mind |
-| 4 |   Confusion |   | 33 |  Imprison |
-| 6 |   Double Team |   | 37 |  Future Sight |
-| 9 |   Teleport |   | 40 |  Charm |
-| 11 |  Disarming Voice |   | 44 |  Hypnosis |
-| 14 |  Magical Leaf |   | 47 |  Dream Eater |
-| 17 |  Draining Kiss |   | 51 |  Stored Power |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 19 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 23 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 26 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 1 |   | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 30 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 4 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 33 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 6 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 37 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 9 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 40 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 44 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 14 |   | <span class="tooltip" title="The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.">Dream Eater</span> | 47 |
+| <span class="tooltip" title="The user steals the target’s energy with a kiss. The user’s HP is restored by over half of the damage taken by the target.">Draining Kiss</span> | 17 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 51 |
 
 ---
 
@@ -696,20 +696,20 @@
 
 **Location:** Evolve Kirlia (Lv. 30)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Moonblast |   | 23 |  Heal Pulse |
-| 1 |   Stored Power |   | 26 |  Psychic |
-| 1 |   Misty Terrain |   | 30 |  Hyper Voice |
-| 1 |   Healing Wish |   | 31 |  Calm Mind |
-| 1 |   Growl |   | 35 |  Imprison |
-| 4 |   Confusion |   | 40 |  Future Sight |
-| 6 |   Double Team |   | 44 |  Captivate |
-| 9 |   Teleport |   | 49 |  Hypnosis |
-| 11 |  Disarming Voice |   | 53 |  Dream Eater |
-| 14 |  Magical Leaf |   | 58 |  Stored Power |
-| 17 |  Draining Kiss |   | 62 |  Moonblast |
-| 19 |  Wish |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 1 |   | <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 23 |
+| <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 26 |
+| <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 1 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 30 |
+| <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.">Healing Wish</span> | 1 |   | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 31 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 35 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 4 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 40 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 6 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 44 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 9 |   | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 49 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.">Dream Eater</span> | 53 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 14 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 58 |
+| <span class="tooltip" title="The user steals the target’s energy with a kiss. The user’s HP is restored by over half of the damage taken by the target.">Draining Kiss</span> | 17 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 62 |
+| <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 19 |   |   |   |
 
 ---
 
@@ -727,16 +727,16 @@
 | Sp. Attack | 60 | 62 |
 | Total | 269 | 289 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Bubble |   | 18 |  Aqua Jet |
-| 1 |   Sweet Scent |   | 20 |  Mist |
-| 1 |   Fell Stinger |   | 22 |  Psybeam |
-| 6 |   Quick Attack |   | 24 |  Haze |
-| 9 |   Struggle Bug |   | 26 |  Baton Pass |
-| 12 |  Bubble Beam |   | 28 |  Signal Beam |
-| 14 |  Water Sport |   | 30 |  Sticky Web |
-| 16 |  Agility |   | 32 |  Hydro Pump |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 1 |   | <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 18 |
+| <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 1 |   | <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 20 |
+| <span class="tooltip" title="When the user knocks out a target with this move, the user’s Attack stat rises sharply.">Fell Stinger</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 22 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 6 |   | <span class="tooltip" title="The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.">Haze</span> | 24 |
+| <span class="tooltip" title="While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.">Struggle Bug</span> | 9 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 26 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 12 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 28 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 14 |   | <span class="tooltip" title="The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle.">Sticky Web</span> | 30 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 16 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 32 |
 
 ---
 
@@ -761,20 +761,20 @@
 | Speed | 60 | 85 |
 | Total | 414 | 480 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Quiver Dance |   | 22 |  Silver Wind |
-| 1 |   Bubble |   | 23 |  Psybeam |
-| 1 |   Sweet Scent |   | 26 |  Haze |
-| 1 |   Fell Stinger |   | 29 |  Signal Beam |
-| 6 |   Quick Attack |   | 32 |  Baton Pass |
-| 9 |   Struggle Bug |   | 35 |  Ominous Wind |
-| 12 |  Bubble Beam |   | 38 |  Bug Buzz |
-| 14 |  Water Sport |   | 41 |  Air Slash |
-| 16 |  Agility |   | 44 |  Whirlwind |
-| 18 |  Aqua Jet |   | 47 |  Hydro Pump |
-| 20 |  Mist |   | 50 |  Hurricane |
-| 22 |  Gust |   | 53 |  Quiver Dance |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.">Quiver Dance</span> | 1 |   | <span class="tooltip" title="The target is attacked with powdery scales blown by wind. This may also raise all the user’s stats.">Silver Wind</span> | 22 |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 23 |
+| <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 1 |   | <span class="tooltip" title="The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.">Haze</span> | 26 |
+| <span class="tooltip" title="When the user knocks out a target with this move, the user’s Attack stat rises sharply.">Fell Stinger</span> | 1 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 29 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 6 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 32 |
+| <span class="tooltip" title="While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.">Struggle Bug</span> | 9 |   | <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 35 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 12 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 14 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 41 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 16 |   | <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 44 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 18 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 47 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 20 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 50 |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 22 |   | <span class="tooltip" title="The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.">Quiver Dance</span> | 53 |
 
 ---
 
@@ -784,15 +784,15 @@
 
 **Location:** Petalburg Woods
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Absorb |   | 20 |  Poison Powder |
-| 1 |   Tackle |   | 23 |  Worry Seed |
-| 5 |   Stun Spore |   | 26 |  Giga Drain |
-| 8 |   Leech Seed |   | 29 |  Growth |
-| 11 |  Mega Drain |   | 32 |  Toxic |
-| 14 |  Headbutt |   | 35 |  Seed Bomb |
-| 17 |  Bullet Seed |   | 38 |  Spore |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 1 |   | <span class="tooltip" title="The user scatters a cloud of poisonous dust on the target. This may also poison the target.">Poison Powder</span> | 20 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.">Worry Seed</span> | 23 |
+| <span class="tooltip" title="The user scatters a cloud of numbing powder that paralyzes the target.">Stun Spore</span> | 5 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 26 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 8 |   | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 29 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 11 |   | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | 32 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 14 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 35 |
+| <span class="tooltip" title="The user forcefully shoots seeds at the target two to five times in a row.">Bullet Seed</span> | 17 |   | <span class="tooltip" title="The user scatters bursts of spores that induce sleep.">Spore</span> | 38 |
 
 ---
 
@@ -802,18 +802,18 @@
 
 **Location:** Petalburg Woods, Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Superpower |   | 23 |  Counter |
-| 1 |   Thunder Punch |   | 23 |  Mach Punch |
-| 1 |   Absorb |   | 27 |  Force Palm |
-| 1 |   Tackle |   | 31 |  Mind Reader |
-| 5 |   Stun Spore |   | 35 |  Drain Punch |
-| 8 |   Leech Seed |   | 39 |  Sky Uppercut |
-| 11 |  Mega Drain |   | 43 |  Seed Bomb |
-| 14 |  Headbutt |   | 47 |  Dynamic Punch |
-| 17 |  Bullet Seed |   | 51 |  Superpower |
-| 20 |  Feint |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 1 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 23 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user throws a punch at blinding speed. This move always goes first.">Mach Punch</span> | 23 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 1 |   | <span class="tooltip" title="The target is attacked with a shock wave. This may also leave the target with paralysis.">Force Palm</span> | 27 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 31 |
+| <span class="tooltip" title="The user scatters a cloud of numbing powder that paralyzes the target.">Stun Spore</span> | 5 |   | <span class="tooltip" title="An energy-draining punch. The user’s HP is restored by half the damage taken by the target.">Drain Punch</span> | 35 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 8 |   | <span class="tooltip" title="The user attacks the target with an uppercut thrown skyward with force.">Sky Uppercut</span> | 39 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 11 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 43 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 14 |   | <span class="tooltip" title="The user punches the target with full, concentrated power. This confuses the target if it hits.">Dynamic Punch</span> | 47 |
+| <span class="tooltip" title="The user forcefully shoots seeds at the target two to five times in a row.">Bullet Seed</span> | 17 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 51 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 20 |   |   |   |
 
 ---
 
@@ -823,14 +823,14 @@
 
 **Location:** Petalburg Woods
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 18 |  Covet |
-| 1 |   Yawn |   | 21 |  Amnesia |
-| 6 |   Encore |   | 24 |  Counter |
-| 9 |   Slack Off |   | 27 |  Body Slam |
-| 12 |  Feint Attack |   | 30 |  Flail |
-| 15 |  Chip Away |   | 33 |  Play Rough |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 18 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 21 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 6 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 24 |
+| <span class="tooltip" title="The user slacks off, restoring its own HP by up to half of its max HP.">Slack Off</span> | 9 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 27 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 12 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 30 |
+| <span class="tooltip" title="Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.">Chip Away</span> | 15 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 33 |
 
 ---
 
@@ -840,15 +840,15 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Reversal |   | 18 |  Slash |
-| 1 |   Scratch |   | 22 |  Endure |
-| 1 |   Focus Energy |   | 26 |  Counter |
-| 6 |   Encore |   | 30 |  Night Slash |
-| 9 |   Uproar |   | 34 |  Focus Punch |
-| 12 |  Fury Swipes |   | 38 |  Reversal |
-| 15 |  Chip Away |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 18 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | 22 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 1 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 26 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 6 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 30 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 9 |   | <span class="tooltip" title="The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.">Focus Punch</span> | 34 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 12 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 38 |
+| <span class="tooltip" title="Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.">Chip Away</span> | 15 |   |   |   |
 
 ---
 
@@ -858,19 +858,19 @@
 
 **Location:** Evolve Vigoroth (Lv. 36)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hammer Arm |   | 15 |  Chip Away |
-| 1 |   Punishment |   | 18 |  Covet |
-| 1 |   Fling |   | 22 |  Amnesia |
-| 1 |   Ice Punch |   | 26 |  Counter |
-| 1 |   Thunder Punch |   | 30 |  Body Slam |
-| 1 |   Fire Punch |   | 34 |  Flail |
-| 1 |   Scratch |   | 36 |  Swagger |
-| 1 |   Yawn |   | 39 |  Play Rough |
-| 6 |   Encore |   | 44 |  Fling |
-| 9 |   Slack Off |   | 49 |  Punishment |
-| 12 |  Feint Attack |   | 54 |  Hammer Arm |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 1 |   | <span class="tooltip" title="Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.">Chip Away</span> | 15 |
+| <span class="tooltip" title="The more the target has powered up with stat changes, the greater the move’s power.">Punishment</span> | 1 |   | <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 18 |
+| <span class="tooltip" title="The user flings its held item at the target to attack. This move’s power and effects depend on the item.">Fling</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 22 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 26 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 30 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 34 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 36 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 1 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 39 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 6 |   | <span class="tooltip" title="The user flings its held item at the target to attack. This move’s power and effects depend on the item.">Fling</span> | 44 |
+| <span class="tooltip" title="The user slacks off, restoring its own HP by up to half of its max HP.">Slack Off</span> | 9 |   | <span class="tooltip" title="The more the target has powered up with stat changes, the greater the move’s power.">Punishment</span> | 49 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 12 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 54 |
 
 ---
 
@@ -882,15 +882,15 @@
 
 **Ability 2:** Run Away
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 17 |  Night Slash |
-| 1 |   Harden |   | 21 |  Metal Claw |
-| 1 |   Leech Life |   | 25 |  Mind Reader |
-| 1 |   Mud |   | 29 |  Bide |
-| 5 |   Sand Attack |   | 33 |  False Swipe |
-| 9 |   Fury Swipes |   | 37 |  Dig |
-| 13 |  Bug Bite |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 17 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 21 |
+| <span class="tooltip" title="The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.">Leech Life</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 25 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 1 |   | <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 29 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 5 |   | <span class="tooltip" title="A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.">False Swipe</span> | 33 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 9 |   | <span class="tooltip" title="The user burrows, then attacks on the next turn. It can also be used to exit dungeons.">Dig</span> | 37 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 13 |   |   |   |
 
 ---
 
@@ -904,17 +904,17 @@
 
 **New TM/HMs:** Fly
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 20 |  Fury Cutter |
-| 1 |   Harden |   | 20 |  Screech |
-| 1 |   Leech Life |   | 23 |  Slash |
-| 1 |   Agility |   | 28 |  Mind Reader |
-| 5 |   Sand Attack |   | 33 |  X |
-| 9 |   Fury Swipes |   | 38 |  Swords Dance |
-| 13 |  Bug Bite |   | 43 |  Baton Pass |
-| 17 |  Night Slash |   | 48 |  Extreme Speed |
-| 20 |  Double Team |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 20 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 20 |
+| <span class="tooltip" title="The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.">Leech Life</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 23 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 28 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 5 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 33 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 9 |   | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 38 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 13 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 43 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 17 |   | <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 48 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 20 |   |   |   |
 
 ---
 
@@ -924,16 +924,16 @@
 
 **Location:** Evolve Nincada (Lv. 20)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 21 |  Shadow Sneak |
-| 1 |   Harden |   | 25 |  Mind Reader |
-| 1 |   Leech Life |   | 29 |  Shadow Ball |
-| 1 |   Spite |   | 33 |  X |
-| 5 |   Sand Attack |   | 37 |  Phantom Force |
-| 9 |   Fury Swipes |   | 41 |  Heal Block |
-| 13 |  Bug Bite |   | 45 |  Grudge |
-| 17 |  Night Slash |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 21 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 25 |
+| <span class="tooltip" title="The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.">Leech Life</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 29 |
+| <span class="tooltip" title="The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.">Spite</span> | 1 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 33 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 5 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 37 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 9 |   | <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 41 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 13 |   | <span class="tooltip" title="If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.">Grudge</span> | 45 |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 17 |   |   |   |
 
 ---
 
@@ -945,15 +945,15 @@
 
 **Ability 2:** Rattled
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 22 |  Uproar |
-| 4 |   Echoed Voice |   | 25 |  Extrasensory |
-| 7 |   Astonish |   | 28 |  Roar |
-| 10 |  Howl |   | 31 |  Rest |
-| 13 |  Screech |   | 34 |  Sleep Talk |
-| 16 |  Stomp |   | 37 |  Hyper Voice |
-| 19 |  Supersonic |   | 40 |  Synchronoise |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 22 |
+| <span class="tooltip" title="The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.">Echoed Voice</span> | 4 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 25 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 7 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 28 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 10 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 31 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 13 |   | <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows.">Sleep Talk</span> | 34 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 16 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 37 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 19 |   | <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 40 |
 
 ---
 
@@ -965,16 +965,16 @@
 
 **Ability 2:** Scrappy
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 23 |  Uproar |
-| 4 |   Echoed Voice |   | 27 |  Extrasensory |
-| 7 |   Astonish |   | 31 |  Roar |
-| 10 |  Howl |   | 35 |  Rest |
-| 13 |  Screech |   | 39 |  Sleep Talk |
-| 16 |  Stomp |   | 43 |  Hyper Voice |
-| 19 |  Supersonic |   | 47 |  Synchronoise |
-| 20 |  Bite |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 23 |
+| <span class="tooltip" title="The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.">Echoed Voice</span> | 4 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 27 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 7 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 31 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 10 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 35 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 13 |   | <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows.">Sleep Talk</span> | 39 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 16 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 43 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 19 |   | <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 47 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 20 |   |   |   |
 
 ---
 
@@ -986,20 +986,20 @@
 
 **Ability 2:** Scrappy
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Boomburst |   | 20 |  Bite |
-| 1 |   Hammer Arm |   | 23 |  Uproar |
-| 1 |   Ice Fang |   | 27 |  Extrasensory |
-| 1 |   Fire Fang |   | 31 |  Roar |
-| 1 |   Thunder Fang |   | 35 |  Rest |
-| 1 |   Pound |   | 39 |  Sleep Talk |
-| 4 |   Echoed Voice |   | 40 |  Crunch |
-| 7 |   Astonish |   | 44 |  Hyper Voice |
-| 10 |  Howl |   | 49 |  Synchronoise |
-| 13 |  Screech |   | 54 |  Boomburst |
-| 16 |  Stomp |   | 59 |  Hyper Beam |
-| 19 |  Supersonic |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks everything around it with the destructive power of a terrible, explosive sound.">Boomburst</span> | 1 |   | <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 20 |
+| <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 1 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 23 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 27 |
+| <span class="tooltip" title="The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.">Fire Fang</span> | 1 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 31 |
+| <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 1 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 35 |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows.">Sleep Talk</span> | 39 |
+| <span class="tooltip" title="The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.">Echoed Voice</span> | 4 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 40 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 7 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 44 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 10 |   | <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 49 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 13 |   | <span class="tooltip" title="The user attacks everything around it with the destructive power of a terrible, explosive sound.">Boomburst</span> | 54 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 16 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 59 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 19 |   |   |   |
 
 ---
 
@@ -1009,17 +1009,17 @@
 
 **Location:** Granite Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 25 |  Belly Drum |
-| 1 |   Focus Energy |   | 28 |  Smelling Salts |
-| 4 |   Sand Attack |   | 31 |  Seismic Toss |
-| 7 |   Arm Thrust |   | 34 |  Wake |
-| 10 |  Fake Out |   | 37 |  Endure |
-| 13 |  Force Palm |   | 40 |  Close Combat |
-| 16 |  Whirlwind |   | 43 |  Reversal |
-| 19 |  Knock Off |   | 46 |  Heavy Slam |
-| 22 |  Vital Throw |   | 49 |  Cross Chop |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user maximizes its Attack stat in exchange for HP equal to half its max HP.">Belly Drum</span> | 25 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 1 |   | <span class="tooltip" title="This attack inflicts double damage on a target with paralysis. This also cures the target’s paralysis, however.">Smelling Salts</span> | 28 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 4 |   | <span class="tooltip" title="The target is thrown using the power of gravity. It inflicts damage equal to the user’s level.">Seismic Toss</span> | 31 |
+| <span class="tooltip" title="The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.">Arm Thrust</span> | 7 |   | <span class="tooltip" title="This attack inflicts big damage on a sleeping target. This also wakes the target up, however.">Wake-Up Slap</span> | 34 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 10 |   | <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | 37 |
+| <span class="tooltip" title="The target is attacked with a shock wave. This may also leave the target with paralysis.">Force Palm</span> | 13 |   | <span class="tooltip" title="The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.">Close Combat</span> | 40 |
+| <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 16 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 43 |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 19 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 46 |
+| <span class="tooltip" title="The user attacks last. In return, this throw move never misses.">Vital Throw</span> | 22 |   | <span class="tooltip" title="The user delivers a double chop with its forearms crossed. Critical hits land more easily.">Cross Chop</span> | 49 |
 
 ---
 
@@ -1029,19 +1029,19 @@
 
 **Location:** Granite Cave, Victory Road
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Brine |   | 19 |  Knock Off |
-| 1 |   Ice Punch |   | 22 |  Vital Throw |
-| 1 |   Fire Punch |   | 26 |  Belly Drum |
-| 1 |   Thunder Punch |   | 30 |  Smelling Salts |
-| 1 |   Tackle |   | 34 |  Seismic Toss |
-| 1 |   Focus Energy |   | 38 |  Wake |
-| 4 |   Sand Attack |   | 42 |  Endure |
-| 7 |   Arm Thrust |   | 46 |  Close Combat |
-| 10 |  Fake Out |   | 50 |  Reversal |
-| 13 |  Force Palm |   | 54 |  Heavy Slam |
-| 16 |  Whirlwind |   | 58 |  Cross Chop |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 1 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 19 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The user attacks last. In return, this throw move never misses.">Vital Throw</span> | 22 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user maximizes its Attack stat in exchange for HP equal to half its max HP.">Belly Drum</span> | 26 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="This attack inflicts double damage on a target with paralysis. This also cures the target’s paralysis, however.">Smelling Salts</span> | 30 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is thrown using the power of gravity. It inflicts damage equal to the user’s level.">Seismic Toss</span> | 34 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 1 |   | <span class="tooltip" title="This attack inflicts big damage on a sleeping target. This also wakes the target up, however.">Wake-Up Slap</span> | 38 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 4 |   | <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | 42 |
+| <span class="tooltip" title="The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.">Arm Thrust</span> | 7 |   | <span class="tooltip" title="The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.">Close Combat</span> | 46 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 10 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 50 |
+| <span class="tooltip" title="The target is attacked with a shock wave. This may also leave the target with paralysis.">Force Palm</span> | 13 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 54 |
+| <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 16 |   | <span class="tooltip" title="The user delivers a double chop with its forearms crossed. Critical hits land more easily.">Cross Chop</span> | 58 |
 
 ---
 
@@ -1053,13 +1053,13 @@
 
 **Base Happiness:** 70 >> 200
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 10 |  Charm |
-| 1 |   Water Gun |   | 13 |  Bubble Beam |
-| 2 |   Tail Whip |   | 16 |  Helping Hand |
-| 5 |   Water Sport |   | 20 |  Slam |
-| 7 |   Bubble |   | 23 |  Bounce |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 10 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 13 |
+| <span class="tooltip" title="The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.">Tail Whip</span> | 2 |   | <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 16 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 5 |   | <span class="tooltip" title="The target is slammed with a long tail, vines, or the like to inflict damage.">Slam</span> | 20 |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 7 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 23 |
 
 ---
 
@@ -1069,17 +1069,17 @@
 
 **Location:** Granite Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 28 |  Rock Blast |
-| 4 |   Harden |   | 31 |  Discharge |
-| 7 |   Block |   | 34 |  Sandstorm |
-| 10 |  Rock Throw |   | 37 |  Earth Power |
-| 13 |  Thunder Wave |   | 40 |  Stone Edge |
-| 16 |  Rest |   | 43 |  Lock |
-| 19 |  Spark |   | 43 |  Zap Cannon |
-| 22 |  Rock Slide |   | 46 |  Head Smash |
-| 25 |  Power Gem |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 28 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 4 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 31 |
+| <span class="tooltip" title="The user blocks the target’s way with arms spread wide to prevent escape.">Block</span> | 7 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 34 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 10 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 37 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 13 |   | <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 40 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 16 |   | <span class="tooltip" title="The user takes sure aim at the target. This ensures the next attack does not miss the target.">Lock-On</span> | 43 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 19 |   | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | 43 |
+| <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 22 |   | <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 46 |
+| <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones.">Power Gem</span> | 25 |   |   |   |
 
 ---
 
@@ -1095,21 +1095,21 @@
 | Sp. Defense | 35 | 45 |
 | Total | 260 | 280 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Fake Out |   | 21 |  Copycat |
-| 1 |   Growl |   | 23 |  Assist |
-| 1 |   Tail Whip |   | 24 |  Charm |
-| 1 |   Tackle |   | 26 |  Hyper Voice |
-| 5 |   Foresight |   | 28 |  Feint Attack |
-| 7 |   Attract |   | 31 |  Wake |
-| 9 |   Sing |   | 33 |  Moonblast |
-| 11 |  Disarming Voice |   | 36 |  Covet |
-| 13 |  Round |   | 39 |  Heal Bell |
-| 15 |  Double Slap |   | 43 |  Double |
-| 17 |  Shock Wave |   | 46 |  Captivate |
-| 18 |  Icy Wind |   | 49 |  Play Rough |
-| 19 |  Mud Bomb |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 1 |   | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user hurriedly and randomly uses a move among those known by other Pokémon in the party.">Assist</span> | 23 |
+| <span class="tooltip" title="The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.">Tail Whip</span> | 1 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 24 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 26 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 5 |   | <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 28 |
+| <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 7 |   | <span class="tooltip" title="This attack inflicts big damage on a sleeping target. This also wakes the target up, however.">Wake-Up Slap</span> | 31 |
+| <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.">Sing</span> | 9 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 33 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 36 |
+| <span class="tooltip" title="The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.">Round</span> | 13 |   | <span class="tooltip" title="The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.">Heal Bell</span> | 39 |
+| <span class="tooltip" title="The target is slapped repeatedly, back and forth, two to five times in a row.">Double Slap</span> | 15 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 43 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 17 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 46 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 18 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 49 |
+| <span class="tooltip" title="The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.">Mud Bomb</span> | 19 |   |   |   |
 
 ---
 
@@ -1129,13 +1129,13 @@
 | Speed | 70 | 80 |
 | Total | 380 | 455 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hyper Voice |   | 1 |   Fake Out |
-| 1 |   Moonblast |   | 1 |   Sing |
-| 1 |   Ice Beam |   | 1 |   Attract |
-| 1 |   Thunderbolt |   | 1 |   Double Slap |
-| 1 |   Shadow Ball |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 1 |   | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 1 |
+| <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 1 |   | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.">Sing</span> | 1 |
+| <span class="tooltip" title="The target is struck with an icy-cold beam of energy. This may also leave the target frozen.">Ice Beam</span> | 1 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 1 |
+| <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 1 |   | <span class="tooltip" title="The target is slapped repeatedly, back and forth, two to five times in a row.">Double Slap</span> | 1 |
+| <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 1 |   |   |   |
 
 ---
 
@@ -1173,20 +1173,20 @@
 | Speed | 20 | 25 |
 | Total | 480 | 510 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 26 |  Recover |
-| 1 |   Scratch |   | 28 |  Shadow Claw |
-| 4 |   Foresight |   | 29 |  Confuse Ray |
-| 6 |   Night Shade |   | 32 |  Zen Headbutt |
-| 8 |   Astonish |   | 35 |  Sucker Punch |
-| 11 |  Fury Swipes |   | 36 |  Power Gem |
-| 13 |  Detect |   | 39 |  Shadow Ball |
-| 14 |  Shadow Sneak |   | 41 |  Foul Play |
-| 16 |  Feint Attack |   | 44 |  Quash |
-| 19 |  Fake Out |   | 46 |  Mean Look |
-| 21 |  Punishment |   | 49 |  Metal Burst |
-| 24 |  Knock Off |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 26 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. Critical hits land more easily.">Shadow Claw</span> | 28 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 4 |   | <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 29 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 6 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 8 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 35 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 11 |   | <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones.">Power Gem</span> | 36 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 13 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 39 |
+| <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 14 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 41 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 16 |   | <span class="tooltip" title="The user suppresses the target and makes its move go last.">Quash</span> | 44 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user pins the target with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | 46 |
+| <span class="tooltip" title="The more the target has powered up with stat changes, the greater the move’s power.">Punishment</span> | 21 |   | <span class="tooltip" title="The user retaliates with much greater power against the opponent that last inflicted damage on it.">Metal Burst</span> | 49 |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 24 |   |   |   |
 
 ---
 
@@ -1224,20 +1224,20 @@
 | Speed | 50 | 55 |
 | Total | 480 | 510 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Taunt |   | 21 |  Crunch |
-| 1 |   Growl |   | 24 |  Play Rough |
-| 1 |   Fairy Wind |   | 27 |  Baton Pass |
-| 1 |   Astonish |   | 30 |  Iron Defense |
-| 6 |   Fake Tears |   | 33 |  Iron Head |
-| 9 |   Sweet Scent |   | 37 |  Sucker Punch |
-| 12 |  Bite |   | 41 |  Stockpile |
-| 15 |  Fire Fang |   | 41 |  Swallow |
-| 15 |  Thunder Fang |   | 41 |  Spit Up |
-| 15 |  Ice Fang |   | 45 |  Super Fang |
-| 15 |  Poison Fang |   | 49 |  Metal Burst |
-| 18 |  Vice Grip |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 24 |
+| <span class="tooltip" title="The user stirs up a fairy wind and strikes the target with it.">Fairy Wind</span> | 1 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 27 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 30 |
+| <span class="tooltip" title="The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.">Fake Tears</span> | 6 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 33 |
+| <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 9 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 37 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 12 |   | <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 41 |
+| <span class="tooltip" title="The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.">Fire Fang</span> | 15 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 41 |
+| <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 15 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 41 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 15 |   | <span class="tooltip" title="The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.">Super Fang</span> | 45 |
+| <span class="tooltip" title="The user bites the target with toxic fangs. This may also leave the target badly poisoned.">Poison Fang</span> | 15 |   | <span class="tooltip" title="The user retaliates with much greater power against the opponent that last inflicted damage on it.">Metal Burst</span> | 49 |
+| <span class="tooltip" title="The target is gripped and squeezed from both sides to inflict damage.">Vice Grip</span> | 18 |   |   |   |
 
 ---
 
@@ -1247,17 +1247,17 @@
 
 **Location:** Granite Cave, Scorched Slab
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 25 |  Rock Slide |
-| 1 |   Harden |   | 28 |  Take Down |
-| 4 |   Mud |   | 31 |  Metal Sound |
-| 7 |   Headbutt |   | 34 |  Iron Tail |
-| 10 |  Metal Claw |   | 37 |  Iron Defense |
-| 13 |  Rock Tomb |   | 40 |  Double |
-| 16 |  Protect |   | 43 |  Autotomize |
-| 19 |  Roar |   | 46 |  Heavy Slam |
-| 22 |  Iron Head |   | 49 |  Metal Burst |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 25 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 28 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 4 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 31 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 7 |   | <span class="tooltip" title="The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.">Iron Tail</span> | 34 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 10 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 37 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 13 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 40 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 16 |   | <span class="tooltip" title="The user sheds part of its body to make itself lighter and sharply raise its Speed stat.">Autotomize</span> | 43 |
+| <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 19 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 46 |
+| <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 22 |   | <span class="tooltip" title="The user retaliates with much greater power against the opponent that last inflicted damage on it.">Metal Burst</span> | 49 |
 
 ---
 
@@ -1267,18 +1267,18 @@
 
 **Location:** Granite Cave, Scorched Slab, Cave of Origin, Victory Road
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 22 |  Iron Head |
-| 1 |   Harden |   | 25 |  Rock Slide |
-| 1 |   Mud |   | 28 |  Take Down |
-| 1 |   Headbutt |   | 31 |  Metal Sound |
-| 4 |   Mud |   | 35 |  Iron Tail |
-| 7 |   Headbutt |   | 39 |  Iron Defense |
-| 10 |  Metal Claw |   | 43 |  Double |
-| 13 |  Rock Tomb |   | 47 |  Autotomize |
-| 16 |  Protect |   | 51 |  Heavy Slam |
-| 19 |  Roar |   | 55 |  Metal Burst |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 22 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 25 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 28 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 1 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 31 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 4 |   | <span class="tooltip" title="The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.">Iron Tail</span> | 35 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 7 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 39 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 10 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 43 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 13 |   | <span class="tooltip" title="The user sheds part of its body to make itself lighter and sharply raise its Speed stat.">Autotomize</span> | 47 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 16 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 51 |
+| <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 19 |   | <span class="tooltip" title="The user retaliates with much greater power against the opponent that last inflicted damage on it.">Metal Burst</span> | 55 |
 
 ---
 
@@ -1288,19 +1288,19 @@
 
 **Location:** Evolve Lairon (Lv. 42)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Avalanche |   | 25 |  Rock Slide |
-| 1 |   Superpower |   | 28 |  Take Down |
-| 1 |   Tackle |   | 31 |  Metal Sound |
-| 1 |   Harden |   | 35 |  Iron Tail |
-| 4 |   Mud |   | 39 |  Iron Defense |
-| 7 |   Headbutt |   | 42 |  Dragon Rush |
-| 10 |  Metal Claw |   | 45 |  Double |
-| 13 |  Rock Tomb |   | 51 |  Autotomize |
-| 16 |  Protect |   | 57 |  Heavy Slam |
-| 19 |  Roar |   | 63 |  Metal Burst |
-| 22 |  Iron Head |   | 69 |  Head Smash |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.">Avalanche</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 25 |
+| <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 28 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 31 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.">Iron Tail</span> | 35 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 4 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 39 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 7 |   | <span class="tooltip" title="The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.">Dragon Rush</span> | 42 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 10 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 45 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 13 |   | <span class="tooltip" title="The user sheds part of its body to make itself lighter and sharply raise its Speed stat.">Autotomize</span> | 51 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 16 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 57 |
+| <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 19 |   | <span class="tooltip" title="The user retaliates with much greater power against the opponent that last inflicted damage on it.">Metal Burst</span> | 63 |
+| <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 22 |   | <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 69 |
 
 ---
 
@@ -1312,18 +1312,18 @@
 
 **Evolution Level:** 37 >> 35
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Bide |   | 26 |  Mind Reader |
-| 4 |   Meditate |   | 28 |  High Jump Kick |
-| 7 |   Confusion |   | 31 |  Psych Up |
-| 9 |   Detect |   | 33 |  Acupressure |
-| 12 |  Endure |   | 35 |  Zen Headbutt |
-| 15 |  Feint |   | 37 |  Power Trick |
-| 17 |  Force Palm |   | 39 |  Reversal |
-| 20 |  Hidden Power |   | 41 |  Recover |
-| 22 |  Calm Mind |   | 44 |  Counter |
-| 24 |  Psycho Cut |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 26 |
+| <span class="tooltip" title="The user meditates to awaken the power deep within its body and raise its Attack stat.">Meditate</span> | 4 |   | <span class="tooltip" title="The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.">High Jump Kick</span> | 28 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 7 |   | <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the target.">Psych Up</span> | 31 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 9 |   | <span class="tooltip" title="The user applies pressure to stress points, sharply boosting one of its or its allies’ stats.">Acupressure</span> | 33 |
+| <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | 12 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 35 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 15 |   | <span class="tooltip" title="The user employs its psychic power to switch its Attack with its Defense stat.">Power Trick</span> | 37 |
+| <span class="tooltip" title="The target is attacked with a shock wave. This may also leave the target with paralysis.">Force Palm</span> | 17 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 39 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 20 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 41 |
+| <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 22 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 44 |
+| <span class="tooltip" title="The user tears at the target with blades formed by psychic power. Critical hits land more easily.">Psycho Cut</span> | 24 |   |   |   |
 
 ---
 
@@ -1333,20 +1333,20 @@
 
 **Location:** Mt. Pyre, Victory Road
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Fire Punch |   | 24 |  Psycho Cut |
-| 1 |   Thunder Punch |   | 26 |  Mind Reader |
-| 1 |   Ice Punch |   | 28 |  High Jump Kick |
-| 1 |   Bide |   | 31 |  Psych Up |
-| 4 |   Meditate |   | 33 |  Acupressure |
-| 7 |   Confusion |   | 35 |  Fake Out |
-| 9 |   Detect |   | 37 |  Zen Headbutt |
-| 12 |  Endure |   | 42 |  Power Trick |
-| 15 |  Feint |   | 47 |  Reversal |
-| 17 |  Force Palm |   | 53 |  Recover |
-| 20 |  Hidden Power |   | 59 |  Counter |
-| 22 |  Calm Mind |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user tears at the target with blades formed by psychic power. Critical hits land more easily.">Psycho Cut</span> | 24 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user senses the target’s movements with its mind to ensure its next attack does not miss the target.">Mind Reader</span> | 26 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.">High Jump Kick</span> | 28 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the target.">Psych Up</span> | 31 |
+| <span class="tooltip" title="The user meditates to awaken the power deep within its body and raise its Attack stat.">Meditate</span> | 4 |   | <span class="tooltip" title="The user applies pressure to stress points, sharply boosting one of its or its allies’ stats.">Acupressure</span> | 33 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 7 |   | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 35 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 9 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 37 |
+| <span class="tooltip" title="The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.">Endure</span> | 12 |   | <span class="tooltip" title="The user employs its psychic power to switch its Attack with its Defense stat.">Power Trick</span> | 42 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 15 |   | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | 47 |
+| <span class="tooltip" title="The target is attacked with a shock wave. This may also leave the target with paralysis.">Force Palm</span> | 17 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 53 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 20 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 59 |
+| <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 22 |   |   |   |
 
 ---
 
@@ -1356,16 +1356,16 @@
 
 **Location:** Route 110
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 21 |  Thunder Fang |
-| 1 |   Thunder Wave |   | 24 |  Bite |
-| 4 |   Leer |   | 28 |  Discharge |
-| 7 |   Howl |   | 33 |  Roar |
-| 10 |  Quick Attack |   | 37 |  Thunderbolt |
-| 13 |  Spark |   | 41 |  Wild Charge |
-| 15 |  Odor Sleuth |   | 45 |  Charge |
-| 18 |  Electro Ball |   | 49 |  Thunder |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 21 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 24 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 4 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 28 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 7 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 33 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 10 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 37 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 13 |   | <span class="tooltip" title="The user shrouds itself in electricity and smashes into its target. This also damages the user a little.">Wild Charge</span> | 41 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 15 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 45 |
+| <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 18 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 49 |
 
 ---
 
@@ -1375,19 +1375,19 @@
 
 **Location:** Route 118
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Electric Terrain |   | 18 |  Electro Ball |
-| 1 |   Fire Fang |   | 21 |  Thunder Fang |
-| 1 |   Tackle |   | 24 |  Bite |
-| 1 |   Thunder Wave |   | 26 |  Flame Burst |
-| 1 |   Leer |   | 29 |  Discharge |
-| 1 |   Howl |   | 34 |  Roar |
-| 4 |   Leer |   | 39 |  Thunderbolt |
-| 7 |   Howl |   | 43 |  Wild Charge |
-| 10 |  Quick Attack |   | 48 |  Charge |
-| 13 |  Spark |   | 54 |  Thunder |
-| 15 |  Odor Sleuth |   | 60 |  Electric Terrain |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.">Electric Terrain</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 18 |
+| <span class="tooltip" title="The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.">Fire Fang</span> | 1 |   | <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 21 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 24 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 26 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 29 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 1 |   | <span class="tooltip" title="The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Roar</span> | 34 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 4 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 39 |
+| <span class="tooltip" title="The user howls loudly to raise its spirit, which raises its Attack stat.">Howl</span> | 7 |   | <span class="tooltip" title="The user shrouds itself in electricity and smashes into its target. This also damages the user a little.">Wild Charge</span> | 43 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 10 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 48 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 13 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 54 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 15 |   | <span class="tooltip" title="The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.">Electric Terrain</span> | 60 |
 
 ---
 
@@ -1409,19 +1409,19 @@
 | Speed | 95 | 105 |
 | Total | 405 | 465 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Nuzzle |   | 22 |  Copycat |
-| 1 |   Play Nice |   | 25 |  Charm |
-| 1 |   Growl |   | 28 |  Charge |
-| 1 |   Thunder Wave |   | 31 |  Discharge |
-| 1 |   Quick Attack |   | 34 |  Baton Pass |
-| 4 |   Helping Hand |   | 37 |  Agility |
-| 7 |   Spark |   | 40 |  Last Resort |
-| 10 |  Encore |   | 43 |  Thunder |
-| 13 |  Bestow |   | 46 |  Nasty Plot |
-| 16 |  Swift |   | 49 |  Entrainment |
-| 19 |  Electro Ball |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.">Nuzzle</span> | 1 |   | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | 22 |
+| <span class="tooltip" title="The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.">Play Nice</span> | 1 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 25 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 28 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 31 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 1 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 34 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 4 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 37 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 7 |   | <span class="tooltip" title="This move can be used only after the user has used all the other moves it knows in the battle.">Last Resort</span> | 40 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 10 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 43 |
+| <span class="tooltip" title="The user passes its held item to the target when the target isn’t holding an item.">Bestow</span> | 13 |   | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk.">Nasty Plot</span> | 46 |
+| <span class="tooltip" title="Star-shaped rays are shot at the opposing Pokémon. This attack never misses.">Swift</span> | 16 |   | <span class="tooltip" title="The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s.">Entrainment</span> | 49 |
+| <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 19 |   |   |   |
 
 ---
 
@@ -1443,19 +1443,19 @@
 | Speed | 95 | 105 |
 | Total | 405 | 465 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Nuzzle |   | 22 |  Copycat |
-| 1 |   Play Nice |   | 25 |  Fake Tears |
-| 1 |   Growl |   | 28 |  Charge |
-| 1 |   Thunder Wave |   | 31 |  Discharge |
-| 1 |   Quick Attack |   | 34 |  Baton Pass |
-| 4 |   Helping Hand |   | 37 |  Agility |
-| 7 |   Spark |   | 40 |  Trump Card |
-| 10 |  Encore |   | 43 |  Thunder |
-| 13 |  Switcheroo |   | 46 |  Nasty Plot |
-| 16 |  Swift |   | 49 |  Entrainment |
-| 19 |  Electro Ball |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.">Nuzzle</span> | 1 |   | <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | 22 |
+| <span class="tooltip" title="The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.">Play Nice</span> | 1 |   | <span class="tooltip" title="The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.">Fake Tears</span> | 25 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 28 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 31 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 1 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 34 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 4 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 37 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 7 |   | <span class="tooltip" title="The fewer PP this move has, the greater its power.">Trump Card</span> | 40 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 10 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 43 |
+| <span class="tooltip" title="The user trades held items with the target faster than the eye can follow.">Switcheroo</span> | 13 |   | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk.">Nasty Plot</span> | 46 |
+| <span class="tooltip" title="Star-shaped rays are shot at the opposing Pokémon. This attack never misses.">Swift</span> | 16 |   | <span class="tooltip" title="The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s.">Entrainment</span> | 49 |
+| <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 19 |   |   |   |
 
 ---
 
@@ -1480,20 +1480,20 @@
 | Speed | 85 | 95 |
 | Total | 400 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Wild Charge |   | 23 |  Thunder Punch |
-| 1 |   Acrobatics |   | 26 |  Signal Beam |
-| 1 |   Brick Break |   | 29 |  Thunder Wave |
-| 1 |   U |   | 32 |  Zen Headbutt |
-| 1 |   Flash |   | 35 |  Tail Glow |
-| 1 |   Tackle |   | 38 |  Bug Buzz |
-| 5 |   Double Team |   | 41 |  Protect |
-| 8 |   Confuse Ray |   | 44 |  Helping Hand |
-| 11 |  Quick Attack |   | 47 |  Moonblast |
-| 14 |  Bug Bite |   | 50 |  Double |
-| 17 |  Moonlight |   | 53 |  Wild Charge |
-| 20 |  Play Rough |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user shrouds itself in electricity and smashes into its target. This also damages the user a little.">Wild Charge</span> | 1 |   | <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 23 |
+| <span class="tooltip" title="The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.">Acrobatics</span> | 1 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 26 |
+| <span class="tooltip" title="The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.">Brick Break</span> | 1 |   | <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 29 |
+| <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U-turn</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 32 |
+| <span class="tooltip" title="The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate dark caves.">Flash</span> | 1 |   | <span class="tooltip" title="The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.">Tail Glow</span> | 35 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 5 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 41 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 8 |   | <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 44 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 11 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 47 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 14 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 50 |
+| <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Moonlight</span> | 17 |   | <span class="tooltip" title="The user shrouds itself in electricity and smashes into its target. This also damages the user a little.">Wild Charge</span> | 53 |
+| <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 20 |   |   |   |
 
 ---
 
@@ -1516,20 +1516,20 @@
 | Speed | 85 | 95 |
 | Total | 400 | 450 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Thunder |   | 23 |  Thunderbolt |
-| 1 |   Giga Drain |   | 26 |  Signal Beam |
-| 1 |   Shadow Ball |   | 29 |  Thunder Wave |
-| 1 |   U |   | 32 |  Zen Headbutt |
-| 1 |   Play Nice |   | 35 |  Wish |
-| 1 |   Tackle |   | 38 |  Bug Buzz |
-| 5 |   Sweet Scent |   | 41 |  Encore |
-| 8 |   Charm |   | 44 |  Helping Hand |
-| 11 |  Quick Attack |   | 47 |  Play Rough |
-| 14 |  Struggle Bug |   | 50 |  Covet |
-| 17 |  Moonlight |   | 53 |  Thunder |
-| 20 |  Moonblast |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 23 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 1 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 26 |
+| <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 1 |   | <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 29 |
+| <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U-turn</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 32 |
+| <span class="tooltip" title="The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.">Play Nice</span> | 1 |   | <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 35 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 5 |   | <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 41 |
+| <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 8 |   | <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 44 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 11 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 47 |
+| <span class="tooltip" title="While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.">Struggle Bug</span> | 14 |   | <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 50 |
+| <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Moonlight</span> | 17 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 53 |
+| <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 20 |   |   |   |
 
 ---
 
@@ -1539,18 +1539,18 @@
 
 **Location:** Route 117
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Absorb |   | 31 |  Extrasensory |
-| 4 |   Growth |   | 34 |  Toxic Spikes |
-| 7 |   Poison Sting |   | 37 |  Petal Dance |
-| 10 |  Stun Spore |   | 40 |  Sweet Scent |
-| 13 |  Mega Drain |   | 43 |  Sleep Powder |
-| 16 |  Leech Seed |   | 46 |  Ingrain |
-| 19 |  Magical Leaf |   | 49 |  Toxic |
-| 22 |  Venoshock |   | 52 |  Aromatherapy |
-| 25 |  Giga Drain |   | 55 |  Synthesis |
-| 28 |  Grass Whistle |   | 59 |  Petal Blizzard |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 31 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 4 |   | <span class="tooltip" title="The user lays a trap of poison spikes at the opposing team’s feet. They poison opposing Pokémon that switch into battle.">Toxic Spikes</span> | 34 |
+| <span class="tooltip" title="The user stabs the target with a poisonous stinger. This may also poison the target.">Poison Sting</span> | 7 |   | <span class="tooltip" title="The user attacks the target by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | 37 |
+| <span class="tooltip" title="The user scatters a cloud of numbing powder that paralyzes the target.">Stun Spore</span> | 10 |   | <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 40 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | 13 |   | <span class="tooltip" title="The user scatters a big cloud of sleep-inducing dust around the target.">Sleep Powder</span> | 43 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 16 |   | <span class="tooltip" title="The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.">Ingrain</span> | 46 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 19 |   | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | 49 |
+| <span class="tooltip" title="The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.">Venoshock</span> | 22 |   | <span class="tooltip" title="The user releases a soothing scent that heals all status conditions affecting the user’s party.">Aromatherapy</span> | 52 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 25 |   | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | 55 |
+| <span class="tooltip" title="The user plays a pleasant melody that lulls the target into a deep sleep.">Grass Whistle</span> | 28 |   | <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | 59 |
 
 ---
 
@@ -1560,18 +1560,18 @@
 
 **Location:** Route 110
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Pound |   | 24 |  Spit Up |
-| 1 |   Yawn |   | 24 |  Swallow |
-| 6 |   Poison Gas |   | 27 |  Sludge Bomb |
-| 9 |   Sludge |   | 30 |  Gastro Acid |
-| 12 |  Amnesia |   | 34 |  Sludge Wave |
-| 14 |  Acid Spray |   | 38 |  Belch |
-| 16 |  Encore |   | 41 |  Wring Out |
-| 18 |  Venoshock |   | 44 |  Seed Bomb |
-| 21 |  Toxic |   | 48 |  Gunk Shot |
-| 24 |  Stockpile |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 24 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 24 |
+| <span class="tooltip" title="A cloud of poison gas is sprayed in the face of opposing Pokémon. This may also poison those hit.">Poison Gas</span> | 6 |   | <span class="tooltip" title="Unsanitary sludge is hurled at the target. This may also poison the target.">Sludge Bomb</span> | 27 |
+| <span class="tooltip" title="Unsanitary sludge is hurled at the target. This may also poison the target.">Sludge</span> | 9 |   | <span class="tooltip" title="The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.">Gastro Acid</span> | 30 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 12 |   | <span class="tooltip" title="The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.">Sludge Wave</span> | 34 |
+| <span class="tooltip" title="The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat.">Acid Spray</span> | 14 |   | <span class="tooltip" title="The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.">Belch</span> | 38 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 16 |   | <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 41 |
+| <span class="tooltip" title="The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.">Venoshock</span> | 18 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 44 |
+| <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | 21 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 48 |
+| <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 24 |   |   |   |
 
 ---
 
@@ -1581,19 +1581,19 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Gunk Shot |   | 24 |  Stockpile |
-| 1 |   Wring Out |   | 24 |  Spit Up |
-| 1 |   Pound |   | 24 |  Swallow |
-| 1 |   Yawn |   | 26 |  Body Slam |
-| 6 |   Poison Gas |   | 29 |  Sludge Bomb |
-| 9 |   Sludge |   | 33 |  Gastro Acid |
-| 12 |  Amnesia |   | 37 |  Sludge Wave |
-| 14 |  Acid Spray |   | 41 |  Belch |
-| 16 |  Encore |   | 45 |  Wring Out |
-| 18 |  Venoshock |   | 50 |  Seed Bomb |
-| 21 |  Toxic |   | 55 |  Gunk Shot |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 1 |   | <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 24 |
+| <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 24 |
+| <span class="tooltip" title="The target is physically pounded with a long tail, a foreleg, or the like.">Pound</span> | 1 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 24 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 26 |
+| <span class="tooltip" title="A cloud of poison gas is sprayed in the face of opposing Pokémon. This may also poison those hit.">Poison Gas</span> | 6 |   | <span class="tooltip" title="Unsanitary sludge is hurled at the target. This may also poison the target.">Sludge Bomb</span> | 29 |
+| <span class="tooltip" title="Unsanitary sludge is hurled at the target. This may also poison the target.">Sludge</span> | 9 |   | <span class="tooltip" title="The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.">Gastro Acid</span> | 33 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 12 |   | <span class="tooltip" title="The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.">Sludge Wave</span> | 37 |
+| <span class="tooltip" title="The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat.">Acid Spray</span> | 14 |   | <span class="tooltip" title="The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.">Belch</span> | 41 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 16 |   | <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 45 |
+| <span class="tooltip" title="The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.">Venoshock</span> | 18 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 50 |
+| <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | 21 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 55 |
 
 ---
 
@@ -1605,17 +1605,17 @@
 
 **Ability 2:** Speed Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 25 |  Poison Fang |
-| 1 |   Bite |   | 28 |  Waterfall |
-| 4 |   Rage |   | 31 |  Scary Face |
-| 7 |   Focus Energy |   | 34 |  Crunch |
-| 10 |  Aqua Jet |   | 37 |  Thrash |
-| 13 |  Assurance |   | 40 |  Agility |
-| 16 |  Screech |   | 43 |  Take Down |
-| 19 |  Swagger |   | 46 |  Hydro Pump |
-| 22 |  Ice Fang |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user bites the target with toxic fangs. This may also leave the target badly poisoned.">Poison Fang</span> | 25 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 1 |   | <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span> | 28 |
+| <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 4 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 31 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 7 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 34 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 10 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Thrash</span> | 37 |
+| <span class="tooltip" title="If the target has already taken some damage in the same turn, this attack’s power is doubled.">Assurance</span> | 13 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 40 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 16 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 43 |
+| <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 19 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 46 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 22 |   |   |   |
 
 ---
 
@@ -1627,20 +1627,20 @@
 
 **Ability 2:** Speed Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Night Slash |   | 25 |  Poison Fang |
-| 1 |   Zen Headbutt |   | 28 |  Waterfall |
-| 1 |   Feint |   | 30 |  Slash |
-| 1 |   Leer |   | 32 |  Scary Face |
-| 1 |   Bite |   | 36 |  Crunch |
-| 4 |   Rage |   | 40 |  Thrash |
-| 7 |   Focus Energy |   | 44 |  Agility |
-| 10 |  Aqua Jet |   | 48 |  Skull Bash |
-| 13 |  Assurance |   | 52 |  Hydro Pump |
-| 16 |  Screech |   | 56 |  Taunt |
-| 19 |  Swagger |   | 60 |  Night Slash |
-| 22 |  Ice Fang |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 1 |   | <span class="tooltip" title="The user bites the target with toxic fangs. This may also leave the target badly poisoned.">Poison Fang</span> | 25 |
+| <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 1 |   | <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span> | 28 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 30 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 32 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 36 |
+| <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 4 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Thrash</span> | 40 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 7 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 44 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 10 |   | <span class="tooltip" title="The user tucks in its head to raise its Defense in the first turn, then rams the target on the next turn.">Skull Bash</span> | 48 |
+| <span class="tooltip" title="If the target has already taken some damage in the same turn, this attack’s power is doubled.">Assurance</span> | 13 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 52 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 16 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 56 |
+| <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 19 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 60 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 22 |   |   |   |
 
 ---
 
@@ -1652,18 +1652,18 @@
 
 **Evolution Level:** 40 >> 37
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 31 |  Body Slam |
-| 4 |   Growl |   | 34 |  Dive |
-| 7 |   Water Gun |   | 37 |  Zen Headbutt |
-| 10 |  Rollout |   | 40 |  Amnesia |
-| 13 |  Whirlpool |   | 43 |  Water Spout |
-| 16 |  Astonish |   | 46 |  Bounce |
-| 19 |  Water Pulse |   | 49 |  Hydro Pump |
-| 22 |  Mist |   | 52 |  Double |
-| 25 |  Brine |   | 55 |  Fissure |
-| 28 |  Rest |   | 58 |  Heavy Slam |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 31 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 4 |   | <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span> | 34 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 37 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes more powerful each time it hits.">Rollout</span> | 10 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 40 |
+| <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 13 |   | <span class="tooltip" title="The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.">Water Spout</span> | 43 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 16 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 46 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 19 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 49 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 22 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 52 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 25 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 55 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 28 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 58 |
 
 ---
 
@@ -1673,19 +1673,19 @@
 
 **Location:** Route 129
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Heavy Slam |   | 31 |  Body Slam |
-| 1 |   Splash |   | 34 |  Dive |
-| 4 |   Growl |   | 37 |  Hyper Voice |
-| 7 |   Water Gun |   | 38 |  Zen Headbutt |
-| 10 |  Rollout |   | 42 |  Amnesia |
-| 13 |  Whirlpool |   | 46 |  Water Spout |
-| 16 |  Astonish |   | 50 |  Bounce |
-| 19 |  Water Pulse |   | 54 |  Hydro Pump |
-| 22 |  Mist |   | 58 |  Double |
-| 25 |  Brine |   | 62 |  Fissure |
-| 28 |  Rest |   | 66 |  Heavy Slam |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 31 |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span> | 34 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 4 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 37 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 38 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes more powerful each time it hits.">Rollout</span> | 10 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 42 |
+| <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 13 |   | <span class="tooltip" title="The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.">Water Spout</span> | 46 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 16 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 50 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 19 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 54 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 22 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 58 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 25 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 62 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 28 |   | <span class="tooltip" title="The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.">Heavy Slam</span> | 66 |
 
 ---
 
@@ -1695,16 +1695,16 @@
 
 **Location:** Fiery Path
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Growl |   | 26 |  Earth Power |
-| 1 |   Tackle |   | 29 |  Curse |
-| 5 |   Ember |   | 31 |  Take Down |
-| 8 |   Focus Energy |   | 36 |  Yawn |
-| 12 |  Magnitude |   | 40 |  Earthquake |
-| 15 |  Flame Burst |   | 43 |  Flamethrower |
-| 19 |  Amnesia |   | 47 |  Double |
-| 22 |  Lava Plume |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 26 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 29 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 5 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 31 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 8 |   | <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 36 |
+| <span class="tooltip" title="The user attacks everything around it with a ground-shaking quake. Its power varies.">Magnitude</span> | 12 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 40 |
+| <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 15 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 43 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 19 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 47 |
+| <span class="tooltip" title="The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn.">Lava Plume</span> | 22 |   |   |   |
 
 ---
 
@@ -1714,18 +1714,18 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Fissure |   | 19 |  Amnesia |
-| 1 |   Eruption |   | 22 |  Lava Plume |
-| 1 |   Growl |   | 26 |  Earth Power |
-| 1 |   Tackle |   | 29 |  Curse |
-| 1 |   Ember |   | 31 |  Take Down |
-| 1 |   Focus Energy |   | 33 |  Rock Slide |
-| 5 |   Ember |   | 39 |  Yawn |
-| 8 |   Focus Energy |   | 46 |  Earthquake |
-| 12 |  Magnitude |   | 52 |  Flamethrower |
-| 15 |  Flame Burst |   | 59 |  Double |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 19 |
+| <span class="tooltip" title="The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power.">Eruption</span> | 1 |   | <span class="tooltip" title="The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn.">Lava Plume</span> | 22 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 26 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 29 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 31 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 33 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 5 |   | <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 39 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 8 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 46 |
+| <span class="tooltip" title="The user attacks everything around it with a ground-shaking quake. Its power varies.">Magnitude</span> | 12 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 52 |
+| <span class="tooltip" title="The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.">Flame Burst</span> | 15 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 59 |
 
 ---
 
@@ -1737,19 +1737,19 @@
 
 **Ability 2:** Shell Armor
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Ember |   | 34 |  Flamethrower |
-| 4 |   Smog |   | 38 |  Iron Defense |
-| 7 |   Withdraw |   | 40 |  Earth Power |
-| 10 |  Rapid Spin |   | 42 |  Amnesia |
-| 13 |  Fire Spin |   | 45 |  Flail |
-| 15 |  Smokescreen |   | 47 |  Heat Wave |
-| 18 |  Flame Wheel |   | 50 |  Shell Smash |
-| 22 |  Curse |   | 53 |  Inferno |
-| 25 |  Lava Plume |   | 57 |  Superpower |
-| 27 |  Body Slam |   | 60 |  Eruption |
-| 30 |  Protect |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 1 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 34 |
+| <span class="tooltip" title="The target is attacked with a discharge of filthy gases. This may also poison the target.">Smog</span> | 4 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 38 |
+| <span class="tooltip" title="The user withdraws its body into its hard shell, raising its Defense stat.">Withdraw</span> | 7 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 40 |
+| <span class="tooltip" title="A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.">Rapid Spin</span> | 10 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 42 |
+| <span class="tooltip" title="The target becomes trapped within a fierce vortex of fire that rages for four to five turns.">Fire Spin</span> | 13 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 45 |
+| <span class="tooltip" title="The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy.">Smokescreen</span> | 15 |   | <span class="tooltip" title="The user attacks by exhaling hot breath on the opposing Pokémon. This may also leave those Pokémon with a burn.">Heat Wave</span> | 47 |
+| <span class="tooltip" title="The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.">Flame Wheel</span> | 18 |   | <span class="tooltip" title="The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.">Shell Smash</span> | 50 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 22 |   | <span class="tooltip" title="The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.">Inferno</span> | 53 |
+| <span class="tooltip" title="The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn.">Lava Plume</span> | 25 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 57 |
+| <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 27 |   | <span class="tooltip" title="The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power.">Eruption</span> | 60 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 30 |   |   |   |
 
 ---
 
@@ -1759,16 +1759,16 @@
 
 **Location:** Jagged Pass
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 26 |  Psyshock |
-| 5 |   Psywave |   | 29 |  Rest |
-| 8 |   Odor Sleuth |   | 32 |  Snore |
-| 11 |  Psybeam |   | 35 |  Zen Headbutt |
-| 14 |  Psych Up |   | 38 |  Payback |
-| 17 |  Confuse Ray |   | 41 |  Psychic |
-| 20 |  Magic Coat |   | 44 |  Bounce |
-| 23 |  Power Gem |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 26 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 5 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 29 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 8 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 32 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 11 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 35 |
+| <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the target.">Psych Up</span> | 14 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 38 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 17 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 41 |
+| <span class="tooltip" title="A barrier reflects back to the target moves like Leech Seed and moves that damage status.">Magic Coat</span> | 20 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 44 |
+| <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones.">Power Gem</span> | 23 |   |   |   |
 
 ---
 
@@ -1778,16 +1778,16 @@
 
 **Location:** Jagged Pass, Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 26 |  Psyshock |
-| 5 |   Psywave |   | 29 |  Rest |
-| 8 |   Odor Sleuth |   | 32 |  Teeter Dance |
-| 11 |  Psybeam |   | 34 |  Snore |
-| 14 |  Psych Up |   | 38 |  Zen Headbutt |
-| 17 |  Confuse Ray |   | 42 |  Payback |
-| 20 |  Magic Coat |   | 46 |  Psychic |
-| 23 |  Power Gem |   | 50 |  Bounce |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 26 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 5 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 29 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Odor Sleuth</span> | 8 |   | <span class="tooltip" title="The user performs a wobbly dance that confuses the Pokémon around it.">Teeter Dance</span> | 32 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 11 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 34 |
+| <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the target.">Psych Up</span> | 14 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 38 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 17 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 42 |
+| <span class="tooltip" title="A barrier reflects back to the target moves like Leech Seed and moves that damage status.">Magic Coat</span> | 20 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 46 |
+| <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones.">Power Gem</span> | 23 |   | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.">Bounce</span> | 50 |
 
 ---
 
@@ -1807,17 +1807,17 @@
 | Speed | 60 | 80 |
 | Total | 360 | 480 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 28 |  Uproar |
-| 4 |   Copycat |   | 31 |  Fake Out |
-| 7 |   Feint Attack |   | 34 |  Psycho Cut |
-| 10 |  Psybeam |   | 37 |  Double |
-| 13 |  Hypnosis |   | 40 |  Shadow Ball |
-| 16 |  Dizzy Punch |   | 43 |  Flail |
-| 19 |  Sucker Punch |   | 46 |  Thrash |
-| 22 |  Teeter Dance |   | 49 |  Superpower |
-| 25 |  Assist |   | 52 |  Psycho Boost |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 28 |
+| <span class="tooltip" title="The user mimics the move used immediately before it. The move fails if no other move has been used yet.">Copycat</span> | 4 |   | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 31 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 7 |   | <span class="tooltip" title="The user tears at the target with blades formed by psychic power. Critical hits land more easily.">Psycho Cut</span> | 34 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 10 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 37 |
+| <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 13 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 40 |
+| <span class="tooltip" title="The target is hit with rhythmically launched punches. This may also leave the target confused.">Dizzy Punch</span> | 16 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 43 |
+| <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 19 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Thrash</span> | 46 |
+| <span class="tooltip" title="The user performs a wobbly dance that confuses the Pokémon around it.">Teeter Dance</span> | 22 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 49 |
+| <span class="tooltip" title="The user hurriedly and randomly uses a move among those known by other Pokémon in the party.">Assist</span> | 25 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Psycho Boost</span> | 52 |
 
 ---
 
@@ -1829,17 +1829,17 @@
 
 **Held Item:** Jaw Fossil (50%), Soft Sand (5%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Sand Attack |   | 22 |  Crunch |
-| 1 |   Bite |   | 26 |  Earth Power |
-| 1 |   Faint Attack |   | 29 |  Feint |
-| 1 |   Bide |   | 33 |  Earthquake |
-| 5 |   Mud |   | 36 |  Sandstorm |
-| 8 |   Bulldoze |   | 40 |  Superpower |
-| 12 |  Sand Tomb |   | 43 |  Hyper Beam |
-| 15 |  Rock Slide |   | 47 |  Fissure |
-| 19 |  Dig |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 22 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 26 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 1 |   | <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 29 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 33 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 5 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 36 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 8 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 40 |
+| <span class="tooltip" title="The user traps the target inside a harshly raging sandstorm for four to five turns.">Sand Tomb</span> | 12 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 43 |
+| <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 15 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 47 |
+| <span class="tooltip" title="The user burrows, then attacks on the next turn. It can also be used to exit dungeons.">Dig</span> | 19 |   |   |   |
 
 ---
 
@@ -1849,17 +1849,17 @@
 
 **Location:** Route 111
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Sand Attack |   | 22 |  Screech |
-| 1 |   Sonic Boom |   | 26 |  Earth Power |
-| 1 |   Feint Attack |   | 29 |  Bug Buzz |
-| 1 |   Bide |   | 33 |  Earthquake |
-| 5 |   Mud |   | 35 |  Dragon Breath |
-| 8 |   Bulldoze |   | 36 |  Sandstorm |
-| 12 |  Sand Tomb |   | 40 |  Uproar |
-| 15 |  Rock Slide |   | 43 |  Hyper Beam |
-| 19 |  Supersonic |   | 47 |  Boomburst |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 1 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 22 |
+| <span class="tooltip" title="The target is hit with a destructive shock wave that always inflicts 20 HP damage.">Sonic Boom</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 26 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 29 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 33 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 5 |   | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 35 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 8 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 36 |
+| <span class="tooltip" title="The user traps the target inside a harshly raging sandstorm for four to five turns.">Sand Tomb</span> | 12 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 40 |
+| <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 15 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 43 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 19 |   | <span class="tooltip" title="The user attacks everything around it with the destructive power of a terrible, explosive sound.">Boomburst</span> | 47 |
 
 ---
 
@@ -1876,18 +1876,18 @@
 | Speed | 100 | 110 |
 | Total | 520 | 550 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Sand Attack |   | 26 |  Earth Power |
-| 1 |   Sonic Boom |   | 29 |  Dragon Tail |
-| 1 |   Feint Attack |   | 33 |  Earthquake |
-| 1 |   Bide |   | 35 |  Dragon Breath |
-| 5 |   Mud |   | 36 |  Sandstorm |
-| 8 |   Bulldoze |   | 40 |  Uproar |
-| 12 |  Sand Tomb |   | 43 |  Hyper Beam |
-| 15 |  Rock Slide |   | 45 |  Dragon Claw |
-| 19 |  Supersonic |   | 47 |  Dragon Rush |
-| 22 |  Screech |   | 51 |  Quiver Dance |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 26 |
+| <span class="tooltip" title="The target is hit with a destructive shock wave that always inflicts 20 HP damage.">Sonic Boom</span> | 1 |   | <span class="tooltip" title="The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Dragon Tail</span> | 29 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 33 |
+| <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | 1 |   | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 35 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 5 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 36 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 8 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 40 |
+| <span class="tooltip" title="The user traps the target inside a harshly raging sandstorm for four to five turns.">Sand Tomb</span> | 12 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 43 |
+| <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 15 |   | <span class="tooltip" title="The user slashes the target with huge, sharp claws.">Dragon Claw</span> | 45 |
+| <span class="tooltip" title="The user generates odd sound waves from its body that confuse the target.">Supersonic</span> | 19 |   | <span class="tooltip" title="The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.">Dragon Rush</span> | 47 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 22 |   | <span class="tooltip" title="The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.">Quiver Dance</span> | 51 |
 
 ---
 
@@ -1901,18 +1901,18 @@
 
 **Held Item:** Root Fossil (50%), Sticky Barb (5%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Poison Sting |   | 28 |  Spikes |
-| 1 |   Leer |   | 31 |  Seed Bomb |
-| 4 |   Absorb |   | 34 |  Poison Jab |
-| 7 |   Growth |   | 37 |  Sucker Punch |
-| 10 |  Leech Seed |   | 40 |  Pin Missile |
-| 13 |  Sand Attack |   | 43 |  Energy Ball |
-| 16 |  Ingrain |   | 46 |  Cotton Spore |
-| 19 |  Feint Attack |   | 49 |  Sandstorm |
-| 22 |  Needle Arm |   | 52 |  Destiny Bond |
-| 25 |  Payback |   | 55 |  Fell Stinger |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user stabs the target with a poisonous stinger. This may also poison the target.">Poison Sting</span> | 1 |   | <span class="tooltip" title="The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.">Spikes</span> | 28 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 31 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 4 |   | <span class="tooltip" title="The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.">Poison Jab</span> | 34 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 7 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 37 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 10 |   | <span class="tooltip" title="Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.">Pin Missile</span> | 40 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 13 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 43 |
+| <span class="tooltip" title="The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.">Ingrain</span> | 16 |   | <span class="tooltip" title="The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stats.">Cotton Spore</span> | 46 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 19 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 49 |
+| <span class="tooltip" title="The user attacks by wildly swinging its thorny arms. This may also make the target flinch.">Needle Arm</span> | 22 |   | <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 52 |
+| <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 25 |   | <span class="tooltip" title="When the user knocks out a target with this move, the user’s Attack stat rises sharply.">Fell Stinger</span> | 55 |
 
 ---
 
@@ -1924,21 +1924,21 @@
 
 **Ability 2:** Water Absorb
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Fell Stinger |   | 25 |  Payback |
-| 1 |   Destiny Bond |   | 28 |  Spikes |
-| 1 |   Revenge |   | 31 |  Seed Bomb |
-| 1 |   Thunder Punch |   | 32 |  Spiky Shield |
-| 1 |   Poison Sting |   | 35 |  Poison Jab |
-| 1 |   Leer |   | 39 |  Sucker Punch |
-| 4 |   Absorb |   | 43 |  Pin Missile |
-| 7 |   Growth |   | 47 |  Energy Ball |
-| 10 |  Leech Seed |   | 51 |  Cotton Spore |
-| 13 |  Sand Attack |   | 55 |  Sandstorm |
-| 16 |  Ingrain |   | 59 |  Destiny Bond |
-| 19 |  Feint Attack |   | 63 |  Fell Stinger |
-| 22 |  Needle Arm |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="When the user knocks out a target with this move, the user’s Attack stat rises sharply.">Fell Stinger</span> | 1 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 25 |
+| <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 1 |   | <span class="tooltip" title="The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.">Spikes</span> | 28 |
+| <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn.">Revenge</span> | 1 |   | <span class="tooltip" title="The user slams a barrage of hard-shelled seeds down on the target from above.">Seed Bomb</span> | 31 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.">Spiky Shield</span> | 32 |
+| <span class="tooltip" title="The user stabs the target with a poisonous stinger. This may also poison the target.">Poison Sting</span> | 1 |   | <span class="tooltip" title="The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.">Poison Jab</span> | 35 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 39 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Absorb</span> | 4 |   | <span class="tooltip" title="Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.">Pin Missile</span> | 43 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 7 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 47 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 10 |   | <span class="tooltip" title="The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stats.">Cotton Spore</span> | 51 |
+| <span class="tooltip" title="Sand is hurled in the target’s face, reducing the target’s accuracy.">Sand Attack</span> | 13 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 55 |
+| <span class="tooltip" title="The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.">Ingrain</span> | 16 |   | <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 59 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 19 |   | <span class="tooltip" title="When the user knocks out a target with this move, the user’s Attack stat rises sharply.">Fell Stinger</span> | 63 |
+| <span class="tooltip" title="The user attacks by wildly swinging its thorny arms. This may also make the target flinch.">Needle Arm</span> | 22 |   |   |   |
 
 ---
 
@@ -1952,18 +1952,18 @@
 
 **Evolution Level:** 35 >> 33
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Peck |   | 21 |  Take Down |
-| 1 |   Growl |   | 24 |  Pluck |
-| 3 |   Astonish |   | 27 |  Cotton Guard |
-| 5 |   Sing |   | 30 |  Mirror Move |
-| 7 |   Fury Attack |   | 33 |  Refresh |
-| 9 |   Safeguard |   | 36 |  Dragon Pulse |
-| 11 |  Disarming Voice |   | 39 |  Moonblast |
-| 13 |  Mist |   | 42 |  Hyper Voice |
-| 15 |  Round |   | 45 |  Perish Song |
-| 18 |  Natural Gift |   | 48 |  Double |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 21 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.">Pluck</span> | 24 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 3 |   | <span class="tooltip" title="The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat.">Cotton Guard</span> | 27 |
+| <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.">Sing</span> | 5 |   | <span class="tooltip" title="The user counters the target by mimicking the target’s last move.">Mirror Move</span> | 30 |
+| <span class="tooltip" title="The target is jabbed repeatedly with a horn or beak two to five times in a row.">Fury Attack</span> | 7 |   | <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 33 |
+| <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 9 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 36 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 39 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 13 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 42 |
+| <span class="tooltip" title="The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.">Round</span> | 15 |   | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | 45 |
+| <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.">Natural Gift</span> | 18 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 48 |
 
 ---
 
@@ -1975,21 +1975,21 @@
 
 **Ability 2:** Cloud Nine
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Sky Attack |   | 24 |  Pluck |
-| 1 |   Outrage |   | 27 |  Cotton Guard |
-| 1 |   Peck |   | 30 |  Dragon Dance |
-| 1 |   Growl |   | 33 |  Dragon Breath |
-| 3 |   Astonish |   | 34 |  Refresh |
-| 5 |   Sing |   | 38 |  Dragon Pulse |
-| 7 |   Fury Attack |   | 42 |  Moonblast |
-| 9 |   Safeguard |   | 46 |  Hyper Voice |
-| 11 |  Disarming Voice |   | 50 |  Perish Song |
-| 13 |  Mist |   | 54 |  Double |
-| 15 |  Round |   | 58 |  Outrage |
-| 18 |  Natural Gift |   | 62 |  Sky Attack |
-| 21 |  Take Down |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A second-turn attack move where critical hits land more easily. This may also make the target flinch.">Sky Attack</span> | 1 |   | <span class="tooltip" title="The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.">Pluck</span> | 24 |
+| <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Outrage</span> | 1 |   | <span class="tooltip" title="The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat.">Cotton Guard</span> | 27 |
+| <span class="tooltip" title="The target is jabbed with a sharply pointed beak or horn.">Peck</span> | 1 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 30 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 33 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 3 |   | <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 34 |
+| <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.">Sing</span> | 5 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 38 |
+| <span class="tooltip" title="The target is jabbed repeatedly with a horn or beak two to five times in a row.">Fury Attack</span> | 7 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 42 |
+| <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 9 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 46 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 11 |   | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | 50 |
+| <span class="tooltip" title="The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.">Mist</span> | 13 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 54 |
+| <span class="tooltip" title="The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.">Round</span> | 15 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Outrage</span> | 58 |
+| <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.">Natural Gift</span> | 18 |   | <span class="tooltip" title="A second-turn attack move where critical hits land more easily. This may also make the target flinch.">Sky Attack</span> | 62 |
+| <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 21 |   |   |   |
 
 ---
 
@@ -2001,19 +2001,19 @@
 
 **Ability 2:** Toxic Boost
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Close Combat |   | 17 |  Slash |
-| 1 |   Swords Dance |   | 20 |  Revenge |
-| 1 |   Ice Punch |   | 23 |  Crush Claw |
-| 1 |   Fire Punch |   | 26 |  Night Slash |
-| 1 |   Thunder Punch |   | 29 |  False Swipe |
-| 1 |   Scratch |   | 32 |  Embargo |
-| 1 |   Leer |   | 35 |  Detect |
-| 5 |   Quick Attack |   | 39 |  X |
-| 8 |   Fury Cutter |   | 43 |  Taunt |
-| 11 |  Pursuit |   | 47 |  Swords Dance |
-| 14 |  Hone Claws |   | 50 |  Close Combat |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.">Close Combat</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 17 |
+| <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn.">Revenge</span> | 20 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat.">Crush Claw</span> | 23 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 26 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.">False Swipe</span> | 29 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 32 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 35 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 5 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 39 |
+| <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 8 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 43 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 11 |   | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 47 |
+| <span class="tooltip" title="The user sharpens its claws to boost its Attack stat and accuracy.">Hone Claws</span> | 14 |   | <span class="tooltip" title="The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.">Close Combat</span> | 50 |
 
 ---
 
@@ -2025,18 +2025,18 @@
 
 **Ability 2:** Infiltrator
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Wrap |   | 28 |  Night Slash |
-| 1 |   SWagger |   | 31 |  Gastro Acid |
-| 4 |   Bite |   | 34 |  Poison Jab |
-| 7 |   Lick |   | 37 |  Haze |
-| 10 |  Poison Tail |   | 40 |  Crunch |
-| 13 |  Screech |   | 43 |  Belch |
-| 16 |  Venoshock |   | 46 |  Coil |
-| 19 |  Glare |   | 49 |  Wring Out |
-| 22 |  Poison Fang |   | 52 |  Gunk Shot |
-| 25 |  Venom Drench |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 28 |
+| <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">SWagger</span> | 1 |   | <span class="tooltip" title="The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.">Gastro Acid</span> | 31 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 4 |   | <span class="tooltip" title="The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.">Poison Jab</span> | 34 |
+| <span class="tooltip" title="The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.">Lick</span> | 7 |   | <span class="tooltip" title="The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.">Haze</span> | 37 |
+| <span class="tooltip" title="The user hits the target with its tail. This may also poison the target. Critical hits land more easily.">Poison Tail</span> | 10 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 40 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 13 |   | <span class="tooltip" title="The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.">Belch</span> | 43 |
+| <span class="tooltip" title="The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.">Venoshock</span> | 16 |   | <span class="tooltip" title="The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.">Coil</span> | 46 |
+| <span class="tooltip" title="The user intimidates the target with the pattern on its belly to cause paralysis.">Glare</span> | 19 |   | <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 49 |
+| <span class="tooltip" title="The user bites the target with toxic fangs. This may also leave the target badly poisoned.">Poison Fang</span> | 22 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 52 |
+| <span class="tooltip" title="Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.">Venom Drench</span> | 25 |   |   |   |
 
 ---
 
@@ -2054,19 +2054,19 @@
 | Sp. Defense | 85 | 100 |
 | Total | 440 | 495 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 27 |  Moonblast |
-| 1 |   Harden |   | 30 |  Psychic |
-| 1 |   Confusion |   | 33 |  Heal Block |
-| 1 |   Rock Throw |   | 36 |  Power Gem |
-| 6 |   Hypnosis |   | 39 |  Future Sight |
-| 9 |   Rock Polish |   | 42 |  Ice Beam |
-| 12 |  Psywave |   | 45 |  Earth Power |
-| 15 |  Embargo |   | 48 |  Explosion |
-| 18 |  Ancient Power |   | 51 |  Blizzard |
-| 21 |  Psyshock |   | 54 |  Magic Room |
-| 24 |  Icy Wind |   | 57 |  Moonlight |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 27 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 30 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 33 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 1 |   | <span class="tooltip" title="The user attacks with a ray of light that sparkles as if it were made of gemstones.">Power Gem</span> | 36 |
+| <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 6 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 39 |
+| <span class="tooltip" title="The user polishes its body to reduce drag. This can sharply raise the Speed stat.">Rock Polish</span> | 9 |   | <span class="tooltip" title="The target is struck with an icy-cold beam of energy. This may also leave the target frozen.">Ice Beam</span> | 42 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 12 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 45 |
+| <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 15 |   | <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 48 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 18 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 51 |
+| <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 21 |   | <span class="tooltip" title="The user creates a bizarre area in which Pokémon’s held items lose their effects for five turns.">Magic Room</span> | 54 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 24 |   | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Moonlight</span> | 57 |
 
 ---
 
@@ -2084,19 +2084,19 @@
 | Sp. Defense | 65 | 80 |
 | Total | 440 | 495 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 27 |  Overheat |
-| 1 |   Harden |   | 30 |  Psychic |
-| 1 |   Confusion |   | 33 |  Heal Block |
-| 1 |   Rock Throw |   | 36 |  Stone Edge |
-| 6 |   Fire Spin |   | 39 |  Solar Beam |
-| 9 |   Rock Polish |   | 42 |  Heat Crash |
-| 12 |  Psywave |   | 45 |  Earthquake |
-| 15 |  Embargo |   | 48 |  Explosion |
-| 18 |  Rock Slide |   | 51 |  Flare Blitz |
-| 21 |  Zen Headbutt |   | 54 |  Wonder Room |
-| 24 |  Will |   | 57 |  Morning Sun |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Overheat</span> | 27 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 30 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 33 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 1 |   | <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 36 |
+| <span class="tooltip" title="The target becomes trapped within a fierce vortex of fire that rages for four to five turns.">Fire Spin</span> | 6 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 39 |
+| <span class="tooltip" title="The user polishes its body to reduce drag. This can sharply raise the Speed stat.">Rock Polish</span> | 9 |   | <span class="tooltip" title="The user slams its target with its flame- covered body. The more the user outweighs the target, the greater the move’s power.">Heat Crash</span> | 42 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 12 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 45 |
+| <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 15 |   | <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 48 |
+| <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 18 |   | <span class="tooltip" title="The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn.">Flare Blitz</span> | 51 |
+| <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 21 |   | <span class="tooltip" title="The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.">Wonder Room</span> | 54 |
+| <span class="tooltip" title="The user shoots a sinister, bluish-white flame at the target to inflict a burn.">Will-O-Wisp</span> | 24 |   | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Morning Sun</span> | 57 |
 
 ---
 
@@ -2106,18 +2106,18 @@
 
 **Location:** Route 111, Route 120, Scorched Slab, Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Mud |   | 27 |  Rest |
-| 1 |   Mud Sport |   | 27 |  Snore |
-| 1 |   Water Sport |   | 30 |  Earthquake |
-| 6 |   Water Gun |   | 33 |  Thrash |
-| 9 |   Mud Bomb |   | 36 |  Muddy Water |
-| 12 |  Amnesia |   | 39 |  Dragon Dance |
-| 15 |  Water Pulse |   | 42 |  Future Sight |
-| 18 |  Magnitude |   | 45 |  Earth Power |
-| 21 |  Spark |   | 48 |  Fissure |
-| 24 |  Aqua Tail |   | 51 |  Hydro Pump |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 1 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 27 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 1 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 27 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 30 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 6 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Thrash</span> | 33 |
+| <span class="tooltip" title="The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.">Mud Bomb</span> | 9 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 36 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 12 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 39 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 42 |
+| <span class="tooltip" title="The user attacks everything around it with a ground-shaking quake. Its power varies.">Magnitude</span> | 18 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 45 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 21 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 48 |
+| <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 24 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 51 |
 
 ---
 
@@ -2127,19 +2127,19 @@
 
 **Location:** Route 111, Route 120, Scorched Slab, Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Mud |   | 27 |  Snore |
-| 1 |   Mud Sport |   | 30 |  Zen Headbutt |
-| 1 |   Water Sport |   | 31 |  Earthquake |
-| 6 |   Water Gun |   | 35 |  Thrash |
-| 9 |   Mud Bomb |   | 39 |  Muddy Water |
-| 12 |  Amnesia |   | 43 |  Dragon Dance |
-| 15 |  Water Pulse |   | 47 |  Future Sight |
-| 18 |  Magnitude |   | 51 |  Earth Power |
-| 21 |  Spark |   | 55 |  Fissure |
-| 24 |  Aqua Tail |   | 59 |  Hydro Pump |
-| 27 |  Rest |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 1 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 27 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 30 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 31 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 6 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Thrash</span> | 35 |
+| <span class="tooltip" title="The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.">Mud Bomb</span> | 9 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 39 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 12 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 43 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 15 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 47 |
+| <span class="tooltip" title="The user attacks everything around it with a ground-shaking quake. Its power varies.">Magnitude</span> | 18 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 51 |
+| <span class="tooltip" title="The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.">Spark</span> | 21 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 55 |
+| <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 24 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 59 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 27 |   |   |   |
 
 ---
 
@@ -2149,17 +2149,17 @@
 
 **Location:** Route 102, Route 123
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Bubble |   | 25 |  Knock Off |
-| 1 |   Harden |   | 28 |  Double Hit |
-| 4 |   Vice Grip |   | 31 |  Night Slash |
-| 7 |   Aqua Jet |   | 34 |  Taunt |
-| 10 |  Leer |   | 37 |  Crunch |
-| 13 |  Bubble Beam |   | 40 |  Swords Dance |
-| 16 |  Razor Shell |   | 43 |  Superpower |
-| 19 |  Protect |   | 46 |  Guillotine |
-| 22 |  Crabhammer |   | 49 |  Dragon Dance |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 1 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 25 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.">Double Hit</span> | 28 |
+| <span class="tooltip" title="The target is gripped and squeezed from both sides to inflict damage.">Vice Grip</span> | 4 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 31 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 7 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 34 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 10 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 37 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 13 |   | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 40 |
+| <span class="tooltip" title="The user cuts its target with sharp shells. This may also lower the target’s Defense stat.">Razor Shell</span> | 16 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 43 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 19 |   | <span class="tooltip" title="A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.">Guillotine</span> | 46 |
+| <span class="tooltip" title="The target is hammered with a large pincer. Critical hits land more easily.">Crabhammer</span> | 22 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 49 |
 
 ---
 
@@ -2169,19 +2169,19 @@
 
 **Location:** Route 102, Route 123
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Superpower |   | 25 |  Knock Off |
-| 1 |   Avalanche |   | 28 |  Double Hit |
-| 1 |   Bubble |   | 30 |  Swift |
-| 1 |   Harden |   | 32 |  Night Slash |
-| 4 |   Vice Grip |   | 36 |  Taunt |
-| 7 |   Aqua Jet |   | 40 |  Crunch |
-| 10 |  Leer |   | 44 |  Swords Dance |
-| 13 |  Bubble Beam |   | 48 |  Superpower |
-| 16 |  Razor Shell |   | 52 |  Guillotine |
-| 19 |  Protect |   | 56 |  Dragon Dance |
-| 22 |  Crabhammer |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 1 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 25 |
+| <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.">Avalanche</span> | 1 |   | <span class="tooltip" title="The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.">Double Hit</span> | 28 |
+| <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.">Bubble</span> | 1 |   | <span class="tooltip" title="Star-shaped rays are shot at the opposing Pokémon. This attack never misses.">Swift</span> | 30 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 32 |
+| <span class="tooltip" title="The target is gripped and squeezed from both sides to inflict damage.">Vice Grip</span> | 4 |   | <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 36 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 7 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 40 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 10 |   | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 44 |
+| <span class="tooltip" title="A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.">Bubble Beam</span> | 13 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 48 |
+| <span class="tooltip" title="The user cuts its target with sharp shells. This may also lower the target’s Defense stat.">Razor Shell</span> | 16 |   | <span class="tooltip" title="A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.">Guillotine</span> | 52 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 19 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 56 |
+| <span class="tooltip" title="The target is hammered with a large pincer. Critical hits land more easily.">Crabhammer</span> | 22 |   |   |   |
 
 ---
 
@@ -2193,18 +2193,18 @@
 
 **Held Item:** Helix Fossil (50%), Light Clay (5%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Harden |   | 28 |  Extrasensory |
-| 1 |   Confusion |   | 31 |  Earth Power |
-| 4 |   Rapid Spin |   | 34 |  Guard Split |
-| 7 |   Mud |   | 34 |  Power Split |
-| 10 |  Heal Block |   | 37 |  Self |
-| 13 |  Rock Tomb |   | 40 |  Psychic |
-| 16 |  Psybeam |   | 43 |  Sandstorm |
-| 19 |  Ancient Power |   | 46 |  Trick Room |
-| 22 |  Cosmic Power |   | 49 |  Imprison |
-| 25 |  Power Trick |   | 52 |  Explosion |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 28 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 31 |
+| <span class="tooltip" title="A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.">Rapid Spin</span> | 4 |   | <span class="tooltip" title="The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.">Guard Split</span> | 34 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 7 |   | <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 34 |
+| <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 10 |   | <span class="tooltip" title="The user attacks everything around it by causing an explosion. The user faints upon using this move.">Self-Destruct</span> | 37 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 13 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 40 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 16 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 43 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 19 |   | <span class="tooltip" title="The user creates a bizarre area in which slower Pokémon get to move first for five turns.">Trick Room</span> | 46 |
+| <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 22 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 49 |
+| <span class="tooltip" title="The user employs its psychic power to switch its Attack with its Defense stat.">Power Trick</span> | 25 |   | <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 52 |
 
 ---
 
@@ -2216,19 +2216,19 @@
 
 **New TM/HMs:** Fly
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Teleport |   | 28 |  Extrasensory |
-| 1 |   Harden |   | 31 |  Earth Power |
-| 1 |   Confusion |   | 34 |  Guard Split |
-| 4 |   Rapid Spin |   | 34 |  Power Split |
-| 7 |   Mud |   | 36 |  Hyper Beam |
-| 10 |  Heal Block |   | 39 |  Self |
-| 13 |  Rock Tomb |   | 43 |  Psychic |
-| 16 |  Psybeam |   | 47 |  Sandstorm |
-| 19 |  Ancient Power |   | 51 |  Trick Room |
-| 22 |  Cosmic Power |   | 55 |  Imprison |
-| 25 |  Power Trick |   | 59 |  Explosion |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 28 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 31 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.">Guard Split</span> | 34 |
+| <span class="tooltip" title="A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.">Rapid Spin</span> | 4 |   | <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 34 |
+| <span class="tooltip" title="The user hurls mud in the target’s face to inflict damage and lower its accuracy.">Mud-Slap</span> | 7 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 36 |
+| <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 10 |   | <span class="tooltip" title="The user attacks everything around it by causing an explosion. The user faints upon using this move.">Self-Destruct</span> | 39 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 13 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 43 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 16 |   | <span class="tooltip" title="A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.">Sandstorm</span> | 47 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 19 |   | <span class="tooltip" title="The user creates a bizarre area in which slower Pokémon get to move first for five turns.">Trick Room</span> | 51 |
+| <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 22 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 55 |
+| <span class="tooltip" title="The user employs its psychic power to switch its Attack with its Defense stat.">Power Trick</span> | 25 |   | <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 59 |
 
 ---
 
@@ -2242,17 +2242,17 @@
 
 **Evolution Level:** 40 >> 37
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Astonish |   | 32 |  Amnesia |
-| 1 |   Constrict |   | 36 |  Energy Ball |
-| 4 |   Acid |   | 40 |  Earth Power |
-| 8 |   Ingrain |   | 44 |  Stockpile |
-| 12 |  Confuse Ray |   | 44 |  Spit Up |
-| 16 |  Ancient Power |   | 44 |  Swallow |
-| 20 |  Brine |   | 48 |  Recover |
-| 24 |  Giga Drain |   | 52 |  Wring Out |
-| 28 |  Gastro Acid |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 32 |
+| <span class="tooltip" title="The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.">Constrict</span> | 1 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 36 |
+| <span class="tooltip" title="The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.">Acid</span> | 4 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 40 |
+| <span class="tooltip" title="The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.">Ingrain</span> | 8 |   | <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 12 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 44 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 16 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 44 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 20 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 48 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 24 |   | <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 52 |
+| <span class="tooltip" title="The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.">Gastro Acid</span> | 28 |   |   |   |
 
 ---
 
@@ -2264,17 +2264,17 @@
 
 **Ability 2:** Storm Drain
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Wring Out |   | 28 |  Gastro Acid |
-| 1 |   Astonish |   | 32 |  Amnesia |
-| 1 |   Constrict |   | 36 |  Energy Ball |
-| 4 |   Acid |   | 41 |  Earth Power |
-| 8 |   Ingrain |   | 46 |  Stockpile |
-| 12 |  Confuse Ray |   | 46 |  Spit Up |
-| 16 |  Ancient Power |   | 46 |  Swallow |
-| 20 |  Brine |   | 51 |  Recover |
-| 24 |  Giga Drain |   | 56 |  Wring Out |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 1 |   | <span class="tooltip" title="The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.">Gastro Acid</span> | 28 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 32 |
+| <span class="tooltip" title="The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.">Constrict</span> | 1 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 36 |
+| <span class="tooltip" title="The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.">Acid</span> | 4 |   | <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 41 |
+| <span class="tooltip" title="The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.">Ingrain</span> | 8 |   | <span class="tooltip" title="The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.">Stockpile</span> | 46 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 12 |   | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.">Spit Up</span> | 46 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 16 |   | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.">Swallow</span> | 46 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 20 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 51 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 24 |   | <span class="tooltip" title="The user powerfully wrings the target. The more HP the target has, the greater the move’s power.">Wring Out</span> | 56 |
 
 ---
 
@@ -2288,18 +2288,18 @@
 
 **Evolution Level:** 40 >> 37
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Scratch |   | 28 |  Brine |
-| 1 |   Harden |   | 31 |  X |
-| 4 |   Mud Sport |   | 31 |  Cross Poison |
-| 7 |   Water Gun |   | 34 |  Rock Slide |
-| 10 |  Fury Cutter |   | 37 |  Slash |
-| 13 |  Smack Down |   | 40 |  Crush Claw |
-| 16 |  Aqua Jet |   | 43 |  Knock Off |
-| 19 |  Metal Claw |   | 46 |  Protect |
-| 22 |  Ancient Power |   | 49 |  Rock Blast |
-| 25 |  Bug Bite |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 28 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 31 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 4 |   | <span class="tooltip" title="A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.">Cross Poison</span> | 31 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 7 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 34 |
+| <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 10 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 37 |
+| <span class="tooltip" title="The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit.">Smack Down</span> | 13 |   | <span class="tooltip" title="The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat.">Crush Claw</span> | 40 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 16 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 43 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 19 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 46 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 22 |   | <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 49 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 25 |   |   |   |
 
 ---
 
@@ -2311,21 +2311,21 @@
 
 **Ability 2:** Swift Swim
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Stone Edge |   | 28 |  Brine |
-| 1 |   Superpower |   | 31 |  X |
-| 1 |   Rock Blast |   | 31 |  Cross Poison |
-| 1 |   Scratch |   | 34 |  Rock Slide |
-| 1 |   Harden |   | 37 |  Aqua Tail |
-| 4 |   Mud Sport |   | 39 |  Slash |
-| 7 |   Water Gun |   | 44 |  Crush Claw |
-| 10 |  Fury Cutter |   | 49 |  Knock Off |
-| 13 |  Smack Down |   | 54 |  Protect |
-| 16 |  Aqua Jet |   | 59 |  Rock Blast |
-| 19 |  Metal Claw |   | 64 |  Superpower |
-| 22 |  Ancient Power |   | 69 |  Stone Edge |
-| 25 |  Bug Bite |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 1 |   | <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 28 |
+| <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 1 |   | <span class="tooltip" title="The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.">X-Scissor</span> | 31 |
+| <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 1 |   | <span class="tooltip" title="A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.">Cross Poison</span> | 31 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 34 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 37 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 4 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 39 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 7 |   | <span class="tooltip" title="The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat.">Crush Claw</span> | 44 |
+| <span class="tooltip" title="The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.">Fury Cutter</span> | 10 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 49 |
+| <span class="tooltip" title="The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit.">Smack Down</span> | 13 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 54 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Aqua Jet</span> | 16 |   | <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 59 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 19 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 64 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 22 |   | <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 69 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 25 |   |   |   |
 
 ---
 
@@ -2337,10 +2337,10 @@
 
 **Evolution:** Use a Prism Scale
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 10 |  Flail |
-| 1 |   Tackle |   | 20 |  Mud Sport |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 10 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 20 |
 
 ---
 
@@ -2350,18 +2350,18 @@
 
 **Location:** Route 119
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Wrap |   | 26 |  Mirror Coat |
-| 1 |   Water Gun |   | 29 |  Recover |
-| 1 |   Water Sport |   | 32 |  Dragon Pulse |
-| 5 |   Refresh |   | 35 |  Hypnosis |
-| 8 |   Twister |   | 38 |  Aqua Tail |
-| 11 |  Captivate |   | 41 |  Safeguard |
-| 14 |  Attract |   | 44 |  Coil |
-| 17 |  Water Pulse |   | 47 |  Rain Dance |
-| 20 |  Disarming Voice |   | 50 |  Hydro Pump |
-| 23 |  Dragon Tail |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 26 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 29 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 1 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 32 |
+| <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 5 |   | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 35 |
+| <span class="tooltip" title="The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch.">Twister</span> | 8 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 38 |
+| <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 11 |   | <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 41 |
+| <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 14 |   | <span class="tooltip" title="The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.">Coil</span> | 44 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 17 |   | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water-type moves.">Rain Dance</span> | 47 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 20 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
+| <span class="tooltip" title="The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Dragon Tail</span> | 23 |   |   |   |
 
 ---
 
@@ -2383,15 +2383,15 @@
 | Speed | 70 | 100 |
 | Total | 420 | 480 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 20 |  Hail |
-| 10 |  Water Gun |   | 25 |  Weather Ball |
-| 10 |  Ember |   | 35 |  Hydro Pump |
-| 10 |  Powder Snow |   | 35 |  Fire Blast |
-| 15 |  Headbutt |   | 35 |  Blizzard |
-| 20 |  Rain Dance |   | 45 |  Hurricane |
-| 20 |  Sunny Day |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 20 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 10 |   | <span class="tooltip" title="An attack move that varies in power and type depending on the weather.">Weather Ball</span> | 25 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 10 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 35 |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 10 |   | <span class="tooltip" title="The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.">Fire Blast</span> | 35 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 15 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 35 |
+| <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water-type moves.">Rain Dance</span> | 20 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 45 |
+| <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | 20 |   |   |   |
 
 ---
 
@@ -2410,19 +2410,19 @@
 | Defense | 70 | 80 |
 | Total | 440 | 480 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Thief |   | 22 |  Ancient Power |
-| 1 |   Tail Whip |   | 25 |  Slash |
-| 1 |   Astonish |   | 28 |  Camouflage |
-| 1 |   Lick |   | 31 |  Shadow Claw |
-| 1 |   Scratch |   | 34 |  Screech |
-| 4 |   Bind |   | 37 |  Fake Out |
-| 7 |   Shadow Sneak |   | 40 |  Substitute |
-| 10 |  Feint |   | 43 |  Sucker Punch |
-| 13 |  Fury Swipes |   | 46 |  Recover |
-| 16 |  Feint Attack |   | 49 |  Synchronoise |
-| 19 |  Psybeam |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.">Thief</span> | 1 |   | <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 22 |
+| <span class="tooltip" title="The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.">Tail Whip</span> | 1 |   | <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 25 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave.">Camouflage</span> | 28 |
+| <span class="tooltip" title="The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.">Lick</span> | 1 |   | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. Critical hits land more easily.">Shadow Claw</span> | 31 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 34 |
+| <span class="tooltip" title="Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.">Bind</span> | 4 |   | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 37 |
+| <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 7 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 40 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 10 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 43 |
+| <span class="tooltip" title="The target is raked with sharp claws or scythes quickly two to five times in a row.">Fury Swipes</span> | 13 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 46 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 16 |   | <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 49 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 19 |   |   |   |
 
 ---
 
@@ -2434,17 +2434,17 @@
 
 **Evolution Level:** 37 >> 34
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Knock Off |   | 28 |  Shadow Ball |
-| 4 |   Screech |   | 31 |  Embargo |
-| 7 |   Night Shade |   | 34 |  Gunk Shot |
-| 10 |  Spite |   | 37 |  Sucker Punch |
-| 13 |  Shadow Sneak |   | 40 |  Snatch |
-| 16 |  Will |   | 43 |  Grudge |
-| 19 |  Feint Attack |   | 46 |  Trick |
-| 22 |  Hex |   | 49 |  Phantom Force |
-| 25 |  Curse |   | 52 |  Destiny Bond |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 28 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 4 |   | <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 31 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 34 |
+| <span class="tooltip" title="The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.">Spite</span> | 10 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 37 |
+| <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 13 |   | <span class="tooltip" title="The user steals the effects of any attempts to use a healing or stat-changing move.">Snatch</span> | 40 |
+| <span class="tooltip" title="The user shoots a sinister, bluish-white flame at the target to inflict a burn.">Will-O-Wisp</span> | 16 |   | <span class="tooltip" title="If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.">Grudge</span> | 43 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 19 |   | <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 46 |
+| <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 22 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 49 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 25 |   | <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 52 |
 
 ---
 
@@ -2454,18 +2454,18 @@
 
 **Location:** Route 121, Mt. Pyre
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Knock Off |   | 31 |  Embargo |
-| 4 |   Screech |   | 34 |  Shadow Claw |
-| 7 |   Night Shade |   | 35 |  Gunk Shot |
-| 10 |  Spite |   | 39 |  Sucker Punch |
-| 13 |  Shadow Sneak |   | 43 |  Snatch |
-| 16 |  Will |   | 47 |  Grudge |
-| 19 |  Feint Attack |   | 51 |  Trick |
-| 22 |  Hex |   | 55 |  Phantom Force |
-| 25 |  Curse |   | 59 |  Destiny Bond |
-| 28 |  Shadow Ball |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 1 |   | <span class="tooltip" title="This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | 31 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 4 |   | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. Critical hits land more easily.">Shadow Claw</span> | 34 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user shoots filthy garbage at the target to attack. This may also poison the target.">Gunk Shot</span> | 35 |
+| <span class="tooltip" title="The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.">Spite</span> | 10 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 39 |
+| <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 13 |   | <span class="tooltip" title="The user steals the effects of any attempts to use a healing or stat-changing move.">Snatch</span> | 43 |
+| <span class="tooltip" title="The user shoots a sinister, bluish-white flame at the target to inflict a burn.">Will-O-Wisp</span> | 16 |   | <span class="tooltip" title="If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.">Grudge</span> | 47 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 19 |   | <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 51 |
+| <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 22 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 55 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 25 |   | <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 59 |
+| <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 28 |   |   |   |
 
 ---
 
@@ -2479,16 +2479,16 @@
 
 **Evolution Level:** 37 >> 34
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 26 |  Shadow Ball |
-| 1 |   Night Shade |   | 30 |  Confuse Ray |
-| 1 |   Disable |   | 34 |  Curse |
-| 6 |   Astonish |   | 38 |  Hex |
-| 10 |  Foresight |   | 42 |  Mean Look |
-| 14 |  Shadow Sneak |   | 46 |  Payback |
-| 18 |  Pursuit |   | 50 |  Future Sight |
-| 22 |  Will |   | 54 |  Phantom Force |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 26 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 1 |   | <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 30 |
+| <span class="tooltip" title="For four turns, this move prevents the target from using the move it last used.">Disable</span> | 1 |   | <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 34 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 6 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 38 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 10 |   | <span class="tooltip" title="The user pins the target with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | 42 |
+| <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 14 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 46 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 18 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 50 |
+| <span class="tooltip" title="The user shoots a sinister, bluish-white flame at the target to inflict a burn.">Will-O-Wisp</span> | 22 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 54 |
 
 ---
 
@@ -2502,21 +2502,21 @@
 
 **Evolution:** Use a Reaper Cloth
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Phantom Force |   | 14 |  Shadow Sneak |
-| 1 |   Future Sight |   | 18 |  Pursuit |
-| 1 |   Pain Split |   | 22 |  Will |
-| 1 |   Fire Punch |   | 26 |  Shadow Ball |
-| 1 |   Ice Punch |   | 30 |  Confuse Ray |
-| 1 |   Thunder Punch |   | 34 |  Shadow Punch |
-| 1 |   Gravity |   | 35 |  Curse |
-| 1 |   Bind |   | 40 |  Hex |
-| 1 |   Leer |   | 45 |  Mean Look |
-| 1 |   Night Shade |   | 50 |  Payback |
-| 1 |   Disable |   | 55 |  Future Sight |
-| 6 |   Astonish |   | 60 |  Phantom Force |
-| 10 |  Foresight |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 1 |   | <span class="tooltip" title="The user extends its shadow and attacks the target from behind. This move always goes first.">Shadow Sneak</span> | 14 |
+| <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 1 |   | <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 18 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user shoots a sinister, bluish-white flame at the target to inflict a burn.">Will-O-Wisp</span> | 22 |
+| <span class="tooltip" title="The target is punched with a fiery fist. This may also leave the target with a burn.">Fire Punch</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 26 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 30 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="The user throws a punch from the shadows. This attack never misses.">Shadow Punch</span> | 34 |
+| <span class="tooltip" title="Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate.">Gravity</span> | 1 |   | <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 35 |
+| <span class="tooltip" title="Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.">Bind</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 40 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user pins the target with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | 45 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 1 |   | <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span> | 50 |
+| <span class="tooltip" title="For four turns, this move prevents the target from using the move it last used.">Disable</span> | 1 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 55 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 6 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 60 |
+| <span class="tooltip" title="Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.">Foresight</span> | 10 |   |   |   |
 
 ---
 
@@ -2536,19 +2536,19 @@
 | Speed | 51 | 60 |
 | Total | 460 | 535 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hurricane |   | 26 |  Air Slash |
-| 1 |   Leaf Storm |   | 30 |  Giga Drain |
-| 1 |   Leer |   | 34 |  Body Slam |
-| 1 |   Gust |   | 38 |  Natural Gift |
-| 1 |   Growth |   | 42 |  Dragon Pulse |
-| 1 |   Razor Leaf |   | 46 |  Bestow |
-| 6 |   Sweet Scent |   | 50 |  Synthesis |
-| 10 |  Stomp |   | 54 |  Energy Ball |
-| 14 |  Magical Leaf |   | 58 |  Solar Beam |
-| 18 |  Whirlwind |   | 62 |  Leaf Storm |
-| 22 |  Leaf Tornado |   | 66 |  Hurricane |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 26 |
+| <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 1 |   | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 30 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 34 |
+| <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | 1 |   | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.">Natural Gift</span> | 38 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 1 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 42 |
+| <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 1 |   | <span class="tooltip" title="The user passes its held item to the target when the target isn’t holding an item.">Bestow</span> | 46 |
+| <span class="tooltip" title="A sweet scent that harshly lowers opposing Pokémon’s evasiveness. This also lures wild Pokémon if used in places such as tall grass.">Sweet Scent</span> | 6 |   | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | 50 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 10 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 54 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 14 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 58 |
+| <span class="tooltip" title="The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Whirlwind</span> | 18 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 62 |
+| <span class="tooltip" title="The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy.">Leaf Tornado</span> | 22 |   | <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 66 |
 
 ---
 
@@ -2568,19 +2568,19 @@
 | Speed | 65 | 80 |
 | Total | 425 | 485 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Healing Wish |   | 28 |  Wish |
-| 1 |   Synchronoise |   | 31 |  Uproar |
-| 1 |   Wrap |   | 34 |  Safeguard |
-| 4 |   Growl |   | 37 |  Psychic |
-| 7 |   Astonish |   | 40 |  Double |
-| 10 |  Confusion |   | 43 |  Hypnosis |
-| 13 |  Yawn |   | 46 |  Heal Pulse |
-| 16 |  Psywave |   | 49 |  Hyper Voice |
-| 19 |  Cosmic Power |   | 52 |  Synchronoise |
-| 22 |  Extrasensory |   | 55 |  Healing Wish |
-| 25 |  Heal Bell |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.">Healing Wish</span> | 1 |   | <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 28 |
+| <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 1 |   | <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 31 |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 34 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 4 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 37 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 7 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 40 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 10 |   | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | 43 |
+| <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 13 |   | <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 46 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 16 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 49 |
+| <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 19 |   | <span class="tooltip" title="Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.">Synchronoise</span> | 52 |
+| <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 22 |   | <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.">Healing Wish</span> | 55 |
+| <span class="tooltip" title="The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.">Heal Bell</span> | 25 |   |   |   |
 
 ---
 
@@ -2590,19 +2590,19 @@
 
 **Location:** Route 120
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Perish Song |   | 25 |  Swords Dance |
-| 1 |   Future Sight |   | 28 |  Night Slash |
-| 1 |   Scratch |   | 31 |  Detect |
-| 1 |   Feint |   | 34 |  Psycho Cut |
-| 4 |   Leer |   | 37 |  Sucker Punch |
-| 7 |   Quick Attack |   | 40 |  Play Rough |
-| 10 |  Pursuit |   | 43 |  Me First |
-| 13 |  Taunt |   | 46 |  Razor Wind |
-| 16 |  Bite |   | 49 |  Megahorn |
-| 19 |  Double Team |   | 52 |  Future Sight |
-| 22 |  Slash |   | 55 |  Perish Song |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | 1 |   | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.">Swords Dance</span> | 25 |
+| <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 1 |   | <span class="tooltip" title="The user slashes the target the instant an opportunity arises. Critical hits land more easily.">Night Slash</span> | 28 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Detect</span> | 31 |
+| <span class="tooltip" title="An attack that hits a target using Protect or Detect. This also lifts the effects of those moves.">Feint</span> | 1 |   | <span class="tooltip" title="The user tears at the target with blades formed by psychic power. Critical hits land more easily.">Psycho Cut</span> | 34 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 4 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 37 |
+| <span class="tooltip" title="The user lunges at the target at a speed that makes it almost invisible. This move always goes first.">Quick Attack</span> | 7 |   | <span class="tooltip" title="The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.">Play Rough</span> | 40 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 10 |   | <span class="tooltip" title="The user cuts ahead of the target to steal and use the target’s intended move with greater power. This move fails if it isn’t used first.">Me First</span> | 43 |
+| <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 13 |   | <span class="tooltip" title="A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily.">Razor Wind</span> | 46 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 16 |   | <span class="tooltip" title="Using its tough and impressive horn, the user rams into the target with no letup.">Megahorn</span> | 49 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 19 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 52 |
+| <span class="tooltip" title="The target is attacked with a slash of claws or blades. Critical hits land more easily.">Slash</span> | 22 |   | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns, unless it switches out of battle.">Perish Song</span> | 55 |
 
 ---
 
@@ -2612,12 +2612,12 @@
 
 **Location:** Safari Zone
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Splash |   | 15 |  Mirror Coat |
-| 1 |   Charm |   | 15 |  Safeguard |
-| 1 |   Encore |   | 15 |  Destiny Bond |
-| 15 |  Counter |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | 1 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 15 |
+| <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 1 |   | <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 15 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 1 |   | <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 15 |
+| <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 15 |   |   |   |
 
 ---
 
@@ -2629,15 +2629,15 @@
 
 **Evolution Level:** 42 >> 39
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Powder Snow |   | 28 |  Headbutt |
-| 1 |   Leer |   | 32 |  Protect |
-| 5 |   Double Team |   | 37 |  Frost Breath |
-| 10 |  Ice Shard |   | 41 |  Crunch |
-| 14 |  Icy Wind |   | 46 |  Blizzard |
-| 19 |  Bite |   | 50 |  Hail |
-| 23 |  Ice Fang |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 1 |   | <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 28 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 32 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 5 |   | <span class="tooltip" title="The user blows its cold breath on the target. This attack always results in a critical hit.">Frost Breath</span> | 37 |
+| <span class="tooltip" title="The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.">Ice Shard</span> | 10 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 41 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 14 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 46 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 19 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 50 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 23 |   |   |   |
 
 ---
 
@@ -2647,18 +2647,18 @@
 
 **Location:** Shoal Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Head Smash |   | 28 |  Headbutt |
-| 1 |   Double |   | 32 |  Protect |
-| 1 |   Sheer Cold |   | 37 |  Freeze |
-| 1 |   Powder Snow |   | 38 |  Frost Breath |
-| 1 |   Leer |   | 44 |  Crunch |
-| 5 |   Double Team |   | 50 |  Blizzard |
-| 10 |  Ice Shard |   | 56 |  Hail |
-| 14 |  Icy Wind |   | 62 |  Sheer Cold |
-| 19 |  Bite |   | 68 |  Double |
-| 23 |  Ice Fang |   | 74 |  Head Smash |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 1 |   | <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 28 |
+| <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 32 |
+| <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 1 |   | <span class="tooltip" title="The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.">Freeze-Dry</span> | 37 |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 1 |   | <span class="tooltip" title="The user blows its cold breath on the target. This attack always results in a critical hit.">Frost Breath</span> | 38 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 44 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 5 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 50 |
+| <span class="tooltip" title="The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.">Ice Shard</span> | 10 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 56 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 14 |   | <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 62 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 19 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 68 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 23 |   | <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 74 |
 
 ---
 
@@ -2668,16 +2668,16 @@
 
 **Location:** Sea Mauville Outside, Shoal Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Defense Curl |   | 21 |  Aurora Beam |
-| 1 |   Powder Snow |   | 26 |  Body Slam |
-| 1 |   Growl |   | 31 |  Rest |
-| 1 |   Water Gun |   | 31 |  Snore |
-| 5 |   Rollout |   | 36 |  Hail |
-| 9 |   Encore |   | 41 |  Blizzard |
-| 13 |  Ice Ball |   | 46 |  Sheer Cold |
-| 17 |  Brine |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user curls up to conceal weak spots and raise its Defense stat.">Defense Curl</span> | 1 |   | <span class="tooltip" title="The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.">Aurora Beam</span> | 21 |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 26 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 31 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 31 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes more powerful each time it hits.">Rollout</span> | 5 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 36 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 9 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 41 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes stronger each time it hits.">Ice Ball</span> | 13 |   | <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 46 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 17 |   |   |   |
 
 ---
 
@@ -2687,16 +2687,16 @@
 
 **Location:** Shoal Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Defense Curl |   | 21 |  Aurora Beam |
-| 1 |   Powder Snow |   | 26 |  Body Slam |
-| 1 |   Growl |   | 31 |  Rest |
-| 1 |   Water Gun |   | 31 |  Snore |
-| 5 |   Rollout |   | 32 |  Swagger |
-| 9 |   Encore |   | 38 |  Hail |
-| 13 |  Ice Ball |   | 45 |  Blizzard |
-| 17 |  Brine |   | 52 |  Sheer Cold |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user curls up to conceal weak spots and raise its Defense stat.">Defense Curl</span> | 1 |   | <span class="tooltip" title="The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.">Aurora Beam</span> | 21 |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 26 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 31 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 31 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes more powerful each time it hits.">Rollout</span> | 5 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 32 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 9 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 38 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes stronger each time it hits.">Ice Ball</span> | 13 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 45 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 17 |   | <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 52 |
 
 ---
 
@@ -2706,18 +2706,18 @@
 
 **Location:** Evolve Sealeo (Lv. 44)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Crunch |   | 26 |  Body Slam |
-| 1 |   Defense Curl |   | 31 |  Rest |
-| 1 |   Powder Snow |   | 31 |  Snore |
-| 1 |   Growl |   | 32 |  Swagger |
-| 1 |   Water Gun |   | 38 |  Hail |
-| 5 |   Rollout |   | 44 |  Ice Fang |
-| 9 |   Encore |   | 44 |  Super Fang |
-| 13 |  Ice Ball |   | 49 |  Blizzard |
-| 17 |  Brine |   | 60 |  Sheer Cold |
-| 21 |  Aurora Beam |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 1 |   | <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 26 |
+| <span class="tooltip" title="The user curls up to conceal weak spots and raise its Defense stat.">Defense Curl</span> | 1 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 31 |
+| <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.">Powder Snow</span> | 1 |   | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.">Snore</span> | 31 |
+| <span class="tooltip" title="The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.">Growl</span> | 1 |   | <span class="tooltip" title="The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.">Swagger</span> | 32 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | 38 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes more powerful each time it hits.">Rollout</span> | 5 |   | <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 44 |
+| <span class="tooltip" title="The user compels the target to keep using only the move it last used for three turns.">Encore</span> | 9 |   | <span class="tooltip" title="The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.">Super Fang</span> | 44 |
+| <span class="tooltip" title="The user continually rolls into the target over five turns. It becomes stronger each time it hits.">Ice Ball</span> | 13 |   | <span class="tooltip" title="A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.">Blizzard</span> | 49 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 17 |   | <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 60 |
+| <span class="tooltip" title="The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.">Aurora Beam</span> | 21 |   |   |   |
 
 ---
 
@@ -2729,11 +2729,11 @@
 
 **Ability 2:** Rattled
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Clamp |   | 1 |   Iron Defense |
-| 1 |   Water Gun |   | 17 |  Muddy Water |
-| 1 |   Whirlpool |   | 34 |  Shell Smash |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is clamped and squeezed by the user’s very thick and sturdy shell for four to five turns.">Clamp</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 1 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 17 |
+| <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 1 |   | <span class="tooltip" title="The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.">Shell Smash</span> | 34 |
 
 ---
 
@@ -2745,16 +2745,16 @@
 
 **Ability 2:** Water Veil
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Whirlpool |   | 23 |  Sucker Punch |
-| 1 |   Bite |   | 26 |  Dive |
-| 5 |   Screech |   | 29 |  Baton Pass |
-| 9 |   Scary Face |   | 34 |  Crunch |
-| 11 |  Feint Attack |   | 39 |  Aqua Tail |
-| 14 |  Water Pulse |   | 45 |  Coil |
-| 16 |  Ice Fang |   | 50 |  Hydro Pump |
-| 19 |  Brine |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 1 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 23 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 1 |   | <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span> | 26 |
+| <span class="tooltip" title="An earsplitting screech harshly lowers the target’s Defense stat.">Screech</span> | 5 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 29 |
+| <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 9 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 34 |
+| <span class="tooltip" title="The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.">Feint Attack</span> | 11 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 39 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 14 |   | <span class="tooltip" title="The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.">Coil</span> | 45 |
+| <span class="tooltip" title="The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.">Ice Fang</span> | 16 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
+| <span class="tooltip" title="If the target’s HP is half or less, this attack will hit with double the power.">Brine</span> | 19 |   |   |   |
 
 ---
 
@@ -2766,16 +2766,16 @@
 
 **Ability 2:** Hydration
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Whirlpool |   | 23 |  Captivate |
-| 1 |   Confusion |   | 26 |  Dive |
-| 5 |   Water Sport |   | 29 |  Baton Pass |
-| 9 |   Agility |   | 34 |  Psychic |
-| 11 |  Draining Kiss |   | 39 |  Aqua Tail |
-| 14 |  Water Pulse |   | 45 |  Coil |
-| 16 |  Amnesia |   | 50 |  Hydro Pump |
-| 19 |  Aqua Ring |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user traps the target in a violent swirling whirlpool for four to five turns.">Whirlpool</span> | 1 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 23 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span> | 26 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 5 |   | <span class="tooltip" title="The user switches places with a party Pokémon in waiting and passes along any stat changes.">Baton Pass</span> | 29 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 9 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 34 |
+| <span class="tooltip" title="The user steals the target’s energy with a kiss. The user’s HP is restored by over half of the damage taken by the target.">Draining Kiss</span> | 11 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 39 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 14 |   | <span class="tooltip" title="The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.">Coil</span> | 45 |
+| <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 16 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
+| <span class="tooltip" title="The user envelops itself in a veil made of water. It regains some HP every turn.">Aqua Ring</span> | 19 |   |   |   |
 
 ---
 
@@ -2785,18 +2785,18 @@
 
 **Location:** Route 124, Route 126, Route 127, Route 128, Route 129, Route 130, Underwater, Seafloor Cavern Outide
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Head Smash |   | 26 |  Zen Headbutt |
-| 1 |   Tackle |   | 30 |  Aqua Tail |
-| 1 |   Harden |   | 34 |  Rock Slide |
-| 1 |   Mud Sport |   | 38 |  Take Down |
-| 1 |   Water Gun |   | 42 |  Yawn |
-| 6 |   Mud Sport |   | 46 |  Rest |
-| 10 |  Water Gun |   | 50 |  Hydro Pump |
-| 14 |  Rock Tomb |   | 54 |  Double |
-| 18 |  Ancient Power |   | 58 |  Head Smash |
-| 22 |  Dive |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 26 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 30 |
+| <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 1 |   | <span class="tooltip" title="Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.">Rock Slide</span> | 34 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 1 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 38 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 1 |   | <span class="tooltip" title="The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.">Yawn</span> | 42 |
+| <span class="tooltip" title="The user covers itself with mud. This weakens Electric-type moves for five turns.">Mud Sport</span> | 6 |   | <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 46 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 10 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 50 |
+| <span class="tooltip" title="Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.">Rock Tomb</span> | 14 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 54 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 18 |   | <span class="tooltip" title="The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.">Head Smash</span> | 58 |
+| <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span> | 22 |   |   |   |
 
 ---
 
@@ -2824,18 +2824,18 @@
 | Speed | 97 | 145 |
 | Total | 330 | 465 |
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Tackle |   | 25 |  Aqua Ring |
-| 1 |   Charm |   | 28 |  Moonblast |
-| 1 |   Misty Terrain |   | 31 |  Captivate |
-| 4 |   Sweet Kiss |   | 34 |  Take Down |
-| 7 |   Water Gun |   | 37 |  Lucky Chant |
-| 10 |  Draining Kiss |   | 40 |  Hydro Pump |
-| 13 |  Attract |   | 43 |  Flail |
-| 16 |  Water Pulse |   | 46 |  Safeguard |
-| 19 |  Agility |   | 49 |  Heal Pulse |
-| 22 |  Scald |   | 52 |  Light of Ruin |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user envelops itself in a veil made of water. It regains some HP every turn.">Aqua Ring</span> | 25 |
+| <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 1 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 28 |
+| <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 1 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 31 |
+| <span class="tooltip" title="The user kisses the target with a sweet, angelic cuteness that causes confusion.">Sweet Kiss</span> | 4 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 34 |
+| <span class="tooltip" title="The target is blasted with a forceful shot of water.">Water Gun</span> | 7 |   | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 37 |
+| <span class="tooltip" title="The user steals the target’s energy with a kiss. The user’s HP is restored by over half of the damage taken by the target.">Draining Kiss</span> | 10 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 40 |
+| <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 13 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 43 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 16 |   | <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 46 |
+| <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 19 |   | <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 49 |
+| <span class="tooltip" title="The user shoots boiling hot water at its target. This may also leave the target with a burn.">Scald</span> | 22 |   | <span class="tooltip" title="Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.">Light of Ruin</span> | 52 |
 
 ---
 
@@ -2847,15 +2847,15 @@
 
 **Ability 2:** Sheer Force
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Rage |   | 25 |  Crunch |
-| 4 |   Ember |   | 29 |  Dragon Claw |
-| 7 |   Leer |   | 34 |  Zen Headbutt |
-| 10 |  Bite |   | 39 |  Scary Face |
-| 13 |  Dragon Breath |   | 44 |  Flamethrower |
-| 17 |  Headbutt |   | 49 |  Double |
-| 21 |  Focus Energy |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 25 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 4 |   | <span class="tooltip" title="The user slashes the target with huge, sharp claws.">Dragon Claw</span> | 29 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 34 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 10 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 39 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 13 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 44 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 17 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 49 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 21 |   |   |   |
 
 ---
 
@@ -2869,15 +2869,15 @@
 
 **Held Item:** Salamencite (50%), Dragon Fang (5%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Rage |   | 25 |  Crunch |
-| 4 |   Ember |   | 29 |  Dragon Claw |
-| 7 |   Leer |   | 30 |  Protect |
-| 10 |  Bite |   | 35 |  Zen Headbutt |
-| 13 |  Dragon Breath |   | 42 |  Scary Face |
-| 17 |  Headbutt |   | 49 |  Flamethrower |
-| 21 |  Focus Energy |   | 56 |  Double |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 25 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 4 |   | <span class="tooltip" title="The user slashes the target with huge, sharp claws.">Dragon Claw</span> | 29 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 7 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 30 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 10 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 35 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 13 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 42 |
+| <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 17 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 49 |
+| <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 21 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 56 |
 
 ---
 
@@ -2891,19 +2891,19 @@
 
 **Held Item:** Salamencite (50%), Dragon Fang (5%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Hydro Pump |   | 17 |  Headbutt |
-| 1 |   Hyper Voice |   | 21 |  Focus Energy |
-| 1 |   Dragon Tail |   | 25 |  Crunch |
-| 1 |   Fire Fang |   | 29 |  Dragon Claw |
-| 1 |   Thunder Fang |   | 30 |  Protect |
-| 1 |   Rage |   | 35 |  Zen Headbutt |
-| 1 |   Bite |   | 42 |  Scary Face |
-| 4 |   Ember |   | 49 |  Flamethrower |
-| 7 |   Leer |   | 50 |  Fly |
-| 10 |  Bite |   | 63 |  Double |
-| 13 |  Dragon Breath |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 1 |   | <span class="tooltip" title="The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.">Headbutt</span> | 17 |
+| <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 1 |   | <span class="tooltip" title="The user takes a deep breath and focuses so that critical hits land more easily.">Focus Energy</span> | 21 |
+| <span class="tooltip" title="The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.">Dragon Tail</span> | 1 |   | <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 25 |
+| <span class="tooltip" title="The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.">Fire Fang</span> | 1 |   | <span class="tooltip" title="The user slashes the target with huge, sharp claws.">Dragon Claw</span> | 29 |
+| <span class="tooltip" title="The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.">Thunder Fang</span> | 1 |   | <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 30 |
+| <span class="tooltip" title="As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.">Rage</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 35 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 1 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 42 |
+| <span class="tooltip" title="The target is attacked with small flames. This may also leave the target with a burn.">Ember</span> | 4 |   | <span class="tooltip" title="The target is scorched with an intense blast of fire. This may also leave the target with a burn.">Flamethrower</span> | 49 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 7 |   | <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span> | 50 |
+| <span class="tooltip" title="The target is bitten with viciously sharp fangs. This may also make the target flinch.">Bite</span> | 10 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 63 |
+| <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 13 |   |   |   |
 
 ---
 
@@ -2917,10 +2917,10 @@
 
 **Catch Rate:** 3 >> 45
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Take Down |   | 1 |   Iron Head |
-| 1 |   Iron Defense |   | 1 |   Zen Headbutt |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 1 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 1 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 1 |
 
 ---
 
@@ -2934,17 +2934,17 @@
 
 **Catch Rate:** 3 >> 45
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Magnet Rise |   | 29 |  Miracle Eye |
-| 1 |   Take Down |   | 32 |  Zen Headbutt |
-| 1 |   Iron Defense |   | 35 |  Scary Face |
-| 1 |   Iron Head |   | 38 |  Psychic |
-| 1 |   Zen Headbutt |   | 41 |  Agility |
-| 20 |  Confusion |   | 44 |  Meteor Mash |
-| 20 |  Metal Claw |   | 47 |  Iron Defense |
-| 23 |  Pursuit |   | 50 |  Hyper Beam |
-| 26 |  Bullet Punch |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user levitates using electrically generated magnetism for five turns.">Magnet Rise</span> | 1 |   | <span class="tooltip" title="Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.">Miracle Eye</span> | 29 |
+| <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 32 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 1 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 35 |
+| <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 38 |
+| <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 1 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.">Meteor Mash</span> | 44 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 20 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 47 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 23 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 50 |
+| <span class="tooltip" title="The user strikes the target with tough punches as fast as bullets. This move always goes first.">Bullet Punch</span> | 26 |   |   |   |
 
 ---
 
@@ -2960,18 +2960,18 @@
 
 **New TM/HMs:** Fly
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Magnet Rise |   | 26 |  Bullet Punch |
-| 1 |   Thunder Punch |   | 29 |  Miracle Eye |
-| 1 |   Ice Punch |   | 32 |  Zen Headbutt |
-| 1 |   Take Down |   | 35 |  Scary Face |
-| 1 |   Iron Defense |   | 38 |  Psychic |
-| 1 |   Iron Head |   | 41 |  Agility |
-| 1 |   Zen Headbutt |   | 44 |  Meteor Mash |
-| 20 |  Confusion |   | 45 |  Hammer Arm |
-| 20 |  Metal Claw |   | 52 |  Iron Defense |
-| 23 |  Pursuit |   | 60 |  Hyper Beam |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user levitates using electrically generated magnetism for five turns.">Magnet Rise</span> | 1 |   | <span class="tooltip" title="The user strikes the target with tough punches as fast as bullets. This move always goes first.">Bullet Punch</span> | 26 |
+| <span class="tooltip" title="The target is punched with an electrified fist. This may also leave the target with paralysis.">Thunder Punch</span> | 1 |   | <span class="tooltip" title="Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.">Miracle Eye</span> | 29 |
+| <span class="tooltip" title="The target is punched with an icy fist. This may also leave the target frozen.">Ice Punch</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 32 |
+| <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 1 |   | <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 35 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 38 |
+| <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 1 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 41 |
+| <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 1 |   | <span class="tooltip" title="The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.">Meteor Mash</span> | 44 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 45 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 20 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 52 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 23 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 60 |
 
 ---
 
@@ -2983,17 +2983,17 @@
 
 **Ability 2:** Sturdy
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Explosion |   | 31 |  Ancient Power |
-| 1 |   Stomp |   | 37 |  Iron Defense |
-| 1 |   Rock Throw |   | 43 |  Stone Edge |
-| 1 |   Charge Beam |   | 49 |  Hammer Arm |
-| 1 |   Bulldoze |   | 55 |  Lock |
-| 7 |   Rock Throw |   | 55 |  Zap Cannon |
-| 13 |  Charge Beam |   | 61 |  Superpower |
-| 19 |  Bulldoze |   | 67 |  Hyper Beam |
-| 25 |  Curse |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 1 |   | <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 31 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 37 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 1 |   | <span class="tooltip" title="The user stabs the target with sharpened stones from below. Critical hits land more easily.">Stone Edge</span> | 43 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 1 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 49 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 1 |   | <span class="tooltip" title="The user takes sure aim at the target. This ensures the next attack does not miss the target.">Lock-On</span> | 55 |
+| <span class="tooltip" title="The user picks up and throws a small rock at the target to attack.">Rock Throw</span> | 7 |   | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | 55 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 13 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 61 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 19 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 67 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 25 |   |   |   |
 
 ---
 
@@ -3005,17 +3005,17 @@
 
 **Ability 2:** Ice Body
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Explosion |   | 31 |  Ancient Power |
-| 1 |   Stomp |   | 37 |  Amnesia |
-| 1 |   Icy Wind |   | 43 |  Ice Beam |
-| 1 |   Charge Beam |   | 49 |  Hammer Arm |
-| 1 |   Bulldoze |   | 55 |  Lock |
-| 7 |   Icy Wind |   | 55 |  Zap Cannon |
-| 13 |  Charge Beam |   | 61 |  Superpower |
-| 19 |  Bulldoze |   | 67 |  Hyper Beam |
-| 25 |  Curse |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 1 |   | <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 31 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 37 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 1 |   | <span class="tooltip" title="The target is struck with an icy-cold beam of energy. This may also leave the target frozen.">Ice Beam</span> | 43 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 1 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 49 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 1 |   | <span class="tooltip" title="The user takes sure aim at the target. This ensures the next attack does not miss the target.">Lock-On</span> | 55 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.">Icy Wind</span> | 7 |   | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | 55 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 13 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 61 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 19 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 67 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 25 |   |   |   |
 
 ---
 
@@ -3027,18 +3027,18 @@
 
 **Ability 2:** Light Metal
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Explosion |   | 37 |  Iron Defense |
-| 1 |   Stomp |   | 37 |  Amnesia |
-| 1 |   Metal Claw |   | 43 |  Iron Head |
-| 1 |   Charge Beam |   | 43 |  Flash Cannon |
-| 1 |   Bulldoze |   | 49 |  Hammer Arm |
-| 7 |   Metal Claw |   | 55 |  Lock |
-| 13 |  Charge Beam |   | 55 |  Zap Cannon |
-| 19 |  Bulldoze |   | 61 |  Superpower |
-| 25 |  Curse |   | 67 |  Hyper Beam |
-| 31 |  Ancient Power |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.">Explosion</span> | 1 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 37 |
+| <span class="tooltip" title="The target is stomped with a big foot. This may also make the target flinch.">Stomp</span> | 1 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 37 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 1 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 43 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 1 |   | <span class="tooltip" title="The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat.">Flash Cannon</span> | 43 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 1 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 49 |
+| <span class="tooltip" title="The target is raked with steel claws. This may also raise the user’s Attack stat.">Metal Claw</span> | 7 |   | <span class="tooltip" title="The user takes sure aim at the target. This ensures the next attack does not miss the target.">Lock-On</span> | 55 |
+| <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 13 |   | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | 55 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 19 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 61 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all other types.">Curse</span> | 25 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 67 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 31 |   |   |   |
 
 ---
 
@@ -3050,18 +3050,18 @@
 
 **Held Item:** Soul Dew (100%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Dragon Pulse |   | 20 |  Dragon Breath |
-| 1 |   Helping Hand |   | 24 |  Mist Ball |
-| 1 |   Wish |   | 28 |  Psycho Shift |
-| 1 |   Psywave |   | 32 |  Recover |
-| 1 |   Safeguard |   | 36 |  Reflect Type |
-| 4 |   Water Sport |   | 41 |  Healing Wish |
-| 7 |   Charm |   | 46 |  Zen Headbutt |
-| 10 |  Stored Power |   | 51 |  Guard Split |
-| 13 |  Refresh |   | 56 |  Psychic |
-| 16 |  Heal Pulse |   | 61 |  Dragon Pulse |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 1 |   | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 20 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 1 |   | <span class="tooltip" title="A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.">Mist Ball</span> | 24 |
+| <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 28 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 1 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 32 |
+| <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 1 |   | <span class="tooltip" title="The user reflects the target’s type, making it the same type as the target.">Reflect Type</span> | 36 |
+| <span class="tooltip" title="The user soaks itself with water. This weakens Fire-type moves for five turns.">Water Sport</span> | 4 |   | <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.">Healing Wish</span> | 41 |
+| <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 46 |
+| <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 10 |   | <span class="tooltip" title="The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.">Guard Split</span> | 51 |
+| <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 13 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 56 |
+| <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 16 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 61 |
 
 ---
 
@@ -3073,18 +3073,18 @@
 
 **Held Item:** Soul Dew (100%)
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Dragon Pulse |   | 20 |  Dragon Breath |
-| 1 |   Helping Hand |   | 24 |  Luster Purge |
-| 1 |   Heal Block |   | 28 |  Psycho Shift |
-| 1 |   Psywave |   | 32 |  Recover |
-| 1 |   Safeguard |   | 36 |  Telekinesis |
-| 4 |   Protect |   | 41 |  Memento |
-| 7 |   Dragon Dance |   | 46 |  Zen Headbutt |
-| 10 |  Stored Power |   | 51 |  Power Split |
-| 13 |  Refresh |   | 56 |  Psychic |
-| 16 |  Heal Pulse |   | 61 |  Dragon Pulse |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 1 |   | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.">Dragon Breath</span> | 20 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 1 |   | <span class="tooltip" title="The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.">Luster Purge</span> | 24 |
+| <span class="tooltip" title="For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.">Heal Block</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 28 |
+| <span class="tooltip" title="The target is attacked with an odd psychic wave. The attack varies in intensity.">Psywave</span> | 1 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 32 |
+| <span class="tooltip" title="The user creates a protective field that prevents status conditions for five turns.">Safeguard</span> | 1 |   | <span class="tooltip" title="The user makes the target float with its psychic power. The target is easier to hit for three turns.">Telekinesis</span> | 36 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 4 |   | <span class="tooltip" title="The user faints when using this move. In return, this harshly lowers the target’s Attack and Sp. Atk stats.">Memento</span> | 41 |
+| <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 46 |
+| <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 10 |   | <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 51 |
+| <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 13 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 56 |
+| <span class="tooltip" title="The user emits a healing pulse which restores the target’s HP by up to half of its max HP.">Heal Pulse</span> | 16 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 61 |
 
 ---
 
@@ -3094,15 +3094,15 @@
 
 **Location:** Cave of Origin, Mirage Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Ancient Power |   | 45 |  Origin Pulse |
-| 1 |   Water Pulse |   | 50 |  Calm Mind |
-| 5 |   Scary Face |   | 55 |  Muddy Water |
-| 15 |  Aqua Tail |   | 60 |  Sheer Cold |
-| 20 |  Body Slam |   | 65 |  Hydro Pump |
-| 30 |  Aqua Ring |   | 70 |  Double |
-| 35 |  Ice Beam |   | 75 |  Water Spout |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 1 |   | <span class="tooltip" title="The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.">Origin Pulse</span> | 45 |
+| <span class="tooltip" title="The user attacks the target with a pulsing blast of water. This may also confuse the target.">Water Pulse</span> | 1 |   | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | 50 |
+| <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 5 |   | <span class="tooltip" title="The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.">Muddy Water</span> | 55 |
+| <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm.">Aqua Tail</span> | 15 |   | <span class="tooltip" title="The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits.">Sheer Cold</span> | 60 |
+| <span class="tooltip" title="The user drops onto the target with its full body weight. This may also leave the target with paralysis.">Body Slam</span> | 20 |   | <span class="tooltip" title="The target is blasted by a huge volume of water launched under great pressure.">Hydro Pump</span> | 65 |
+| <span class="tooltip" title="The user envelops itself in a veil made of water. It regains some HP every turn.">Aqua Ring</span> | 30 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 70 |
+| <span class="tooltip" title="The target is struck with an icy-cold beam of energy. This may also leave the target frozen.">Ice Beam</span> | 35 |   | <span class="tooltip" title="The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.">Water Spout</span> | 75 |
 
 ---
 
@@ -3112,15 +3112,15 @@
 
 **Location:** Cave of Origin, Mirage Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Ancient Power |   | 45 |  Precipice Blades |
-| 1 |   Mud Shot |   | 50 |  Bulk Up |
-| 5 |   Scary Face |   | 55 |  Solar Beam |
-| 15 |  Earth Power |   | 60 |  Fissure |
-| 20 |  Lava Plume |   | 65 |  Fire Blast |
-| 30 |  Rest |   | 70 |  Hammer Arm |
-| 35 |  Earthquake |   | 75 |  Eruption |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 1 |   | <span class="tooltip" title="The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.">Precipice Blades</span> | 45 |
+| <span class="tooltip" title="The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.">Mud Shot</span> | 1 |   | <span class="tooltip" title="The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.">Bulk Up</span> | 50 |
+| <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 5 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 55 |
+| <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span> | 15 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 60 |
+| <span class="tooltip" title="The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn.">Lava Plume</span> | 20 |   | <span class="tooltip" title="The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.">Fire Blast</span> | 65 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 30 |   | <span class="tooltip" title="The user swings and hits with its strong and heavy fist. It lowers the user’s Speed, however.">Hammer Arm</span> | 70 |
+| <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 35 |   | <span class="tooltip" title="The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power.">Eruption</span> | 75 |
 
 ---
 
@@ -3130,15 +3130,15 @@
 
 **Location:** Sky Pillar
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Twister |   | 50 |  Dragon Pulse |
-| 5 |   Scary Face |   | 60 |  Dragon Dance |
-| 15 |  Ancient Power |   | 65 |  Fly |
-| 20 |  Crunch |   | 75 |  Outrage |
-| 30 |  Air Slash |   | 80 |  Hyper Voice |
-| 35 |  Rest |   | 90 |  Hyper Beam |
-| 45 |  Extreme Speed |   |   |   |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch.">Twister</span> | 1 |   | <span class="tooltip" title="The target is attacked with a shock wave generated by the user’s gaping mouth.">Dragon Pulse</span> | 50 |
+| <span class="tooltip" title="The user frightens the target with a scary face to harshly lower its Speed stat.">Scary Face</span> | 5 |   | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.">Dragon Dance</span> | 60 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. This may also raise all the user’s stats at once.">Ancient Power</span> | 15 |   | <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span> | 65 |
+| <span class="tooltip" title="The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.">Crunch</span> | 20 |   | <span class="tooltip" title="The user rampages and attacks for two to three turns. The user then becomes confused.">Outrage</span> | 75 |
+| <span class="tooltip" title="The user attacks with a blade of air that slices even the sky. This may also make the target flinch.">Air Slash</span> | 30 |   | <span class="tooltip" title="The user lets loose a horribly echoing shout with the power to inflict damage.">Hyper Voice</span> | 80 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 35 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 90 |
+| <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 45 |   |   |   |
 
 ---
 
@@ -3148,17 +3148,17 @@
 
 **Location:** Mirage Cave
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Wish |   | 40 |  Double |
-| 1 |   Confusion |   | 45 |  Gravity |
-| 5 |   Rest |   | 50 |  Psychic |
-| 10 |  Swift |   | 55 |  Iron Head |
-| 15 |  Helping Hand |   | 60 |  Future Sight |
-| 20 |  Healing Wish |   | 65 |  Doom Desire |
-| 25 |  Refresh |   | 70 |  Cosmic Power |
-| 30 |  Rest |   | 75 |  Last Resort |
-| 35 |  Zen Headbutt |   | 80 |  Meteor Mash |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 1 |   | <span class="tooltip" title="A reckless, life-risking tackle. This also damages the user quite a lot.">Double-Edge</span> | 40 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate.">Gravity</span> | 45 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 5 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="Star-shaped rays are shot at the opposing Pokémon. This attack never misses.">Swift</span> | 10 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 55 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 15 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 60 |
+| <span class="tooltip" title="The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.">Healing Wish</span> | 20 |   | <span class="tooltip" title="Two turns after this move is used, the user blasts the target with a concentrated bundle of light.">Doom Desire</span> | 65 |
+| <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis.">Refresh</span> | 25 |   | <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 70 |
+| <span class="tooltip" title="The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.">Rest</span> | 30 |   | <span class="tooltip" title="This move can be used only after the user has used all the other moves it knows in the battle.">Last Resort</span> | 75 |
+| <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 35 |   | <span class="tooltip" title="The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.">Meteor Mash</span> | 80 |
 
 ---
 
@@ -3172,56 +3172,56 @@
 
 
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 37 |  Snatch |
-| 1 |   Wrap |   | 43 |  Psycho Shift |
-| 7 |   Night Shade |   | 49 |  Zen Headbutt |
-| 13 |  Teleport |   | 55 |  Cosmic Power |
-| 19 |  Knock Off |   | 61 |  Recover |
-| 25 |  Pursuit |   | 67 |  Psycho Boost |
-| 31 |  Psychic |   | 73 |  Hyper Beam |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user steals the effects of any attempts to use a healing or stat-changing move.">Snatch</span> | 37 |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 43 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 49 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 13 |   | <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 55 |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 19 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 61 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 25 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Psycho Boost</span> | 67 |
+| <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 31 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 73 |
 
 ### Attack Forme
 
 ![Deoxys-attack](../../assets/sprites/deoxys-attack/front.gif "Deoxys-attack: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 37 |  Superpower |
-| 1 |   Wrap |   | 43 |  Psycho Shift |
-| 7 |   Night Shade |   | 49 |  Zen Headbutt |
-| 13 |  Teleport |   | 55 |  Cosmic Power |
-| 19 |  Taunt |   | 61 |  Zap Cannon |
-| 25 |  Pursuit |   | 67 |  Psycho Boost |
-| 31 |  Psychic |   | 73 |  Hyper Beam |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.">Superpower</span> | 37 |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 43 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 49 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 13 |   | <span class="tooltip" title="The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.">Cosmic Power</span> | 55 |
+| <span class="tooltip" title="The target is taunted into a rage that allows it to use only attack moves for three turns.">Taunt</span> | 19 |   | <span class="tooltip" title="The user fires an electric blast like a cannon to inflict damage and cause paralysis.">Zap Cannon</span> | 61 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 25 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Psycho Boost</span> | 67 |
+| <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 31 |   | <span class="tooltip" title="The target is attacked with a powerful beam. The user can’t move on the next turn.">Hyper Beam</span> | 73 |
 
 ### Defense Forme
 
 ![Deoxys-defense](../../assets/sprites/deoxys-defense/front.gif "Deoxys-defense: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 43 |  Psycho Shift |
-| 1 |   Wrap |   | 49 |  Zen Headbutt |
-| 7 |   Night Shade |   | 55 |  Iron Defense |
-| 13 |  Teleport |   | 55 |  Amnesia |
-| 19 |  Knock Off |   | 61 |  Recover |
-| 25 |  Spikes |   | 67 |  Psycho Boost |
-| 31 |  Psychic |   | 73 |  Counter |
-| 37 |  Snatch |   | 73 |  Mirror Coat |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 43 |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 49 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | 55 |
+| <span class="tooltip" title="Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited.">Teleport</span> | 13 |   | <span class="tooltip" title="The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.">Amnesia</span> | 55 |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 19 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 61 |
+| <span class="tooltip" title="The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.">Spikes</span> | 25 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Psycho Boost</span> | 67 |
+| <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 31 |   | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | 73 |
+| <span class="tooltip" title="The user steals the effects of any attempts to use a healing or stat-changing move.">Snatch</span> | 37 |   | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | 73 |
 
 ### Speed Forme
 
 ![Deoxys-speed](../../assets/sprites/deoxys-speed/front.gif "Deoxys-speed: Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.")
 
-| Level | Move |     | Cont. | Move |
-| ----- | ---- | --- | ----- | ---- |
-| 1 |   Leer |   | 37 |  Swift |
-| 1 |   Wrap |   | 43 |  Psycho Shift |
-| 7 |   Night Shade |   | 49 |  Zen Headbutt |
-| 13 |  Double Team |   | 55 |  Agility |
-| 19 |  Knock Off |   | 61 |  Recover |
-| 25 |  Pursuit |   | 67 |  Psycho Boost |
-| 31 |  Psychic |   | 73 |  Extreme Speed |
+| Moves | Level |     | Cont. | Level |
+| ----- | ----- | --- | ----- | ----- |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="Star-shaped rays are shot at the opposing Pokémon. This attack never misses.">Swift</span> | 37 |
+| <span class="tooltip" title="A long body or vines are used to wrap and squeeze the target for four to five turns.">Wrap</span> | 1 |   | <span class="tooltip" title="Using its psychic power of suggestion, the user transfers its status conditions to the target.">Psycho Shift</span> | 43 |
+| <span class="tooltip" title="The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.">Night Shade</span> | 7 |   | <span class="tooltip" title="The user focuses its willpower to its head and attacks the target. This may also make the target flinch.">Zen Headbutt</span> | 49 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 13 |   | <span class="tooltip" title="The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.">Agility</span> | 55 |
+| <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 19 |   | <span class="tooltip" title="Restoring its own cells, the user restores its own HP by half of its max HP.">Recover</span> | 61 |
+| <span class="tooltip" title="An attack move that inflicts double damage if used on a target that is switching out of battle.">Pursuit</span> | 25 |   | <span class="tooltip" title="The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Psycho Boost</span> | 67 |
+| <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 31 |   | <span class="tooltip" title="The user charges the target at blinding speed. This move always goes first.">Extreme Speed</span> | 73 |
 
