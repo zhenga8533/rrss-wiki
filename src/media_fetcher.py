@@ -72,10 +72,11 @@ def save_media(
         _, ext = os.path.splitext(url)
         extension = ext if ext else ".gif"
 
-    file_path = os.path.join(directory, view + extension)
+    file_path = f"{directory}/{view + extension}"
+    gif_path = f"{directory}/{view}.gif"
+
     try:
-        file_path = file_path.replace("\\", "/")
-        if not os.path.exists(file_path):
+        if not os.path.exists(file_path) and not os.path.exists(gif_path):
             with open(file_path, "wb") as file:
                 file.write(response.content)
             logger.log(logging.INFO, f"Saved sprite: {file_path}")
