@@ -1,30 +1,28 @@
-import json
 import logging
 import os
 import re
 
 from dotenv import load_dotenv
 
+from util.data import Data
 from util.file import load, save
 from util.format import check_empty, format_id
 from util.logger import Logger
 
 
-def change_move(move: str, changes: list[tuple[str, str, str]], moves_path: str, logger: Logger) -> None:
+def change_move(move: str, changes: list[tuple[str, str, str]], data_move: Data, logger: Logger) -> None:
     """
     Change the attributes of a move based on the given changes.
 
     :param move: The name of the move to change.
     :param changes: The list of changes to apply to the move.
-    :param moves_path: The path to the move data files.
+    :param data_move: The move data object to load and save move data.
     :param logger: The logger object to log messages to.
     :return: None
     """
 
     # Load move data
-    move_id = format_id(move)
-    file_path = moves_path + move_id + ".json"
-    move_data = json.loads(load(file_path, logger))
+    move_data = data_move.get_data(move)
 
     # Loop through all changes
     for change in changes:
@@ -57,7 +55,7 @@ def change_move(move: str, changes: list[tuple[str, str, str]], moves_path: str,
             logger.log(logging.WARNING, f"Unknown attribute: {attribute}")
 
     # Save changes to move file
-    save(file_path, json.dumps(move_data, indent=4), logger)
+    data_move.save_data(move, move_data)
 
 
 def main():
@@ -71,12 +69,15 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
-    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
     # Initialize logger object
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Attack Changes Parser", LOG_PATH + "attack_changes.log", LOG)
+
+    # Initialize move data object
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
+    data_move = Data(MOVE_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "AttackChanges.txt"
@@ -111,7 +112,7 @@ def main():
         # Move changes
         elif next_line.startswith("==="):
             # Line and table headers
-            md += f"### {line}\n\n"
+            md += f"### {data_move.get_tooltip(line, 'omega-ruby-alpha-sapphire')}\n\n"
             md += "| Attribute | Old | New |\n"
             md += "| --------- | --- | --- |\n"
 
@@ -130,7 +131,7 @@ def main():
             md += "\n"
 
             # Apply changes to move
-            change_move(move, changes, MOVE_INPUT_PATH, logger)
+            change_move(move, changes, data_move, logger)
         # Miscellaneous lines
         else:
             md += line + "\n\n"

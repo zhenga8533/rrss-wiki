@@ -112,11 +112,14 @@ def main():
                 # Table body (evolution changes)
                 else:
                     change_pokemon(columns, POKEMON_INPUT_PATH, logger)
+                    pre = columns[1]
+                    evo = columns[2]
+
                     columns[1] = (
-                        f"<div class='sprite-cell'>{find_pokemon_sprite(columns[1], 'front', logger)}<br>{columns[1]}</div>"
+                        f"<div class='sprite-cell'>{find_pokemon_sprite(pre, 'front', logger)}<br>[{pre}](../pokemon/{format_id(pre)}.md/)</div>"
                     )
                     columns[2] = (
-                        f"<div class='sprite-cell'>{find_pokemon_sprite(columns[2], 'front', logger)}<br>{columns[2]}</div>"
+                        f"<div class='sprite-cell'>{find_pokemon_sprite(evo, 'front', logger)}<br>[{evo}](../pokemon/{format_id(evo)}.md/)</div>"
                     )
                     md += f"| {' | '.join(columns) } |\n"
 

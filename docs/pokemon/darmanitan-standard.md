@@ -16,7 +16,7 @@
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Darmanitan Standard](../assets/sprites/darmanitan-standard/front.png "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | ![Darmanitan Standard](../assets/sprites/darmanitan-standard/front_shiny.png "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | N/A | N/A |
+| ![Darmanitan Standard](../assets/sprites/darmanitan-standard/front.gif "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | ![Darmanitan Standard](../assets/sprites/darmanitan-standard/front_shiny.gif "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | ![Darmanitan Standard](../assets/sprites/darmanitan-standard/back.gif "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | ![Darmanitan Standard](../assets/sprites/darmanitan-standard/back_shiny.gif "Darmanitan Standard: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") |
 
 ### Cries
 

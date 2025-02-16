@@ -10,12 +10,12 @@ from util.format import check_empty
 from util.logger import Logger
 
 
-def add_items(item_list: list[str], item_data: Data) -> str:
+def add_items(item_list: list[str], data_item: Data) -> str:
     """
     Add items to the markdown string.
 
     :param item_list: List of items to add to the markdown string
-    :param item_data: Item data object
+    :param data_item: Item data object
     :return: Markdown string with items
     """
 
@@ -26,12 +26,12 @@ def add_items(item_list: list[str], item_data: Data) -> str:
     # Add items to the markdown string
     item_md += (
         "<ol><li>"
-        + "</li><li>".join([item_data.get_tooltip(item, "sun-moon") for item in item_list[:half]])
+        + "</li><li>".join([data_item.get_tooltip(item, "sun-moon") for item in item_list[:half]])
         + "</li></ol> | "
     )
     item_md += (
         f'<ol start="{half + 1}"><li>'
-        + "</li><li>".join([item_data.get_tooltip(item, "sun-moon") for item in item_list[half:]])
+        + "</li><li>".join([data_item.get_tooltip(item, "sun-moon") for item in item_list[half:]])
         + "</li></ol> |\n"
     )
 
@@ -59,7 +59,7 @@ def main():
 
     # Initialize item data object
     ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
-    item_data = Data(ITEM_INPUT_PATH, logger)
+    data_item = Data(ITEM_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "ItemChanges.txt"
@@ -103,13 +103,13 @@ def main():
                     item_list.extend(items)
                     md += f"| {columns[0]} | "
                     if check_empty(next_line):
-                        md += add_items(item_list, item_data)
+                        md += add_items(item_list, data_item)
                 # Table body
                 else:
                     # Add tooltips to item names
                     if len(columns) == 6:
-                        columns[0] = item_data.get_tooltip(columns[0], "sun-moon")
-                        columns[3] = item_data.get_tooltip(columns[3], "sun-moon")
+                        columns[0] = data_item.get_tooltip(columns[0], "sun-moon")
+                        columns[3] = data_item.get_tooltip(columns[3], "sun-moon")
 
                     # Add table row to markdown string
                     md += f"| {' | '.join(columns)} |\n"
@@ -129,10 +129,10 @@ def main():
                     if parse_table:
                         items = line.split(",")
                         item_list.extend(items)
-                        md += add_items(item_list, item_data)
+                        md += add_items(item_list, data_item)
                     # Item change list
                     else:
-                        md += "\n".join(["1. " + item_data.get_tooltip(item, "sun-moon") for item in line.split(",")])
+                        md += "\n".join(["1. " + data_item.get_tooltip(item, "sun-moon") for item in line.split(",")])
                         md += "\n"
                 # Table paragraph
                 else:

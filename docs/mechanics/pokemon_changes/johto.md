@@ -2,13 +2,13 @@
 
 ---
 
-## #152 Chikorita
+## [#152 Chikorita](../../pokemon/chikorita.md/)
 
 ![Chikorita](../../assets/sprites/chikorita/front.gif "Chikorita: In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.")
 
 **Location**: Route 101
 
-**Ability 2**: Natural Cure **
+**Ability 2**: <span class="tooltip" title="All status conditions heal when the Pokémon switches out.">Natural Cure</span> **
 
 **Level Up Moves:**
 
@@ -27,13 +27,13 @@
 
 ---
 
-## #153 Bayleef
+## [#153 Bayleef](../../pokemon/bayleef.md/)
 
 ![Bayleef](../../assets/sprites/bayleef/front.gif "Bayleef: Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.")
 
 **Location**: Evolve Chikorita (Lv. 16)
 
-**Ability 2**: Natural Cure **
+**Ability 2**: <span class="tooltip" title="All status conditions heal when the Pokémon switches out.">Natural Cure</span> **
 
 **Level Up Moves:**
 
@@ -52,13 +52,13 @@
 
 ---
 
-## #154 Meganium
+## [#154 Meganium](../../pokemon/meganium.md/)
 
 ![Meganium](../../assets/sprites/meganium/front.gif "Meganium: The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.")
 
 **Location**: Evolve Bayleef (Lv. 32)
 
-**Ability 2**: Natural Cure **
+**Ability 2**: <span class="tooltip" title="All status conditions heal when the Pokémon switches out.">Natural Cure</span> **
 
 **Level Up Moves:**
 
@@ -78,13 +78,13 @@
 
 ---
 
-## #155 Cyndaquil
+## [#155 Cyndaquil](../../pokemon/cyndaquil.md/)
 
 ![Cyndaquil](../../assets/sprites/cyndaquil/front.gif "Cyndaquil: Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.")
 
 **Location**: Rusturf Tunnel
 
-**Ability 2**: Flash Fire
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s Fire-type moves if it’s hit by one.">Flash Fire</span>
 
 **Level Up Moves:**
 
@@ -102,13 +102,13 @@
 
 ---
 
-## #156 Quilava
+## [#156 Quilava](../../pokemon/quilava.md/)
 
 ![Quilava](../../assets/sprites/quilava/front.gif "Quilava: Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.")
 
 **Location**: Evolve Cyndaquil (Lv. 14)
 
-**Ability 2**: Flash Fire
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s Fire-type moves if it’s hit by one.">Flash Fire</span>
 
 **Level Up Moves:**
 
@@ -126,13 +126,13 @@
 
 ---
 
-## #157 Typhlosion
+## [#157 Typhlosion](../../pokemon/typhlosion.md/)
 
 ![Typhlosion](../../assets/sprites/typhlosion/front.gif "Typhlosion: Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.")
 
 **Location**: Evolve Quilava (Lv. 36)
 
-**Ability 2**: Flash Fire
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s Fire-type moves if it’s hit by one.">Flash Fire</span>
 
 **Level Up Moves:**
 
@@ -152,13 +152,13 @@
 
 ---
 
-## #158 Totodile
+## [#158 Totodile](../../pokemon/totodile.md/)
 
 ![Totodile](../../assets/sprites/totodile/front.gif "Totodile: Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.")
 
 **Location**: Route 104 South
 
-**Ability 2**: Sheer Force
+**Ability 2**: <span class="tooltip" title="Removes additional effects to increase move damage.">Sheer Force</span>
 
 **Level Up Moves:**
 
@@ -177,13 +177,13 @@
 
 ---
 
-## #159 Croconaw
+## [#159 Croconaw](../../pokemon/croconaw.md/)
 
 ![Croconaw](../../assets/sprites/croconaw/front.gif "Croconaw: Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.")
 
 **Evolution**: Evolve Totodile (Lv. 18)
 
-**Ability 2**: Sheer Force
+**Ability 2**: <span class="tooltip" title="Removes additional effects to increase move damage.">Sheer Force</span>
 
 **Level Up Moves:**
 
@@ -202,13 +202,13 @@
 
 ---
 
-## #160 Feraligatr
+## [#160 Feraligatr](../../pokemon/feraligatr.md/)
 
 ![Feraligatr](../../assets/sprites/feraligatr/front.gif "Feraligatr: Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.")
 
 **Location**: Evolve Croconaw (Lv. 30)
 
-**Ability 2**: Sheer Force
+**Ability 2**: <span class="tooltip" title="Removes additional effects to increase move damage.">Sheer Force</span>
 
 **Level Up Moves:**
 
@@ -228,7 +228,7 @@
 
 ---
 
-## #161 Sentret
+## [#161 Sentret](../../pokemon/sentret.md/)
 
 ![Sentret](../../assets/sprites/sentret/front.gif "Sentret: When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.")
 
@@ -249,13 +249,13 @@
 
 ---
 
-## #162 Furret
+## [#162 Furret](../../pokemon/furret.md/)
 
 ![Furret](../../assets/sprites/furret/front.gif "Furret: Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.")
 
 **Location**: Safari Zone
 
-**Ability 1**: Run Away >> Limber **
+**Ability 1**: <span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> >> <span class="tooltip" title="Protects the Pokémon from paralysis.">Limber</span> **
 
 **Base Stat Changes:**
 
@@ -285,7 +285,7 @@
 
 ---
 
-## #163 Hoothoot
+## [#163 Hoothoot](../../pokemon/hoothoot.md/)
 
 ![Hoothoot](../../assets/sprites/hoothoot/front.gif "Hoothoot: Hoothoot has an internal organ that senses and tracks the earth’s rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day.")
 
@@ -320,17 +320,17 @@
 
 ---
 
-## #164 Noctowl
+## [#164 Noctowl](../../pokemon/noctowl.md/)
 
 ![Noctowl](../../assets/sprites/noctowl/front.gif "Noctowl: Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.")
 
 **Location**: Safari Zone, Mt. Pyre
 
-**Ability 2**: Keen Eye >> Analytic
+**Ability 2**: <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> >> <span class="tooltip" title="Boosts move power when the Pokémon moves after the target.">Analytic</span>
 
 **Effort Values**: 2 HP >> 2 Sp. Def
 
-**Type**: Normal/Flying >> Psychic/Flying
+**Type**: ![Normal](../../assets/types/normal.png) ![Flying](../../assets/types/flying.png) >> ![Psychic](../../assets/types/psychic.png) ![Flying](../../assets/types/flying.png)
 
 **Base Stat Changes:**
 
@@ -363,7 +363,7 @@
 
 ---
 
-## #165 Ledyba
+## [#165 Ledyba](../../pokemon/ledyba.md/)
 
 ![Ledyba](../../assets/sprites/ledyba/front.gif "Ledyba: Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid’s scent.")
 
@@ -394,13 +394,13 @@
 
 ---
 
-## #166 Ledian
+## [#166 Ledian](../../pokemon/ledian.md/)
 
 ![Ledian](../../assets/sprites/ledian/front.gif "Ledian: It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.")
 
 **Location**: Safari Zone
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -428,7 +428,7 @@
 
 ---
 
-## #167 Spinarak
+## [#167 Spinarak](../../pokemon/spinarak.md/)
 
 ![Spinarak](../../assets/sprites/spinarak/front.gif "Spinarak: The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web’s strands.")
 
@@ -460,7 +460,7 @@
 
 ---
 
-## #168 Ariados
+## [#168 Ariados](../../pokemon/ariados.md/)
 
 ![Ariados](../../assets/sprites/ariados/front.gif "Ariados: Ariados’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.")
 
@@ -494,13 +494,13 @@
 
 ---
 
-## #169 Crobat
+## [#169 Crobat](../../pokemon/crobat.md/)
 
 ![Crobat](../../assets/sprites/crobat/front.gif "Crobat: Crobat sneaks up on its intended prey using wings that barely make a sound. This Pokémon rests by hanging on a tree branch with its rear legs that serve as wings.")
 
 **Location**: Meteor Falls
 
-**Ability 2**: Infiltrator
+**Ability 2**: <span class="tooltip" title="Passes through the opposing Pokémon’s barrier and strikes.">Infiltrator</span>
 
 **Level Up Moves:**
 
@@ -520,7 +520,7 @@
 
 ---
 
-## #170 Chinchou
+## [#170 Chinchou](../../pokemon/chinchou.md/)
 
 ![Chinchou](../../assets/sprites/chinchou/front.gif "Chinchou: Chinchou’s two antennas are filled with cells that generate strong electricity. This Pokémon’s cells create so much electrical power, it even makes itself tingle slightly.")
 
@@ -542,7 +542,7 @@
 
 ---
 
-## #171 Lanturn
+## [#171 Lanturn](../../pokemon/lanturn.md/)
 
 ![Lanturn](../../assets/sprites/lanturn/front.gif "Lanturn: Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.")
 
@@ -567,13 +567,13 @@
 
 ---
 
-## #172 Pichu
+## [#172 Pichu](../../pokemon/pichu.md/)
 
 ![Pichu](../../assets/sprites/pichu/front.gif "Pichu: When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.")
 
 **Location**: Petalburg Woods
 
-**Ability 2**: Lightning Rod
+**Ability 2**: <span class="tooltip" title="Draws in all Electric-type moves to boost its Sp. Atk stat.">Lightning Rod</span>
 
 **Base Happiness**: 70 >> 200
 
@@ -587,7 +587,7 @@
 
 ---
 
-## #173 Cleffa
+## [#173 Cleffa](../../pokemon/cleffa.md/)
 
 ![Cleffa](../../assets/sprites/cleffa/front.gif "Cleffa: On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.")
 
@@ -606,7 +606,7 @@
 
 ---
 
-## #174 Igglybuff
+## [#174 Igglybuff](../../pokemon/igglybuff.md/)
 
 ![Igglybuff](../../assets/sprites/igglybuff/front.gif "Igglybuff: Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.")
 
@@ -624,7 +624,7 @@
 
 ---
 
-## #175 Togepi
+## [#175 Togepi](../../pokemon/togepi.md/)
 
 ![Togepi](../../assets/sprites/togepi/front.gif "Togepi: As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.")
 
@@ -649,7 +649,7 @@
 
 ---
 
-## #176 Togetic
+## [#176 Togetic](../../pokemon/togetic.md/)
 
 ![Togetic](../../assets/sprites/togetic/front.gif "Togetic: Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.")
 
@@ -673,7 +673,7 @@
 
 ---
 
-## #177 Natu
+## [#177 Natu](../../pokemon/natu.md/)
 
 ![Natu](../../assets/sprites/natu/front.gif "Natu: Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree’s new shoots.")
 
@@ -695,7 +695,7 @@
 
 ---
 
-## #178 Xatu
+## [#178 Xatu](../../pokemon/xatu.md/)
 
 ![Xatu](../../assets/sprites/xatu/front.gif "Xatu: Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.")
 
@@ -721,7 +721,7 @@
 
 ---
 
-## #179 Mareep
+## [#179 Mareep](../../pokemon/mareep.md/)
 
 ![Mareep](../../assets/sprites/mareep/front.gif "Mareep: Mareep’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.")
 
@@ -743,7 +743,7 @@
 
 ---
 
-## #180 Flaaffy
+## [#180 Flaaffy](../../pokemon/flaaffy.md/)
 
 ![Flaaffy](../../assets/sprites/flaaffy/front.gif "Flaaffy: Flaaffy’s wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.")
 
@@ -765,7 +765,7 @@
 
 ---
 
-## #181 Ampharos
+## [#181 Ampharos](../../pokemon/ampharos.md/)
 
 ![Ampharos](../../assets/sprites/ampharos/front.gif "Ampharos: Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.")
 
@@ -790,15 +790,15 @@
 
 ---
 
-## #182 Bellossom
+## [#182 Bellossom](../../pokemon/bellossom.md/)
 
 ![Bellossom](../../assets/sprites/bellossom/front.gif "Bellossom: A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.")
 
 **Location**: Evolve Gloom (Sun Stone)
 
-**Ability 2**: Healer
+**Ability 2**: <span class="tooltip" title="Sometimes heals an ally’s status condition.">Healer</span>
 
-**Move Tutor**: Earth Power
+**Move Tutor**: <span class="tooltip" title="The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def.">Earth Power</span>
 
 **Level Up Moves:**
 
@@ -813,7 +813,7 @@
 
 ---
 
-## #183 Marill
+## [#183 Marill](../../pokemon/marill.md/)
 
 ![Marill](../../assets/sprites/marill/front.gif "Marill: When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.")
 
@@ -834,7 +834,7 @@
 
 ---
 
-## #184 Azumarill
+## [#184 Azumarill](../../pokemon/azumarill.md/)
 
 ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.")
 
@@ -862,7 +862,7 @@
 
 ---
 
-## #185 Sudowoodo
+## [#185 Sudowoodo](../../pokemon/sudowoodo.md/)
 
 ![Sudowoodo](../../assets/sprites/sudowoodo/front.gif "Sudowoodo: Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.")
 
@@ -896,7 +896,7 @@
 
 ---
 
-## #186 Politoed
+## [#186 Politoed](../../pokemon/politoed.md/)
 
 ![Politoed](../../assets/sprites/politoed/front.gif "Politoed: The curled hair on Politoed’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.")
 
@@ -914,13 +914,13 @@
 
 ---
 
-## #187 Hoppip
+## [#187 Hoppip](../../pokemon/hoppip.md/)
 
 ![Hoppip](../../assets/sprites/hoppip/front.gif "Hoppip: This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.")
 
 **Location**: Route 104 North, Route 114
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -950,13 +950,13 @@
 
 ---
 
-## #188 Skiploom
+## [#188 Skiploom](../../pokemon/skiploom.md/)
 
 ![Skiploom](../../assets/sprites/skiploom/front.gif "Skiploom: Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.")
 
 **Location**: Route 114
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -985,13 +985,13 @@
 
 ---
 
-## #189 Jumpluff
+## [#189 Jumpluff](../../pokemon/jumpluff.md/)
 
 ![Jumpluff](../../assets/sprites/jumpluff/front.gif "Jumpluff: Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.")
 
 **Location**: Evolve Skiploom (Lv. 27)
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -1019,7 +1019,7 @@
 
 ---
 
-## #190 Aipom
+## [#190 Aipom](../../pokemon/aipom.md/)
 
 ![Aipom](../../assets/sprites/aipom/front.gif "Aipom: Aipom’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.")
 
@@ -1041,7 +1041,7 @@
 
 ---
 
-## #191 Sunkern
+## [#191 Sunkern](../../pokemon/sunkern.md/)
 
 ![Sunkern](../../assets/sprites/sunkern/front.gif "Sunkern: Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.")
 
@@ -1062,7 +1062,7 @@
 
 ---
 
-## #192 Sunflora
+## [#192 Sunflora](../../pokemon/sunflora.md/)
 
 ![Sunflora](../../assets/sprites/sunflora/front.gif "Sunflora: Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.")
 
@@ -1097,13 +1097,13 @@
 
 ---
 
-## #193 Yanma
+## [#193 Yanma](../../pokemon/yanma.md/)
 
 ![Yanma](../../assets/sprites/yanma/front.gif "Yanma: Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.")
 
 **Location**: Route 115
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -1121,7 +1121,7 @@
 
 ---
 
-## #194 Wooper
+## [#194 Wooper](../../pokemon/wooper.md/)
 
 ![Wooper](../../assets/sprites/wooper/front.gif "Wooper: Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.")
 
@@ -1150,7 +1150,7 @@
 
 ---
 
-## #195 Quagsire
+## [#195 Quagsire](../../pokemon/quagsire.md/)
 
 ![Quagsire](../../assets/sprites/quagsire/front.gif "Quagsire: Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.")
 
@@ -1179,13 +1179,13 @@
 
 ---
 
-## #196 Espeon
+## [#196 Espeon](../../pokemon/espeon.md/)
 
 ![Espeon](../../assets/sprites/espeon/front.gif "Espeon: Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm.")
 
 **Location**: Evolve Eevee (Happiness, Day)
 
-**Ability 2**: Magic Bounce
+**Ability 2**: <span class="tooltip" title="Reflects status moves.">Magic Bounce</span>
 
 **Level Up Moves:**
 
@@ -1202,13 +1202,13 @@
 
 ---
 
-## #197 Umbreon
+## [#197 Umbreon](../../pokemon/umbreon.md/)
 
 ![Umbreon](../../assets/sprites/umbreon/front.gif "Umbreon: Umbreon evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.")
 
 **Location**: Evolve Eevee (Happiness, Night)
 
-**Ability 2**: Poison Touch **
+**Ability 2**: <span class="tooltip" title="May poison a target when the Pokémon makes contact.">Poison Touch</span> **
 
 **Level Up Moves:**
 
@@ -1225,7 +1225,7 @@
 
 ---
 
-## #198 Murkrow
+## [#198 Murkrow](../../pokemon/murkrow.md/)
 
 ![Murkrow](../../assets/sprites/murkrow/front.gif "Murkrow: Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.")
 
@@ -1247,13 +1247,13 @@
 
 ---
 
-## #199 Slowking
+## [#199 Slowking](../../pokemon/slowking.md/)
 
 ![Slowking](../../assets/sprites/slowking/front.gif "Slowking: Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.")
 
 **Location**: Route 118
 
-**New TM/HMs**: Waterfall
+**New TM/HMs**: <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span>
 
 **Level Up Moves:**
 
@@ -1274,13 +1274,13 @@
 
 ---
 
-## #200 Misdreavus
+## [#200 Misdreavus](../../pokemon/misdreavus.md/)
 
 ![Misdreavus](../../assets/sprites/misdreavus/front.gif "Misdreavus: Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.")
 
 **Location**: Route 114
 
-**Type**: Ghost >> Ghost/Fairy
+**Type**: ![Ghost](../../assets/types/ghost.png) >> ![Ghost](../../assets/types/ghost.png) ![Fairy](../../assets/types/fairy.png)
 
 **Level Up Moves:**
 
@@ -1298,13 +1298,13 @@
 
 ---
 
-## #201 Unown
+## [#201 Unown](../../pokemon/unown.md/)
 
 ![Unown](../../assets/sprites/unown/front.gif "Unown: This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.")
 
 **Location**: Cave of Origin
 
-**New TM/HMs**: Secret Power, Nature Power
+**New TM/HMs**: <span class="tooltip" title="An attack whose additional effects depend upon where it was used. Can also be used to make a Secret Base.">Secret Power</span>, <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span>
 
 **Base Stat Changes:**
 
@@ -1329,7 +1329,7 @@
 
 ---
 
-## #202 Wobbuffet
+## [#202 Wobbuffet](../../pokemon/wobbuffet.md/)
 
 ![Wobbuffet](../../assets/sprites/wobbuffet/front.gif "Wobbuffet: Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond.")
 
@@ -1357,7 +1357,7 @@
 
 ---
 
-## #203 Girafarig
+## [#203 Girafarig](../../pokemon/girafarig.md/)
 
 ![Girafarig](../../assets/sprites/girafarig/front.gif "Girafarig: Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.")
 
@@ -1379,13 +1379,13 @@
 
 ---
 
-## #204 Pineco
+## [#204 Pineco](../../pokemon/pineco.md/)
 
 ![Pineco](../../assets/sprites/pineco/front.gif "Pineco: Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.")
 
 **Location**: Jagged Pass
 
-**Ability 2**: Overcoat
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span>
 
 **Level Up Moves:**
 
@@ -1403,13 +1403,13 @@
 
 ---
 
-## #205 Forretress
+## [#205 Forretress](../../pokemon/forretress.md/)
 
 ![Forretress](../../assets/sprites/forretress/front.gif "Forretress: Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell’s inside cannot be seen.")
 
 **Location**: Route 123
 
-**Ability 2**: Overcoat
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span>
 
 **Level Up Moves:**
 
@@ -1431,15 +1431,15 @@
 
 ---
 
-## #206 Dunsparce
+## [#206 Dunsparce](../../pokemon/dunsparce.md/)
 
 ![Dunsparce](../../assets/sprites/dunsparce/front.gif "Dunsparce: Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.")
 
 **Location**: Fiery Path
 
-**Ability 2**: Run Away >> Pixilate **
+**Ability 2**: <span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> >> <span class="tooltip" title="Normal-type moves become Fairy-type moves.">Pixilate</span> **
 
-**Type**: Normal >> Normal/Fairy
+**Type**: ![Normal](../../assets/types/normal.png) >> ![Normal](../../assets/types/normal.png) ![Fairy](../../assets/types/fairy.png)
 
 **Base Stat Changes:**
 
@@ -1468,15 +1468,15 @@
 
 ---
 
-## #207 Gligar
+## [#207 Gligar](../../pokemon/gligar.md/)
 
 ![Gligar](../../assets/sprites/gligar/front.gif "Gligar: Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.")
 
 **Location**: Jagged Pass
 
-**Held Item**: Razor Fang (50%)
+**Held Item**: <span class="tooltip" title="An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch.">Razor Fang</span> (50%)
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -1494,7 +1494,7 @@
 
 ---
 
-## #208 Steelix
+## [#208 Steelix](../../pokemon/steelix.md/)
 
 ![Steelix](../../assets/sprites/steelix/front.gif "Steelix: Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth’s core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.")
 
@@ -1520,7 +1520,7 @@
 
 ---
 
-## #209 Snubbull
+## [#209 Snubbull](../../pokemon/snubbull.md/)
 
 ![Snubbull](../../assets/sprites/snubbull/front.gif "Snubbull: By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.")
 
@@ -1542,7 +1542,7 @@
 
 ---
 
-## #210 Granbull
+## [#210 Granbull](../../pokemon/granbull.md/)
 
 ![Granbull](../../assets/sprites/granbull/front.gif "Granbull: Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.")
 
@@ -1565,7 +1565,7 @@
 
 ---
 
-## #211 Qwilfish
+## [#211 Qwilfish](../../pokemon/qwilfish.md/)
 
 ![Qwilfish](../../assets/sprites/qwilfish/front.gif "Qwilfish: Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.")
 
@@ -1596,7 +1596,7 @@
 
 ---
 
-## #212 Scizor
+## [#212 Scizor](../../pokemon/scizor.md/)
 
 ![Scizor](../../assets/sprites/scizor/front.gif "Scizor: Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.")
 
@@ -1620,7 +1620,7 @@
 
 ---
 
-## #213 Shuckle
+## [#213 Shuckle](../../pokemon/shuckle.md/)
 
 ![Shuckle](../../assets/sprites/shuckle/front.gif "Shuckle: Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.")
 
@@ -1643,7 +1643,7 @@
 
 ---
 
-## #214 Heracross
+## [#214 Heracross](../../pokemon/heracross.md/)
 
 ![Heracross](../../assets/sprites/heracross/front.gif "Heracross: Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.")
 
@@ -1666,15 +1666,15 @@
 
 ---
 
-## #215 Sneasel
+## [#215 Sneasel](../../pokemon/sneasel.md/)
 
 ![Sneasel](../../assets/sprites/sneasel/front.gif "Sneasel: Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away.")
 
 **Location**: Shoal Cave
 
-**Ability 2**: Keen Eye >> Technician **
+**Ability 2**: <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> >> <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> **
 
-**Held Item**: Razor Claw (50%), Quick Claw (5%)
+**Held Item**: <span class="tooltip" title="An item to be held by a Pokémon. This sharply hooked claw increases the holder’s critical-hit ratio.">Razor Claw</span> (50%), <span class="tooltip" title="An item to be held by a Pokémon. This light, sharp claw lets the bearer move first occasionally.">Quick Claw</span> (5%)
 
 **Level Up Moves:**
 
@@ -1693,7 +1693,7 @@
 
 ---
 
-## #216 Teddiursa
+## [#216 Teddiursa](../../pokemon/teddiursa.md/)
 
 ![Teddiursa](../../assets/sprites/teddiursa/front.gif "Teddiursa: This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.")
 
@@ -1717,7 +1717,7 @@
 
 ---
 
-## #217 Ursaring
+## [#217 Ursaring](../../pokemon/ursaring.md/)
 
 ![Ursaring](../../assets/sprites/ursaring/front.gif "Ursaring: In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.")
 
@@ -1742,7 +1742,7 @@
 
 ---
 
-## #218 Slugma
+## [#218 Slugma](../../pokemon/slugma.md/)
 
 ![Slugma](../../assets/sprites/slugma/front.gif "Slugma: Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.")
 
@@ -1777,13 +1777,13 @@
 
 ---
 
-## #219 Magcargo
+## [#219 Magcargo](../../pokemon/magcargo.md/)
 
 ![Magcargo](../../assets/sprites/magcargo/front.gif "Magcargo: Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.")
 
 **Location**: Fiery Path
 
-**Ability 1**: Magma Armor >> Solid Rock **
+**Ability 1**: <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span> >> <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> **
 
 **Base Stat Changes:**
 
@@ -1811,7 +1811,7 @@
 
 ---
 
-## #220 Swinub
+## [#220 Swinub](../../pokemon/swinub.md/)
 
 ![Swinub](../../assets/sprites/swinub/front.gif "Swinub: Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.")
 
@@ -1834,7 +1834,7 @@
 
 ---
 
-## #221 Piloswine
+## [#221 Piloswine](../../pokemon/piloswine.md/)
 
 ![Piloswine](../../assets/sprites/piloswine/front.gif "Piloswine: Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.")
 
@@ -1858,19 +1858,19 @@
 
 ---
 
-## #222 Corsola
+## [#222 Corsola](../../pokemon/corsola.md/)
 
 ![Corsola](../../assets/sprites/corsola/front.gif "Corsola: Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.")
 
 **Location**: Route 105, Route 106, Dewford Town, Route 107, Route 108, Route 109, Lilycove City, Ever Grande City, Route 131, Pacifidlog Town, Underwater
 
-**Ability 1**: Hustle >> Regenerator
+**Ability 1**: <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> >> <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span>
 
-**Ability 3**: Regenerator >> Hustle
+**Ability 3**: <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> >> <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span>
 
-**Held Item**: Prism Scale (50%), Luminous Moss (5%)
+**Held Item**: <span class="tooltip" title="A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors.">Prism Scale</span> (50%), <span class="tooltip" title="An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once.">Luminous Moss</span> (5%)
 
-**New TM/HMs**: Waterfall, Dive
+**New TM/HMs**: <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span>, <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span>
 
 **Base Stat Changes:**
 
@@ -1898,7 +1898,7 @@
 
 ---
 
-## #223 Remoraid
+## [#223 Remoraid](../../pokemon/remoraid.md/)
 
 ![Remoraid](../../assets/sprites/remoraid/front.gif "Remoraid: Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.")
 
@@ -1918,7 +1918,7 @@
 
 ---
 
-## #224 Octillery
+## [#224 Octillery](../../pokemon/octillery.md/)
 
 ![Octillery](../../assets/sprites/octillery/front.gif "Octillery: Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.")
 
@@ -1941,15 +1941,15 @@
 
 ---
 
-## #225 Delibird
+## [#225 Delibird](../../pokemon/delibird.md/)
 
 ![Delibird](../../assets/sprites/delibird/front.gif "Delibird: Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food.")
 
 **Location**: Shoal Cave
 
-**Ability 2**: Hustle >> Aerilate **
+**Ability 2**: <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> >> <span class="tooltip" title="Normal-type moves become Flying-type moves.">Aerilate</span> **
 
-**Ability 3**: Insomnia >> Hustle
+**Ability 3**: <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> >> <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span>
 
 **Base Stat Changes:**
 
@@ -1979,13 +1979,13 @@
 
 ---
 
-## #226 Mantine
+## [#226 Mantine](../../pokemon/mantine.md/)
 
 ![Mantine](../../assets/sprites/mantine/front.gif "Mantine: On sunny days, schools of Mantine can be seen elegantly leaping over the sea’s waves. This Pokémon is not bothered by the Remoraid that hitches rides.")
 
 **Location**: Route 108, Route 124, Battle Resort
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -2005,7 +2005,7 @@
 
 ---
 
-## #227 Skarmory
+## [#227 Skarmory](../../pokemon/skarmory.md/)
 
 ![Skarmory](../../assets/sprites/skarmory/front.gif "Skarmory: Skarmory’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.")
 
@@ -2028,7 +2028,7 @@
 
 ---
 
-## #228 Houndour
+## [#228 Houndour](../../pokemon/houndour.md/)
 
 ![Houndour](../../assets/sprites/houndour/front.gif "Houndour: Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon’s remarkable teamwork is unparalleled.")
 
@@ -2050,7 +2050,7 @@
 
 ---
 
-## #229 Houndoom
+## [#229 Houndoom](../../pokemon/houndoom.md/)
 
 ![Houndoom](../../assets/sprites/houndoom/front.gif "Houndoom: In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.")
 
@@ -2074,7 +2074,7 @@
 
 ---
 
-## #230 Kingdra
+## [#230 Kingdra](../../pokemon/kingdra.md/)
 
 ![Kingdra](../../assets/sprites/kingdra/front.gif "Kingdra: Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.")
 
@@ -2096,13 +2096,13 @@
 
 ---
 
-## #231 Phanpy
+## [#231 Phanpy](../../pokemon/phanpy.md/)
 
 ![Phanpy](../../assets/sprites/phanpy/front.gif "Phanpy: Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.")
 
 **Location**: Route 116
 
-**Ability 2**: Sand Veil
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span>
 
 **Level Up Moves:**
 
@@ -2120,13 +2120,13 @@
 
 ---
 
-## #232 Donphan
+## [#232 Donphan](../../pokemon/donphan.md/)
 
 ![Donphan](../../assets/sprites/donphan/front.gif "Donphan: If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.")
 
 **Location**: Victory Road
 
-**Ability 2**: Sand Veil
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span>
 
 **Level Up Moves:**
 
@@ -2145,7 +2145,7 @@
 
 ---
 
-## #233 Porygon2
+## [#233 Porygon2](../../pokemon/porygon2.md/)
 
 ![Porygon2](../../assets/sprites/porygon2/front.gif "Porygon2: Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.")
 
@@ -2167,7 +2167,7 @@
 
 ---
 
-## #234 Stantler
+## [#234 Stantler](../../pokemon/stantler.md/)
 
 ![Stantler](../../assets/sprites/stantler/front.gif "Stantler: Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.")
 
@@ -2190,7 +2190,7 @@
 
 ---
 
-## #235 Smeargle
+## [#235 Smeargle](../../pokemon/smeargle.md/)
 
 ![Smeargle](../../assets/sprites/smeargle/front.gif "Smeargle: Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found.")
 
@@ -2208,7 +2208,7 @@
 
 ---
 
-## #236 Tyrogue
+## [#236 Tyrogue](../../pokemon/tyrogue.md/)
 
 ![Tyrogue](../../assets/sprites/tyrogue/front.gif "Tyrogue: Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.")
 
@@ -2225,7 +2225,7 @@
 
 ---
 
-## #237 Hitmontop
+## [#237 Hitmontop](../../pokemon/hitmontop.md/)
 
 ![Hitmontop](../../assets/sprites/hitmontop/front.gif "Hitmontop: Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.")
 
@@ -2248,7 +2248,7 @@
 
 ---
 
-## #238 Smoochum
+## [#238 Smoochum](../../pokemon/smoochum.md/)
 
 ![Smoochum](../../assets/sprites/smoochum/front.gif "Smoochum: Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.")
 
@@ -2270,13 +2270,13 @@
 
 ---
 
-## #239 Elekid
+## [#239 Elekid](../../pokemon/elekid.md/)
 
 ![Elekid](../../assets/sprites/elekid/front.gif "Elekid: Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself.")
 
 **Location**: Route 112 North
 
-**Ability 2**: Vital Spirit
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span>
 
 **Level Up Moves:**
 
@@ -2294,13 +2294,13 @@
 
 ---
 
-## #240 Magby
+## [#240 Magby](../../pokemon/magby.md/)
 
 ![Magby](../../assets/sprites/magby/front.gif "Magby: Magby’s state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.")
 
 **Location**: Route 112 North
 
-**Ability 2**: Vital Spirit
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span>
 
 **Level Up Moves:**
 
@@ -2318,7 +2318,7 @@
 
 ---
 
-## #241 Miltank
+## [#241 Miltank](../../pokemon/miltank.md/)
 
 ![Miltank](../../assets/sprites/miltank/front.gif "Miltank: Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can’t drink milk turn it into yogurt and eat it instead.")
 
@@ -2339,7 +2339,7 @@
 
 ---
 
-## #242 Blissey
+## [#242 Blissey](../../pokemon/blissey.md/)
 
 ![Blissey](../../assets/sprites/blissey/front.gif "Blissey: Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face.")
 
@@ -2362,13 +2362,13 @@
 
 ---
 
-## #243 Raikou
+## [#243 Raikou](../../pokemon/raikou.md/)
 
 ![Raikou](../../assets/sprites/raikou/front.gif "Raikou: Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.")
 
 **Location**: Trackless Forest, Mirage Forest
 
-**Ability 2**: Volt Absorb
+**Ability 2**: <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span>
 
 **Level Up Moves:**
 
@@ -2385,13 +2385,13 @@
 
 ---
 
-## #244 Entei
+## [#244 Entei](../../pokemon/entei.md/)
 
 ![Entei](../../assets/sprites/entei/front.gif "Entei: Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.")
 
 **Location**: Trackless Forest, Mirage Forest
 
-**Ability 2**: Flash Fire
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s Fire-type moves if it’s hit by one.">Flash Fire</span>
 
 **Level Up Moves:**
 
@@ -2408,13 +2408,13 @@
 
 ---
 
-## #245 Suicune
+## [#245 Suicune](../../pokemon/suicune.md/)
 
 ![Suicune](../../assets/sprites/suicune/front.gif "Suicune: Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.")
 
 **Location**: Trackless Forest, Mirage Forest
 
-**Ability 2**: Water Absorb
+**Ability 2**: <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span>
 
 **Level Up Moves:**
 
@@ -2431,13 +2431,13 @@
 
 ---
 
-## #246 Larvitar
+## [#246 Larvitar](../../pokemon/larvitar.md/)
 
 ![Larvitar](../../assets/sprites/larvitar/front.gif "Larvitar: Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.")
 
 **Location**: Meteor Falls
 
-**Ability 2**: Sand Veil
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span>
 
 **Level Up Moves:**
 
@@ -2454,7 +2454,7 @@
 
 ---
 
-## #247 Pupitar
+## [#247 Pupitar](../../pokemon/pupitar.md/)
 
 ![Pupitar](../../assets/sprites/pupitar/front.gif "Pupitar: Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.")
 
@@ -2475,13 +2475,13 @@
 
 ---
 
-## #248 Tyranitar
+## [#248 Tyranitar](../../pokemon/tyranitar.md/)
 
 ![Tyranitar](../../assets/sprites/tyranitar/front.gif "Tyranitar: Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.")
 
 **Location**: Evolve Pupitar (Lv. 55)
 
-**Ability 2**: Unnerve
+**Ability 2**: <span class="tooltip" title="Unnerves opposing Pokémon and makes them unable to eat Berries.">Unnerve</span>
 
 **Level Up Moves:**
 
@@ -2500,13 +2500,13 @@
 
 ---
 
-## #249 Lugia
+## [#249 Lugia](../../pokemon/lugia.md/)
 
 ![Lugia](../../assets/sprites/lugia/front.gif "Lugia: Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.")
 
 **Location**: Sea Mauville, Mirage Mountain
 
-**Ability 2**: Multiscale
+**Ability 2**: <span class="tooltip" title="Reduces the damage taken by the Pokémon when its HP is full.">Multiscale</span>
 
 **Level Up Moves:**
 
@@ -2523,13 +2523,13 @@
 
 ---
 
-## #250 Ho-Oh
+## [#250 Ho-Oh](../../pokemon/ho-oh.md/)
 
 ![Ho-Oh](../../assets/sprites/ho-oh/front.gif "Ho-Oh: Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.")
 
 **Location**: Sea Mauville, Mirage Mountain
 
-**Ability 2**: Regenerator
+**Ability 2**: <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span>
 
 **Level Up Moves:**
 
@@ -2546,7 +2546,7 @@
 
 ---
 
-## #251 Celebi
+## [#251 Celebi](../../pokemon/celebi.md/)
 
 ![Celebi](../../assets/sprites/celebi/front.gif "Celebi: This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.")
 

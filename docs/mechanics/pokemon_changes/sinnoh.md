@@ -2,13 +2,13 @@
 
 ---
 
-## #387 Turtwig
+## [#387 Turtwig](../../pokemon/turtwig.md/)
 
 ![Turtwig](../../assets/sprites/turtwig/front.gif "Turtwig: It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Shell Armor
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from critical hits.">Shell Armor</span>
 
 **Level Up Moves:**
 
@@ -25,13 +25,13 @@
 
 ---
 
-## #388 Grotle
+## [#388 Grotle](../../pokemon/grotle.md/)
 
 ![Grotle](../../assets/sprites/grotle/front.gif "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.")
 
 **Location**: Evolve Turtwig (Lv. 18)
 
-**Ability 2**: Shell Armor
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from critical hits.">Shell Armor</span>
 
 **Level Up Moves:**
 
@@ -48,13 +48,13 @@
 
 ---
 
-## #389 Torterra
+## [#389 Torterra](../../pokemon/torterra.md/)
 
 ![Torterra](../../assets/sprites/torterra/front.gif "Torterra: Small Pokémon occasionally gather on its unmoving back to begin building their nests.")
 
 **Location**: Evolve Grotle (Lv. 32)
 
-**Ability 2**: Shell Armor
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from critical hits.">Shell Armor</span>
 
 **Level Up Moves:**
 
@@ -73,13 +73,13 @@
 
 ---
 
-## #390 Chimchar
+## [#390 Chimchar](../../pokemon/chimchar.md/)
 
 ![Chimchar](../../assets/sprites/chimchar/front.gif "Chimchar: The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.")
 
 **Location**: Rusturf Tunnel
 
-**Ability 2**: Iron Fist
+**Ability 2**: <span class="tooltip" title="Powers up punching moves.">Iron Fist</span>
 
 **Level Up Moves:**
 
@@ -96,13 +96,13 @@
 
 ---
 
-## #391 Monferno
+## [#391 Monferno](../../pokemon/monferno.md/)
 
 ![Monferno](../../assets/sprites/monferno/front.gif "Monferno: It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.")
 
 **Location**: Evolve Chimchar (Lv. 14)
 
-**Ability 2**: Iron Fist
+**Ability 2**: <span class="tooltip" title="Powers up punching moves.">Iron Fist</span>
 
 **Level Up Moves:**
 
@@ -120,13 +120,13 @@
 
 ---
 
-## #392 Infernape
+## [#392 Infernape](../../pokemon/infernape.md/)
 
 ![Infernape](../../assets/sprites/infernape/front.gif "Infernape: It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.")
 
 **Location**: Evolve Monferno (Lv. 36)
 
-**Ability 2**: Iron Fist
+**Ability 2**: <span class="tooltip" title="Powers up punching moves.">Iron Fist</span>
 
 **Level Up Moves:**
 
@@ -145,13 +145,13 @@
 
 ---
 
-## #393 Piplup
+## [#393 Piplup](../../pokemon/piplup.md/)
 
 ![Piplup](../../assets/sprites/piplup/front.gif "Piplup: Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.")
 
 **Location**: Route 103
 
-**Ability 2**: Defiant
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s Attack stat when its stats are lowered.">Defiant</span>
 
 **Level Up Moves:**
 
@@ -168,13 +168,13 @@
 
 ---
 
-## #394 Prinplup
+## [#394 Prinplup](../../pokemon/prinplup.md/)
 
 ![Prinplup](../../assets/sprites/prinplup/front.gif "Prinplup: It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.")
 
 **Location**: Evolve Piplup (Lv. 16)
 
-**Ability 2**: Defiant
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s Attack stat when its stats are lowered.">Defiant</span>
 
 **Level Up Moves:**
 
@@ -192,13 +192,13 @@
 
 ---
 
-## #395 Empoleon
+## [#395 Empoleon](../../pokemon/empoleon.md/)
 
 ![Empoleon](../../assets/sprites/empoleon/front.gif "Empoleon: The three horns that extend from its beak attest to its power. The leader has the biggest horns.")
 
 **Location**: Evolve Prinplup (Lv. 36)
 
-**Ability 2**: Defiant
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s Attack stat when its stats are lowered.">Defiant</span>
 
 **Level Up Moves:**
 
@@ -218,13 +218,13 @@
 
 ---
 
-## #396 Starly
+## [#396 Starly](../../pokemon/starly.md/)
 
 ![Starly](../../assets/sprites/starly/front.gif "Starly: They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.")
 
 **Location**: Route 101
 
-**Ability 2**: Reckless
+**Ability 2**: <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span>
 
 **Level Up Moves:**
 
@@ -240,13 +240,13 @@
 
 ---
 
-## #397 Staravia
+## [#397 Staravia](../../pokemon/staravia.md/)
 
 ![Staravia](../../assets/sprites/staravia/front.gif "Staravia: It lives in forests and fields. Squabbles over territory occur when flocks collide.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Reckless
+**Ability 2**: <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span>
 
 **Level Up Moves:**
 
@@ -262,13 +262,13 @@
 
 ---
 
-## #398 Staraptor
+## [#398 Staraptor](../../pokemon/staraptor.md/)
 
 ![Staraptor](../../assets/sprites/staraptor/front.gif "Staraptor: When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.")
 
 **Location**: Soaring in the Sky
 
-**Ability 2**: Reckless
+**Ability 2**: <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span>
 
 **Level Up Moves:**
 
@@ -285,7 +285,7 @@
 
 ---
 
-## #399 Bidoof
+## [#399 Bidoof](../../pokemon/bidoof.md/)
 
 ![Bidoof](../../assets/sprites/bidoof/front.gif "Bidoof: It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.")
 
@@ -305,7 +305,7 @@
 
 ---
 
-## #400 Bibarel
+## [#400 Bibarel](../../pokemon/bibarel.md/)
 
 ![Bibarel](../../assets/sprites/bibarel/front.gif "Bibarel: It makes its nest by damming streams with bark and mud. It is known as an industrious worker.")
 
@@ -337,13 +337,13 @@
 
 ---
 
-## #401 Kricketot
+## [#401 Kricketot](../../pokemon/kricketot.md/)
 
 ![Kricketot](../../assets/sprites/kricketot/front.gif "Kricketot: When its antennae hit each other, it sounds like the music of a xylophone.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Run Away
+**Ability 2**: <span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span>
 
 **Level Up Moves:**
 
@@ -355,13 +355,13 @@
 
 ---
 
-## #402 Kricketune
+## [#402 Kricketune](../../pokemon/kricketune.md/)
 
 ![Kricketune](../../assets/sprites/kricketune/front.gif "Kricketune: It signals its emotions with its melodies. Scientists are studying these melodic patterns.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Technician
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span>
 
 **Base Stat Changes:**
 
@@ -388,7 +388,7 @@
 
 ---
 
-## #403 Shinx
+## [#403 Shinx](../../pokemon/shinx.md/)
 
 ![Shinx](../../assets/sprites/shinx/front.gif "Shinx: All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.")
 
@@ -410,7 +410,7 @@
 
 ---
 
-## #404 Luxio
+## [#404 Luxio](../../pokemon/luxio.md/)
 
 ![Luxio](../../assets/sprites/luxio/front.gif "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.")
 
@@ -432,15 +432,15 @@
 
 ---
 
-## #405 Luxray
+## [#405 Luxray](../../pokemon/luxray.md/)
 
 ![Luxray](../../assets/sprites/luxray/front.gif "Luxray: Luxray’s ability to see through objects comes in handy when it’s scouting for danger.")
 
 **Location**: Evolve Luxio (Lv. 30)
 
-**New TM/HMs**: Payback, Dark Pulse
+**New TM/HMs**: <span class="tooltip" title="The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.">Payback</span>, <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span>
 
-**Type**: Electric >> Electric/Dark
+**Type**: ![Electric](../../assets/types/electric.png) >> ![Electric](../../assets/types/electric.png) ![Dark](../../assets/types/dark.png)
 
 **Level Up Moves:**
 
@@ -461,7 +461,7 @@
 
 ---
 
-## #406 Budew
+## [#406 Budew](../../pokemon/budew.md/)
 
 ![Budew](../../assets/sprites/budew/front.gif "Budew: Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.")
 
@@ -479,7 +479,7 @@
 
 ---
 
-## #407 Roserade
+## [#407 Roserade](../../pokemon/roserade.md/)
 
 ![Roserade](../../assets/sprites/roserade/front.gif "Roserade: With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.")
 
@@ -497,13 +497,13 @@
 
 ---
 
-## #408 Cranidos
+## [#408 Cranidos](../../pokemon/cranidos.md/)
 
 ![Cranidos](../../assets/sprites/cranidos/front.gif "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts.")
 
 **Location**: Seafloor Cavern, Revive Skull Fossil
 
-**Ability 2**: Sheer Force
+**Ability 2**: <span class="tooltip" title="Removes additional effects to increase move damage.">Sheer Force</span>
 
 **Level Up Moves:**
 
@@ -520,13 +520,13 @@
 
 ---
 
-## #409 Rampardos
+## [#409 Rampardos](../../pokemon/rampardos.md/)
 
 ![Rampardos](../../assets/sprites/rampardos/front.gif "Rampardos: Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.")
 
 **Location**: Seafloor Cavern
 
-**Ability 2**: Sheer Force
+**Ability 2**: <span class="tooltip" title="Removes additional effects to increase move damage.">Sheer Force</span>
 
 **Level Up Moves:**
 
@@ -545,13 +545,13 @@
 
 ---
 
-## #410 Shieldon
+## [#410 Shieldon](../../pokemon/shieldon.md/)
 
 ![Shieldon](../../assets/sprites/shieldon/front.gif "Shieldon: It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.")
 
 **Location**: Seafloor Cavern, Revive Armor Fossil
 
-**Ability 2**: Soundproof
+**Ability 2**: <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span>
 
 **Level Up Moves:**
 
@@ -568,13 +568,13 @@
 
 ---
 
-## #411 Bastiodon
+## [#411 Bastiodon](../../pokemon/bastiodon.md/)
 
 ![Bastiodon](../../assets/sprites/bastiodon/front.gif "Bastiodon: Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.")
 
 **Location**: Seafloor Cavern
 
-**Ability 2**: Soundproof
+**Ability 2**: <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span>
 
 **Level Up Moves:**
 
@@ -592,13 +592,13 @@
 
 ---
 
-## #412 Burmy
+## [#412 Burmy](../../pokemon/burmy.md/)
 
 ![Burmy](../../assets/sprites/burmy/front.gif "Burmy: If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Overcoat
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span>
 
 **Level Up Moves:**
 
@@ -610,15 +610,15 @@
 
 ---
 
-## #413 Wormadam
+## [#413 Wormadam](../../pokemon/wormadam-plant.md/)
 
 ![Wormadam](../../assets/sprites/wormadam-plant/front.gif "Wormadam: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Overcoat
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span>
 
-### Plant Forme
+### [Plant Forme](../../pokemon/wormadam-plant.md/)
 
 ![Wormadam-plant](../../assets/sprites/wormadam-plant/front.gif "Wormadam-plant: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
@@ -626,6 +626,13 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
+| HP | 60 | 80 |
+| Attack | 59 | 50 |
+| Defense | 85 | 100 |
+| Sp. Attack | 79 | 90 |
+| Sp. Defense | 105 | 110 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 | HP | 60 | 80 |
 | Attack | 59 | 50 |
 | Defense | 85 | 100 |
@@ -647,8 +654,17 @@
 | <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
 | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 26 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | 26 |   | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | 53 |
 
-### Sandy Forme
+### [Sandy Forme](../../pokemon/wormadam-sandy.md/)
 
 ![Wormadam-sandy](../../assets/sprites/wormadam-sandy/front.gif "Wormadam-sandy: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
@@ -656,6 +672,20 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
+| HP | 60 | 80 |
+| Attack | 79 | 90 |
+| Defense | 105 | 110 |
+| Sp. Attack | 59 | 50 |
+| Sp. Defense | 85 | 100 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
+| HP | 60 | 80 |
+| Attack | 79 | 90 |
+| Defense | 105 | 110 |
+| Sp. Attack | 59 | 50 |
+| Sp. Defense | 85 | 100 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 | HP | 60 | 80 |
 | Attack | 79 | 90 |
 | Defense | 105 | 110 |
@@ -677,8 +707,26 @@
 | <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
 | <span class="tooltip" title="The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.">Steamroller</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
 | <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 26 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="Using its tough and impressive horn, the user rams into the target with no letup.">Megahorn</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.">Steamroller</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 26 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user sets off an earthquake that strikes every Pokémon around it. ">Earthquake</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="Using its tough and impressive horn, the user rams into the target with no letup.">Megahorn</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="The user hurls hard rocks at the target. Two to five rocks are launched in a row.">Rock Blast</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.">Steamroller</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.">Bulldoze</span> | 26 |   | <span class="tooltip" title="The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.">Fissure</span> | 53 |
 
-### Trash Forme
+### [Trash Forme](../../pokemon/wormadam-trash.md/)
 
 ![Wormadam-trash](../../assets/sprites/wormadam-trash/front.gif "Wormadam-trash: When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.")
 
@@ -686,6 +734,27 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
+| HP | 60 | 80 |
+| Attack | 69 | 70 |
+| Defense | 95 | 105 |
+| Sp. Attack | 69 | 70 |
+| Sp. Defense | 95 | 105 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
+| HP | 60 | 80 |
+| Attack | 69 | 70 |
+| Defense | 95 | 105 |
+| Sp. Attack | 69 | 70 |
+| Sp. Defense | 95 | 105 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
+| HP | 60 | 80 |
+| Attack | 69 | 70 |
+| Defense | 95 | 105 |
+| Sp. Attack | 69 | 70 |
+| Sp. Defense | 95 | 105 |
+| Speed | 36 | 30 |
+| Total | 424 | 460 |
 | HP | 60 | 80 |
 | Attack | 69 | 70 |
 | Defense | 95 | 105 |
@@ -707,18 +776,45 @@
 | <span class="tooltip" title="The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.">Mirror Shot</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
 | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
 | <span class="tooltip" title="The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.">Gyro Ball</span> | 26 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat.">Flash Cannon</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.">Mirror Shot</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.">Gyro Ball</span> | 26 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat.">Flash Cannon</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.">Mirror Shot</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.">Gyro Ball</span> | 26 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 53 |
+| <span class="tooltip" title="Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | 1 |   | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | 29 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 32 |
+| <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | 1 |   | <span class="tooltip" title="The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat.">Flash Cannon</span> | 35 |
+| <span class="tooltip" title="The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.">Electroweb</span> | 1 |   | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | 38 |
+| <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | 15 |   | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | 41 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 20 |   | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | 44 |
+| <span class="tooltip" title="The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.">Mirror Shot</span> | 20 |   | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | 47 |
+| <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 23 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 50 |
+| <span class="tooltip" title="The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.">Gyro Ball</span> | 26 |   | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | 53 |
 
 ---
 
-## #414 Mothim
+## [#414 Mothim](../../pokemon/mothim.md/)
 
 ![Mothim](../../assets/sprites/mothim/front.gif "Mothim: It flutters around at night and steals honey from the Combee hive.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Tinted Lens
+**Ability 2**: <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span>
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -747,13 +843,13 @@
 
 ---
 
-## #415 Combee
+## [#415 Combee](../../pokemon/combee.md/)
 
 ![Combee](../../assets/sprites/combee/front.gif "Combee: It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Hustle
+**Ability 2**: <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span>
 
 **Level Up Moves:**
 
@@ -765,15 +861,15 @@
 
 ---
 
-## #416 Vespiquen
+## [#416 Vespiquen](../../pokemon/vespiquen.md/)
 
 ![Vespiquen](../../assets/sprites/vespiquen/front.gif "Vespiquen: Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Unnerve
+**Ability 2**: <span class="tooltip" title="Unnerves opposing Pokémon and makes them unable to eat Berries.">Unnerve</span>
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -793,13 +889,13 @@
 
 ---
 
-## #417 Pachirisu
+## [#417 Pachirisu](../../pokemon/pachirisu.md/)
 
 ![Pachirisu](../../assets/sprites/pachirisu/front.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.")
 
 **Location**: Route 118
 
-**Ability 1**: Adaptability **
+**Ability 1**: <span class="tooltip" title="Powers up moves of the same type as the Pokémon.">Adaptability</span> **
 
 **Base Stat Changes:**
 
@@ -829,13 +925,13 @@
 
 ---
 
-## #418 Buizel
+## [#418 Buizel](../../pokemon/buizel.md/)
 
 ![Buizel](../../assets/sprites/buizel/front.gif "Buizel: It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.")
 
 **Location**: Route 103, Route 120, Scorched Slab
 
-**Ability 2**: Water Veil
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span>
 
 **Level Up Moves:**
 
@@ -852,13 +948,13 @@
 
 ---
 
-## #419 Floatzel
+## [#419 Floatzel](../../pokemon/floatzel.md/)
 
 ![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.")
 
 **Location**: Route 103, Route 120, Scorched Slab, Victory Road
 
-**Ability 2**: Water Veil
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span>
 
 **Level Up Moves:**
 
@@ -876,7 +972,7 @@
 
 ---
 
-## #420 Cherubi
+## [#420 Cherubi](../../pokemon/cherubi.md/)
 
 ![Cherubi](../../assets/sprites/cherubi/front.gif "Cherubi: It evolves by sucking the energy out of the small ball where it had been storing nutrients.")
 
@@ -897,13 +993,13 @@
 
 ---
 
-## #421 Cherrim
+## [#421 Cherrim](../../pokemon/cherrim.md/)
 
 ![Cherrim](../../assets/sprites/cherrim/front.gif "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
 **Location**: Evolve Cherubi (Lv. 25)
 
-### Normal Forme
+### [Cherrim](../../pokemon/cherrim.md/)
 
 
 
@@ -915,7 +1011,7 @@
 | Sp. Defense | 78 | 80 |
 | Total | 450 | 455 |
 
-### Sunshine Forme
+### [Sunshine Forme](../../pokemon/cherrim-sunshine.md/)
 
 ![Cherrim-sunshine](../../assets/sprites/cherrim-sunshine/front.gif "Cherrim-sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
@@ -923,6 +1019,11 @@
 
 | Stat | Base | Change |
 | ---- | ---- | ------ |
+| Defense | 70 | 80 |
+| Sp. Attack | 87 | 120 |
+| Sp. Defense | 78 | 110 |
+| Speed | 85 | 115 |
+| Total | 450 | 555 |
 | Defense | 70 | 80 |
 | Sp. Attack | 87 | 120 |
 | Sp. Defense | 78 | 110 |
@@ -942,10 +1043,19 @@
 | <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 17 |   | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 42 |
 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | 20 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 46 |
 | <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | 23 |   |   |   |
+| <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Morning Sun</span> | 1 |   | <span class="tooltip" title="An attack move that varies in power and type depending on the weather.">Weather Ball</span> | 25 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user attacks the target by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | 25 |
+| <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | 5 |   | <span class="tooltip" title="A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.">Worry Seed</span> | 26 |
+| <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | 8 |   | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | 30 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 11 |   | <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span> | 34 |
+| <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 14 |   | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | 38 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 17 |   | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 42 |
+| <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | 20 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 46 |
+| <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | 23 |   |   |   |
 
 ---
 
-## #422 Shellos
+## [#422 Shellos](../../pokemon/shellos.md/)
 
 ![Shellos](../../assets/sprites/shellos/front.gif "Shellos: Its shape and coloration vary, depending on its habitat.")
 
@@ -965,7 +1075,7 @@
 
 ---
 
-## #423 Gastrodon
+## [#423 Gastrodon](../../pokemon/gastrodon.md/)
 
 ![Gastrodon](../../assets/sprites/gastrodon/front.gif "Gastrodon: It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.")
 
@@ -985,7 +1095,7 @@
 
 ---
 
-## #424 Ambipom
+## [#424 Ambipom](../../pokemon/ambipom.md/)
 
 ![Ambipom](../../assets/sprites/ambipom/front.gif "Ambipom: To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.")
 
@@ -1009,7 +1119,7 @@
 
 ---
 
-## #425 Drifloon
+## [#425 Drifloon](../../pokemon/drifloon.md/)
 
 ![Drifloon](../../assets/sprites/drifloon/front.gif "Drifloon: These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.")
 
@@ -1032,7 +1142,7 @@
 
 ---
 
-## #426 Drifblim
+## [#426 Drifblim](../../pokemon/drifblim.md/)
 
 ![Drifblim](../../assets/sprites/drifblim/front.gif "Drifblim: It’s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.")
 
@@ -1058,7 +1168,7 @@
 
 ---
 
-## #427 Buneary
+## [#427 Buneary](../../pokemon/buneary.md/)
 
 ![Buneary](../../assets/sprites/buneary/front.gif "Buneary: When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.")
 
@@ -1082,7 +1192,7 @@
 
 ---
 
-## #428 Lopunny
+## [#428 Lopunny](../../pokemon/lopunny.md/)
 
 ![Lopunny](../../assets/sprites/lopunny/front.gif "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.")
 
@@ -1108,13 +1218,13 @@
 
 ---
 
-## #429 Mismagius
+## [#429 Mismagius](../../pokemon/mismagius.md/)
 
 ![Mismagius](../../assets/sprites/mismagius/front.gif "Mismagius: Its cries sound like incantations to torment the foe. It appears where you least expect it.")
 
 **Location**: Mt. Pyre
 
-**Type**: Ghost >> Ghost/Fairy
+**Type**: ![Ghost](../../assets/types/ghost.png) >> ![Ghost](../../assets/types/ghost.png) ![Fairy](../../assets/types/fairy.png)
 
 **Level Up Moves:**
 
@@ -1129,7 +1239,7 @@
 
 ---
 
-## #430 Honchkrow
+## [#430 Honchkrow](../../pokemon/honchkrow.md/)
 
 ![Honchkrow](../../assets/sprites/honchkrow/front.gif "Honchkrow: Becoming active at night, it is known to swarm with numerous Murkrow in tow.")
 
@@ -1149,7 +1259,7 @@
 
 ---
 
-## #431 Glameow
+## [#431 Glameow](../../pokemon/glameow.md/)
 
 ![Glameow](../../assets/sprites/glameow/front.png "Glameow: When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.")
 
@@ -1173,7 +1283,7 @@
 
 ---
 
-## #432 Purugly
+## [#432 Purugly](../../pokemon/purugly.md/)
 
 ![Purugly](../../assets/sprites/purugly/front.gif "Purugly: To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.")
 
@@ -1196,7 +1306,7 @@
 
 ---
 
-## #433 Chingling
+## [#433 Chingling](../../pokemon/chingling.md/)
 
 ![Chingling](../../assets/sprites/chingling/front.gif "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.")
 
@@ -1215,7 +1325,7 @@
 
 ---
 
-## #434 Stunky
+## [#434 Stunky](../../pokemon/stunky.md/)
 
 ![Stunky](../../assets/sprites/stunky/front.gif "Stunky: It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.")
 
@@ -1237,7 +1347,7 @@
 
 ---
 
-## #435 Skuntank
+## [#435 Skuntank](../../pokemon/skuntank.md/)
 
 ![Skuntank](../../assets/sprites/skuntank/front.gif "Skuntank: It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.")
 
@@ -1261,7 +1371,7 @@
 
 ---
 
-## #436 Bronzor
+## [#436 Bronzor](../../pokemon/bronzor.md/)
 
 ![Bronzor](../../assets/sprites/bronzor/front.gif "Bronzor: Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.")
 
@@ -1282,13 +1392,13 @@
 
 ---
 
-## #437 Bronzong
+## [#437 Bronzong](../../pokemon/bronzong.md/)
 
 ![Bronzong](../../assets/sprites/bronzong/front.gif "Bronzong: Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.")
 
 **Location**: Mt. Pyre
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -1307,7 +1417,7 @@
 
 ---
 
-## #438 Bonsly
+## [#438 Bonsly](../../pokemon/bonsly.md/)
 
 ![Bonsly](../../assets/sprites/bonsly/front.gif "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.")
 
@@ -1327,7 +1437,7 @@
 
 ---
 
-## #439 Mime Jr.
+## [#439 Mime Jr.](../../pokemon/mime-jr.md/)
 
 ![Mime Jr.](../../assets/sprites/mime-jr/front.png "Mime Jr.: It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.")
 
@@ -1349,7 +1459,7 @@
 
 ---
 
-## #440 Happiny
+## [#440 Happiny](../../pokemon/happiny.md/)
 
 ![Happiny](../../assets/sprites/happiny/front.gif "Happiny: It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.")
 
@@ -1365,13 +1475,13 @@
 
 ---
 
-## #441 Chatot
+## [#441 Chatot](../../pokemon/chatot.md/)
 
 ![Chatot](../../assets/sprites/chatot/front.gif "Chatot: It can learn and speak human words. If they gather, they all learn the same saying.")
 
 **Location**: Route 118
 
-**Ability 1**: Gale Wings **
+**Ability 1**: <span class="tooltip" title="Gives priority to Flying-type moves.">Gale Wings</span> **
 
 **Effort Values**: 1 Atk >> 1 Sp. Atk, 1 Spd
 
@@ -1405,13 +1515,13 @@
 
 ---
 
-## #442 Spiritomb
+## [#442 Spiritomb](../../pokemon/spiritomb.md/)
 
 ![Spiritomb](../../assets/sprites/spiritomb/front.gif "Spiritomb: It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.")
 
 **Location**: Sea Mauville, Sky Pillar
 
-**Ability 2**: Infiltrator
+**Ability 2**: <span class="tooltip" title="Passes through the opposing Pokémon’s barrier and strikes.">Infiltrator</span>
 
 **Level Up Moves:**
 
@@ -1427,15 +1537,15 @@
 
 ---
 
-## #443 Gible
+## [#443 Gible](../../pokemon/gible.md/)
 
 ![Gible](../../assets/sprites/gible/front.gif "Gible: It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.")
 
 **Location**: Route 111
 
-**Ability 2**: Rough Skin
+**Ability 2**: <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span>
 
-**Held Item**: Skull Fossil (50%)
+**Held Item**: <span class="tooltip" title="A fossil from a prehistoric Pokémon that once lived on the land. It appears as though it’s part of a head.">Skull Fossil</span> (50%)
 
 **Level Up Moves:**
 
@@ -1451,13 +1561,13 @@
 
 ---
 
-## #444 Gabite
+## [#444 Gabite](../../pokemon/gabite.md/)
 
 ![Gabite](../../assets/sprites/gabite/front.gif "Gabite: As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.")
 
 **Location**: Victory Road
 
-**Ability 2**: Rough Skin
+**Ability 2**: <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span>
 
 **Level Up Moves:**
 
@@ -1473,13 +1583,13 @@
 
 ---
 
-## #445 Garchomp
+## [#445 Garchomp](../../pokemon/garchomp.md/)
 
 ![Garchomp](../../assets/sprites/garchomp/front.gif "Garchomp: It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.")
 
 **Location**: Evolve Gabite (Lv. 48)
 
-**Ability 2**: Rough Skin
+**Ability 2**: <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span>
 
 **Level Up Moves:**
 
@@ -1496,7 +1606,7 @@
 
 ---
 
-## #446 Munchlax
+## [#446 Munchlax](../../pokemon/munchlax.md/)
 
 ![Munchlax](../../assets/sprites/munchlax/front.gif "Munchlax: It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.")
 
@@ -1520,7 +1630,7 @@
 
 ---
 
-## #447 Riolu
+## [#447 Riolu](../../pokemon/riolu.md/)
 
 ![Riolu](../../assets/sprites/riolu/front.gif "Riolu: The aura that emanates from its body intensifies to alert others if it is afraid or sad.")
 
@@ -1540,7 +1650,7 @@
 
 ---
 
-## #448 Lucario
+## [#448 Lucario](../../pokemon/lucario.md/)
 
 ![Lucario](../../assets/sprites/lucario/front.gif "Lucario: By reading the auras of all things, it can tell how others are feeling from over half a mile away.")
 
@@ -1565,15 +1675,15 @@
 
 ---
 
-## #449 Hippopotas
+## [#449 Hippopotas](../../pokemon/hippopotas.md/)
 
 ![Hippopotas](../../assets/sprites/hippopotas/front.gif "Hippopotas: It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.")
 
 **Location**: Route 111
 
-**Ability 2**: Sand Force
+**Ability 2**: <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span>
 
-**Held Item**: Armor Fossil (50%)
+**Held Item**: <span class="tooltip" title="A fossil from a prehistoric Pokémon that once lived on the land. It looks to be from some kind of protective collar.">Armor Fossil</span> (50%)
 
 **Level Up Moves:**
 
@@ -1590,13 +1700,13 @@
 
 ---
 
-## #450 Hippowdon
+## [#450 Hippowdon](../../pokemon/hippowdon.md/)
 
 ![Hippowdon](../../assets/sprites/hippowdon/front.gif "Hippowdon: It blasts internally stored sand from ports on its body to create a towering twister for attack.")
 
 **Location**: Evolve Hippopotas (Lv. 34)
 
-**Ability 2**: Sand Force
+**Ability 2**: <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span>
 
 **Level Up Moves:**
 
@@ -1615,7 +1725,7 @@
 
 ---
 
-## #451 Skorupi
+## [#451 Skorupi](../../pokemon/skorupi.md/)
 
 ![Skorupi](../../assets/sprites/skorupi/front.gif "Skorupi: It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.")
 
@@ -1640,7 +1750,7 @@
 
 ---
 
-## #452 Drapion
+## [#452 Drapion](../../pokemon/drapion.md/)
 
 ![Drapion](../../assets/sprites/drapion/front.gif "Drapion: It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.")
 
@@ -1665,7 +1775,7 @@
 
 ---
 
-## #453 Croagunk
+## [#453 Croagunk](../../pokemon/croagunk.md/)
 
 ![Croagunk](../../assets/sprites/croagunk/front.gif "Croagunk: Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.")
 
@@ -1690,7 +1800,7 @@
 
 ---
 
-## #454 Toxicroak
+## [#454 Toxicroak](../../pokemon/toxicroak.md/)
 
 ![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak: Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.")
 
@@ -1715,7 +1825,7 @@
 
 ---
 
-## #455 Carnivine
+## [#455 Carnivine](../../pokemon/carnivine.md/)
 
 ![Carnivine](../../assets/sprites/carnivine/front.gif "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.")
 
@@ -1737,7 +1847,7 @@
 
 ---
 
-## #456 Finneon
+## [#456 Finneon](../../pokemon/finneon.md/)
 
 ![Finneon](../../assets/sprites/finneon/front.gif "Finneon: After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.")
 
@@ -1758,7 +1868,7 @@
 
 ---
 
-## #457 Lumineon
+## [#457 Lumineon](../../pokemon/lumineon.md/)
 
 ![Lumineon](../../assets/sprites/lumineon/front.gif "Lumineon: To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.")
 
@@ -1794,7 +1904,7 @@
 
 ---
 
-## #458 Mantyke
+## [#458 Mantyke](../../pokemon/mantyke.md/)
 
 ![Mantyke](../../assets/sprites/mantyke/front.gif "Mantyke: When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back.")
 
@@ -1815,13 +1925,13 @@
 
 ---
 
-## #459 Snover
+## [#459 Snover](../../pokemon/snover.md/)
 
 ![Snover](../../assets/sprites/snover/front.gif "Snover: In the spring, it grows berries with the texture of frozen treats around its belly.")
 
 **Location**: Shoal Cave
 
-**Ability 2**: Soundproof
+**Ability 2**: <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span>
 
 **Level Up Moves:**
 
@@ -1838,11 +1948,11 @@
 
 ---
 
-## #460 Abomasnow
+## [#460 Abomasnow](../../pokemon/abomasnow.md/)
 
 ![Abomasnow](../../assets/sprites/abomasnow/front.gif "Abomasnow: It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.")
 
-**Ability 2**: Soundproof
+**Ability 2**: <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span>
 
 **Level Up Moves:**
 
@@ -1859,15 +1969,15 @@
 
 ---
 
-## #461 Weavile
+## [#461 Weavile](../../pokemon/weavile.md/)
 
 ![Weavile](../../assets/sprites/weavile/front.gif "Weavile: They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.")
 
 **Location**: Shoal Cave
 
-**Ability 2**: Technician **
+**Ability 2**: <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> **
 
-**Held Item**: Grip Claw (50%), Quick Claw (5%)
+**Held Item**: <span class="tooltip" title="An item to be held by a Pokémon. It extends the duration of multi-turn attacks like Bind and Wrap.">Grip Claw</span> (50%), <span class="tooltip" title="An item to be held by a Pokémon. This light, sharp claw lets the bearer move first occasionally.">Quick Claw</span> (5%)
 
 **Level Up Moves:**
 
@@ -1888,7 +1998,7 @@
 
 ---
 
-## #462 Magnezone
+## [#462 Magnezone](../../pokemon/magnezone.md/)
 
 ![Magnezone](../../assets/sprites/magnezone/front.gif "Magnezone: It evolved from exposure to a special magnetic field. Three units generate magnetism.")
 
@@ -1912,7 +2022,7 @@
 
 ---
 
-## #463 Lickilicky
+## [#463 Lickilicky](../../pokemon/lickilicky.md/)
 
 ![Lickilicky](../../assets/sprites/lickilicky/front.gif "Lickilicky: Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.")
 
@@ -1935,7 +2045,7 @@
 
 ---
 
-## #464 Rhyperior
+## [#464 Rhyperior](../../pokemon/rhyperior.md/)
 
 ![Rhyperior](../../assets/sprites/rhyperior/front.gif "Rhyperior: It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.")
 
@@ -1960,7 +2070,7 @@
 
 ---
 
-## #465 Tangrowth
+## [#465 Tangrowth](../../pokemon/tangrowth.md/)
 
 ![Tangrowth](../../assets/sprites/tangrowth/front.gif "Tangrowth: Its vines grow so profusely that, in the warm season, you can’t even see its eyes.")
 
@@ -1984,15 +2094,15 @@
 
 ---
 
-## #466 Electivire
+## [#466 Electivire](../../pokemon/electivire.md/)
 
 ![Electivire](../../assets/sprites/electivire/front.gif "Electivire: It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.")
 
 **Location**: Evolve Electabuzz (Electirizer)
 
-**Ability 2**: Vital Spirit
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span>
 
-**Type**: Electric >> Electric/Fighting
+**Type**: ![Electric](../../assets/types/electric.png) >> ![Electric](../../assets/types/electric.png) ![Fighting](../../assets/types/fighting.png)
 
 **Level Up Moves:**
 
@@ -2014,13 +2124,13 @@
 
 ---
 
-## #467 Magmortar
+## [#467 Magmortar](../../pokemon/magmortar.md/)
 
 ![Magmortar](../../assets/sprites/magmortar/front.gif "Magmortar: It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.")
 
 **Location**: Evolve Magmar (Magmarizer)
 
-**Ability 2**: Vital Spirit
+**Ability 2**: <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span>
 
 **Level Up Moves:**
 
@@ -2039,7 +2149,7 @@
 
 ---
 
-## #468 Togekiss
+## [#468 Togekiss](../../pokemon/togekiss.md/)
 
 ![Togekiss](../../assets/sprites/togekiss/front.gif "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.")
 
@@ -2055,13 +2165,13 @@
 
 ---
 
-## #469 Yanmega
+## [#469 Yanmega](../../pokemon/yanmega.md/)
 
 ![Yanmega](../../assets/sprites/yanmega/front.gif "Yanmega: This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.")
 
 **Location**: Route 115
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -2082,13 +2192,13 @@
 
 ---
 
-## #470 Leafeon
+## [#470 Leafeon](../../pokemon/leafeon.md/)
 
 ![Leafeon](../../assets/sprites/leafeon/front.gif "Leafeon: Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.")
 
 **Location**: Evolve Eevee (Petalburg Woods)
 
-**Ability 2**: Chlorophyll
+**Ability 2**: <span class="tooltip" title="Boosts the Pokémon’s Speed stat in sunshine.">Chlorophyll</span>
 
 **Level Up Moves:**
 
@@ -2105,13 +2215,13 @@
 
 ---
 
-## #471 Glaceon
+## [#471 Glaceon](../../pokemon/glaceon.md/)
 
 ![Glaceon](../../assets/sprites/glaceon/front.gif "Glaceon: It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.")
 
 **Location**: Evolve Eevee (Shoal Cave)
 
-**Ability 2**: Ice Body
+**Ability 2**: <span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span>
 
 **Level Up Moves:**
 
@@ -2128,13 +2238,13 @@
 
 ---
 
-## #472 Gliscor
+## [#472 Gliscor](../../pokemon/gliscor.md/)
 
 ![Gliscor](../../assets/sprites/gliscor/front.gif "Gliscor: Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.")
 
 **Location**: Evolve Gligar (Razor Fang + Level Up @ Night)
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Level Up Moves:**
 
@@ -2154,7 +2264,7 @@
 
 ---
 
-## #473 Mamoswine
+## [#473 Mamoswine](../../pokemon/mamoswine.md/)
 
 ![Mamoswine](../../assets/sprites/mamoswine/front.gif "Mamoswine: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.")
 
@@ -2179,7 +2289,7 @@
 
 ---
 
-## #474 Porygon-Z
+## [#474 Porygon-Z](../../pokemon/porygon-z.md/)
 
 ![Porygon-Z](../../assets/sprites/porygon-z/front.gif "Porygon-Z: Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...")
 
@@ -2202,13 +2312,13 @@
 
 ---
 
-## #475 Gallade
+## [#475 Gallade](../../pokemon/gallade.md/)
 
 ![Gallade](../../assets/sprites/gallade/front.gif "Gallade: A master of courtesy and swordsmanship, it fights using extending swords on its elbows.")
 
 **Location**: Evolve Kirlia (Dawn Stone ♂)
 
-**Ability 2**: Justified
+**Ability 2**: <span class="tooltip" title="Boosts the Attack stat when it’s hit by a Dark-type move.">Justified</span>
 
 **Level Up Moves:**
 
@@ -2229,7 +2339,7 @@
 
 ---
 
-## #476 Probopass
+## [#476 Probopass](../../pokemon/probopass.md/)
 
 ![Probopass](../../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.")
 
@@ -2252,13 +2362,13 @@
 
 ---
 
-## #477 Dusknoir
+## [#477 Dusknoir](../../pokemon/dusknoir.md/)
 
 ![Dusknoir](../../assets/sprites/dusknoir/front.gif "Dusknoir: The antenna on its head captures radio waves from the world of spirits that command it to take people there.")
 
 **Location**: Evolve Dusclops (Reaper Cloth)
 
-**Ability 2**: Frisk
+**Ability 2**: <span class="tooltip" title="The Pokémon can check an opposing Pokémon’s held item.">Frisk</span>
 
 **Level Up Moves:**
 
@@ -2280,13 +2390,13 @@
 
 ---
 
-## #478 Froslass
+## [#478 Froslass](../../pokemon/froslass.md/)
 
 ![Froslass](../../assets/sprites/froslass/front.gif "Froslass: Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.")
 
 **Location**: Shoal Cave
 
-**Ability 2**: Cursed Body
+**Ability 2**: <span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span>
 
 **Level Up Moves:**
 
@@ -2304,13 +2414,13 @@
 
 ---
 
-## #479 Rotom
+## [#479 Rotom](../../pokemon/rotom.md/)
 
 ![Rotom](../../assets/sprites/rotom/front.gif "Rotom: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
 **Location**: New Mauville
 
-### Frost Forme, Heat Forme, Mow Forme, Wash Forme
+### [Frost Forme](../../pokemon/rotom-frost.md/), [Heat Forme](../../pokemon/rotom-heat.md/), [Mow Forme](../../pokemon/rotom-mow.md/), [Wash Forme](../../pokemon/rotom-wash.md/)
 
 ![Rotom-frost](../../assets/sprites/rotom-frost/front.gif "Rotom-frost: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-heat](../../assets/sprites/rotom-heat/front.gif "Rotom-heat: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-mow](../../assets/sprites/rotom-mow/front.gif "Rotom-mow: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.") ![Rotom-wash](../../assets/sprites/rotom-wash/front.gif "Rotom-wash: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
@@ -2328,8 +2438,48 @@
 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
 | <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
 | <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
 
-### Fan Forme
+### [Fan Forme](../../pokemon/rotom-fan.md/)
 
 ![Rotom-fan](../../assets/sprites/rotom-fan/front.gif "Rotom-fan: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")
 
@@ -2348,16 +2498,71 @@
 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
 | <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
 | <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
+| <span class="tooltip" title="The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.">Hurricane</span> | 1 |   | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | 24 |
+| <span class="tooltip" title="The user adds its HP to the target’s HP, then equally shares the combined HP with the target.">Pain Split</span> | 1 |   | <span class="tooltip" title="The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.">Electro Ball</span> | 28 |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="This relentless attack does massive damage to a target affected by status conditions.">Hex</span> | 32 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 1 |   | <span class="tooltip" title="The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.">Discharge</span> | 36 |
+| <span class="tooltip" title="The user launches a weak jolt of electricity that paralyzes the target.">Thunder Wave</span> | 1 |   | <span class="tooltip" title="The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.">Charge</span> | 40 |
+| <span class="tooltip" title="A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.">Thunder Shock</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 44 |
+| <span class="tooltip" title="The target is exposed to a sinister ray that triggers confusion.">Confuse Ray</span> | 1 |   | <span class="tooltip" title="A strong electric blast crashes down on the target. This may also leave the target with paralysis.">Thunderbolt</span> | 48 |
+| <span class="tooltip" title="The user attacks in an uproar for three turns. During that time, no one can fall asleep.">Uproar</span> | 8 |   | <span class="tooltip" title="The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.">Foul Play</span> | 52 |
+| <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.">Double Team</span> | 12 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 56 |
+| <span class="tooltip" title="The user strikes the target with a quick jolt of electricity. This attack never misses.">Shock Wave</span> | 16 |   | <span class="tooltip" title="A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.">Thunder</span> | 60 |
+| <span class="tooltip" title="The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.">Ominous Wind</span> | 20 |   |   |   |
 
 ---
 
-## #480 Uxie
+## [#480 Uxie](../../pokemon/uxie.md/)
 
 ![Uxie](../../assets/sprites/uxie/front.gif "Uxie: It is said that its emergence gave humans the intelligence to improve their quality of life.")
 
 **Location**: Nameless Cavern, Mirage Cave
 
-**Type**: Psychic >> Psychic/Fairy
+**Type**: ![Psychic](../../assets/types/psychic.png) >> ![Psychic](../../assets/types/psychic.png) ![Fairy](../../assets/types/fairy.png)
 
 **Level Up Moves:**
 
@@ -2374,13 +2579,13 @@
 
 ---
 
-## #481 Mesprit
+## [#481 Mesprit](../../pokemon/mesprit.md/)
 
 ![Mesprit](../../assets/sprites/mesprit/front.gif "Mesprit: It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.")
 
 **Location**: Nameless Cavern, Mirage Cave
 
-**Type**: Psychic >> Psychic/Fairy
+**Type**: ![Psychic](../../assets/types/psychic.png) >> ![Psychic](../../assets/types/psychic.png) ![Fairy](../../assets/types/fairy.png)
 
 **Level Up Moves:**
 
@@ -2397,13 +2602,13 @@
 
 ---
 
-## #482 Azelf
+## [#482 Azelf](../../pokemon/azelf.md/)
 
 ![Azelf](../../assets/sprites/azelf/front.gif "Azelf: It is thought that Uxie, Mesprit, and Azelf all came from the same egg.")
 
 **Location**: Nameless Cavern, Mirage Cave
 
-**Type**: Psychic >> Psychic/Fairy
+**Type**: ![Psychic](../../assets/types/psychic.png) >> ![Psychic](../../assets/types/psychic.png) ![Fairy](../../assets/types/fairy.png)
 
 **Level Up Moves:**
 
@@ -2420,13 +2625,13 @@
 
 ---
 
-## #483 Dialga
+## [#483 Dialga](../../pokemon/dialga.md/)
 
 ![Dialga](../../assets/sprites/dialga/front.gif "Dialga: It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.")
 
 **Location**: Soaring in the Sky, Mirage Mountain
 
-**Ability 2**: Telepathy
+**Ability 2**: <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span>
 
 **Level Up Moves:**
 
@@ -2442,15 +2647,15 @@
 
 ---
 
-## #484 Palkia
+## [#484 Palkia](../../pokemon/palkia.md/)
 
 ![Palkia](../../assets/sprites/palkia/front.gif "Palkia: It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.")
 
 **Location**: Soaring in the Sky, Mirage Mountain
 
-**Ability 2**: Telepathy
+**Ability 2**: <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span>
 
-**New TM/HMs**: Waterfall
+**New TM/HMs**: <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span>
 
 **Level Up Moves:**
 
@@ -2466,13 +2671,13 @@
 
 ---
 
-## #485 Heatran
+## [#485 Heatran](../../pokemon/heatran.md/)
 
 ![Heatran](../../assets/sprites/heatran/front.gif "Heatran: Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.")
 
 **Location**: Scorched Slab
 
-**Ability 2**: Flame Body
+**Ability 2**: <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span>
 
 **Level Up Moves:**
 
@@ -2488,7 +2693,7 @@
 
 ---
 
-## #486 Regigigas
+## [#486 Regigigas](../../pokemon/regigigas.md/)
 
 ![Regigigas](../../assets/sprites/regigigas/front.gif "Regigigas: There is an enduring legend that states this Pokémon towed continents with ropes.")
 
@@ -2508,13 +2713,13 @@
 
 ---
 
-## #487 Giratina
+## [#487 Giratina](../../pokemon/giratina-altered.md/)
 
 ![Giratina](../../assets/sprites/giratina-altered/front.gif "Giratina: It was banished for its violence. It silently gazed upon the old world from the Distortion World.")
 
 **Location**: Soaring in the Sky
 
-**Ability 2**: Telepathy
+**Ability 2**: <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span>
 
 **Level Up Moves:**
 
@@ -2530,7 +2735,7 @@
 
 ---
 
-## #488 Cresselia
+## [#488 Cresselia](../../pokemon/cresselia.md/)
 
 ![Cresselia](../../assets/sprites/cresselia/front.gif "Cresselia: Those who sleep holding Cresselia’s feather are assured of joyful dreams. It is said to represent the crescent moon.")
 
@@ -2550,7 +2755,7 @@
 
 ---
 
-## #489 Phione
+## [#489 Phione](../../pokemon/phione.md/)
 
 ![Phione](../../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.")
 
@@ -2569,7 +2774,7 @@
 
 ---
 
-## #490 Manaphy
+## [#490 Manaphy](../../pokemon/manaphy.md/)
 
 ![Manaphy](../../assets/sprites/manaphy/front.gif "Manaphy: It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.")
 
@@ -2589,7 +2794,7 @@
 
 ---
 
-## #491 Darkrai
+## [#491 Darkrai](../../pokemon/darkrai.md/)
 
 ![Darkrai](../../assets/sprites/darkrai/front.gif "Darkrai: It can lull people to sleep and make them dream. It is active during nights of the new moon.")
 
@@ -2608,7 +2813,7 @@
 
 ---
 
-## #492 Shaymin
+## [#492 Shaymin](../../pokemon/shaymin-land.md/)
 
 ![Shaymin](../../assets/sprites/shaymin-land/front.gif "Shaymin: The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.")
 
@@ -2627,7 +2832,7 @@
 
 ---
 
-## #493 Arceus
+## [#493 Arceus](../../pokemon/arceus.md/)
 
 ![Arceus](../../assets/sprites/arceus/front.gif "Arceus: It is told in mythology that this Pokémon was born before the universe even existed.")
 

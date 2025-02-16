@@ -16,7 +16,7 @@
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aegislash Shield](../assets/sprites/aegislash-shield/front.png "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") | ![Aegislash Shield](../assets/sprites/aegislash-shield/front_shiny.png "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") | N/A | N/A |
+| ![Aegislash Shield](../assets/sprites/aegislash-shield/front.gif "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") | ![Aegislash Shield](../assets/sprites/aegislash-shield/front_shiny.gif "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") | ![Aegislash Shield](../assets/sprites/aegislash-shield/back.gif "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") | ![Aegislash Shield](../assets/sprites/aegislash-shield/back_shiny.gif "Aegislash Shield: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.") |
 
 ### Cries
 

@@ -345,6 +345,9 @@ def to_md(
 
     # Stats
     stats = pokemon["stats"]
+    if len(stats) == 0:
+        logger.log(logging.WARNING, f"Stats not found for {pokemon_name}, skipping...")
+        return None
     md += parse_stats(stats)
 
     # Forms
@@ -595,7 +598,8 @@ def main():
                 continue
 
             md = to_md(data, pokemon_set, data_move, data_item, data_ability, logger)
-            save(f"{POKEMON_PATH + data['name']}.md", md, logger)
+            if md:
+                save(f"{POKEMON_PATH + data['name']}.md", md, logger)
 
 
 if __name__ == "__main__":

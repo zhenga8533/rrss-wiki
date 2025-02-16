@@ -1,10 +1,11 @@
 import logging
 import os
+import re
 
 from dotenv import load_dotenv
 
 from util.file import load, save
-from util.format import check_empty, find_pokemon_sprite
+from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
 
 
@@ -66,15 +67,19 @@ def main():
                 else:
                     description, pokemon = columns[0].split(", ")
                     sprite = find_pokemon_sprite(pokemon, "front", logger)
+                    changes = "<br>".join(
+                        [
+                            f"{i}. {change.capitalize()}"
+                            for i, change in enumerate(re.split(r", | and ", columns[1]), 1)
+                        ]
+                    )
                     columns = (
-                        [pokemon, description, *columns[1:]]
+                        [pokemon, description, changes]
                         if sprite == "?"
                         else [
-                            f"<div class='sprite-cell'>{sprite}<br>{pokemon}</div>",
+                            f"<div class='sprite-cell'>{sprite}<br>[{pokemon}](../pokemon/{format_id(pokemon)}.md/)</div>",
                             description,
-                            "<br>".join(
-                                [f"{i}. {change.capitalize()}" for i, change in enumerate(columns[1].split(", "), 1)]
-                            ),
+                            changes,
                         ]
                     )
 

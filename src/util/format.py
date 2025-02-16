@@ -199,6 +199,8 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
         "scatterbug-",
         "spewpa-",
         "battle-bond",
+        "frillish-female",
+        "jellicent-female",
     ]
 
     # Validate if the Pokemon has a form

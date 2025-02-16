@@ -2,13 +2,13 @@
 
 ---
 
-## #650 Chespin
+## [#650 Chespin](../../pokemon/chespin.md/)
 
 ![Chespin](../../assets/sprites/chespin/front.gif "Chespin: Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.")
 
 **Location**: Route 102
 
-**Ability 2**: Bulletproof
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from some ball and bomb moves.">Bulletproof</span>
 
 **Level Up Moves:**
 
@@ -26,13 +26,13 @@
 
 ---
 
-## #651 Quilladin
+## [#651 Quilladin](../../pokemon/quilladin.md/)
 
 ![Quilladin](../../assets/sprites/quilladin/front.gif "Quilladin: They strengthen their lower bodies by running into one another. They are very kind and won’t start fights.")
 
 **Location**: Evolve Chespin (Lv. 16)
 
-**Ability 2**: Bulletproof
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from some ball and bomb moves.">Bulletproof</span>
 
 **Level Up Moves:**
 
@@ -50,13 +50,13 @@
 
 ---
 
-## #652 Chesnaught
+## [#652 Chesnaught](../../pokemon/chesnaught.md/)
 
 ![Chesnaught](../../assets/sprites/chesnaught/front.gif "Chesnaught: When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.")
 
 **Location**: Evolve Quilladin (Lv. 36)
 
-**Ability 2**: Bulletproof
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from some ball and bomb moves.">Bulletproof</span>
 
 **Level Up Moves:**
 
@@ -78,13 +78,13 @@
 
 ---
 
-## #653 Fennekin
+## [#653 Fennekin](../../pokemon/fennekin.md/)
 
 ![Fennekin](../../assets/sprites/fennekin/front.gif "Fennekin: As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.")
 
 **Location**: Route 101
 
-**Ability 2**: Magician
+**Ability 2**: <span class="tooltip" title="The Pokémon steals the held item of a Pokémon it hits with a move.">Magician</span>
 
 **Level Up Moves:**
 
@@ -102,13 +102,13 @@
 
 ---
 
-## #654 Braixen
+## [#654 Braixen](../../pokemon/braixen.md/)
 
 ![Braixen](../../assets/sprites/braixen/front.gif "Braixen: When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.")
 
 **Location**: Evolve Fennekin (Lv. 16)
 
-**Ability 2**: Magician
+**Ability 2**: <span class="tooltip" title="The Pokémon steals the held item of a Pokémon it hits with a move.">Magician</span>
 
 **Level Up Moves:**
 
@@ -126,13 +126,13 @@
 
 ---
 
-## #655 Delphox
+## [#655 Delphox](../../pokemon/delphox.md/)
 
 ![Delphox](../../assets/sprites/delphox/front.gif "Delphox: Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.")
 
 **Location**: Evolve Braixen (Lv. 36)
 
-**Ability 2**: Magician
+**Ability 2**: <span class="tooltip" title="The Pokémon steals the held item of a Pokémon it hits with a move.">Magician</span>
 
 **Level Up Moves:**
 
@@ -153,13 +153,13 @@
 
 ---
 
-## #656 Froakie
+## [#656 Froakie](../../pokemon/froakie.md/)
 
 ![Froakie](../../assets/sprites/froakie/front.gif "Froakie: It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Protean
+**Ability 2**: <span class="tooltip" title="Changes the Pokémon’s type to the type of the move it’s using.">Protean</span>
 
 **Level Up Moves:**
 
@@ -177,13 +177,13 @@
 
 ---
 
-## #657 Frogadier
+## [#657 Frogadier](../../pokemon/frogadier.md/)
 
 ![Frogadier](../../assets/sprites/frogadier/front.gif "Frogadier: Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute’s time.")
 
 **Location**: Evolve Froakie (Lv. 16)
 
-**Ability 2**: Protean
+**Ability 2**: <span class="tooltip" title="Changes the Pokémon’s type to the type of the move it’s using.">Protean</span>
 
 **Level Up Moves:**
 
@@ -201,13 +201,13 @@
 
 ---
 
-## #658 Greninja
+## [#658 Greninja](../../pokemon/greninja.md/)
 
 ![Greninja](../../assets/sprites/greninja/front.gif "Greninja: It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.")
 
 **Location**: Evolve Frogadier (Lv. 36)
 
-**Ability 2**: Protean
+**Ability 2**: <span class="tooltip" title="Changes the Pokémon’s type to the type of the move it’s using.">Protean</span>
 
 **Level Up Moves:**
 
@@ -229,7 +229,7 @@
 
 ---
 
-## #659 Bunnelby
+## [#659 Bunnelby](../../pokemon/bunnelby.md/)
 
 ![Bunnelby](../../assets/sprites/bunnelby/front.gif "Bunnelby: It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.")
 
@@ -251,7 +251,7 @@
 
 ---
 
-## #660 Diggersby
+## [#660 Diggersby](../../pokemon/diggersby.md/)
 
 ![Diggersby](../../assets/sprites/diggersby/front.gif "Diggersby: As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily.")
 
@@ -285,13 +285,13 @@
 
 ---
 
-## #661 Fletchling
+## [#661 Fletchling](../../pokemon/fletchling.md/)
 
 ![Fletchling](../../assets/sprites/fletchling/front.gif "Fletchling: Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory.")
 
 **Location**: Route 101
 
-**Ability 2**: Gale Wings
+**Ability 2**: <span class="tooltip" title="Gives priority to Flying-type moves.">Gale Wings</span>
 
 **Level Up Moves:**
 
@@ -307,13 +307,13 @@
 
 ---
 
-## #662 Fletchinder
+## [#662 Fletchinder](../../pokemon/fletchinder.md/)
 
 ![Fletchinder](../../assets/sprites/fletchinder/front.gif "Fletchinder: The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Gale Wings
+**Ability 2**: <span class="tooltip" title="Gives priority to Flying-type moves.">Gale Wings</span>
 
 **Level Up Moves:**
 
@@ -330,13 +330,13 @@
 
 ---
 
-## #663 Talonflame
+## [#663 Talonflame](../../pokemon/talonflame.md/)
 
 ![Talonflame](../../assets/sprites/talonflame/front.gif "Talonflame: When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.")
 
 **Location**: Soaring in the Sky
 
-**Ability 2**: Gale Wings
+**Ability 2**: <span class="tooltip" title="Gives priority to Flying-type moves.">Gale Wings</span>
 
 **Level Up Moves:**
 
@@ -354,7 +354,7 @@
 
 ---
 
-## #664 Scatterbug
+## [#664 Scatterbug](../../pokemon/scatterbug.md/)
 
 ![Scatterbug](../../assets/sprites/scatterbug/front.gif "Scatterbug: The powder that covers its body regulates its temperature, so it can live in any region or climate.")
 
@@ -370,7 +370,7 @@
 
 ---
 
-## #665 Spewpa
+## [#665 Spewpa](../../pokemon/spewpa.md/)
 
 ![Spewpa](../../assets/sprites/spewpa/front.gif "Spewpa: The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder.")
 
@@ -385,7 +385,7 @@
 
 ---
 
-## #666 Vivillon
+## [#666 Vivillon](../../pokemon/vivillon.md/)
 
 ![Vivillon](../../assets/sprites/vivillon/front.gif "Vivillon: The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.")
 
@@ -393,7 +393,7 @@
 
 **Effort Values**: 1 Sp. Atk, 1 Spd >> 2 Sp. Atk
 
-**New TM/HMs**: Fly
+**New TM/HMs**: <span class="tooltip" title="The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.">Fly</span>
 
 **Base Stat Changes:**
 
@@ -423,7 +423,7 @@
 
 ---
 
-## #667 Litleo
+## [#667 Litleo](../../pokemon/litleo.md/)
 
 ![Litleo](../../assets/sprites/litleo/front.gif "Litleo: They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.")
 
@@ -446,7 +446,7 @@
 
 ---
 
-## #668 Pyroar
+## [#668 Pyroar](../../pokemon/pyroar.md/)
 
 ![Pyroar](../../assets/sprites/pyroar/front.gif "Pyroar: With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride’s cubs.")
 
@@ -468,13 +468,13 @@
 
 ---
 
-## #669 Flabébé
+## [#669 Flabébé](../../pokemon/flabebe.md/)
 
 ![Flabébé](../../assets/sprites/flabebe/front.gif "Flabébé: When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind’s embrace with an untroubled heart.")
 
 **Location**: Route 104 North
 
-**Ability 2**: Symbiosis
+**Ability 2**: <span class="tooltip" title="The Pokémon can pass an item to an ally.">Symbiosis</span>
 
 **Level Up Moves:**
 
@@ -492,15 +492,15 @@
 
 ---
 
-## #670 Floette
+## [#670 Floette](../../pokemon/floette.md/)
 
 ![Floette](../../assets/sprites/floette/front.gif "Floette: When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.")
 
 **Location**: Route 115
 
-**Ability 2**: Symbiosis
+**Ability 2**: <span class="tooltip" title="The Pokémon can pass an item to an ally.">Symbiosis</span>
 
-### Normal Forme
+### [Floette](../../pokemon/floette.md/)
 
 
 
@@ -518,7 +518,7 @@
 | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 21 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 57 |
 | <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span> | 25 |   |   |   |
 
-### Eternal Forme
+### [Eternal Forme](../../pokemon/floette-eternal.md/)
 
 ![Floette-eternal](../../assets/sprites/floette-eternal/front.gif "Floette-eternal: When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance.")
 
@@ -535,16 +535,25 @@
 | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 17 |   | <span class="tooltip" title="Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.">Light of Ruin</span> | 50 |
 | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 21 |   | <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 53 |
 | <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span> | 25 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 57 |
+| <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | 1 |   | <span class="tooltip" title="The user snares the target with grass and trips it. The heavier the target, the greater the move’s power.">Grass Knot</span> | 29 |
+| <span class="tooltip" title="The target is struck with slender, whiplike vines to inflict damage.">Vine Whip</span> | 1 |   | <span class="tooltip" title="The user turns the ground under everyone’s feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.">Grassy Terrain</span> | 33 |
+| <span class="tooltip" title="The user stirs up a fairy wind and strikes the target with it.">Fairy Wind</span> | 5 |   | <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | 37 |
+| <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | 8 |   | <span class="tooltip" title="Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.">Moonblast</span> | 41 |
+| <span class="tooltip" title="One turn after this move is used, the target’s HP is restored by half the user’s max HP.">Wish</span> | 11 |   | <span class="tooltip" title="The user releases a soothing scent that heals all status conditions affecting the user’s party.">Aromatherapy</span> | 45 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 14 |   | <span class="tooltip" title="The user attacks the target by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | 49 |
+| <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | 17 |   | <span class="tooltip" title="Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.">Light of Ruin</span> | 50 |
+| <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | 21 |   | <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 53 |
+| <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span> | 25 |   | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | 57 |
 
 ---
 
-## #671 Florges
+## [#671 Florges](../../pokemon/florges.md/)
 
 ![Florges](../../assets/sprites/florges/front.gif "Florges: In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains.")
 
 **Location**: Evolve Floette (Shiny Stone)
 
-**Ability 2**: Symbiosis
+**Ability 2**: <span class="tooltip" title="The Pokémon can pass an item to an ally.">Symbiosis</span>
 
 **Level Up Moves:**
 
@@ -559,13 +568,13 @@
 
 ---
 
-## #672 Skiddo
+## [#672 Skiddo](../../pokemon/skiddo.md/)
 
 ![Skiddo](../../assets/sprites/skiddo/front.gif "Skiddo: If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.")
 
 **Location**: Route 110
 
-**Ability 2**: Grass Pelt
+**Ability 2**: <span class="tooltip" title="Boosts the Defense stat in Grassy Terrain.">Grass Pelt</span>
 
 **Level Up Moves:**
 
@@ -583,13 +592,13 @@
 
 ---
 
-## #673 Gogoat
+## [#673 Gogoat](../../pokemon/gogoat.md/)
 
 ![Gogoat](../../assets/sprites/gogoat/front.gif "Gogoat: They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.")
 
 **Location**: Safari Zone
 
-**Ability 2**: Grass Pelt
+**Ability 2**: <span class="tooltip" title="Boosts the Defense stat in Grassy Terrain.">Grass Pelt</span>
 
 **Level Up Moves:**
 
@@ -608,7 +617,7 @@
 
 ---
 
-## #674 Pancham
+## [#674 Pancham](../../pokemon/pancham.md/)
 
 ![Pancham](../../assets/sprites/pancham/front.gif "Pancham: It does its level best to glare and pull a scary face, but it can’t help grinning if anyone pats its head.")
 
@@ -630,7 +639,7 @@
 
 ---
 
-## #675 Pangoro
+## [#675 Pangoro](../../pokemon/pangoro.md/)
 
 ![Pangoro](../../assets/sprites/pangoro/front.gif "Pangoro: It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.")
 
@@ -656,7 +665,7 @@
 
 ---
 
-## #676 Furfrou
+## [#676 Furfrou](../../pokemon/furfrou.md/)
 
 ![Furfrou](../../assets/sprites/furfrou/front.gif "Furfrou: Historically, in the Kalos region, these Pokémon were the designated guardians of the king.")
 
@@ -678,7 +687,7 @@
 
 ---
 
-## #677 Espurr
+## [#677 Espurr](../../pokemon/espurr.md/)
 
 ![Espurr](../../assets/sprites/espurr/front.gif "Espurr: It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.")
 
@@ -696,13 +705,13 @@
 
 ---
 
-## #678 Meowstic
+## [#678 Meowstic](../../pokemon/meowstic-male.md/)
 
 ![Meowstic](../../assets/sprites/meowstic-male/front.gif "Meowstic: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
 
 **Location**: Safari Zone
 
-### Male Forme
+### [Male Forme](../../pokemon/meowstic-male.md/)
 
 ![Meowstic-male](../../assets/sprites/meowstic-male/front.gif "Meowstic-male: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
 
@@ -721,10 +730,21 @@
 | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 17 |   | <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 50 |
 | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 53 |
 | <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 22 |   |   |   |
+| <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 1 |   | <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 25 |
+| <span class="tooltip" title="The user pins the target with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | 1 |   | <span class="tooltip" title="The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.">Charm</span> | 28 |
+| <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | 1 |   | <span class="tooltip" title="Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.">Miracle Eye</span> | 31 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from physical attacks for five turns.">Reflect</span> | 35 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 40 |
+| <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 5 |   | <span class="tooltip" title="The user mimics the target completely, copying the target’s natural Ability.">Role Play</span> | 43 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 9 |   | <span class="tooltip" title="If opposing Pokémon know any move also known by the user, they are prevented from using it.">Imprison</span> | 45 |
+| <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from special attacks for five turns.">Light Screen</span> | 13 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 48 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 17 |   | <span class="tooltip" title="The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.">Misty Terrain</span> | 50 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user protects itself and its allies from priority moves.">Quick Guard</span> | 53 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 22 |   |   |   |
 
-### Female Forme
+### [Female Forme](../../pokemon/meowstic-female.md/)
 
-![Meowstic-female](../../assets/sprites/meowstic-female/front.gif "Meowstic-female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
+![Meowstic-female](../../assets/sprites/meowstic-female/front.png "Meowstic-female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.")
 
 **Level Up Moves:**
 
@@ -741,10 +761,32 @@
 | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 17 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 50 |
 | <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 53 |
 | <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 22 |   |   |   |
+| <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 1 |   | <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 25 |
+| <span class="tooltip" title="The user cuts ahead of the target to steal and use the target’s intended move with greater power. This move fails if it isn’t used first.">Me First</span> | 1 |   | <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 28 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 31 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 35 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 40 |
+| <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 5 |   | <span class="tooltip" title="The user mimics the target completely, copying the target’s natural Ability.">Role Play</span> | 43 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 9 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 45 |
+| <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from special attacks for five turns.">Light Screen</span> | 13 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 48 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 17 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 50 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 53 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 22 |   |   |   |
+| <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 1 |   | <span class="tooltip" title="The user materializes an odd psychic wave to attack the target. This attack does physical damage.">Psyshock</span> | 25 |
+| <span class="tooltip" title="The user cuts ahead of the target to steal and use the target’s intended move with greater power. This move fails if it isn’t used first.">Me First</span> | 1 |   | <span class="tooltip" title="The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.">Charge Beam</span> | 28 |
+| <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | 1 |   | <span class="tooltip" title="The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.">Shadow Ball</span> | 31 |
+| <span class="tooltip" title="Hard, pointed, sharp claws rake the target to inflict damage.">Scratch</span> | 1 |   | <span class="tooltip" title="The user attacks with an odd, unseeable power. This may also make the target flinch.">Extrasensory</span> | 35 |
+| <span class="tooltip" title="The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.">Leer</span> | 1 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 40 |
+| <span class="tooltip" title="The user endearingly approaches the target, then steals the target’s held item.">Covet</span> | 5 |   | <span class="tooltip" title="The user mimics the target completely, copying the target’s natural Ability.">Role Play</span> | 43 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 9 |   | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | 45 |
+| <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from special attacks for five turns.">Light Screen</span> | 13 |   | <span class="tooltip" title="This move enables the user to attack first. This move fails if the target is not readying an attack.">Sucker Punch</span> | 48 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 17 |   | <span class="tooltip" title="Two turns after this move is used, a hunk of psychic energy attacks the target.">Future Sight</span> | 50 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.">Fake Out</span> | 19 |   | <span class="tooltip" title="The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.">Stored Power</span> | 53 |
+| <span class="tooltip" title="Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.">Disarming Voice</span> | 22 |   |   |   |
 
 ---
 
-## #679 Honedge
+## [#679 Honedge](../../pokemon/honedge.md/)
 
 ![Honedge](../../assets/sprites/honedge/front.gif "Honedge: If anyone dares to grab its hilt, it wraps a blue cloth around that person’s arm and drains that person’s life energy completely.")
 
@@ -765,7 +807,7 @@
 
 ---
 
-## #680 Doublade
+## [#680 Doublade](../../pokemon/doublade.md/)
 
 ![Doublade](../../assets/sprites/doublade/front.gif "Doublade: The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.")
 
@@ -786,9 +828,9 @@
 
 ---
 
-## #681 Aegislash
+## [#681 Aegislash](../../pokemon/aegislash-shield.md/)
 
-![Aegislash](../../assets/sprites/aegislash-shield/front.png "Aegislash: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.")
+![Aegislash](../../assets/sprites/aegislash-shield/front.gif "Aegislash: Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.")
 
 **Location**: Evolve Doublade (Dusk Stone)
 
@@ -806,13 +848,13 @@
 
 ---
 
-## #682 Spritzee
+## [#682 Spritzee](../../pokemon/spritzee.md/)
 
 ![Spritzee](../../assets/sprites/spritzee/front.gif "Spritzee: In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.")
 
 **Location**: Route 104 South
 
-**Ability 2**: Aroma Veil
+**Ability 2**: <span class="tooltip" title="Protects allies from attacks that limit their move choices.">Aroma Veil</span>
 
 **Level Up Moves:**
 
@@ -830,13 +872,13 @@
 
 ---
 
-## #683 Aromatisse
+## [#683 Aromatisse](../../pokemon/aromatisse.md/)
 
 ![Aromatisse](../../assets/sprites/aromatisse/front.gif "Aromatisse: Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.")
 
 **Location**: Evolve Spritzee (Sachet)
 
-**Ability 2**: Aroma Veil
+**Ability 2**: <span class="tooltip" title="Protects allies from attacks that limit their move choices.">Aroma Veil</span>
 
 **Level Up Moves:**
 
@@ -856,13 +898,13 @@
 
 ---
 
-## #684 Swirlix
+## [#684 Swirlix](../../pokemon/swirlix.md/)
 
 ![Swirlix](../../assets/sprites/swirlix/front.gif "Swirlix: Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.")
 
 **Location**: Route 104 South
 
-**Ability 2**: Unburden
+**Ability 2**: <span class="tooltip" title="Boosts the Speed stat if its held item is used or lost.">Unburden</span>
 
 **Level Up Moves:**
 
@@ -880,13 +922,13 @@
 
 ---
 
-## #685 Slurpuff
+## [#685 Slurpuff](../../pokemon/slurpuff.md/)
 
 ![Slurpuff](../../assets/sprites/slurpuff/front.gif "Slurpuff: Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose!")
 
 **Location**: Evolve Swirlix (Whipped Dream)
 
-**Ability 2**: Unburden
+**Ability 2**: <span class="tooltip" title="Boosts the Speed stat if its held item is used or lost.">Unburden</span>
 
 **Level Up Moves:**
 
@@ -904,7 +946,7 @@
 
 ---
 
-## #686 Inkay
+## [#686 Inkay](../../pokemon/inkay.md/)
 
 ![Inkay](../../assets/sprites/inkay/front.gif "Inkay: It flashes the light-emitting spots on its body, which drains its opponent’s will to fight. It takes the opportunity to scuttle away and hide.")
 
@@ -926,7 +968,7 @@
 
 ---
 
-## #687 Malamar
+## [#687 Malamar](../../pokemon/malamar.md/)
 
 ![Malamar](../../assets/sprites/malamar/front.gif "Malamar: It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.")
 
@@ -949,7 +991,7 @@
 
 ---
 
-## #688 Binacle
+## [#688 Binacle](../../pokemon/binacle.md/)
 
 ![Binacle](../../assets/sprites/binacle/front.gif "Binacle: They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.")
 
@@ -957,7 +999,7 @@
 
 **Evolution Level**: 39 >> 34
 
-**New TM/HMs**: Waterfall, Dive
+**New TM/HMs**: <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span>, <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span>
 
 **Level Up Moves:**
 
@@ -975,13 +1017,13 @@
 
 ---
 
-## #689 Barbaracle
+## [#689 Barbaracle](../../pokemon/barbaracle.md/)
 
 ![Barbaracle](../../assets/sprites/barbaracle/front.gif "Barbaracle: Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.")
 
 **Location**: Lilycove City
 
-**New TM/HMs**: Waterfall, Dive
+**New TM/HMs**: <span class="tooltip" title="The user charges at the target and may make it flinch. This can also be used to climb a waterfall.">Waterfall</span>, <span class="tooltip" title="Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.">Dive</span>
 
 **Level Up Moves:**
 
@@ -1002,7 +1044,7 @@
 
 ---
 
-## #690 Skrelp
+## [#690 Skrelp](../../pokemon/skrelp.md/)
 
 ![Skrelp](../../assets/sprites/skrelp/front.gif "Skrelp: It looks just like rotten kelp. It hides from foes while storing up power for its evolution.")
 
@@ -1026,7 +1068,7 @@
 
 ---
 
-## #691 Dragalge
+## [#691 Dragalge](../../pokemon/dragalge.md/)
 
 ![Dragalge](../../assets/sprites/dragalge/front.gif "Dragalge: Tales are told of ships that wander into seas where Dragalge live, never to return.")
 
@@ -1049,7 +1091,7 @@
 
 ---
 
-## #692 Clauncher
+## [#692 Clauncher](../../pokemon/clauncher.md/)
 
 ![Clauncher](../../assets/sprites/clauncher/front.gif "Clauncher: Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.")
 
@@ -1071,7 +1113,7 @@
 
 ---
 
-## #693 Clawitzer
+## [#693 Clawitzer](../../pokemon/clawitzer.md/)
 
 ![Clawitzer](../../assets/sprites/clawitzer/front.gif "Clawitzer: By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.")
 
@@ -1093,13 +1135,13 @@
 
 ---
 
-## #694 Helioptile
+## [#694 Helioptile](../../pokemon/helioptile.md/)
 
 ![Helioptile](../../assets/sprites/helioptile/front.gif "Helioptile: The frills on either side of its head have cells that generate electricity when exposed to sunlight.")
 
 **Location**: Route 111
 
-**Held Item**: Sail Fossil (50%)
+**Held Item**: <span class="tooltip" title="A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.">Sail Fossil</span> (50%)
 
 **Level Up Moves:**
 
@@ -1115,7 +1157,7 @@
 
 ---
 
-## #695 Heliolisk
+## [#695 Heliolisk](../../pokemon/heliolisk.md/)
 
 ![Heliolisk](../../assets/sprites/heliolisk/front.gif "Heliolisk: It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.")
 
@@ -1133,13 +1175,13 @@
 
 ---
 
-## #696 Tyrunt
+## [#696 Tyrunt](../../pokemon/tyrunt.md/)
 
 ![Tyrunt](../../assets/sprites/tyrunt/front.gif "Tyrunt: Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.")
 
 **Location**: Seafloor Cavern, Revive Jaw Fossil
 
-**Ability 2**: Sturdy
+**Ability 2**: <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span>
 
 **Level Up Moves:**
 
@@ -1156,13 +1198,13 @@
 
 ---
 
-## #697 Tyrantrum
+## [#697 Tyrantrum](../../pokemon/tyrantrum.md/)
 
 ![Tyrantrum](../../assets/sprites/tyrantrum/front.gif "Tyrantrum: Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.")
 
 **Location**: Seafloor Cavern
 
-**Ability 2**: Rock Head
+**Ability 2**: <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span>
 
 **Level Up Moves:**
 
@@ -1183,13 +1225,13 @@
 
 ---
 
-## #698 Amaura
+## [#698 Amaura](../../pokemon/amaura.md/)
 
 ![Amaura](../../assets/sprites/amaura/front.gif "Amaura: This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.")
 
 **Location**: Seafloor Cavern, Revive Sail Fossil
 
-**Ability 2**: Snow Warning
+**Ability 2**: <span class="tooltip" title="The Pokémon summons a hailstorm when it enters a battle.">Snow Warning</span>
 
 **Level Up Moves:**
 
@@ -1208,13 +1250,13 @@
 
 ---
 
-## #699 Aurorus
+## [#699 Aurorus](../../pokemon/aurorus.md/)
 
 ![Aurorus](../../assets/sprites/aurorus/front.gif "Aurorus: Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent’s attack.")
 
 **Location**: Seafloor Cavern
 
-**Ability 2**: Snow Warning
+**Ability 2**: <span class="tooltip" title="The Pokémon summons a hailstorm when it enters a battle.">Snow Warning</span>
 
 **Level Up Moves:**
 
@@ -1234,13 +1276,13 @@
 
 ---
 
-## #700 Sylveon
+## [#700 Sylveon](../../pokemon/sylveon.md/)
 
 ![Sylveon](../../assets/sprites/sylveon/front.gif "Sylveon: It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.")
 
 **Location**: Evolve Eevee (Fairy Move & Amie Affection)
 
-**Ability 2**: Pixilate
+**Ability 2**: <span class="tooltip" title="Normal-type moves become Fairy-type moves.">Pixilate</span>
 
 **Level Up Moves:**
 
@@ -1257,7 +1299,7 @@
 
 ---
 
-## #701 Hawlucha
+## [#701 Hawlucha](../../pokemon/hawlucha.md/)
 
 ![Hawlucha](../../assets/sprites/hawlucha/front.gif "Hawlucha: With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.")
 
@@ -1282,13 +1324,13 @@
 
 ---
 
-## #702 Dedenne
+## [#702 Dedenne](../../pokemon/dedenne.md/)
 
 ![Dedenne](../../assets/sprites/dedenne/front.gif "Dedenne: It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers.")
 
 **Location**: Route 118
 
-**New TM/HMs**: Dazzling Gleam
+**New TM/HMs**: <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span>
 
 **Base Stat Changes:**
 
@@ -1319,13 +1361,13 @@
 
 ---
 
-## #703 Carbink
+## [#703 Carbink](../../pokemon/carbink.md/)
 
 ![Carbink](../../assets/sprites/carbink/front.gif "Carbink: It has slept underground for hundreds of millions of years since its birth. It’s occasionally found during the excavation of caves.")
 
 **Location**: Meteor Falls
 
-**Ability 2**: Sturdy
+**Ability 2**: <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span>
 
 **Level Up Moves:**
 
@@ -1343,7 +1385,7 @@
 
 ---
 
-## #704 Goomy
+## [#704 Goomy](../../pokemon/goomy.md/)
 
 ![Goomy](../../assets/sprites/goomy/front.gif "Goomy: It’s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.")
 
@@ -1363,7 +1405,7 @@
 
 ---
 
-## #705 Sliggoo
+## [#705 Sliggoo](../../pokemon/sliggoo.md/)
 
 ![Sliggoo](../../assets/sprites/sliggoo/front.gif "Sliggoo: Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.")
 
@@ -1383,7 +1425,7 @@
 
 ---
 
-## #706 Goodra
+## [#706 Goodra](../../pokemon/goodra.md/)
 
 ![Goodra](../../assets/sprites/goodra/front.gif "Goodra: It attacks with retractable horns. It throws a punch that’s the equivalent of the force of a hundred pro boxers.")
 
@@ -1405,13 +1447,13 @@
 
 ---
 
-## #707 Klefki
+## [#707 Klefki](../../pokemon/klefki.md/)
 
 ![Klefki](../../assets/sprites/klefki/front.gif "Klefki: It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.")
 
 **Location**: Route 113
 
-**Ability 2**: Magician
+**Ability 2**: <span class="tooltip" title="The Pokémon steals the held item of a Pokémon it hits with a move.">Magician</span>
 
 **Level Up Moves:**
 
@@ -1428,7 +1470,7 @@
 
 ---
 
-## #708 Phantump
+## [#708 Phantump](../../pokemon/phantump.md/)
 
 ![Phantump](../../assets/sprites/phantump/front.gif "Phantump: According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.")
 
@@ -1451,7 +1493,7 @@
 
 ---
 
-## #709 Trevenant
+## [#709 Trevenant](../../pokemon/trevenant.md/)
 
 ![Trevenant](../../assets/sprites/trevenant/front.gif "Trevenant: Using its roots as a nervous system, it controls the trees in the forest. It’s kind to the Pokémon that reside in its body.")
 
@@ -1472,7 +1514,7 @@
 
 ---
 
-## #710 Pumpkaboo
+## [#710 Pumpkaboo](../../pokemon/pumpkaboo-average.md/)
 
 ![Pumpkaboo](../../assets/sprites/pumpkaboo-average/front.gif "Pumpkaboo: It is said to carry wandering spirits to the place where they belong so they can move on.")
 
@@ -1494,7 +1536,7 @@
 
 ---
 
-## #711 Gourgeist
+## [#711 Gourgeist](../../pokemon/gourgeist-average.md/)
 
 ![Gourgeist](../../assets/sprites/gourgeist-average/front.gif "Gourgeist: It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.")
 
@@ -1517,7 +1559,7 @@
 
 ---
 
-## #712 Bergmite
+## [#712 Bergmite](../../pokemon/bergmite.md/)
 
 ![Bergmite](../../assets/sprites/bergmite/front.gif "Bergmite: Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.")
 
@@ -1539,7 +1581,7 @@
 
 ---
 
-## #713 Avalugg
+## [#713 Avalugg](../../pokemon/avalugg.md/)
 
 ![Avalugg](../../assets/sprites/avalugg/front.gif "Avalugg: The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.")
 
@@ -1563,7 +1605,7 @@
 
 ---
 
-## #714 Noibat
+## [#714 Noibat](../../pokemon/noibat.md/)
 
 ![Noibat](../../assets/sprites/noibat/front.gif "Noibat: Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.")
 
@@ -1587,7 +1629,7 @@
 
 ---
 
-## #715 Noivern
+## [#715 Noivern](../../pokemon/noivern.md/)
 
 ![Noivern](../../assets/sprites/noivern/front.gif "Noivern: The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.")
 
@@ -1611,7 +1653,7 @@
 
 ---
 
-## #716 Xerneas
+## [#716 Xerneas](../../pokemon/xerneas.md/)
 
 ![Xerneas](../../assets/sprites/xerneas/front.gif "Xerneas: When the horns on its head shine in seven colors, it is said to be sharing everlasting life.")
 
@@ -1633,7 +1675,7 @@
 
 ---
 
-## #717 Yveltal
+## [#717 Yveltal](../../pokemon/yveltal.md/)
 
 ![Yveltal](../../assets/sprites/yveltal/front.gif "Yveltal: When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.")
 
@@ -1655,9 +1697,9 @@
 
 ---
 
-## #718 Zygarde
+## [#718 Zygarde](../../pokemon/zygarde-50.md/)
 
-![Zygarde](../../assets/sprites/zygarde-50/front.png "Zygarde: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.")
+![Zygarde](../../assets/sprites/zygarde-50/front.gif "Zygarde: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.")
 
 **Location**: Mirage Cave
 
@@ -1678,13 +1720,13 @@
 
 ---
 
-## #719 Diancie
+## [#719 Diancie](../../pokemon/diancie.md/)
 
 ![Diancie](../../assets/sprites/diancie/front.gif "Diancie: It can instantly create many diamonds by compressing the carbon in the air between its hands.")
 
 **Location**: Mirage Cave
 
-**Held Item**: Diancite (100%)
+**Held Item**: <span class="tooltip" title="One of a variety of mysterious Mega Stones. Have Diancie hold it, and this stone will enable it to Mega Evolve during battle.">Diancite</span> (100%)
 
 **Level Up Moves:**
 
@@ -1702,15 +1744,15 @@
 
 ---
 
-## #720 Hoopa
+## [#720 Hoopa](../../pokemon/hoopa.md/)
 
 ![Hoopa](../../assets/sprites/hoopa/front.gif "Hoopa: It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.")
 
 **Location**: Mirage Island
 
-**Held Item**: Prison Bottle (100%)
+**Held Item**: <span class="tooltip" title="A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.">Prison Bottle</span> (100%)
 
-### Normal Forme
+### [Hoopa](../../pokemon/hoopa.md/)
 
 
 
@@ -1729,7 +1771,7 @@
 | <span class="tooltip" title="The user employs its psychic power to exchange Abilities with the target.">Skill Swap</span> | 25 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 70 |
 | <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 30 |   |   |   |
 
-### Unbound Forme
+### [Unbound Forme](../../pokemon/hoopa-unbound.md/)
 
 ![Hoopa-unbound](../../assets/sprites/hoopa-unbound/front.gif "Hoopa-unbound: It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.")
 
@@ -1747,10 +1789,20 @@
 | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 20 |   | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk.">Nasty Plot</span> | 65 |
 | <span class="tooltip" title="The user employs its psychic power to exchange Abilities with the target.">Skill Swap</span> | 25 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 70 |
 | <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 30 |   |   |   |
+| <span class="tooltip" title="The user catches the target off guard and swaps its held item with its own.">Trick</span> | 1 |   | <span class="tooltip" title="The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.">Guard Split</span> | 30 |
+| <span class="tooltip" title="When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.">Destiny Bond</span> | 1 |   | <span class="tooltip" title="The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.">Phantom Force</span> | 35 |
+| <span class="tooltip" title="The user teleports using a strange power and switches places with one of its allies.">Ally Switch</span> | 1 |   | <span class="tooltip" title="The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.">Knock Off</span> | 40 |
+| <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | 1 |   | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.">Dark Pulse</span> | 45 |
+| <span class="tooltip" title="The user attacks the target while shouting in a startling fashion. This may also make the target flinch.">Astonish</span> | 5 |   | <span class="tooltip" title="Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This attack lowers the user’s Defense.">Hyperspace Fury</span> | 50 |
+| <span class="tooltip" title="A barrier reflects back to the target moves like Leech Seed and moves that damage status.">Magic Coat</span> | 10 |   | <span class="tooltip" title="The user creates a bizarre area in which slower Pokémon get to move first for five turns.">Trick Room</span> | 55 |
+| <span class="tooltip" title="A wondrous wall of light is put up to reduce damage from special attacks for five turns.">Light Screen</span> | 15 |   | <span class="tooltip" title="The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.">Wonder Room</span> | 60 |
+| <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | 20 |   | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk.">Nasty Plot</span> | 65 |
+| <span class="tooltip" title="The user employs its psychic power to exchange Abilities with the target.">Skill Swap</span> | 25 |   | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | 70 |
+| <span class="tooltip" title="The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.">Power Split</span> | 30 |   |   |   |
 
 ---
 
-## #721 Volcanion
+## [#721 Volcanion](../../pokemon/volcanion.md/)
 
 ![Volcanion](../../assets/sprites/volcanion/front.gif "Volcanion: It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.")
 

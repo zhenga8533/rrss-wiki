@@ -26,90 +26,140 @@ stat_ids = {
 }
 
 
-def replace_move(move_changes: str, learn_method: str, data: dict) -> None:
+def replace_move(move_changes: str, learn_method: str, data: dict, data_move: Data) -> None:
+    move_str = ""
+
     for move in move_changes.split(", "):
+        # Add the move to the move string
+        move_str += f"{data_move.get_tooltip(move, 'omega-ruby-alpha-sapphire')}, "
+
+        # Get Pokemon move list
         move_id = format_id(move)
         moves = data["moves"]["omega-ruby-alpha-sapphire"]
         move_index = next(
             (i for i, m in enumerate(moves) if m["name"] == move_id and m["learn_method"] == learn_method), None
         )
 
+        # Add or replace the move in the data
         learn_data = {"name": move_id, "level_learned_at": 0, "learn_method": learn_method}
         if move_index is None:
             moves.append(learn_data)
         else:
             moves[move_index] = learn_data
 
-
-def change_attribute(attribute: str, change: str, pokemon: str, pokemon_data: Data) -> str:
-    data = pokemon_data.get_data(pokemon)
-
-    # Pokemon location/obtainment method
-    if attribute == "Location":
-        data["locations"] = change.split(", ")
-    # Pokemon held item changes
-    elif attribute == "Held Item":
-        for item in change.split(", "):
-            item, chance = item.rsplit(" ", 1)
-            item_id = format_id(item)
-            held_items = data["held_items"]
-
-            held_items[item_id] = held_items.get(item_id, {})
-            held_items[item_id]["omega-ruby"] = int(chance[1:-2])
-            held_items[item_id]["alpha-sapphire"] = int(chance[1:-2])
-    # Pokemon type changes
-    elif attribute == "Type":
-        old_type, new_type = change.split(" >> ")
-        types = new_type.split("/")
-        data["types"] = [format_id(t) for t in types]
-    # Pokemon EV yield changes
-    elif attribute == "Effort Values":
-        evs = change.split(" >> ")[1].split(", ")
-
-        for ev in evs:
-            num, stat = ev.split(" ", 1)
-            stat = stat_ids[stat]
-            data["ev_yield"][stat] = int(num)
-    # Pokemon ability changes
-    elif attribute == "Base Happiness":
-        happiness = int(change.split(" >> ")[1])
-        data["base_happiness"] = happiness
-    # Pokemon capture rate changes
-    elif attribute == "Catch Rate":
-        catch_rate = int(change.split(" >> ")[1])
-        data["capture_rate"] = catch_rate
-    # Pokemon ability changes
-    elif attribute.startswith("Ability"):
-        slot = int(attribute[-1])
-        ability = change.split(" >> ")[1] if " >> " in change else change
-        ability_data = {
-            "name": format_id(ability),
-            "hidden": slot == 3,
-            "slot": slot,
-        }
-
-        # Replace the ability or add it to the list
-        abilities = data["abilities"]
-        ability_index = next((i for i, a in enumerate(abilities) if a["slot"] == slot), None)
-        if ability_index is not None:
-            abilities[ability_index] = ability_data
-        else:
-            abilities.append(ability_data)
-    # Pokemon move changes
-    elif attribute == "New TM/HMs":
-        replace_move(change, "machine", data)
-    elif attribute == "Move Tutor":
-        replace_move(change, "tutor", data)
-    # Skip evolution (parsed from seperate file)
-    elif attribute.startswith("Evolution"):
-        pass
-
-    return f"**{attribute}**: {change}\n\n"
+    return move_str[:-2]
 
 
-def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data: Data) -> str:
+def change_attribute(
+    attribute: str,
+    change: str,
+    pokemon: str,
+    forms: list[str],
+    data_pokemon: Data,
+    data_item: Data,
+    data_ability: Data,
+    data_move: Data,
+) -> str:
+    attribute_change = f"**{attribute}**: {change}"
+
+    for form in forms:
+        data = data_pokemon.get_data(pokemon + form)
+
+        # Pokemon location/obtainment method
+        if attribute == "Location":
+            data["locations"] = change.split(", ")
+        # Pokemon held item changes
+        elif attribute == "Held Item":
+            attribute_change = f"**{attribute}**: "
+
+            for item in change.split(", "):
+                # Parse the item and chance
+                item, chance = item.rsplit(" ", 1)
+                item_id = format_id(item)
+                chance_int = int(chance[1:-2])
+
+                # Add the item to the attribute change string
+                attribute_change += f"{data_item.get_tooltip(item, "sun-moon")} {chance}, "
+
+                # Add the held item to the data
+                held_items = data["held_items"]
+                held_items[item_id] = held_items.get(item_id, {})
+                held_items[item_id]["omega-ruby"] = int(chance_int)
+                held_items[item_id]["alpha-sapphire"] = int(chance_int)
+
+            attribute_change = attribute_change[:-2]
+        # Pokemon type changes
+        elif attribute == "Type":
+            old_type, new_type = change.split(" >> ")
+            old_types = old_type.split("/")
+            new_types = new_type.split("/")
+            data["types"] = [format_id(t) for t in new_types]
+
+            # Format the type change
+            attribute_change = f"**{attribute}**: "
+            attribute_change += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in old_types])
+            attribute_change += " >> "
+            attribute_change += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in new_types])
+        # Pokemon EV yield changes
+        elif attribute == "Effort Values":
+            evs = change.split(" >> ")[1].split(", ")
+
+            for ev in evs:
+                num, stat = ev.split(" ", 1)
+                stat = stat_ids[stat]
+                data["ev_yield"][stat] = int(num)
+        # Pokemon ability changes
+        elif attribute == "Base Happiness":
+            happiness = int(change.split(" >> ")[1])
+            data["base_happiness"] = happiness
+        # Pokemon capture rate changes
+        elif attribute == "Catch Rate":
+            catch_rate = int(change.split(" >> ")[1])
+            data["capture_rate"] = catch_rate
+        # Pokemon ability changes
+        elif attribute.startswith("Ability"):
+            slot = int(attribute[-1])
+            asterisks = " " + change.rsplit(" ", 1)[1] if change.endswith("*") else ""
+            change = change.strip(" *")
+            old_ability, new_ability = change.split(" >> ") if " >> " in change else (None, change)
+
+            # Format the ability change
+            attribute_change = f"**{attribute}**: "
+            new_tooltip = data_ability.get_tooltip(new_ability, "omega-ruby-alpha-sapphire")
+            attribute_change += (
+                f"{data_ability.get_tooltip(old_ability, 'omega-ruby-alpha-sapphire')} >> {new_tooltip}"
+                if old_ability
+                else f"{new_tooltip}"
+            ) + asterisks
+
+            # Ability data formatting
+            ability_data = {
+                "name": format_id(new_ability),
+                "hidden": slot == 3,
+                "slot": slot,
+            }
+
+            # Replace the ability or add it to the list
+            abilities = data["abilities"]
+            ability_index = next((i for i, a in enumerate(abilities) if a["slot"] == slot), None)
+            if ability_index is not None:
+                abilities[ability_index] = ability_data
+            else:
+                abilities.append(ability_data)
+        # Pokemon move changes
+        elif attribute == "New TM/HMs":
+            attribute_change = f"**{attribute}**: " + replace_move(change, "machine", data, data_move)
+        elif attribute == "Move Tutor":
+            attribute_change = f"**{attribute}**: " + replace_move(change, "tutor", data, data_move)
+        # Skip evolution (parsed from seperate file)
+        elif attribute.startswith("Evolution"):
+            pass
+
+    return attribute_change + "\n\n"
+
+
+def change_table(changes: list[str], pokemon: str, forms: list[str], data_pokemon: Data, data_move: Data) -> str:
     table = ""
-    data = pokemon_data.get_data(pokemon)
 
     ## Stat changes
     if " >> " in changes[-1]:
@@ -120,15 +170,19 @@ def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data
         # Stat formatting constants
         pattern = r"([A-Z. a-z]+)([0-9]+) >> ([0-9]+)"
 
-        for change in changes:
-            # Format the stat data
-            stat, base, change = re.match(pattern, change).groups()
-            stat = stat.strip()
-            stat_id = stat_ids[stat]
+        for form in forms:
+            data = data_pokemon.get_data(pokemon + form)
+            for change in changes:
+                # Format the stat data
+                stat, base, change = re.match(pattern, change).groups()
+                stat = stat.strip()
+                stat_id = stat_ids[stat]
 
-            # Add the stat to the table and the data
-            table += f"| {stat} | {base} | {change} |\n"
-            data["stats"][stat_id] = int(change)
+                # Add the stat to the table and the data
+                table += f"| {stat} | {base} | {change} |\n"
+                data["stats"][stat_id] = int(change)
+
+            data_pokemon.save_data(pokemon + form, data)
     # Level up move changes
     else:
         table += "**Level Up Moves:**\n\n"
@@ -140,30 +194,34 @@ def change_table(changes: list[str], pokemon: str, pokemon_data: Data, move_data
         n = len(changes)
         half = math.ceil(n / 2)
 
-        # Remove all level-up moves
-        data["moves"]["omega-ruby-alpha-sapphire"] = [
-            move for move in data["moves"]["omega-ruby-alpha-sapphire"] if move["learn_method"] != "level-up"
-        ]
-        moves = data["moves"]["omega-ruby-alpha-sapphire"]
+        for form in forms:
+            data = data_pokemon.get_data(pokemon + form)
 
-        for i in range(half):
-            for j in range(2):
-                # Get the move index
-                index = i + j * half
-                if index >= n:
-                    table += "|   |   |   "
-                    break
+            # Remove all level-up moves
+            data["moves"]["omega-ruby-alpha-sapphire"] = [
+                move for move in data["moves"]["omega-ruby-alpha-sapphire"] if move["learn_method"] != "level-up"
+            ]
+            moves = data["moves"]["omega-ruby-alpha-sapphire"]
 
-                # Format the move data
-                move = changes[index]
-                level, move = re.match(pattern, move).groups()
+            for i in range(half):
+                for j in range(2):
+                    # Get the move index
+                    index = i + j * half
+                    if index >= n:
+                        table += "|   |   |   "
+                        break
 
-                # Add the move to the table and the data
-                table += f"| {move_data.get_tooltip(move, "omega-ruby-alpha-sapphire")} | {level} |   "
-                moves.append({"name": format_id(move), "level_learned_at": int(level), "learn_method": "level-up"})
-            table = table[:-3] + "\n"
+                    # Format the move data
+                    move = changes[index]
+                    level, move = re.match(pattern, move).groups()
 
-    pokemon_data.save_data(pokemon, data)
+                    # Add the move to the table and the data
+                    table += f"| {data_move.get_tooltip(move, "omega-ruby-alpha-sapphire")} | {level} |   "
+                    moves.append({"name": format_id(move), "level_learned_at": int(level), "learn_method": "level-up"})
+                table = table[:-3] + "\n"
+
+            data_pokemon.save_data(pokemon + form, data)
+
     changes.clear()
     return table
 
@@ -210,9 +268,13 @@ def main():
 
     # Initialize data objects
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
-    pokemon_data = Data(POKEMON_INPUT_PATH, logger)
+    data_pokemon = Data(POKEMON_INPUT_PATH, logger)
     MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
-    move_data = Data(MOVE_INPUT_PATH, logger)
+    data_move = Data(MOVE_INPUT_PATH, logger)
+    ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
+    data_item = Data(ITEM_INPUT_PATH, logger)
+    ABILITY_INPUT_PATH = os.getenv("ABILITY_INPUT_PATH")
+    data_ability = Data(ABILITY_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "PokemonChanges.txt"
@@ -223,7 +285,7 @@ def main():
 
     changes = []
     curr_pokemon = None
-    curr_form = ""
+    curr_forms = [""]
 
     # Parse all lines from the input data file
     logger.log(logging.INFO, f"Parsing {n} lines of data from {file_path}...")
@@ -237,7 +299,7 @@ def main():
         # Skip empty lines
         if check_empty(line):
             if len(changes) > 0:
-                md += change_table(changes, curr_pokemon + curr_form, pokemon_data, move_data)
+                md += change_table(changes, curr_pokemon, curr_forms, data_pokemon, data_move)
                 md += "\n"
         # Table lines
         elif line.startswith("| "):
@@ -258,14 +320,15 @@ def main():
 
             # Get all forms of the current Pokemon
             for form in line.split(", "):
-                forms.append(form)
                 curr_form = "-" + form.split(" ")[0].lower()
 
-                if curr_form != "-normal":
-                    pokemon_id = curr_pokemon + curr_form
-                    sprites.append(find_pokemon_sprite(pokemon_id, "front", logger).replace("../", "../../"))
+                if curr_form == "-normal":
+                    forms.append(f"[{curr_pokemon}](../../pokemon/{format_id(curr_pokemon)}.md/)")
                 else:
-                    curr_form = ""
+                    pokemon_id = curr_pokemon + curr_form
+                    forms.append(f"[{form}](../../pokemon/{format_id(pokemon_id)}.md/)")
+                    sprites.append(find_pokemon_sprite(pokemon_id, "front", logger).replace("../", "../../"))
+                    curr_forms.append(curr_form)
 
             # Add the forms to the markdown file
             md += f"### {', '.join(forms)}\n\n"
@@ -279,15 +342,17 @@ def main():
 
             # Add Pokemon header to the markdown file
             curr_pokemon = curr_pokemon.title()
-            curr_form = ""
+            curr_forms = [""]
             sprite = find_pokemon_sprite(curr_pokemon, "front", logger).replace("../", "../../")
 
-            md += f"---\n\n## {num} {curr_pokemon}\n\n"
+            md += f"---\n\n## [{num} {curr_pokemon}](../../pokemon/{format_id(curr_pokemon)}.md/)\n\n"
             md += sprite + "\n\n"
         # Pokemon attribute changes
         elif ": " in line:
             attribute, change = line.split(": ")
-            md += change_attribute(attribute, change, curr_pokemon + curr_form, pokemon_data)
+            md += change_attribute(
+                attribute, change, curr_pokemon, curr_forms, data_pokemon, data_item, data_ability, data_move
+            )
         # Header lines
         elif line == "## Changes":
             save(OUTPUT_PATH + "pokemon_changes/overview.md", md, logger)

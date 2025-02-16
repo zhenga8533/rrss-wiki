@@ -47,9 +47,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 80 | 50 | 100 | 90 | 110 | 30 |
-| **Min** | 270 | 94 | 184 | 166 | 202 | 58 |
-| **Max** | 364 | 218 | 328 | 306 | 350 | 174 |
+| **Base** | 80 | 70 | 105 | 70 | 105 | 30 |
+| **Min** | 270 | 130 | 193 | 130 | 193 | 58 |
+| **Max** | 364 | 262 | 339 | 262 | 339 | 174 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -118,18 +118,18 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 15 | <span class="tooltip" title="A unique attack that varies in type depending on the Pokémon using it. ">Hidden Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 15 |
 | 20 | <span class="tooltip" title="The target is hit by a weak telekinetic force. This may also confuse the target.">Confusion</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 25 |
-| 20 | <span class="tooltip" title="Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.">Razor Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 55 | 95 | 25 |
+| 20 | <span class="tooltip" title="The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.">Mirror Shot</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 85 | 10 |
 | 23 | <span class="tooltip" title="The user attacks with a sinister beam of light. This may also confuse the target.">Signal Beam</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 100 | 15 |
-| 26 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 75 | 100 | 10 |
-| 29 | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 26 | <span class="tooltip" title="The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.">Gyro Ball</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
+| 29 | <span class="tooltip" title="A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.">Metal Sound</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 40 |
 | 32 | <span class="tooltip" title="The target is attacked with a peculiar ray. This may also leave the target confused.">Psybeam</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 100 | 20 |
-| 35 | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 35 | <span class="tooltip" title="The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat.">Flash Cannon</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 10 |
 | 38 | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. This may also lower the target’s Sp. Def stat.">Bug Buzz</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 | 41 | <span class="tooltip" title="If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.">Captivate</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 | 44 | <span class="tooltip" title="The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.">Flail</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | 47 | <span class="tooltip" title="If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
 | 50 | <span class="tooltip" title="The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.">Psychic</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
-| 53 | <span class="tooltip" title="The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.">Leaf Storm</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 130 | 90 | 5 |
+| 53 | <span class="tooltip" title="The user slams the target with its steel-hard head. This may also make the target flinch.">Iron Head</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
 
 ### TM Moves
 

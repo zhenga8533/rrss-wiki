@@ -16,7 +16,7 @@
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zygarde 50](../assets/sprites/zygarde-50/front.png "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") | ![Zygarde 50](../assets/sprites/zygarde-50/front_shiny.png "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") | N/A | N/A |
+| ![Zygarde 50](../assets/sprites/zygarde-50/front.gif "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") | ![Zygarde 50](../assets/sprites/zygarde-50/front_shiny.gif "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") | ![Zygarde 50](../assets/sprites/zygarde-50/back.gif "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") | ![Zygarde 50](../assets/sprites/zygarde-50/back_shiny.gif "Zygarde 50: It’s hypothesized that it’s monitoring those who destroy the ecosystem from deep in the cave where it lives.") |
 
 ### Cries
 

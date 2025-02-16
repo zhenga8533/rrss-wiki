@@ -16,7 +16,7 @@
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meowstic Female](../assets/sprites/meowstic-female/front.gif "Meowstic Female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.") | ![Meowstic Female](../assets/sprites/meowstic-female/front_shiny.gif "Meowstic Female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.") | ![Meowstic Female](../assets/sprites/meowstic-female/back.gif "Meowstic Female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.") | ![Meowstic Female](../assets/sprites/meowstic-female/back_shiny.gif "Meowstic Female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.") |
+| ![Meowstic Female](../assets/sprites/meowstic-female/front.png "Meowstic Female: The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.") | N/A | N/A | N/A |
 
 ### Cries
 

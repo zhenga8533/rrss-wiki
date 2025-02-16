@@ -47,9 +47,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 70 | 60 | 70 | 90 | 80 | 85 |
-| **Min** | 250 | 112 | 130 | 166 | 148 | 157 |
-| **Max** | 344 | 240 | 262 | 306 | 284 | 295 |
+| **Base** | 70 | 60 | 80 | 120 | 110 | 115 |
+| **Min** | 250 | 112 | 148 | 220 | 202 | 211 |
+| **Max** | 344 | 240 | 284 | 372 | 350 | 361 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -104,20 +104,23 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | 1 | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Morning Sun</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
 | 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
-| 7 | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
-| 10 | <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 10 |
-| 13 | <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
-| 19 | <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
-| 22 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 5 | <span class="tooltip" title="The user’s body grows all at once, raising the Attack and Sp. Atk stats.">Growth</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 8 | <span class="tooltip" title="A seed is planted on the target. It steals some HP from the target every turn.">Leech Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 10 |
+| 11 | <span class="tooltip" title="The user assists an ally by boosting the power of that ally’s attack.">Helping Hand</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 14 | <span class="tooltip" title="An attack that makes use of nature’s power. Its effects vary depending on the user’s environment.">Nature Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| 17 | <span class="tooltip" title="The user scatters curious leaves that chase the target. This attack never misses.">Magical Leaf</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
+| 20 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves.">Sunny Day</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 23 | <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 100 | 15 |
 | 25 | <span class="tooltip" title="The user attacks the target by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
-| 30 | <span class="tooltip" title="A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.">Worry Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
-| 35 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 85 | 20 |
-| 43 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
-| 48 | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
-| 50 | <span class="tooltip" title="The user stirs up a violent petal blizzard and attacks everything around it.">Petal Blizzard</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 100 | 15 |
+| 25 | <span class="tooltip" title="An attack move that varies in power and type depending on the weather.">Weather Ball</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 10 |
+| 26 | <span class="tooltip" title="A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.">Worry Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
+| 30 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the target. This also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 85 | 20 |
+| 34 | <span class="tooltip" title="The user damages opposing Pokémon by emitting a powerful flash.">Dazzling Gleam</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 10 |
+| 38 | <span class="tooltip" title="The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def.">Energy Ball</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 42 | <span class="tooltip" title="The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits.">Lucky Chant</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 46 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.">Solar Beam</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 

@@ -6850,7 +6850,7 @@ Total       269 >> 289
 Location: Safari Zone
 Ability 2: Levitate **
 New TM/HMs: Fly, Surf, Waterfall, Dive
-Type: Bug / Flying >> Bug / Water
+Type: Bug/Flying >> Bug/Water
 
 Attack          60 >> 50
 Defense         62 >> 65
