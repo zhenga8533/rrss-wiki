@@ -1,0 +1,22 @@
+.tooltip {
+  border-bottom: 1px dotted currentColor;
+  cursor: help;
+  white-space: pre-line;
+}
+
+.sprite-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100px;
+  line-height: 2;
+}
+
+.sprite-cell br {
+  display: none;
+}
+
+.sprite-cell img {
+  max-height: 100px;
+}
