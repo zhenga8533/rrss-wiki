@@ -1,76 +1,78 @@
 o-----------------------------------------------------------------------------------o
-| Area Changes | Wild & Trainer Data in the Hoenn Region                            |
-o-----------------------------------------------------------------------------------o
-| This document contains a listing of the wild Pokémon and/or trainers found in     |
-| almost every area in RR/SS. It is possible to obtain all 721 Pokémon within the   |
-| game, with most Pokémon appearing wild (but generally not Pokémon that have       |
-| already evolved twice, with some exceptions such as Pidgeot and Clefable).        |
+| 1. This document contains a listing of the wild Pokémon found in almost every     |
+| area in RR/SS. It is possible to obtain all 721 Pokémon within the game, with     |
+| most Pokémon appearing wild (but generally not Pokémon that have already evolved  |
+| twice, with some exceptions such as Pidgeot and Clefable).                        |
 |                                                                                   |
-| Every area with grass/walking/sand etc has at least 10 wild Pokémon, each having  |
-| a 10% chance of appearing on any encounter. Some areas have 11 Pokémon instead,   |
-| in which case two will only appear with a 5% rate. These 5% Pokémon are shown     |
-| with an asterisk next to their name. Pokémon appearing in grass have a static     |
-| level for that route, though the Black and White Flute items can modify these.    |
+| 2. Every area with grass/walking/sand etc has at least 10 wild Pokémon, each      |
+| having a 10% chance of appearing on any encounter. Some areas have 11 Pokémon     |
+| instead, in which case two will only appear with a 5% rate. These 5% Pokémon are  |
+| shown with an asterisk next to their name. Pokémon appearing in grass have a      |
+| static level for that route, though the Black and White Flute items can modify    |
+| these.                                                                            |
 |                                                                                   |
-| Some Pokémon are only available through horde battles, such as starter Pokémon,   |
-| Eevee, Plusle and Minun. As usual, you can trigger horde battles through the use  |
-| of Honey or Sweet Scent; a number of Pokémon can be found early in the game that  |
-| will already have Sweet Scent, such as Bellsprout, Surskit, Swirlix and Spritzee. |
+| 3. Some Pokémon are only available through horde battles, such as starter         |
+| Pokémon, Eevee, Plusle and Minun. As usual, you can trigger horde battles through |
+| the use of Honey or Sweet Scent; a number of Pokémon can be found early in the    |
+| game that will already have Sweet Scent, such as Bellsprout, Surskit, Swirlix and |
+| Spritzee.                                                                         |
 |                                                                                   |
-| Pokémon listed next to the DexNav label only appear late in the game after the    |
+| 4. Pokémon listed next to the DexNav label only appear late in the game after the |
 | Groudon or Kyogre conflict in the Cave of Origin has been resolved. They replace  |
 | the foreign Pokémon that appeared in many routes in OR/AS; in this game they're   |
-| usually high levelled evolved forms of one species normally found in the route.   |
+| usually high leveled evolved forms of one species normally found in the route.    |
 |                                                                                   |
-| Legendary Pokémon are kept out of the way, with a selection of each located on a  |
-| particular type of Mirage Island. You will find the same set of legendaries on a  |
-| type of island (Island, Mountain, Cave, Forest) regardless of which island it     |
+| 5. Legendary Pokémon are kept out of the way, with a selection of each located on |
+| a particular type of Mirage Island. You will find the same set of legendaries on  |
+| a type of island (Island, Mountain, Cave, Forest) regardless of which island it   |
 | actually is. Why are they there? Who knows. Maybe they're surprisingly real       |
 | evolutions. Maybe they are the Ditto who are also native to these islands, but    |
 | have somehow permanently transformed into this mysterious Pokémon. Maybe there's  |
 | just nowhere else to put them. Who knows?!                                        |
 |                                                                                   |
-| A consequence of the large number of Pokémon in each area is that you will not be |
-| able to use the DexNav with all of them. Unfortunately despite each area having   |
-| data slots for 10+ Pokémon the DexNav seems to have predetermined slots for any   |
-| Pokémon and won't actually be able to fit them all on the screen. The ones that   |
-| do appear are those earlier on the internal wild lists, so I've arranged things   |
-| such that Pokémon with more desirable hidden abilities are more likely to appear  |
-| on the DexNav. It's unfortunate, but at least in regards to egg moves, most       |
-| Pokémon will get their useful ones by level up anyway!                            |
+| 6. A consequence of the large number of Pokémon in each area is that you will not |
+| be able to use the DexNav with all of them. Unfortunately despite each area       |
+| having data slots for 10+ Pokémon the DexNav seems to have predetermined slots    |
+| for any Pokémon and won't actually be able to fit them all on the screen. The     |
+| ones that do appear are those earlier on the internal wild lists, so I've         |
+| arranged things such that Pokémon with more desirable hidden abilities are more   |
+| likely to appear on the DexNav. It's unfortunate, but at least in regards to egg  |
+| moves, most Pokémon will get their useful ones by level up anyway!                |
 |                                                                                   |
-| The trainers for each route are also listed, with their Pokémon and accompanying  |
-| levels shown. For special trainers such as Gym Leaders and the Elite Four, an     |
-| extra section is shown with their Pokémon in higher detail, including abilities,  |
-| held items and movesets. Some of these trainers do have new moves that are        |
-| obtainable outside of this hack; an alternate trainer file is offered where       |
+| 7. Most Pokémon are obtainable quite early on and everything besides the          |
+| legendaries can be found before you get seven badges, so there's plenty of        |
+| variety to enjoy. Ice-type Pokémon are a bit sparse due to the region's climate,  |
+| but for any other type you should have plenty of options to keep yourself happy.  |
+o-----------------------------------------------------------------------------------o
+| Trainers                                                                          |
+o-----------------------------------------------------------------------------------o
+| 1. The trainers for each route are also listed, with their Pokémon and            |
+| accompanying levels shown. For special trainers such as Gym Leaders and the Elite |
+| Four, an extra section is shown with their Pokémon in higher detail, including    |
+| abilities, held items and movesets. Some of these trainers do have new moves that |
+| are obtainable outside of this hack; an alternate trainer file is offered where   |
 | these moves are replaced with legal options.                                      |
 |                                                                                   |
-| Trainer rematches are also shown for each route under a rematch column.           |
+| 2. Trainer rematches are also shown for each route under a rematch column.        |
 | The number next to their names refers to how many badges you need to obtain to    |
 | unlock that trainer roster, e.g. a (2) means they'll start using those Pokémon    |
 | if you rematch them after obtaining the Balance Badge in Dewford. (C) refers to   |
 | champion and will be their team after clearing the Pokémon League the first time  |
 | around.                                                                           |
 |                                                                                   |
-| One last thing to note is that the trainer levels throughout the game have been   |
-| designed assuming you have a full team of six Pokémon and YOU ARE NOT USING THE   |
-| EXP. SHARE. You still gain the Exp. Share in Petalburg Woods and it's set to on   |
-| by default, so remember to toggle that unless you happen to be training an entire |
-| team of slow levellers or something.                                              |
-|                                                                                   |
-| Most Pokémon are obtainable quite early on and everything besides the legendaries |
-| can be found before you get seven badges, so there's plenty of variety to enjoy.  |
-| Ice-type Pokémon are a bit sparse due to the region's climate, but for any other  |
-| type you should have plenty of options to keep yourself happy.                    |
+| 3. One last thing to note is that the trainer levels throughout the game have     |
+| been designed assuming you have a full team of six Pokémon and YOU ARE NOT USING  |
+| THE EXP. SHARE. You still gain the Exp. Share in Petalburg Woods and it's set to  |
+| on by default, so remember to toggle that unless you happen to be training an     |
+| entire team of slow levellers or something.                                       |
 o-----------------------------------------------------------------------------------o
-| Files mentioned in this document                                                  |
-o-----------------------------------------------------------------------------------o
-| a/0/1/3   | Pokémon Encounter Data                                                |
-| a/0/3/6   | Trainer Data Values                                                   |
-| a/0/3/8   | Trainer Pokémon Values                                                |
-| DllField  | Static Encounter / Gift Pokémon Values                                |
-o-----------------------------------------------------------------------------------o
+
+## Files Mentioned
+
+1. a/0/1/3 - Pokémon Encounter Data
+2. a/0/3/6 - Trainer Data Values
+3. a/0/3/8 - Trainer Pokémon Values
+4. DllField - Static Encounter / Gift Pokémon Values
 
 o----------------------o
 | Route 101            |
@@ -87,7 +89,7 @@ o----------------------o
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| Grass      | 5       | Spearow, Nidoran♀, Nidoran♂, Mankey, Shellos, Riolu*, Patrat, Lillipup, Purrloin, Pidove, Zorua*           |
+| Grass      | 5       | Spearow, Nidoran F, Nidoran M, Mankey, Shellos, Riolu*, Patrat, Lillipup, Purrloin, Pidove, Zorua*         |
 | DexNav     | 50      | Zoroark                                                                                                    |
 | Horde      | 5       | Squirtle, Piplup                                                                                           |
 | Surfing    | 25 - 35 | Buizel, Floatzel                                                                                           |
@@ -99,12 +101,12 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 001 | PKMN Trainer Brendan    | Treecko 5                                                                                         | 
-| 002 | PKMN Trainer Brendan    | Torchic 5                                                                                         | 
-| 003 | PKMN Trainer Brendan    | Mudkip 5                                                                                          | 
-| 004 | PKMN Trainer May        | Treecko 5                                                                                         | 
-| 005 | PKMN Trainer May        | Torchic 5                                                                                         | 
-| 006 | PKMN Trainer May        | Mudkip 5                                                                                          | 
+| 001 | PKMN Trainer Brendan    | Treecko 5                                                                                         |
+| 002 | PKMN Trainer Brendan    | Torchic 5                                                                                         |
+| 003 | PKMN Trainer Brendan    | Mudkip 5                                                                                          |
+| 004 | PKMN Trainer May        | Treecko 5                                                                                         |
+| 005 | PKMN Trainer May        | Torchic 5                                                                                         |
+| 006 | PKMN Trainer May        | Mudkip 5                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers - East of River                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -162,7 +164,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Petalburg City       |
+| Petalburg City (City) |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -173,7 +175,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Route 104 South      |
+| Route 104 (South)    |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -189,7 +191,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 016 | Youngster Billy         | Nidoran♂ 10, Slowpoke 10                                                                          | 
+| 016 | Youngster Billy         | Nidoran M 10, Slowpoke 10                                                                         |
 | 639 | Rich Boy Winston        | Growlithe 10, Lillipup 10                                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Rematches                                                                                                                         |
@@ -231,7 +233,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Route 104 North      |
+| Route 104 (North)    |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -267,7 +269,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Rustboro Gym         |
+| Rustboro City (Gym)  |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -303,7 +305,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 023 | Youngster Joey          | Rattata 12, Shinx 12, Phanpy 12                                                                   |  
+| 023 | Youngster Joey          | Rattata 12, Shinx 12, Phanpy 12                                                                   |
 | 024 | Bug Catcher Jose        | Ledyba 11, Spinarak 11, Combee 11, Burmy 11                                                       |
 | 025 | Lass Janice             | Flabébé 12, Mareep 12, Skitty 12                                                                  |
 | 273 | Hiker Clark             | Rhyhorn 12, Larvitar 12, Aron 12                                                                  |
@@ -357,7 +359,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 033 | Fisherman Ned           | Krabby 15, Clauncher 15, Goldeen 15                                                               | 
+| 033 | Fisherman Ned           | Krabby 15, Clauncher 15, Goldeen 15                                                               |
 | 032 | Fisherman Elliot        | Magikarp 15, Tentacool 15, Barboach 15                                                            |
 | 720 | Backpacker Graeme       | Slakoth 15, Exeggcute 15, Patrat 15                                                               |
 | 031 | Swimmer Nicole          | Seaking 36, Dewgong 36, Prinplup 36                                                               |
@@ -379,7 +381,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Dewford Town         |
+| Dewford Town (Town)  |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -390,7 +392,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Dewford Gym          |
+| Dewford Town (Gym)   |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -410,7 +412,7 @@ o---------------o----o--------------o-------------------o-----------------------
 | Pancham       | 17 | Muscle Band  | Iron Fist         | Bulk Up, Power-Up Punch, Shadow Claw, Aerial Ace                          |
 | Scraggy       | 17 | Assault Vest | Intimidate        | Headbutt, Drain Punch, Feint Attack, Fake Out                             |
 | Mienfoo       | 17 | Wise Glasses | Inner Focus       | Calm Mind, Fake Out, Aura Sphere, Hidden Power                            |
-| Hariyama      | 19 | Sitrus Berry | Sheer Force       | Bulk Up, Arm Thrust, Bullet Punch, Smack Down                             |                       
+| Hariyama      | 19 | Sitrus Berry | Sheer Force       | Bulk Up, Arm Thrust, Bullet Punch, Smack Down                             |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
@@ -444,7 +446,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Granite Cave 1F      |
+| Granite Cave (1F)    |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -639,7 +641,7 @@ o---------------o----o--------------o-------------------o-----------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mauville City        |
+| Mauville City (City) |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -658,7 +660,7 @@ o---------------o----o--------------o-------------------o-----------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mauville Gym         |
+| Mauville City (Gym)  |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -728,7 +730,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Granite Cave B1F     |
+| Granite Cave (B1F)   |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -738,7 +740,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Granite Cave B2F     |
+| Granite Cave (B2F)   |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1061,7 +1063,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Lavaridge Gym        |
+| Lavaridge Town (Gym) |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1121,7 +1123,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Petalburg Gym        |
+| Petalburg City (Gym) |
 o----------------------o------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1428,7 +1430,7 @@ o-------------------------------------------------------------------------------
 
 o----------------------o
 | Weather Institute    |
-|-----------------------------------------------------------------------------------------------------------------------------------o
+o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
@@ -1525,8 +1527,8 @@ o---------------o----o------------------o-------------------o-------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Fortree City         |
-|-----------------------------------------------------------------------------------------------------------------------------------o
+| Fortree City (City)  |
+o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                   | Pokemon                                                                                         |
@@ -1577,7 +1579,7 @@ o-------------------------------------------------------------------------------
 | Super Rod  | 55      | Poliwhirl                                                                                                  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o------------------------o
+o----------------------o
 | Scorched Slab Basement |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
@@ -1591,8 +1593,8 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Fortree Gym          |
-|-----------------------------------------------------------------------------------------------------------------------------------o
+| Fortree City (Gym)   |
+o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
@@ -1641,7 +1643,7 @@ o-------------------------------------------------------------------------------
 | 592 | Ruin Maniac Chip        | Cradily 45, Aurorus 45, Bastiodon 45, Tyrantrum 45                                                |
 | 617 | Ninja Boy Keigo         | Ninjask 47, Skuntank 47                                                                           |
 | 123 | PKMN Ranger Carlos      | Magnezone 46, Venusaur 46, Pyroar 46, Golduck 46                                                  |
-| 124 | PKMN Ranger Jenna       | Rapidash 46, Empoleon 46, Tangrowth 46, Luxray 46                                                 | 
+| 124 | PKMN Ranger Jenna       | Rapidash 46, Empoleon 46, Tangrowth 46, Luxray 46                                                 |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Rematches                                                                                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1664,7 +1666,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Grass      | 40      | Meowth, Ponyta, Doduo, Drowzee, Flaaffy, Mightyena, Shuppet, Herdier, Blitzle, Diggersby                   |
-| Tall Grass | 44      | Persian, Rapidash, Dodrio, Hypno, Flaaffy, Mightyena, Banette, Herdier, Zebstrika, Diggersby               |                                                                   
+| Tall Grass | 44      | Persian, Rapidash, Dodrio, Hypno, Flaaffy, Mightyena, Banette, Herdier, Zebstrika. Diggersby               |
 | DexNav     | 50      | Stoutland                                                                                                  |
 | Horde      | 26      | Drowzee                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1696,7 +1698,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Grass      | 45      | Butterfree, Beedrill, Ledian, Ariados, Kricketune, Wormadam                                                |
-| Tall Grass | 45      | Beautifly, Dustox, Mothim, Swadloon, Whirlipede, Vivillon                                                  |                                                                   
+| Tall Grass | 45      | Beautifly, Dustox, Mothim, Swadloon, Whirlipede, Vivillon                                                  |
 | DexNav     | 50      | Leavanny                                                                                                   |
 | Horde      | 25      | Vivillon                                                                                                   |
 | Surfing    | 40 - 45 | Masquerain                                                                                                 |
@@ -1711,7 +1713,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Grass      | 45      | Pidgeotto, Noctowl, Staravia, Tranquill, Fletchinder                                                       |
-| Tall Grass | 45      | Raticate, Furret, Vigoroth, Bibarel, Watchog                                                               |                                                                   
+| Tall Grass | 45      | Raticate, Furret, Vigoroth, Bibarel, Watchog                                                               |
 | DexNav     | 50      | Pidgeot                                                                                                    |
 | Horde      | 30      | Fletchinder                                                                                                |
 | Surfing    | 40 - 45 | Swanna                                                                                                     |
@@ -1726,7 +1728,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Grass      | 45      | Nidorina, Nidorino, Swalot, Toxicroak, Palpitoad                                                           |
-| Tall Grass | 45      | Magmar, Houndoom, Camerupt, Darmanitan, Pyroar                                                             |                                                                   
+| Tall Grass | 45      | Magmar, Houndoom, Camerupt, Darmanitan, Pyroar                                                             |
 | DexNav     | 50      | Seismitoad                                                                                                 |
 | Horde      | 30      | Houndour                                                                                                   |
 | Surfing    | 40 - 45 | Gastrodon                                                                                                  |
@@ -1741,7 +1743,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Grass      | 45      | Sudowoodo, Lombre, Nuzleaf, Breloom, Gogoat                                                                |
-| Tall Grass | 45      | Mr. Mime, Wobbuffet, Grumpig, Meowstic, Doublade                                                           |                                                                   
+| Tall Grass | 45      | Mr. Mime, Wobbuffet, Grumpig, Meowstic, Doublade                                                           |
 | DexNav     | 50      | Shiftry                                                                                                    |
 | Horde      | 30      | Wynaut                                                                                                     |
 | Surfing    | 40 - 45 | Quagsire                                                                                                   |
@@ -1767,7 +1769,7 @@ o----------------------o
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| Tall Grass | 45      | Parasect, Venomoth, Dugtrio, Primeape, Machoke, Forretress, Granbull, Kecleon, Liepard, Pangoro            |                                                               
+| Tall Grass | 45      | Parasect, Venomoth, Dugtrio, Primeape, Machoke, Forretress, Granbull, Kecleon, Liepard, Pangoro            |
 | Horde      | 30      | Machop                                                                                                     |
 | Surfing    | 35 - 45 | Marill, Azumarill                                                                                          |
 | Old Rod    | 15      | Corphish                                                                                                   |
@@ -1805,7 +1807,7 @@ o----------------------o
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| Walking    | 40      | Zubat, Gastly, Ralts, Shuppet, Duskull, Gothita, Solosis, Yamask, Elgyem, Litwick                          |                                                               
+| Walking    | 40      | Zubat, Gastly, Ralts, Shuppet, Duskull, Gothita, Solosis, Yamask, Elgyem, Litwick                          |
 | Horde      | 25      | Gastly                                                                                                     |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
@@ -1836,7 +1838,7 @@ o----------------------o
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| Walking    | 45      | Golbat, Haunter, Kirlia, Banette, Dusclops, Gothorita, Duosion, Cofagrigus, Beheeyem, Lampent              |                                                               
+| Walking    | 45      | Golbat, Haunter, Kirlia, Banette, Dusclops, Gothorita, Duosion, Cofagrigus, Beheeyem, Lampent              |
 | Horde      | 30      | Haunter                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
@@ -1854,7 +1856,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Walking    | 40      | Spearow, Vulpix, Growlithe, Hoothoot, Natu, Murkrow, Misdreavus, Meditite, Bronzor, Chingling              |
-| DexNav     | 50      | Mismagius                                                                                                  |                                           
+| DexNav     | 50      | Mismagius                                                                                                  |
 | Horde      | 25      | Bronzor                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
@@ -1864,7 +1866,7 @@ o-------------------------------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Walking    | 45      | Fearow, Vulpix, Growlithe, Noctowl, Xatu, Murkrow, Misdreavus, Medicham, Chimecho, Bronzong                |
-| DexNav     | 50      | Ninetales                                                                                                  |                                           
+| DexNav     | 50      | Ninetales                                                                                                  |
 | Horde      | 30      | Bronzor                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
@@ -2059,7 +2061,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mossdeep City        |
+| Mossdeep City (City) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2114,7 +2116,7 @@ o-------------------------------------------------------------------------------
 | Super Rod  | 55      | Cloyster                                                                                                   |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o--------------------------o
+o----------------------o
 | Shoal Cave B1F, B2F, B3F |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
@@ -2295,7 +2297,7 @@ o-------------------------------------------------------------------------------
 
 
 o----------------------o
-| Mossdeep Gym         |
+| Mossdeep City (Gym)  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2525,7 +2527,7 @@ o-------------------------------------------------------------------------------
 | Super Rod  | 55      | Relicanth                                                                                                  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o-----------------------------o
+o----------------------o
 | Seafloor Cavern Front Rooms |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
@@ -2550,7 +2552,7 @@ o-------------------------------------------------------------------------------
 | 353 | Team Aqua Grunt         | Roserade 60, Golduck 60                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o-----------------------------o
+o----------------------o
 | Seafloor Cavern Water Rooms |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
@@ -2563,7 +2565,7 @@ o-------------------------------------------------------------------------------
 | Super Rod  | 55      | Relicanth                                                                                                  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o-----------------------------o
+o----------------------o
 | Seafloor Cavern Back Rooms  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
@@ -2603,7 +2605,7 @@ o---------------o----o------------------o-------------------o-------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Sootopolis City      |
+| Sootopolis City (City) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2637,13 +2639,14 @@ o----------------------o--------------------------------------------------------
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Note: You will only see these Pokémon if you were able to use the .cro file!                                                      |
+o-----------------------------------------------------------------------------------------------------------------------------------o
 | Hint: Any wild Pokémon found here will have their hidden ability as well as at least 3 perfect IVs.                               |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Birds      | 60      | Pidgeot, Dragonite, Staraptor, Honchkrow, Togekiss, Unfezant, Talonflame                                   |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Sootopolis Gym       |
+| Sootopolis City (Gym) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2936,7 +2939,7 @@ o-----------------------------------------------------------------------o
 o-----------------------------------------------------------------------o
 
 o----------------------o
-| Petalburg City       |
+| Petalburg City (City) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2969,7 +2972,7 @@ o---------------o----o------------------o-------------------o-------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Granite Cave 1F-2    |
+| Granite Cave (1F-2)  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2988,7 +2991,7 @@ o---------------o----o------------------o-------------------o-------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Rustboro City        |
+| Rustboro City (City) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3003,7 +3006,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mossdeep City        |
+| Mossdeep City (City) |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers                                                                                                                          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3250,7 +3253,7 @@ o---------------o----o------------------o-------------------o-------------------
 o---------------o----o------------------o-------------------o-----------------------------------------------------------------------o
 
 o----------------------o
-| Mirage Forest (Any)  |
+| Mirage Forest        |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3261,7 +3264,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mirage Cave (Any)    |
+| Mirage Cave          |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3271,8 +3274,8 @@ o-------------------------------------------------------------------------------
 | Rock Smash | 60      | Ditto                                                                                                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
-o-----------------------o
-| Mirage Mountain (Any) |
+o----------------------o
+| Mirage Mountain      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level    | Species                                                                                                   |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3283,7 +3286,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
-| Mirage Island (Any)  |
+| Mirage Island        |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Method     | Level   | Species                                                                                                    |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3292,4 +3295,3 @@ o-------------------------------------------------------------------------------
 | Grass      | 65 - 68 | Mew*, Latias, Latios, Manaphy, Cresselia, Darkrai, Victini, Tornadus, Thundurus, Landorus, Hoopa*          |
 | Rock Smash | 50      | Ditto                                                                                                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-

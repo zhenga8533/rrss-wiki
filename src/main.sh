@@ -65,6 +65,7 @@ echo ""
 # Run all parsers
 echo "Running all parsers"
 set -e
+$PYTHON area_changes.py
 $PYTHON attack_changes.py
 $PYTHON encounter_changes.py
 $PYTHON evolution_changes.py
