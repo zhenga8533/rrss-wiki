@@ -172,6 +172,7 @@ def revert_id(id: str, symbol: str = "-") -> str:
     :return: Reverted ID.
     """
 
+    id = id.replace("pokemon", "pokémon")
     return string.capwords(id.replace(symbol, " "))
 
 

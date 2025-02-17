@@ -1,0 +1,2 @@
+# Slateport City — Trainer Pokémon
+

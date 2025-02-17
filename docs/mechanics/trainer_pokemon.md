@@ -2,13 +2,13 @@
 
 ---
 
-Overview
+## Overview
 
 1. The trainers for each route are also listed, with their Pokémon and accompanying levels shown. For special trainers such as Gym Leaders and the Elite Four, an extra section is shown with their Pokémon in higher detail, including abilities, held items and movesets. Some of these trainers do have new moves that are obtainable outside of this hack; an alternate trainer file is offered where these moves are replaced with legal options.
 
 2. Trainer rematches are also shown for each route under a rematch column. The number next to their names refers to how many badges you need to obtain to unlock that trainer roster, e.g. a (2) means they'll start using those Pokémon if you rematch them after obtaining the Balance Badge in Dewford. (C) refers to champion and will be their team after clearing the Pokémon League the first time around.
 
-3. One last thing to note is that the trainer levels throughout the game have been designed assuming you have a full team of six Pokémon and YOU ARE NOT USING THE EXP. SHARE. You still gain the Exp. Share in Petalburg Woods and it's set to on by default, so remember to toggle that unless you happen to be training an entire team of slow levellers or something.
+3. One last thing to note is that the trainer levels throughout the game have been designed assuming you have a full team of six Pokémon and YOU ARE NOT USING THE EXP. SHARE. You still gain the Exp. Share in Petalburg Woods and it's set to on by default, so remember to toggle that unless you happen to be training an entire team of slow levelers or something.
 
 ---
 
@@ -54,9 +54,11 @@ Overview
 
 ## Route 107
 
+### [ Underwater ]
+
 ### [ B2F ]
 
-### [ 1F-2 (Postgame) ]
+### [ 1F / 2F (Postgame) ]
 
 ## Route 109
 
@@ -74,15 +76,23 @@ Overview
 
 ### [ Desert ]
 
-## Route 112 South
+## Route 112
 
-## Route 112 North
+### [ South ]
+
+### [ North ]
 
 ## Route 113
 
 ## Route 114
 
-## Meteor Falls 1F
+## Meteor Falls
+
+### [ 1F ]
+
+### [ 1F / 2F ]
+
+### [ B1F ]
 
 ## Mt. Chimney
 
@@ -94,9 +104,11 @@ Overview
 
 ## Route 108
 
-## Sea Mauville Outside
+## Sea Mauville
 
-## Sea Mauville Inside
+### [ Outside ]
+
+### [ Inside ]
 
 ## Route 115
 
@@ -118,17 +130,21 @@ Overview
 
 ## Route 120
 
-## Route 120 South-West
+### [ Fortree ]
+
+### [ Southwest ]
 
 ## Route 121
 
 ## Route 123
 
-## Mt. Pyre 1F / 2F
+## Mt. Pyre
 
-## Mt. Pyre 3F / 4F
+### [ 1F / 2F ]
 
-## Mt. Pyre Summit 2
+### [ 3F / 4F ]
+
+### [ Summit 2 ]
 
 ## Lilycove City
 
@@ -142,6 +158,8 @@ Overview
 
 ## Route 124
 
+### [ Underwater ]
+
 ### [ Gym ]
 
 ### [ Main Area (Postgame) ]
@@ -150,13 +168,23 @@ Overview
 
 ## Route 126
 
+### [ Underwater ]
+
 ## Route 127
+
+### [ Underwater ]
 
 ## Route 128
 
+### [ Underwater ]
+
 ## Route 129
 
+### [ Underwater ]
+
 ## Route 130
+
+### [ Underwater ]
 
 ## Route 131
 
@@ -168,35 +196,19 @@ Overview
 
 ## Route 134
 
-## Underwater 107
+### [ Front Rooms ]
 
-## Underwater 124
-
-## Underwater 126
-
-## Underwater 127
-
-## Underwater 128
-
-## Underwater 129
-
-## Underwater 130
-
-## Seafloor Cavern Front Rooms
-
-## Seafloor Cavern Back Rooms
+### [ Back Rooms ]
 
 ### [ Gym ]
 
-## Meteor Falls 1F-2
+## Victory Road
 
-## Meteor Falls B1F
+### [ 1F ]
 
-## Victory Road 1F
+### [ B1F ]
 
-## Victory Road B1F
-
-## Victory Road 2F
+### [ 2F ]
 
 ## Pokémon League
 

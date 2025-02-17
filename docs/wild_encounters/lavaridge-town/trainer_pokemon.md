@@ -1,0 +1,2 @@
+# Lavaridge Town — Trainer Pokémon
+

@@ -93,10 +93,10 @@ mkdir -p ../docs/wild_encounters
 if ! command -v rsync &> /dev/null; then
   cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
   cp -r -f -u $POKEMON_PATH/* ../docs/pokemon
-  #cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
+  cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
   rsync -av --update $OUTPUT_PATH/ ../docs/mechanics
   rsync -av --update $POKEMON_PATH/ ../docs/pokemon
-  #rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
+  rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
 fi
 echo "Markdown files updated"

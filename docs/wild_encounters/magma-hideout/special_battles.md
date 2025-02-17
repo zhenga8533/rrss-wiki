@@ -1,0 +1,2 @@
+# Magma Hideout — Special Battles
+

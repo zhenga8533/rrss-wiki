@@ -1,0 +1,35 @@
+# Route 134 — Wild Pokémon
+
+### DexNav
+
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
+| ![Kingdra](../../assets/sprites/kingdra/front.gif "Kingdra: Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.") | [Kingdra](../../pokemon/kingdra.md/) | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 50 | 100% |
+
+### Surfing
+
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
+| ![Phione](../../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | [Phione](../../pokemon/phione.md/) | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 40 | 100% |
+
+### Old Rod
+
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
+| ![Horsea](../../assets/sprites/horsea/front.gif "Horsea: If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.") | [Horsea](../../pokemon/horsea.md/) | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 15 | 50% |
+| ![Dratini](../../assets/sprites/dratini/front.gif "Dratini: Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.") | [Dratini](../../pokemon/dratini.md/) | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 15 | 50% |
+
+### Good Rod
+
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
+| ![Horsea](../../assets/sprites/horsea/front.gif "Horsea: If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.") | [Horsea](../../pokemon/horsea.md/) | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 35 | 50% |
+| ![Dratini](../../assets/sprites/dratini/front.gif "Dratini: Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.") | [Dratini](../../pokemon/dratini.md/) | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 35 | 50% |
+
+### Super Rod
+
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
+| ![Seadra](../../assets/sprites/seadra/front.gif "Seadra: Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.") | [Seadra](../../pokemon/seadra.md/) | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 55 | 50% |
+| ![Dragonair](../../assets/sprites/dragonair/front.gif "Dragonair: Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.") | [Dragonair](../../pokemon/dragonair.md/) | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 55 | 50% |
+

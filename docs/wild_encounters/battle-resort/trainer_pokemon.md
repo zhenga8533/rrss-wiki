@@ -1,0 +1,2 @@
+# Battle Resort — Trainer Pokémon
+

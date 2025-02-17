@@ -54,6 +54,7 @@ nav:
           - Sinnoh Pokémon: mechanics/pokemon_changes/sinnoh.md
           - Unova Pokémon: mechanics/pokemon_changes/unova.md
           - Kalos Pokémon: mechanics/pokemon_changes/kalos.md
+      - Special Battles: mechanics/special_battles.md
       - Trainer Pokémon: mechanics/trainer_pokemon.md
       - Wild Pokémon: mechanics/wild_pokemon.md
   - Pokémon:
@@ -881,3 +882,232 @@ nav:
           - Zygarde 10: pokemon/zygarde-10.md
           - Diancie Mega: pokemon/diancie-mega.md
           - Hoopa Unbound: pokemon/hoopa-unbound.md
+  - Wild Encounters:
+      - Route 101:
+          - Wild Pokémon: wild_encounters/route-101/wild_pokemon.md
+      - Route 103:
+          - Trainer Pokémon: wild_encounters/route-103/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-103/wild_pokemon.md
+      - Route 102:
+          - Trainer Pokémon: wild_encounters/route-102/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-102/wild_pokemon.md
+      - Petalburg City:
+          - Special Battles: wild_encounters/petalburg-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/petalburg-city/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/petalburg-city/wild_pokemon.md
+      - Route 104:
+          - Trainer Pokémon: wild_encounters/route-104/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-104/wild_pokemon.md
+      - Petalburg Woods:
+          - Trainer Pokémon: wild_encounters/petalburg-woods/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/petalburg-woods/wild_pokemon.md
+      - Rustboro City:
+          - Special Battles: wild_encounters/rustboro-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/rustboro-city/trainer_pokemon.md
+      - Route 116:
+          - Trainer Pokémon: wild_encounters/route-116/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-116/wild_pokemon.md
+      - Rusturf Tunnel:
+          - Trainer Pokémon: wild_encounters/rusturf-tunnel/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/rusturf-tunnel/wild_pokemon.md
+      - Route 106:
+          - Trainer Pokémon: wild_encounters/route-106/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-106/wild_pokemon.md
+      - Dewford Town:
+          - Special Battles: wild_encounters/dewford-town/special_battles.md
+          - Trainer Pokémon: wild_encounters/dewford-town/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/dewford-town/wild_pokemon.md
+      - Route 107:
+          - Trainer Pokémon: wild_encounters/route-107/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-107/wild_pokemon.md
+      - Granite Cave:
+          - Special Battles: wild_encounters/granite-cave/special_battles.md
+          - Trainer Pokémon: wild_encounters/granite-cave/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/granite-cave/wild_pokemon.md
+      - Route 109:
+          - Trainer Pokémon: wild_encounters/route-109/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-109/wild_pokemon.md
+      - Slateport City:
+          - Trainer Pokémon: wild_encounters/slateport-city/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/slateport-city/wild_pokemon.md
+      - Route 110:
+          - Special Battles: wild_encounters/route-110/special_battles.md
+          - Trainer Pokémon: wild_encounters/route-110/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-110/wild_pokemon.md
+      - Mauville City:
+          - Special Battles: wild_encounters/mauville-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/mauville-city/trainer_pokemon.md
+      - Route 117:
+          - Trainer Pokémon: wild_encounters/route-117/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-117/wild_pokemon.md
+      - Route 111:
+          - Trainer Pokémon: wild_encounters/route-111/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-111/wild_pokemon.md
+      - Route 112:
+          - Trainer Pokémon: wild_encounters/route-112/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-112/wild_pokemon.md
+      - Fiery Path:
+          - Wild Pokémon: wild_encounters/fiery-path/wild_pokemon.md
+      - Route 113:
+          - Trainer Pokémon: wild_encounters/route-113/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-113/wild_pokemon.md
+      - Route 114:
+          - Trainer Pokémon: wild_encounters/route-114/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-114/wild_pokemon.md
+      - Meteor Falls:
+          - Special Battles: wild_encounters/meteor-falls/special_battles.md
+          - Trainer Pokémon: wild_encounters/meteor-falls/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/meteor-falls/wild_pokemon.md
+      - Mt. Chimney:
+          - Special Battles: wild_encounters/mt-chimney/special_battles.md
+          - Trainer Pokémon: wild_encounters/mt-chimney/trainer_pokemon.md
+      - Jagged Pass:
+          - Trainer Pokémon: wild_encounters/jagged-pass/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/jagged-pass/wild_pokemon.md
+      - Lavaridge Town:
+          - Special Battles: wild_encounters/lavaridge-town/special_battles.md
+          - Trainer Pokémon: wild_encounters/lavaridge-town/trainer_pokemon.md
+      - Route 105:
+          - Trainer Pokémon: wild_encounters/route-105/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-105/wild_pokemon.md
+      - Route 108:
+          - Trainer Pokémon: wild_encounters/route-108/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-108/wild_pokemon.md
+      - Sea Mauville:
+          - Trainer Pokémon: wild_encounters/sea-mauville/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/sea-mauville/wild_pokemon.md
+      - Route 115:
+          - Trainer Pokémon: wild_encounters/route-115/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-115/wild_pokemon.md
+      - New Mauville:
+          - Wild Pokémon: wild_encounters/new-mauville/wild_pokemon.md
+      - Route 118:
+          - Trainer Pokémon: wild_encounters/route-118/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-118/wild_pokemon.md
+      - Southern Island:
+          - Special Battles: wild_encounters/southern-island/special_battles.md
+          - Trainer Pokémon: wild_encounters/southern-island/trainer_pokemon.md
+      - Route 119:
+          - Special Battles: wild_encounters/route-119/special_battles.md
+          - Trainer Pokémon: wild_encounters/route-119/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-119/wild_pokemon.md
+      - Weather Institute:
+          - Special Battles: wild_encounters/weather-institute/special_battles.md
+          - Trainer Pokémon: wild_encounters/weather-institute/trainer_pokemon.md
+      - Fortree City:
+          - Special Battles: wild_encounters/fortree-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/fortree-city/trainer_pokemon.md
+      - Route 120:
+          - Trainer Pokémon: wild_encounters/route-120/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-120/wild_pokemon.md
+      - Scorched Slab:
+          - Wild Pokémon: wild_encounters/scorched-slab/wild_pokemon.md
+      - Route 121:
+          - Trainer Pokémon: wild_encounters/route-121/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-121/wild_pokemon.md
+      - Safari Zone:
+          - Wild Pokémon: wild_encounters/safari-zone/wild_pokemon.md
+      - Route 122:
+          - Wild Pokémon: wild_encounters/route-122/wild_pokemon.md
+      - Route 123:
+          - Trainer Pokémon: wild_encounters/route-123/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-123/wild_pokemon.md
+      - Mt. Pyre:
+          - Special Battles: wild_encounters/mt-pyre/special_battles.md
+          - Trainer Pokémon: wild_encounters/mt-pyre/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/mt-pyre/wild_pokemon.md
+      - Lilycove City:
+          - Special Battles: wild_encounters/lilycove-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/lilycove-city/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/lilycove-city/wild_pokemon.md
+      - Magma Hideout:
+          - Special Battles: wild_encounters/magma-hideout/special_battles.md
+          - Trainer Pokémon: wild_encounters/magma-hideout/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/magma-hideout/wild_pokemon.md
+      - Aqua Hideout:
+          - Special Battles: wild_encounters/aqua-hideout/special_battles.md
+          - Trainer Pokémon: wild_encounters/aqua-hideout/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/aqua-hideout/wild_pokemon.md
+      - Route 124:
+          - Trainer Pokémon: wild_encounters/route-124/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-124/wild_pokemon.md
+      - Mossdeep City:
+          - Special Battles: wild_encounters/mossdeep-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/mossdeep-city/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/mossdeep-city/wild_pokemon.md
+      - Route 125:
+          - Trainer Pokémon: wild_encounters/route-125/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-125/wild_pokemon.md
+      - Shoal Cave:
+          - Wild Pokémon: wild_encounters/shoal-cave/wild_pokemon.md
+      - Route 126:
+          - Trainer Pokémon: wild_encounters/route-126/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-126/wild_pokemon.md
+      - Route 127:
+          - Trainer Pokémon: wild_encounters/route-127/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-127/wild_pokemon.md
+      - Route 128:
+          - Trainer Pokémon: wild_encounters/route-128/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-128/wild_pokemon.md
+      - Ever Grande City:
+          - Wild Pokémon: wild_encounters/ever-grande-city/wild_pokemon.md
+      - Route 129:
+          - Trainer Pokémon: wild_encounters/route-129/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-129/wild_pokemon.md
+      - Route 130:
+          - Trainer Pokémon: wild_encounters/route-130/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-130/wild_pokemon.md
+      - Route 131:
+          - Special Battles: wild_encounters/route-131/special_battles.md
+          - Trainer Pokémon: wild_encounters/route-131/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-131/wild_pokemon.md
+      - Pacifidlog Town:
+          - Wild Pokémon: wild_encounters/pacifidlog-town/wild_pokemon.md
+      - Route 132:
+          - Trainer Pokémon: wild_encounters/route-132/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-132/wild_pokemon.md
+      - Route 133:
+          - Trainer Pokémon: wild_encounters/route-133/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-133/wild_pokemon.md
+      - Route 134:
+          - Trainer Pokémon: wild_encounters/route-134/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/route-134/wild_pokemon.md
+      - Seafloor Cavern:
+          - Special Battles: wild_encounters/seafloor-cavern/special_battles.md
+          - Trainer Pokémon: wild_encounters/seafloor-cavern/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/seafloor-cavern/wild_pokemon.md
+      - Sootopolis City:
+          - Special Battles: wild_encounters/sootopolis-city/special_battles.md
+          - Trainer Pokémon: wild_encounters/sootopolis-city/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/sootopolis-city/wild_pokemon.md
+      - Cave of Origin:
+          - Wild Pokémon: wild_encounters/cave-of-origin/wild_pokemon.md
+      - Soaring in the Sky:
+          - Wild Pokémon: wild_encounters/soaring-in-the-sky/wild_pokemon.md
+      - Victory Road:
+          - Special Battles: wild_encounters/victory-road/special_battles.md
+          - Trainer Pokémon: wild_encounters/victory-road/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/victory-road/wild_pokemon.md
+      - Pokémon League:
+          - Special Battles: wild_encounters/pokemon-league/special_battles.md
+          - Trainer Pokémon: wild_encounters/pokemon-league/trainer_pokemon.md
+      - Credits:
+          - Special Battles: wild_encounters/credits/special_battles.md
+          - Trainer Pokémon: wild_encounters/credits/trainer_pokemon.md
+      - Sky Pillar:
+          - Special Battles: wild_encounters/sky-pillar/special_battles.md
+          - Trainer Pokémon: wild_encounters/sky-pillar/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/sky-pillar/wild_pokemon.md
+      - S.S Tidal:
+          - Trainer Pokémon: wild_encounters/ss-tidal/trainer_pokemon.md
+      - Battle Resort:
+          - Trainer Pokémon: wild_encounters/battle-resort/trainer_pokemon.md
+          - Wild Pokémon: wild_encounters/battle-resort/wild_pokemon.md
+      - Mirage Forest:
+          - Wild Pokémon: wild_encounters/mirage-forest/wild_pokemon.md
+      - Mirage Cave:
+          - Wild Pokémon: wild_encounters/mirage-cave/wild_pokemon.md
+      - Mirage Mountain:
+          - Wild Pokémon: wild_encounters/mirage-mountain/wild_pokemon.md
+      - Mirage Island:
+          - Wild Pokémon: wild_encounters/mirage-island/wild_pokemon.md

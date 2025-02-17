@@ -1,0 +1,2 @@
+# Lilycove City — Trainer Pokémon
+
