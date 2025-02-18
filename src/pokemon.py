@@ -16,6 +16,7 @@ def parse_sprite_tables(
     title: str,
     name: str,
     extension: str,
+    data_pokemon: Data,
     logger: Logger,
 ):
     """
@@ -34,10 +35,10 @@ def parse_sprite_tables(
 
     pokemon = revert_id(name)
     sprites = [
-        find_pokemon_sprite(pokemon, f"front{extension}", logger),
-        find_pokemon_sprite(pokemon, f"front_shiny{extension}", logger),
-        find_pokemon_sprite(pokemon, f"back{extension}", logger),
-        find_pokemon_sprite(pokemon, f"back_shiny{extension}", logger),
+        find_pokemon_sprite(pokemon, f"front{extension}", data_pokemon, logger),
+        find_pokemon_sprite(pokemon, f"front_shiny{extension}", data_pokemon, logger),
+        find_pokemon_sprite(pokemon, f"back{extension}", data_pokemon, logger),
+        find_pokemon_sprite(pokemon, f"back_shiny{extension}", data_pokemon, logger),
     ]
     valid = False
 
@@ -225,6 +226,7 @@ def parse_moves(moves: list, headers: list, move_key: str, data_move: Data) -> s
 def to_md(
     pokemon: dict,
     pokemon_set: dict,
+    data_pokemon: Data,
     data_move: Data,
     data_item: Data,
     data_ability: Data,
@@ -235,6 +237,7 @@ def to_md(
 
     :param pokemon: The Pokémon data to convert.
     :param pokemon_set: The set of valid Pokémon names.
+    :param data_pokemon: The Pokémon data object.
     :param data_move: The move data object.
     :param data_item: The item data object.
     :param data_ability: The ability data object.
@@ -282,12 +285,12 @@ def to_md(
 
     # Add sprite tables
     md += "---\n\n## Media\n\n"
-    md += parse_sprite_tables("Default Sprites", name_id, "", logger)
-    md += parse_sprite_tables("Female Sprites", name_id, "_female", logger)
+    md += parse_sprite_tables("Default Sprites", name_id, "", data_pokemon, logger)
+    md += parse_sprite_tables("Female Sprites", name_id, "_female", data_pokemon, logger)
     for form in pokemon["forms"]:
         if form == name_id or form in pokemon_set or not verify_pokemon_form(form, logger):
             continue
-        md += parse_sprite_tables(f"{revert_id(form)} Sprites", form, "", logger)
+        md += parse_sprite_tables(f"{revert_id(form)} Sprites", form, "", data_pokemon, logger)
 
     # Cries
     md += "### Cries\n\n"
@@ -597,7 +600,7 @@ def main():
             if form_name not in pokemon_set:
                 continue
 
-            md = to_md(data, pokemon_set, data_move, data_item, data_ability, logger)
+            md = to_md(data, pokemon_set, data_pokemon, data_move, data_item, data_ability, logger)
             if md:
                 save(f"{POKEMON_PATH + data['name']}.md", md, logger)
 

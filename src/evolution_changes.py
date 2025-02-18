@@ -1,15 +1,15 @@
-import json
 import logging
 import os
 
 from dotenv import load_dotenv
 
+from util.data import Data
 from util.file import load, save
 from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
 
 
-def change_evolution(evolutions: list[dict], pokemon: str, change: str, pokemon_path: str, logger: Logger) -> list:
+def change_evolution(evolutions: list[dict], pokemon: str, change: str, logger: Logger) -> list:
     pokemon_evolutions = []
 
     for evolution in evolutions:
@@ -25,12 +25,12 @@ def change_evolution(evolutions: list[dict], pokemon: str, change: str, pokemon_
                 evolution["evolution_changes"].append(change)
 
         # Recursively change evolution data
-        pokemon_evolutions += change_evolution(evolution.get("evolutions", []), pokemon, change, pokemon_path, logger)
+        pokemon_evolutions += change_evolution(evolution.get("evolutions", []), pokemon, change, logger)
 
     return pokemon_evolutions
 
 
-def change_pokemon(columns: list[str], pokemon_path: str, logger: Logger) -> None:
+def change_pokemon(columns: list[str], data_pokemon: Data, logger: Logger) -> None:
     # Parse evolution data
     unevolved = columns[1]
     evolved = columns[2]
@@ -42,15 +42,15 @@ def change_pokemon(columns: list[str], pokemon_path: str, logger: Logger) -> Non
 
     # Load Pokemon data
     id = format_id(unevolved)
-    data = json.loads(load(pokemon_path + id + ".json", logger))
+    data = data_pokemon.get_data(id)
     evolutions = data["evolutions"]
 
     # Change evolution data and save changes
-    pokemon_evolutions = change_evolution(evolutions, id, evolution_method, pokemon_path, logger)
+    pokemon_evolutions = change_evolution(evolutions, id, evolution_method, logger)
     for pokemon in pokemon_evolutions:
-        evolution_data = json.loads(load(pokemon_path + format_id(pokemon) + ".json", logger))
+        evolution_data = data_pokemon.get_data(pokemon)
         evolution_data["evolutions"] = evolutions
-        save(pokemon_path + format_id(pokemon) + ".json", json.dumps(evolution_data, indent=4), logger)
+        data_pokemon.save_data(pokemon, evolution_data)
 
 
 def main():
@@ -64,12 +64,15 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
-    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
 
     # Initialize logger object
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Evolution Changes Parser", LOG_PATH + "evolution_changes.log", LOG)
+
+    # Initialize Pokemon data object
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    data_pokemon = Data(POKEMON_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "EvolutionChanges.txt"
@@ -111,15 +114,15 @@ def main():
                     parse_table = True
                 # Table body (evolution changes)
                 else:
-                    change_pokemon(columns, POKEMON_INPUT_PATH, logger)
+                    change_pokemon(columns, data_pokemon, logger)
                     pre = columns[1]
                     evo = columns[2]
 
                     columns[1] = (
-                        f"<div class='sprite-cell'>{find_pokemon_sprite(pre, 'front', logger)}<br>[{pre}](../pokemon/{format_id(pre)}.md/)</div>"
+                        f'<div class="sprite-cell">{find_pokemon_sprite(pre, 'front', data_pokemon, logger)}<br>[{pre}](../pokemon/{format_id(pre)}.md/)</div>'
                     )
                     columns[2] = (
-                        f"<div class='sprite-cell'>{find_pokemon_sprite(evo, 'front', logger)}<br>[{evo}](../pokemon/{format_id(evo)}.md/)</div>"
+                        f'<div class="sprite-cell">{find_pokemon_sprite(evo, 'front', data_pokemon, logger)}<br>[{evo}](../pokemon/{format_id(evo)}.md/)</div>'
                     )
                     md += f"| {' | '.join(columns) } |\n"
 

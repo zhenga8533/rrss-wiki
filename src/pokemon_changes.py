@@ -327,7 +327,9 @@ def main():
                 else:
                     pokemon_id = curr_pokemon + curr_form
                     forms.append(f"[{form}](../../pokemon/{format_id(pokemon_id)}.md/)")
-                    sprites.append(find_pokemon_sprite(pokemon_id, "front", logger).replace("../", "../../"))
+                    sprites.append(
+                        find_pokemon_sprite(pokemon_id, "front", data_pokemon, logger).replace("../", "../../")
+                    )
                     curr_forms.append(curr_form)
 
             # Add the forms to the markdown file
@@ -343,7 +345,7 @@ def main():
             # Add Pokemon header to the markdown file
             curr_pokemon = curr_pokemon.title()
             curr_forms = [""]
-            sprite = find_pokemon_sprite(curr_pokemon, "front", logger).replace("../", "../../")
+            sprite = find_pokemon_sprite(curr_pokemon, "front", data_pokemon, logger).replace("../", "../../")
 
             md += f"---\n\n## [{num} {curr_pokemon}](../../pokemon/{format_id(curr_pokemon)}.md/)\n\n"
             md += sprite + "\n\n"

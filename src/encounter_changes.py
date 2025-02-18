@@ -4,6 +4,7 @@ import re
 
 from dotenv import load_dotenv
 
+from util.data import Data
 from util.file import load, save
 from util.format import check_empty, find_pokemon_sprite, format_id
 from util.logger import Logger
@@ -25,6 +26,10 @@ def main():
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Encounter Changes Parser", LOG_PATH + "encounter_changes.log", LOG)
+
+    # Initialize Pokemon data object
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    data_pokemon = Data(POKEMON_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "EncounterChanges.txt"
@@ -66,7 +71,7 @@ def main():
                 # Table body (Encounter changes)
                 else:
                     description, pokemon = columns[0].split(", ")
-                    sprite = find_pokemon_sprite(pokemon, "front", logger)
+                    sprite = find_pokemon_sprite(pokemon, "front", data_pokemon, logger)
                     changes = "<br>".join(
                         [
                             f"{i}. {change.capitalize()}"

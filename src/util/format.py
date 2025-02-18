@@ -1,10 +1,8 @@
-import json
 import logging
-import os
 import re
 import string
 
-from util.file import load, verify_asset_path
+from util.file import verify_asset_path
 from util.logger import Logger
 
 
@@ -19,26 +17,24 @@ def check_empty(line: str) -> bool:
     return len(line) == 0 or line.startswith("o-") or line.startswith("===") or len(line.strip("| ")) == 0
 
 
-def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
+def find_pokemon_sprite(pokemon: str, view: str, data_pokemon: object, logger: Logger) -> str:
     """
     Find the sprite of a Pokémon.
 
     :param pokemon: Pokémon to find the sprite.
     :param view: View of the sprite.
+    :param data_pokemon: Pokémon data object to fetch the data.
     :param logger: Logger to log the verification.
     :return: The sprite of the Pokémon.
     """
 
     # Load Pokemon data
-    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     pokemon_id = format_id(pokemon)
-
-    file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
-    if not os.path.exists(file_path):
-        file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
-        if not os.path.exists(file_path):
+    pokemon_data = data_pokemon.get_data(pokemon_id)
+    if pokemon_data is None:
+        pokemon_data = data_pokemon.get_data(pokemon_id.rsplit("-", 1)[0])
+        if pokemon_data is None:
             return "?"
-    pokemon_data = json.loads(load(file_path, logger))
 
     pokemon_text = pokemon_data["flavor_text_entries"].get("alpha-sapphire", pokemon).replace("\n", " ")
     sprite = f"../assets/sprites/{pokemon_id}/{view}"
