@@ -3,21 +3,13 @@ import os
 
 from dotenv import load_dotenv
 
+from util.data import Data
 from util.file import load, save
-from util.format import check_empty, find_pokemon_sprite, format_id, revert_id
+from util.format import check_empty, find_pokemon_sprite, find_trainer_sprite, format_id, revert_id
 from util.logger import Logger
 
 
-def parse_wild_pokemon(area: str, section: str, wild_pokemon: list[str], logger: Logger) -> tuple[str, str]:
-    """
-    Parse the wild Pokémon data into markdown format.
-
-    :param wild_pokemon: The wild Pokémon data to parse.
-    :param logger: The logger object to use for logging.
-
-    :return: The parsed wild Pokémon data in markdown format.
-    """
-
+def parse_wild_pokemon(wild_pokemon: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
     # Initialize markdown string
     wild_pokemon_md = ""
     section_md = ""
@@ -38,8 +30,8 @@ def parse_wild_pokemon(area: str, section: str, wild_pokemon: list[str], logger:
 
         wild_pokemon_md += f"**{method}** (Lv. {level})\n\n<pre><code><ol>"
         section_md += f"### {method}\n\n"
-        section_md += "| Sprite | Pokémon | Encounter Type | Level | Chance |\n"
-        section_md += "|:------:|---------|:--------------:|-------|--------|\n"
+        section_md += "| Sprite | Pokémon | Encounter | Chance |\n"
+        section_md += "|:------:|---------|:---------:|--------|\n"
 
         n = len(wild_pokemon)
         chance = str(100 // n)
@@ -48,31 +40,70 @@ def parse_wild_pokemon(area: str, section: str, wild_pokemon: list[str], logger:
                 chance = "5" if p.endswith("*") else "10"
             wild_pokemon_md += f"<li><a href='/rrss-wiki/pokemon/{format_id(p)}/'>{p}</a> ({chance}%)</li>"
 
-            sprite = find_pokemon_sprite(p, "front", logger).replace("../", "../../")
+            sprite = find_pokemon_sprite(p, "front", data_pokemon, logger).replace("../", "../../")
             encounter_id = format_id(method, symbol="_")
-            section_md += f"| {sprite} | [{p}](../../pokemon/{format_id(p)}.md/) | "
+            section_md += f"| {sprite} | [{p}](../../pokemon/{format_id(p)}.md/)<br>Lv. {level} | "
             section_md += f'![{method}](../../assets/encounter_types/{encounter_id}.png "{method}")<br>{method}'
-            section_md += f" | {level} | {chance}% |\n"
+            section_md += f" | {chance}% |\n"
         wild_pokemon_md += "</ol></code></pre>\n\n"
         section_md += "\n"
 
     return wild_pokemon_md, section_md
 
 
-def parse_trainers(area: str, section: str, trainers: list[str], logger: Logger) -> tuple[str, str]:
-    return "", ""
+def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
+    # Initialize markdown string
+    trainers_md = ""
+    section_md = "### Trainer Rosters\n\n"
+    section_table = ""
+
+    def add_table_header(num):
+        table_header = "| Trainer | " + " | ".join([f"P{i}" for i in range(1, num + 1)]) + " |\n"
+        table_header += "|:-------:|" + (":--:|" * num) + "\n"
+        return table_header
+
+    # Parse trainer data
+    num_pokemon = 0
+    for line in trainers:
+        if line.startswith("ID"):
+            continue
+        elif line == "Rematches":
+            section_md += "### Rematches\n\n"
+            section_table = ""
+            continue
+
+        trainer_id, trainer, roster = [s.strip() for s in line.split("|")]
+
+        trainer_sprite = find_trainer_sprite(trainer, "trainers", logger).replace("../", "../../")
+        section_table += f"| {trainer_sprite}<br>{trainer} [{trainer_id}] |"
+
+        pokemon = roster.split(", ")
+        num_pokemon = max(num_pokemon, len(pokemon))
+        for p in pokemon:
+            p, level = p.rsplit(" ", 1)
+
+            pokemon_sprite = find_pokemon_sprite(p, "front", data_pokemon, logger).replace("../", "../../")
+            pokemon_link = f"[{p}](../../pokemon/{format_id(p)}.md)"
+            section_table += f' <div class="sprite-cell">{pokemon_sprite}<br>{pokemon_link}<br>Lv. {level}</div> |'
+        section_table += "\n"
+    section_md += add_table_header(num_pokemon) + section_table + "\n"
+
+    return trainers_md, section_md
 
 
-def parse_changes(area_changes: dict, dir_path: str, logger: Logger) -> tuple[str, str]:
-    """
-    Parse the area changes data into markdown format.
+def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
+    # Initialize markdown string
+    wild_pokemon_md = ""
+    section_md = ""
 
-    :param area_changes: The area changes data to parse.
-    :param logger: The logger object to use for logging.
+    # Parse special battles data
+    for line in trainers:
+        pass
 
-    :return: The parsed area changes data in markdown format.
-    """
+    return wild_pokemon_md, section_md
 
+
+def parse_changes(area_changes: dict, data_pokemon: Data, dir_path: str, logger: Logger) -> dict[str, str]:
     # Initialize markdown strings
     mds = {
         "wild_pokemon": "",
@@ -101,8 +132,7 @@ def parse_changes(area_changes: dict, dir_path: str, logger: Logger) -> tuple[st
                 if first_pass:
                     mds[category] += f"## {area}\n\n"
                     area_mds[category] = f"# {area} — {revert_id(category, symbol='_')}\n\n"
-
-                    section_md = "" if section == "Main Area" or len(sections) == 1 else f"### [ {section} ]\n\n"
+                    section_md = "" if section == "Main Area" or len(changes) == 0 else f"### [ {section} ]\n\n"
                 else:
                     section_md = f"## {area}\n\n" if section == "Main Area" else f"### [ {section} ]\n\n"
                 mds[category] += section_md
@@ -110,9 +140,13 @@ def parse_changes(area_changes: dict, dir_path: str, logger: Logger) -> tuple[st
 
                 # Parse change data
                 md, area_md = (
-                    parse_wild_pokemon(area, section, changes, logger)
+                    parse_wild_pokemon(changes, data_pokemon, logger)
                     if category == "wild_pokemon"
-                    else parse_trainers(area, section, changes, logger)
+                    else (
+                        parse_trainers(changes, data_pokemon, logger)
+                        if category == "trainer_pokemon"
+                        else parse_special(changes, data_pokemon, logger)
+                    )
                 )
                 mds[category] += md
                 area_mds[category] += area_md
@@ -125,7 +159,7 @@ def parse_changes(area_changes: dict, dir_path: str, logger: Logger) -> tuple[st
             if area_mds[category] != "":
                 save(f"{dir_path}{area_id}/{category}.md", area_mds[category], logger)
 
-    return mds["wild_pokemon"], mds["trainer_pokemon"]
+    return mds
 
 
 def main():
@@ -146,6 +180,10 @@ def main():
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Area Changes Parser", LOG_PATH + "area_changes.log", LOG)
+
+    # Initialize Pokemon data object
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    data_pokemon = Data(POKEMON_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "AreaChanges.txt"
@@ -210,6 +248,7 @@ def main():
                     change_key = "trainer_pokemon"
                 elif line.startswith("Special Battle"):
                     change_key = "special_battles"
+                    area_changes[curr_location][curr_section][change_key].append(line)
                 elif line == "POST GAME":
                     postgame = True
                 elif curr_location in area_changes:
@@ -232,9 +271,9 @@ def main():
     logger.log(logging.INFO, f"Succesfully parsed {n} lines of data from {file_path}")
 
     # Parse area changes data
-    wild_pokemon_md, trainers_md = parse_changes(area_changes, WILD_ENCOUNTER_PATH, logger)
-    mds["wild_pokemon"] += wild_pokemon_md
-    mds["trainer_pokemon"] += trainers_md
+    change_mds = parse_changes(area_changes, data_pokemon, WILD_ENCOUNTER_PATH, logger)
+    for key in change_mds:
+        mds[key] += change_mds[key]
 
     # Generate wild encounter nav
     nav = ""

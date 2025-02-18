@@ -100,6 +100,8 @@
 
 ## Lavaridge Town
 
+### [ Gym ]
+
 ## Route 105
 
 ## Route 108
@@ -218,7 +220,13 @@
 
 ## Sky Pillar
 
+### [ Main Area (Postgame) ]
+
 ## S.S Tidal
 
+### [ Main Area (Postgame) ]
+
 ## Battle Resort
+
+### [ Main Area (Postgame) ]
 

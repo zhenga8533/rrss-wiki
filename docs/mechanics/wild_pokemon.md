@@ -1936,6 +1936,8 @@
 
 ## Sky Pillar
 
+### [ Main Area (Postgame) ]
+
 **Floor** (Lv. 67)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/raticate/'>Raticate</a> (10%)</li><li><a href='/rrss-wiki/pokemon/ariados/'>Ariados</a> (10%)</li><li><a href='/rrss-wiki/pokemon/altaria/'>Altaria</a> (10%)</li><li><a href='/rrss-wiki/pokemon/claydol/'>Claydol</a> (10%)</li><li><a href='/rrss-wiki/pokemon/spiritomb/'>Spiritomb</a> (10%)</li><li><a href='/rrss-wiki/pokemon/sigilyph/'>Sigilyph</a> (10%)</li><li><a href='/rrss-wiki/pokemon/mienshao/'>Mienshao</a> (10%)</li><li><a href='/rrss-wiki/pokemon/druddigon/'>Druddigon</a> (10%)</li><li><a href='/rrss-wiki/pokemon/golurk/'>Golurk</a> (10%)</li><li><a href='/rrss-wiki/pokemon/noivern/'>Noivern</a> (10%)</li></ol></code></pre>
@@ -1945,6 +1947,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/altaria/'>Altaria</a> (100%)</li></ol></code></pre>
 
 ## Battle Resort
+
+### [ Main Area (Postgame) ]
 
 **Surfing** (Lv. 65 - 75)
 
@@ -1964,6 +1968,8 @@
 
 ## Mirage Forest
 
+### [ Main Area (Postgame) ]
+
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. Anything higher is Lv. 70.</i>
 
 **Grass** (Lv. 65 - 70)
@@ -1975,6 +1981,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/ditto/'>Ditto</a> (100%)</li></ol></code></pre>
 
 ## Mirage Cave
+
+### [ Main Area (Postgame) ]
 
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. Anything higher is Lv. 70.</i>
 
@@ -1988,6 +1996,8 @@
 
 ## Mirage Mountain
 
+### [ Main Area (Postgame) ]
+
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. 670/680 BST Pokémon are Lv. 70. 720 BST Pokémon are Lv. 80.</i>
 
 **Grass** (Lv. 65 - 80)
@@ -1999,6 +2009,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/ditto/'>Ditto</a> (100%)</li></ol></code></pre>
 
 ## Mirage Island
+
+### [ Main Area (Postgame) ]
 
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. Anything higher is Lv. 70.</i>
 

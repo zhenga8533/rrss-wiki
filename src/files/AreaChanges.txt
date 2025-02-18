@@ -363,7 +363,7 @@ o-------------------------------------------------------------------------------
 | 032 | Fisherman Elliot        | Magikarp 15, Tentacool 15, Barboach 15                                                            |
 | 720 | Backpacker Graeme       | Slakoth 15, Exeggcute 15, Patrat 15                                                               |
 | 031 | Swimmer Nicole          | Seaking 36, Dewgong 36, Prinplup 36                                                               |
-| 163 | Triathlete Caleb        | Simipour 36, Starmie 36, Seadra 36                                                                |
+| 163 | Triathlete Swimmer Caleb | Simipour 36, Starmie 36, Seadra 36                                                               |
 | 030 | Swimmer Douglas         | Quagsire 36, Dewott 36, Whiscash 36                                                               |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Rematches                                                                                                                         |
@@ -576,20 +576,20 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 074 | Beauty Melissa          | Finneon 22, Glameow 22, Snivy 22                                                                  |
-| 714 | Triathelete Sloan       | Flaaffy 24                                                                                        |
-| 049 | Triathlete Jacob        | Pichu 22, Pichu 22, Pikachu 22                                                                    |
-| 050 | Triathlete Anthony      | Plusle 24                                                                                         |
-| 377 | Triathlete Benjamin     | Voltorb 23, Klink 23                                                                              |
-| 715 | Triathlete Dolph        | Minun 24                                                                                          |
+| 714 | Triathlete Biker Sloan    | Flaaffy 24                                                                                      |
+| 049 | Triathlete Biker Jacob    | Pichu 22, Pichu 22, Pikachu 22                                                                  |
+| 050 | Triathlete Biker Anthony  | Plusle 24                                                                                       |
+| 377 | Triathlete Biker Benjamin | Voltorb 23, Klink 23                                                                            |
+| 715 | Triathlete Biker Dolph    | Minun 24                                                                                        |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Rematches                                                                                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 377 | Triathlete Benjamin (4) | Klang 35, Electrode 35, Electabuzz 35                                                             |
-| 378 | Triathlete Benjamin (6) | Klang 47, Electrode 47, Electivire 47, Ampharos 47                                                |
-| 379 | Triathlete Benjamin (8) | Klinklang 64, Electrode 64, Electivire 64, Ampharos 64                                            |
-| 380 | Triathlete Benjamin (C) | Klinklang 75, Electrode 75, Electivire 75, Ampharos 75                                            |
+| 377 | Triathlete Biker Benjamin (4) | Klang 35, Electrode 35, Electabuzz 35                                                       |
+| 378 | Triathlete Biker Benjamin (6) | Klang 47, Electrode 47, Electivire 47, Ampharos 47                                          |
+| 379 | Triathlete Biker Benjamin (8) | Klinklang 64, Electrode 64, Electivire 64, Ampharos 64                                      |
+| 380 | Triathlete Biker Benjamin (C) | Klinklang 75, Electrode 75, Electivire 75, Ampharos 75                                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Trainers - Trick House (Cut)                                                                                                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -702,7 +702,7 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 585 | Teammates Anna & Meg    | Furret 23, Herdier 24                                                                             |
-| 492 | Triathlete Dylan        | Treecko 23, Doduo 23                                                                              |
+| 492 | Triathlete Runner Dylan | Treecko 23, Doduo 23                                                                              |
 | 089 | PKMN Breeder Lydia      | Cleffa 19, Igglybuff 19, Togepi 19, Budew 19, Smoochum 19, Mantyke 19                             |
 | 126 | PKMN Breeder Isaac      | Pichu 19, Azurill 19, Elekid 19, Magby 19, Riolu 19, Munchlax 19                                  |
 | 306 | Bug Maniac Derek        | Butterfree 23, Ledian 23, Mothim 23                                                               |
@@ -715,10 +715,10 @@ o-------------------------------------------------------------------------------
 | 624 | Teammates Anna & Meg (5)| Furret 39, Stoutland 40                                                                           |
 | 625 | Teammates Anna & Meg (7)| Furret 59, Stoutland 60                                                                           |
 | 626 | Teammates Anna & Meg (C)| Furret 75, Stoutland 76                                                                           |
-| 494 | Triathlete Dylan (4)    | Growlithe 35, Grovyle 35, Dodrio 35                                                               |
-| 495 | Triathlete Dylan (6)    | Arcanine 47, Sceptile 47, Dodrio 47, Poliwrath 47                                                 |
-| 496 | Triathlete Dylan (8)    | Arcanine 64, Sceptile 64, Dodrio 64, Poliwrath 64                                                 |
-| 497 | Triathlete Dylan (C)    | Arcanine 75, Sceptile 75, Dodrio 75, Poliwrath 75                                                 |
+| 494 | Triathlete Runner Dylan (4) | Growlithe 35, Grovyle 35, Dodrio 35                                                           |
+| 495 | Triathlete Runner Dylan (6) | Arcanine 47, Sceptile 47, Dodrio 47, Poliwrath 47                                             |
+| 496 | Triathlete Runner Dylan (8) | Arcanine 64, Sceptile 64, Dodrio 64, Poliwrath 64                                             |
+| 497 | Triathlete Runner Dylan (C) | Arcanine 75, Sceptile 75, Dodrio 75, Poliwrath 75                                             |
 | 519 | PKMN Breeder Lydia (4)  | Clefairy 35, Jigglypuff 35, Togetic 35, Roselia 35, Smoochum 35, Mantyke 35                       |
 | 520 | PKMN Breeder Lydia (5)  | Clefairy 39, Jigglypuff 39, Togetic 39, Roselia 39, Jynx 39, Mantine 39                           |
 | 521 | PKMN Breeder Lydia (7)  | Clefable 59, Wigglytuff 59, Togekiss 59, Roserade 59, Jynx 59, Mantine 59                         |
@@ -777,7 +777,7 @@ o-------------------------------------------------------------------------------
 | 076 | The Winstrates' Vivi     | Cloyster 25, Starmie 25                                                                          |
 | 578 | The Winstrates' Vicky    | Machamp 28                                                                                       |
 | 173 | Interviewers Gabby & Ty  | Magnemite 25, Whismur 25, Porygon 25, Rotom 25                                                   |
-| 308 | Picknicker Irene         | Meowth 24, Espurr 24, Hoothoot 24                                                                |
+| 308 | Picnicker Irene          | Meowth 24, Espurr 24, Hoothoot 24                                                                |
 | 309 | Camper Travis            | Ekans 23, Diglett 23, Slugma 23, Pawniard 23                                                     |
 | 721 | Backpacker Emory         | Heatmor 25, Carnivine 25                                                                         |
 | 310 | Ace Trainer Wilton       | Zebstrika 29, Scyther 29, Quagsire 29                                                            |
@@ -818,7 +818,7 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 079 | Camper Larry            | Karrablast 25, Turtwig 25, Skorupi 25                                                             |
-| 080 | Picknicker Carol        | Axew 25, Swablu 25, Gulpin 25                                                                     |
+| 080 | Picnicker Carol         | Axew 25, Swablu 25, Gulpin 25                                                                     |
 | 077 | Hiker Brice             | Golett 26, Dugtrio 26                                                                             |
 | 078 | Hiker Trent             | Graveler 25, Boldore 25, Steelix 25                                                               |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -951,7 +951,7 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 902 | Team Magma Grunt        | Golbat 30, Numel 30, Onix 30                                                                      |
-| 691 | Magma Admin Tabitha     | Mightyena 33, Weezing 33, Darmantian 35                                                           |
+| 691 | Magma Admin Tabitha     | Mightyena 33, Weezing 33, Darmanitan 35                                                           |
 | 903 | Team Aqua Grunt         | Golbat 30, Carvanha 30, Tangela 30                                                                |
 | 688 | Aqua Admin Shelly       | Liepard 33, Muk 33, Jellicent 35                                                                  |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1042,7 +1042,7 @@ o-------------------------------------------------------------------------------
 | 279 | Hiker Eric              | Pineco 32, Pineco 32, Forretress 32                                                               |
 | 280 | Camper Ethan            | Gligar 32, Swalot 32, Arbok 32                                                                    |
 | 769 | Fairy Tale Girl Nellie  | Floette 32, Whimsicott 32, Klefki 32                                                              |
-| 281 | Picknicker Diana        | Skiploom 32, Maractus 32, Bayleef 32                                                              |
+| 281 | Picnicker Diana         | Skiploom 32, Maractus 32, Bayleef 32                                                              |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Rematches                                                                                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -1058,8 +1058,8 @@ o-------------------------------------------------------------------------------
 | 472 | Camper Ethan (C)        | Gliscor 75, Swalot 75, Arbok 75, Drapion 75                                                       |
 | 473 | Picnicker Diana (5)     | Jumpluff 39, Maractus 39, Meganium 39                                                             |
 | 474 | Picnicker Diana (6)     | Jumpluff 47, Maractus 47, Meganium 47, Simisage 47                                                |
-| 475 | Picknicker Diana (7)    | Jumpluff 59, Maractus 59, Meganium 59, Simisage 59                                                |
-| 476 | Picknicker Diana (C)    | Jumpluff 75, Maractus 75, Meganium 75, Simisage 75                                                |
+| 475 | Picnicker Diana (7)     | Jumpluff 59, Maractus 59, Meganium 59, Simisage 59                                                |
+| 476 | Picnicker Diana (C)     | Jumpluff 75, Maractus 75, Meganium 75, Simisage 75                                                |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
@@ -1131,7 +1131,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 063 | Ace Trainer Randall     | Persian 37, Raticate 37, Lopunny 37                                                               |
 | 067 | Ace Trainer Mary        | Delcatty 37, Audino 37, Porygon2 37                                                               |
-| 064 | Ace Trainer Parker      | Gifararig 37, Dunsparce 37, Stantler 37                                                           |
+| 064 | Ace Trainer Parker      | Girafarig 37, Dunsparce 37, Stantler 37                                                           |
 | 068 | Ace Trainer Lori        | Tauros 37, Miltank 37, Furfrou 37                                                                 |
 | 065 | Ace Trainer George      | Chansey 37, Snorlax 37, Blissey 37                                                                |
 | 069 | Ace Trainer Jody        | Ursaring 37, Stoutland 37, Kangaskhan 37                                                          |
@@ -1166,7 +1166,7 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 028 | Swimmer Beverly         | Wartortle 36, Poliwhirl 36, Golduck 36                                                            |
-| 716 | Triathlete Vin          | Spheal 36, Seel 36, Sealeo 36                                                                     |
+| 716 | Triathlete Swimmer Vin  | Spheal 36, Seel 36, Sealeo 36                                                                     |
 | 029 | Swimmer Dawn            | Luvdisc 36, Luvdisc 36, Alomomola 36                                                              |
 | 595 | Ruin Maniac Foster      | Rampardos 37, Relicanth 37                                                                        |
 | 026 | Swimmer Luis            | Buizel 37, Floatzel 37                                                                            |
@@ -1248,7 +1248,6 @@ o-------------------------------------------------------------------------------
 | 466 | Young Couple Lois & Hal (7)         | Leavanny 59, Scolipede 59, Vileplume 59, Victreebel 59                                |
 | 467 | Young Couple Lois & Hal (8)         | Leavanny 64, Scolipede 64, Vileplume 64, Victreebel 64                                |
 | 498 | Young Couple Lois & Hal (C)         | Leavanny 75, Scolipede 75, Vileplume 75, Victreebel 75                                |
-| 782 | Mysterious Sisters Scall & Ion (6)  | Inaccessible                                                                          |
 | 783 | Mysterious Sisters Scall & Ion (7)  | Banette 61, Mr. Mime 60                                                               |
 | 784 | Mysterious Sisters Scall & Ion (8)  | Banette 66, Mr. Mime 65, Mismagius 66, Mawile 65                                      |
 | 785 | Mysterious Sisters Scall & Ion (C)  | Banette 76, Mr. Mime 75, Mismagius 76, Mawile 75                                      |
@@ -1345,7 +1344,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| xxx | Interviewers Gabby & Ty | See Route 111                                                                                     |
+| 173 | Interviewers Gabby & Ty | Magnemite 25, Whismur 25, Porygon 25, Rotom 25                                                    |
 | 316 | Fisherman Barny         | Feebas 38, Feebas 38                                                                              |
 | 318 | Bird Keeper Chester     | Staravia 37, Fearow 37, Vullaby 37                                                                |
 | 102 | Bird Keeper Perry       | Tranquill 37, Noctowl 37, Rufflet 37                                                              |
@@ -1552,7 +1551,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| xxx | Interviewers Gabby & Ty | See Route 111                                                                                     |
+| 173 | Interviewers Gabby & Ty | Magnemite 25, Whismur 25, Porygon 25, Rotom 25                                                    |
 | 324 | Parasol Lady Clarissa   | Castform 46                                                                                       |
 | 120 | Bird Keeper Robert      | Pidgeot 46                                                                                        |
 | 119 | Bird Keeper Colin       | Staraptor 46                                                                                      |
@@ -1814,7 +1813,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 330 | Hex Manaic Valerie      | Dusclops 49, Cofagrigus 49, Lampent 49                                                            |
+| 330 | Hex Maniac Valerie      | Dusclops 49, Cofagrigus 49, Lampent 49                                                            |
 | 191 | Poké Maniac Mark        | Donphan 49, Rhydon 49, Aggron 49                                                                  |
 | 189 | Psychic William         | Chimecho 50, Jynx 50, Hypno 50                                                                    |
 | 333 | Black Belt Atsushi      | Mienshao 51, Machamp 51                                                                           |
@@ -1977,7 +1976,7 @@ o-------------------------------------------------------------------------------
 | 238 | Team Magma Grunt        | Magcargo 52, Camerupt 52, Rhydon 52                                                               |
 | 336 | Team Magma Grunt        | Zangoose 54                                                                                       |
 | 240 | Team Magma Grunt        | Aggron 54                                                                                         |
-| 669 | Team Magma Grunts       | Flareon 39, Flareon 39, Flareon 39, Flareon 39, Flareon 39                                        |
+| 669 | Team Magma Grunt [5]    | Flareon 39, Flareon 39, Flareon 39, Flareon 39, Flareon 39                                        |
 | 696 | Magma Admin Courtney    | Rapidash 55, Pyroar 55, Rhyperior 55, Camerupt 55, Nidoking 55, Charizard 57                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Special Battle - Courtney                                                                                                         |
@@ -2012,7 +2011,7 @@ o-------------------------------------------------------------------------------
 | 180 | Team Aqua Grunt         | Lumineon 52, Sharpedo 52, Ferrothorn 52                                                           |
 | 334 | Team Aqua Grunt         | Seviper 54                                                                                        |
 | 182 | Team Aqua Grunt         | Victreebel 54                                                                                     |
-| 672 | Team Aqua Grunts        | Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39                                   |
+| 672 | Team Aqua Grunt [5]     | Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39                                   |
 | 685 | Aqua Admin Matt         | Golduck 55, Barbaracle 55, Ferrothorn 55, Sharpedo 55, Nidoqueen 55, Blastoise 57                 |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Special Battle - Matt                                                                                                             |
@@ -2155,7 +2154,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 718 | Triathlete Denzel       | Starmie 55, Sharpedo 55                                                                           |
+| 718 | Triathlete Swimmer Denzel | Starmie 55, Sharpedo 55                                                                         |
 | 134 | Swimmer Barry           | Gyarados 56                                                                                       |
 | 135 | Swimmer Dean            | Wailord 55, Barbaracle 55                                                                         |
 | 817 | Ace Trainer Harriet     | Froslass 55, Magmortar 55, Sceptile 55, Kingdra 55                                                |
@@ -2186,7 +2185,7 @@ o-------------------------------------------------------------------------------
 | 534 | Fisherman Henry         | Lanturn 56                                                                                        |
 | 535 | Fisherman Roger         | Kingler 56                                                                                        |
 | 538 | Black Belt Koji         | Infernape 55, Heracross 55, Emboar 55                                                             |
-| 717 | Triathlete Jaylon       | Floatzel 56                                                                                       |
+| 717 | Triathlete Swimmer Jaylon | Floatzel 56                                                                                     |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
@@ -2206,7 +2205,7 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 808 | Ace Trainer Cornelius   | Spiritomb 55, Noivern 55, Glalie 55, Eelektross 55                                                |
 | 539 | Fisherman Wayne         | Wailord 56                                                                                        |
-| 165 | Triathlete Isaiah       | Lumineon 56                                                                                       |
+| 165 | Triathlete Swimmer Isaiah | Lumineon 56                                                                                     |
 | 827 | Tuber Delmar            | Palpitoad 56                                                                                      |
 | 828 | Tuber Marlene           | Poliwhirl 56                                                                                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2214,9 +2213,9 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 484 | Triathlete Isaiah (7)   | Lumineon 59, Starmie 59, Floatzel 59, Kingdra 59                                                  |
-| 485 | Triathlete Isaiah (8)   | Lumineon 64, Starmie 64, Floatzel 64, Kingdra 64                                                  |
-| 486 | Triathlete Isaiah (C)   | Lumineon 75, Starmie 75, Floatzel 75, Kingdra 75                                                  |
+| 484 | Triathlete Swimmer Isaiah (7) | Lumineon 59, Starmie 59, Floatzel 59, Kingdra 59                                            |
+| 485 | Triathlete Swimmer Isaiah (8) | Lumineon 64, Starmie 64, Floatzel 64, Kingdra 64                                            |
+| 486 | Triathlete Swimmer Isaiah (C) | Lumineon 75, Starmie 75, Floatzel 75, Kingdra 75                                            |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
@@ -2250,7 +2249,7 @@ o-------------------------------------------------------------------------------
 | 541 | Swimmer Reed            | Seismitoad 54, Whiscash 54, Quagsire 54                                                           |
 | 818 | Ace Trainer Honor       | Vanilluxe 55, Gigalith 55, Simisage 55, Omastar 55                                                |
 | 542 | Swimmer Tisha           | Politoed 55, Simipour 55                                                                          |
-| 167 | Triathlete Chase        | Kingdra 56                                                                                        |
+| 167 | Triathlete Swimmer Chase | Kingdra 56                                                                                       |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
 o----------------------o
@@ -2269,7 +2268,7 @@ o-------------------------------------------------------------------------------
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | 149 | Swimmer Katie           | Pelipper 54, Mantine 55                                                                           |
-| 719 | Triathlete Karsen       | Azumarill 56                                                                                      |
+| 719 | Triathlete Swimmer Karsen | Azumarill 56                                                                                    |
 | 136 | Swimmer Rodney          | Tentacruel 54, Carracosta 54, Crawdaunt 54                                                        |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
@@ -2307,7 +2306,7 @@ o-------------------------------------------------------------------------------
 | 226 | Psychic Joshua          | Reuniclus 59, Espeon 59, Exeggutor 59                                                             |
 | 159 | Psychic Fritz           | Grumpig 59, Starmie 59, Alakazam 59                                                               |
 | 320 | Hex Maniac Kindra       | Wobbuffet 59, Gothitelle 59, Claydol 59                                                           |
-| 225 | Hex Manaic Patricia     | Jynx 59, Mr. Mime 59, Delphox 59                                                                  |
+| 225 | Hex Maniac Patricia     | Jynx 59, Mr. Mime 59, Delphox 59                                                                  |
 | 158 | Psychic Virgil          | Malamar 59, Musharna 59, Girafarig 59                                                             |
 | 552 | Leaders Liza & Tate     | Solrock 60, Lunatone 60, Bronzong 60, Slowking 60, Gallade 62, Gardevoir 62                       |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -3012,10 +3011,10 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 670 | Team Magma Grunts       | Flareon 59, Flareon 59, Flareon 59, Flareon 59, Flareon 59                                        |
+| 670 | Team Magma Grunt [5]    | Flareon 59, Flareon 59, Flareon 59, Flareon 59, Flareon 59                                        |
 | 901 | Team Magma Grunt        | Ninetales 75, Weezing 75, Emboar 75                                                               |
 | 698 | Magma Admin Courtney    | Charizard 79, Pyroar 77, Nidoking 77                                                              |
-| 673 | Team Aqua Grunts        | Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59                                   |
+| 673 | Team Aqua Grunt [5]     | Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59                                   |
 | 905 | Team Aqua Grunt         | Politoed 75, Muk 75, Feraligatr 75                                                                |
 | 688 | Aqua Admin Matt         | Blastoise 79, Barbaracle 77, Nidoqueen 77                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
