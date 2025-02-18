@@ -2,7 +2,7 @@
 
 ## [ Outside ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 |
 |:-------:|:--:|
@@ -11,7 +11,7 @@
 
 ## [ Inside ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

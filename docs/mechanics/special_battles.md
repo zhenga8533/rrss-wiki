@@ -16,6 +16,8 @@
 
 ## Mauville City
 
+### [ Main Area ]
+
 ### [ Gym ]
 
 ## Meteor Falls
@@ -42,7 +44,11 @@
 
 ## Magma Hideout
 
+### [ Main Area ]
+
 ## Aqua Hideout
+
+### [ Main Area ]
 
 ### [ Gym ]
 
@@ -57,6 +63,8 @@
 ### [ 2F ]
 
 ## Pokémon League
+
+### [ Main Area ]
 
 ### [ Main Area (Postgame) ]
 

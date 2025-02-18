@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Diglett](../../assets/sprites/diglett/front.gif "Diglett: Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.") | [Diglett](../../pokemon/diglett.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Grimer](../../assets/sprites/grimer/front.gif "Grimer: Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.") | [Grimer](../../pokemon/grimer.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Koffing](../../assets/sprites/koffing/front.gif "Koffing: Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon.") | [Koffing](../../pokemon/koffing.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -17,13 +17,13 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Magcargo](../../assets/sprites/magcargo/front.gif "Magcargo: Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.") | [Magcargo](../../pokemon/magcargo.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Dunsparce](../../assets/sprites/dunsparce/front.gif "Dunsparce: Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.") | [Dunsparce](../../pokemon/dunsparce.md/)<br>Lv. 15 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

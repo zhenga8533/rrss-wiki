@@ -1,6 +1,6 @@
 ## [ B2F ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
@@ -9,7 +9,7 @@
 
 ## [ 1F / 2F (Postgame) ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 | P4 |
 |:-------:|:--:|:--:|:--:|:--:|

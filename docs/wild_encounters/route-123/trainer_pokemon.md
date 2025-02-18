@@ -1,6 +1,6 @@
 # Route 123 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

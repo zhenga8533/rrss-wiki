@@ -1,6 +1,8 @@
 # Route 130 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
@@ -10,7 +12,7 @@
 
 ## [ Underwater ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 |
 |:-------:|:--:|

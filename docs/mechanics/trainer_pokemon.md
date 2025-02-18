@@ -54,6 +54,8 @@
 
 ## Route 107
 
+### [ Main Area ]
+
 ### [ Underwater ]
 
 ### [ B2F ]
@@ -68,11 +70,15 @@
 
 ## Mauville City
 
+### [ Main Area ]
+
 ### [ Gym ]
 
 ## Route 117
 
 ## Route 111
+
+### [ Main Area ]
 
 ### [ Desert ]
 
@@ -128,6 +134,8 @@
 
 ## Fortree City
 
+### [ Main Area ]
+
 ### [ Gym ]
 
 ## Route 120
@@ -152,13 +160,19 @@
 
 ## Magma Hideout
 
+### [ Main Area ]
+
 ### [ Main Area (Postgame) ]
 
 ## Aqua Hideout
 
+### [ Main Area ]
+
 ### [ Main Area (Postgame) ]
 
 ## Route 124
+
+### [ Main Area ]
 
 ### [ Underwater ]
 
@@ -170,25 +184,37 @@
 
 ## Route 126
 
+### [ Main Area ]
+
 ### [ Underwater ]
 
 ## Route 127
+
+### [ Main Area ]
 
 ### [ Underwater ]
 
 ## Route 128
 
+### [ Main Area ]
+
 ### [ Underwater ]
 
 ## Route 129
+
+### [ Main Area ]
 
 ### [ Underwater ]
 
 ## Route 130
 
+### [ Main Area ]
+
 ### [ Underwater ]
 
 ## Route 131
+
+### [ Main Area ]
 
 ### [ Main Area (Postgame) ]
 
@@ -213,6 +239,8 @@
 ### [ 2F ]
 
 ## Pokémon League
+
+### [ Main Area ]
 
 ### [ Main Area (Postgame) ]
 

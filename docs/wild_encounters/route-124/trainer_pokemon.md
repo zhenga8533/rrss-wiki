@@ -1,6 +1,8 @@
 # Route 124 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 ### Rematches
 
@@ -14,7 +16,7 @@
 
 ## [ Underwater ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

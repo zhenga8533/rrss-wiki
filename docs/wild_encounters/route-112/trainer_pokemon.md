@@ -2,7 +2,7 @@
 
 ## [ South ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 
@@ -15,7 +15,7 @@
 
 ## [ North ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|

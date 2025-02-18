@@ -1,6 +1,6 @@
 # Route 117 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

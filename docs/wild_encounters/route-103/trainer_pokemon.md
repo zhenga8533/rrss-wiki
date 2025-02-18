@@ -1,6 +1,6 @@
 # Route 103 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

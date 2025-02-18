@@ -1,6 +1,6 @@
 # Route 115 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

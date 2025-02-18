@@ -4,8 +4,8 @@
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Graveler](../../assets/sprites/graveler/front.gif "Graveler: Rocks are Graveler’s favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.") | [Graveler](../../pokemon/graveler.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Marowak](../../assets/sprites/marowak/front.gif "Marowak: Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon’s tempered and hardened spirit is not easily broken.") | [Marowak](../../pokemon/marowak.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -19,35 +19,35 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Loudred](../../assets/sprites/loudred/front.gif "Loudred: Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.") | [Loudred](../../pokemon/loudred.md/)<br>Lv. 37 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.") | [Floatzel](../../pokemon/floatzel.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.") | [Azumarill](../../pokemon/azumarill.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwag](../../assets/sprites/poliwag/front.gif "Poliwag: Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.") | [Poliwag](../../pokemon/poliwag.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 
@@ -55,8 +55,8 @@
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra: Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.") | [Kadabra](../../pokemon/kadabra.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Machoke](../../assets/sprites/machoke/front.gif "Machoke: Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train.") | [Machoke](../../pokemon/machoke.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Haunter](../../assets/sprites/haunter/front.gif "Haunter: Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.") | [Haunter](../../pokemon/haunter.md/)<br>Lv. 59 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -71,35 +71,35 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Galvantula](../../assets/sprites/galvantula/front.gif "Galvantula: When attacked, they create an electric barrier by spitting out many electrically charged threads.") | [Galvantula](../../pokemon/galvantula.md/)<br>Lv. 37 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.") | [Floatzel](../../pokemon/floatzel.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.") | [Azumarill](../../pokemon/azumarill.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwag](../../assets/sprites/poliwag/front.gif "Poliwag: Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.") | [Poliwag](../../pokemon/poliwag.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 
@@ -107,29 +107,29 @@
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.") | [Floatzel](../../pokemon/floatzel.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.") | [Azumarill](../../pokemon/azumarill.md/)<br>Lv. 55 - 65 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwag](../../assets/sprites/poliwag/front.gif "Poliwag: Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.") | [Poliwag](../../pokemon/poliwag.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 

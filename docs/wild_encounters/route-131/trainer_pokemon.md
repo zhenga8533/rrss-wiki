@@ -1,6 +1,8 @@
 # Route 131 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
@@ -12,7 +14,7 @@
 
 ## [ Main Area (Postgame) ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|

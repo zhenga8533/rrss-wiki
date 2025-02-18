@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Primeape](../../assets/sprites/primeape/front.gif "Primeape: When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.") | [Primeape](../../pokemon/primeape.md/)<br>Lv. 28 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Aipom](../../assets/sprites/aipom/front.gif "Aipom: Aipom’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.") | [Aipom](../../pokemon/aipom.md/)<br>Lv. 28 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Murkrow](../../assets/sprites/murkrow/front.gif "Murkrow: Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.") | [Murkrow](../../pokemon/murkrow.md/)<br>Lv. 28 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -17,13 +17,13 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Grumpig](../../assets/sprites/grumpig/front.gif "Grumpig: Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.") | [Grumpig](../../pokemon/grumpig.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Mankey](../../assets/sprites/mankey/front.gif "Mankey: When Mankey starts shaking and its nasal breathing turns rough, it’s a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.") | [Mankey](../../pokemon/mankey.md/)<br>Lv. 17 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

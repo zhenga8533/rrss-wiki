@@ -4,8 +4,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Meowth](../../assets/sprites/meowth/front.gif "Meowth: Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.") | [Meowth](../../pokemon/meowth.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Ponyta](../../assets/sprites/ponyta/front.gif "Ponyta: Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.") | [Ponyta](../../pokemon/ponyta.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Scyther](../../assets/sprites/scyther/front.gif "Scyther: Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon’s scythes are so effective, they can slice through thick logs in one wicked stroke.") | [Scyther](../../pokemon/scyther.md/)<br>Lv. 23 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -19,22 +19,22 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Scizor](../../assets/sprites/scizor/front.gif "Scizor: Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.") | [Scizor](../../pokemon/scizor.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Durant](../../assets/sprites/durant/front.gif "Durant: They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.") | [Durant](../../pokemon/durant.md/)<br>Lv. 15 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ North ]
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ekans](../../assets/sprites/ekans/front.gif "Ekans: Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.") | [Ekans](../../pokemon/ekans.md/)<br>Lv. 24 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Vulpix](../../assets/sprites/vulpix/front.gif "Vulpix: Inside Vulpix’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.") | [Vulpix](../../pokemon/vulpix.md/)<br>Lv. 24 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Pinsir](../../assets/sprites/pinsir/front.gif "Pinsir: Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.") | [Pinsir](../../pokemon/pinsir.md/)<br>Lv. 24 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -48,13 +48,13 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ninetales](../../assets/sprites/ninetales/front.gif "Ninetales: Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech.") | [Ninetales](../../pokemon/ninetales.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Tyrogue](../../assets/sprites/tyrogue/front.gif "Tyrogue: Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.") | [Tyrogue](../../pokemon/tyrogue.md/)<br>Lv. 15 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

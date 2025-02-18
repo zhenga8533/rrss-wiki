@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Venonat](../../assets/sprites/venonat/front.gif "Venonat: Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.") | [Venonat](../../pokemon/venonat.md/)<br>Lv. 9 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Pichu](../../assets/sprites/pichu/front.gif "Pichu: When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks.") | [Pichu](../../pokemon/pichu.md/)<br>Lv. 9 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Shroomish](../../assets/sprites/shroomish/front.gif "Shroomish: If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.") | [Shroomish](../../pokemon/shroomish.md/)<br>Lv. 9 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -18,14 +18,14 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Breloom](../../assets/sprites/breloom/front.gif "Breloom: The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.") | [Breloom](../../pokemon/breloom.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Bulbasaur](../../assets/sprites/bulbasaur/front.gif "Bulbasaur: Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.") | [Bulbasaur](../../pokemon/bulbasaur.md/)<br>Lv. 9 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 | ![Snivy](../../assets/sprites/snivy/front.gif "Snivy: They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.") | [Snivy](../../pokemon/snivy.md/)<br>Lv. 9 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 

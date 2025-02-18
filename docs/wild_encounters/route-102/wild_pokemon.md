@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Caterpie](../../assets/sprites/caterpie/front.gif "Caterpie: Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.") | [Caterpie](../../pokemon/caterpie.md/)<br>Lv. 6 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Weedle](../../assets/sprites/weedle/front.gif "Weedle: Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).") | [Weedle](../../pokemon/weedle.md/)<br>Lv. 6 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Bellsprout](../../assets/sprites/bellsprout/front.gif "Bellsprout: Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.") | [Bellsprout](../../pokemon/bellsprout.md/)<br>Lv. 6 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -18,39 +18,39 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Weepinbell](../../assets/sprites/weepinbell/front.gif "Weepinbell: Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.") | [Weepinbell](../../pokemon/weepinbell.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Charmander](../../assets/sprites/charmander/front.gif "Charmander: The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.") | [Charmander](../../pokemon/charmander.md/)<br>Lv. 6 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 | ![Chespin](../../assets/sprites/chespin/front.gif "Chespin: Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.") | [Chespin](../../pokemon/chespin.md/)<br>Lv. 6 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Surskit](../../assets/sprites/surskit/front.gif "Surskit: If Surskit senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some Pokémon that love eating this syrup.") | [Surskit](../../pokemon/surskit.md/)<br>Lv. 25 - 35 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Masquerain](../../assets/sprites/masquerain/front.gif "Masquerain: Masquerain’s antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.") | [Masquerain](../../pokemon/masquerain.md/)<br>Lv. 25 - 35 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Corphish](../../assets/sprites/corphish/front.gif "Corphish: Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food—it will eat anything. This Pokémon has no trouble living in filthy water.") | [Corphish](../../pokemon/corphish.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 100% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Corphish](../../assets/sprites/corphish/front.gif "Corphish: Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food—it will eat anything. This Pokémon has no trouble living in filthy water.") | [Corphish](../../pokemon/corphish.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 100% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Crawdaunt](../../assets/sprites/crawdaunt/front.gif "Crawdaunt: Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.") | [Crawdaunt](../../pokemon/crawdaunt.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 

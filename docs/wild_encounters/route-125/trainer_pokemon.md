@@ -1,6 +1,6 @@
 # Route 125 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

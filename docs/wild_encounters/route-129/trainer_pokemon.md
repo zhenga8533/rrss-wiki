@@ -1,6 +1,8 @@
 # Route 129 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 | P4 |
 |:-------:|:--:|:--:|:--:|:--:|
@@ -13,7 +15,7 @@
 
 ## [ Underwater ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 |
 |:-------:|:--:|

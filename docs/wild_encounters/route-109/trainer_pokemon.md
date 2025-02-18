@@ -1,6 +1,6 @@
 # Route 109 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

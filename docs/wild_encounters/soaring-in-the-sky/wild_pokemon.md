@@ -6,8 +6,8 @@
 
 ### Flocks
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Pidgeot](../../assets/sprites/pidgeot/front.gif "Pidgeot: This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.") | [Pidgeot](../../pokemon/pidgeot.md/)<br>Lv. 60 | ![Flocks](../../assets/encounter_types/flocks.png "Flocks")<br>Flocks | 14% |
 | ![Dragonite](../../assets/sprites/dragonite/front.gif "Dragonite: Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.") | [Dragonite](../../pokemon/dragonite.md/)<br>Lv. 60 | ![Flocks](../../assets/encounter_types/flocks.png "Flocks")<br>Flocks | 14% |
 | ![Staraptor](../../assets/sprites/staraptor/front.gif "Staraptor: When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.") | [Staraptor](../../pokemon/staraptor.md/)<br>Lv. 60 | ![Flocks](../../assets/encounter_types/flocks.png "Flocks")<br>Flocks | 14% |

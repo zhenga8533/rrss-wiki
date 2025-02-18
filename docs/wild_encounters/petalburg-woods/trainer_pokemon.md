@@ -1,6 +1,6 @@
 # Petalburg Woods — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

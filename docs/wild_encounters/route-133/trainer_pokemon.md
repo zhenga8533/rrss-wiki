@@ -1,6 +1,6 @@
 # Route 133 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 | P4 |
 |:-------:|:--:|:--:|:--:|:--:|

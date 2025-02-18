@@ -1,6 +1,6 @@
 # Route 116 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

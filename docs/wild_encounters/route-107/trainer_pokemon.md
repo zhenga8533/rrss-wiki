@@ -1,6 +1,8 @@
 # Route 107 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 ### Rematches
 
@@ -12,7 +14,7 @@
 
 ## [ Underwater ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 |
 |:-------:|:--:|

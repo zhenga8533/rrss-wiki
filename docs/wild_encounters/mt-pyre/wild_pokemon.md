@@ -4,8 +4,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly: Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.") | [Gastly](../../pokemon/gastly.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Ralts](../../assets/sprites/ralts/front.gif "Ralts: Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pokémon grows cheerful and joyous in the same way.") | [Ralts](../../pokemon/ralts.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -19,16 +19,16 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly: Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.") | [Gastly](../../pokemon/gastly.md/)<br>Lv. 25 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ 3F / 4F ]
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Haunter](../../assets/sprites/haunter/front.gif "Haunter: Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.") | [Haunter](../../pokemon/haunter.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Kirlia](../../assets/sprites/kirlia/front.gif "Kirlia: Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.") | [Kirlia](../../pokemon/kirlia.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -42,16 +42,16 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Haunter](../../assets/sprites/haunter/front.gif "Haunter: Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.") | [Haunter](../../pokemon/haunter.md/)<br>Lv. 30 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ Summit 1 ]
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Spearow](../../assets/sprites/spearow/front.gif "Spearow: Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.") | [Spearow](../../pokemon/spearow.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Vulpix](../../assets/sprites/vulpix/front.gif "Vulpix: Inside Vulpix’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.") | [Vulpix](../../pokemon/vulpix.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Growlithe](../../assets/sprites/growlithe/front.gif "Growlithe: Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.") | [Growlithe](../../pokemon/growlithe.md/)<br>Lv. 40 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -65,22 +65,22 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Mismagius](../../assets/sprites/mismagius/front.gif "Mismagius: Its cries sound like incantations to torment the foe. It appears where you least expect it.") | [Mismagius](../../pokemon/mismagius.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Bronzor](../../assets/sprites/bronzor/front.gif "Bronzor: Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.") | [Bronzor](../../pokemon/bronzor.md/)<br>Lv. 25 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ Summit 2 ]
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Fearow](../../assets/sprites/fearow/front.gif "Fearow: Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.") | [Fearow](../../pokemon/fearow.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Vulpix](../../assets/sprites/vulpix/front.gif "Vulpix: Inside Vulpix’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot.") | [Vulpix](../../pokemon/vulpix.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Growlithe](../../assets/sprites/growlithe/front.gif "Growlithe: Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.") | [Growlithe](../../pokemon/growlithe.md/)<br>Lv. 45 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -94,13 +94,13 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ninetales](../../assets/sprites/ninetales/front.gif "Ninetales: Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech.") | [Ninetales](../../pokemon/ninetales.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Bronzor](../../assets/sprites/bronzor/front.gif "Bronzor: Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.") | [Bronzor](../../pokemon/bronzor.md/)<br>Lv. 30 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

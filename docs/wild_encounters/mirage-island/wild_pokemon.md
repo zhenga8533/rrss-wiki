@@ -6,8 +6,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Mew*](../../assets/sprites/mew/front.gif "Mew*: Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.") | [Mew*](../../pokemon/mew.md/)<br>Lv. 65 - 68 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 5% |
 | ![Latias](../../assets/sprites/latias/front.gif "Latias: Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.") | [Latias](../../pokemon/latias.md/)<br>Lv. 65 - 68 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Latios](../../assets/sprites/latios/front.gif "Latios: Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.") | [Latios](../../pokemon/latios.md/)<br>Lv. 65 - 68 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -22,7 +22,7 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ditto](../../assets/sprites/ditto/front.gif "Ditto: Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.") | [Ditto](../../pokemon/ditto.md/)<br>Lv. 50 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 

@@ -1,6 +1,8 @@
 # Route 111 — Trainer Pokémon
 
-### Generic Trainers
+## [ Main Area ]
+
+### Trainer Rosters
 
 ### Rematches
 
@@ -22,7 +24,7 @@
 
 ## [ Desert ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

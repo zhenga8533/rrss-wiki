@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Pidgey](../../assets/sprites/pidgey/front.gif "Pidgey: Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.") | [Pidgey](../../pokemon/pidgey.md/)<br>Lv. 5 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Rattata](../../assets/sprites/rattata/front.gif "Rattata: Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.") | [Rattata](../../pokemon/rattata.md/)<br>Lv. 5 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Sentret](../../assets/sprites/sentret/front.gif "Sentret: When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.") | [Sentret](../../pokemon/sentret.md/)<br>Lv. 5 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -17,14 +17,14 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Linoone](../../assets/sprites/linoone/front.gif "Linoone: When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.") | [Linoone](../../pokemon/linoone.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Chikorita](../../assets/sprites/chikorita/front.gif "Chikorita: In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.") | [Chikorita](../../pokemon/chikorita.md/)<br>Lv. 5 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 | ![Fennekin](../../assets/sprites/fennekin/front.gif "Fennekin: As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.") | [Fennekin](../../pokemon/fennekin.md/)<br>Lv. 5 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 

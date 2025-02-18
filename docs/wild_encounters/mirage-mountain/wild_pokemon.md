@@ -6,8 +6,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Articuno](../../assets/sprites/articuno/front.gif "Articuno: Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.") | [Articuno](../../pokemon/articuno.md/)<br>Lv. 65 - 80 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Zapdos](../../assets/sprites/zapdos/front.gif "Zapdos: Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.") | [Zapdos](../../pokemon/zapdos.md/)<br>Lv. 65 - 80 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Moltres](../../assets/sprites/moltres/front.gif "Moltres: Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.") | [Moltres](../../pokemon/moltres.md/)<br>Lv. 65 - 80 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -22,7 +22,7 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ditto](../../assets/sprites/ditto/front.gif "Ditto: Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.") | [Ditto](../../pokemon/ditto.md/)<br>Lv. 60 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 

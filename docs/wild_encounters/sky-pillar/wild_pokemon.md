@@ -4,8 +4,8 @@
 
 ### Floor
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Raticate](../../assets/sprites/raticate/front.gif "Raticate: Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.") | [Raticate](../../pokemon/raticate.md/)<br>Lv. 67 | ![Floor](../../assets/encounter_types/floor.png "Floor")<br>Floor | 10% |
 | ![Ariados](../../assets/sprites/ariados/front.gif "Ariados: Ariados’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.") | [Ariados](../../pokemon/ariados.md/)<br>Lv. 67 | ![Floor](../../assets/encounter_types/floor.png "Floor")<br>Floor | 10% |
 | ![Altaria](../../assets/sprites/altaria/front.gif "Altaria: Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.") | [Altaria](../../pokemon/altaria.md/)<br>Lv. 67 | ![Floor](../../assets/encounter_types/floor.png "Floor")<br>Floor | 10% |
@@ -19,7 +19,7 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Altaria](../../assets/sprites/altaria/front.gif "Altaria: Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.") | [Altaria](../../pokemon/altaria.md/)<br>Lv. 43 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

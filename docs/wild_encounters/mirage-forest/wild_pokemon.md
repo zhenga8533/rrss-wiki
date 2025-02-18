@@ -6,8 +6,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Raikou](../../assets/sprites/raikou/front.gif "Raikou: Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.") | [Raikou](../../pokemon/raikou.md/)<br>Lv. 65 - 70 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Entei](../../assets/sprites/entei/front.gif "Entei: Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.") | [Entei](../../pokemon/entei.md/)<br>Lv. 65 - 70 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Suicune](../../assets/sprites/suicune/front.gif "Suicune: Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.") | [Suicune](../../pokemon/suicune.md/)<br>Lv. 65 - 70 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -22,7 +22,7 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ditto](../../assets/sprites/ditto/front.gif "Ditto: Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.") | [Ditto](../../pokemon/ditto.md/)<br>Lv. 60 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 

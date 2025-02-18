@@ -1,6 +1,6 @@
 # Route 113 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

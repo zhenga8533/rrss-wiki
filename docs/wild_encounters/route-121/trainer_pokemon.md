@@ -1,6 +1,6 @@
 # Route 121 — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

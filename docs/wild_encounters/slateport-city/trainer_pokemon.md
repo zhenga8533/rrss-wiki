@@ -1,6 +1,6 @@
 # Slateport City — Trainer Pokémon
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|

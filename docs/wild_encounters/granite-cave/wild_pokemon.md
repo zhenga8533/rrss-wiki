@@ -4,8 +4,8 @@
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 13 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Abra](../../assets/sprites/abra/front.gif "Abra: Abra needs to sleep for eighteen hours a day. If it doesn’t, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping.") | [Abra](../../pokemon/abra.md/)<br>Lv. 13 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Geodude](../../assets/sprites/geodude/front.gif "Geodude: When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food.") | [Geodude](../../pokemon/geodude.md/)<br>Lv. 13 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -19,22 +19,22 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Probopass](../../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | [Probopass](../../pokemon/probopass.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Tepig](../../assets/sprites/tepig/front.gif "Tepig: It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.") | [Tepig](../../pokemon/tepig.md/)<br>Lv. 12 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ B1F ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra: Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.") | [Kadabra](../../pokemon/kadabra.md/)<br>Lv. 18 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Onix](../../assets/sprites/onix/front.gif "Onix: Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.") | [Onix](../../pokemon/onix.md/)<br>Lv. 18 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Cubone](../../assets/sprites/cubone/front.gif "Cubone: Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.") | [Cubone](../../pokemon/cubone.md/)<br>Lv. 18 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -48,22 +48,22 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Probopass](../../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | [Probopass](../../pokemon/probopass.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 12 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ B2F ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Kadabra](../../assets/sprites/kadabra/front.gif "Kadabra: Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.") | [Kadabra](../../pokemon/kadabra.md/)<br>Lv. 20 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Graveler](../../assets/sprites/graveler/front.gif "Graveler: Rocks are Graveler’s favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.") | [Graveler](../../pokemon/graveler.md/)<br>Lv. 20 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Marowak](../../assets/sprites/marowak/front.gif "Marowak: Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon’s tempered and hardened spirit is not easily broken.") | [Marowak](../../pokemon/marowak.md/)<br>Lv. 20 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -77,19 +77,19 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Nosepass](../../assets/sprites/nosepass/front.gif "Nosepass: Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pokémon actually moves by a little over 3/8 of an inch every year.") | [Nosepass](../../pokemon/nosepass.md/)<br>Lv. 20 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Probopass](../../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | [Probopass](../../pokemon/probopass.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 12 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

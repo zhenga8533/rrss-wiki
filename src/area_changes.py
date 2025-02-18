@@ -131,12 +131,12 @@ def parse_changes(area_changes: dict, data_pokemon: Data, dir_path: str, logger:
                 # Add location headers
                 if first_pass:
                     mds[category] += f"## {area}\n\n"
+                    mds[category] += "" if section == "Main Area" and len(sections) == 1 else f"### [ {section} ]\n\n"
                     area_mds[category] = f"# {area} — {revert_id(category, symbol='_')}\n\n"
-                    section_md = "" if section == "Main Area" or len(changes) == 0 else f"### [ {section} ]\n\n"
+                    area_mds += f"## [ {section} ]\n\n"
                 else:
-                    section_md = f"## {area}\n\n" if section == "Main Area" else f"### [ {section} ]\n\n"
-                mds[category] += section_md
-                area_mds[category] += section_md.replace("###", "##")
+                    mds[category] += f"### [ {section} ]\n\n"
+                    area_mds[category] += f"## [ {section} ]\n\n"
 
                 # Parse change data
                 md, area_md = (

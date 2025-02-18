@@ -2,8 +2,8 @@
 
 ### Tall Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Parasect](../../assets/sprites/parasect/front.gif "Parasect: Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.") | [Parasect](../../pokemon/parasect.md/)<br>Lv. 45 | ![Tall Grass](../../assets/encounter_types/tall_grass.png "Tall Grass")<br>Tall Grass | 10% |
 | ![Venomoth](../../assets/sprites/venomoth/front.gif "Venomoth: Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.") | [Venomoth](../../pokemon/venomoth.md/)<br>Lv. 45 | ![Tall Grass](../../assets/encounter_types/tall_grass.png "Tall Grass")<br>Tall Grass | 10% |
 | ![Dugtrio](../../assets/sprites/dugtrio/front.gif "Dugtrio: Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.") | [Dugtrio](../../pokemon/dugtrio.md/)<br>Lv. 45 | ![Tall Grass](../../assets/encounter_types/tall_grass.png "Tall Grass")<br>Tall Grass | 10% |
@@ -17,32 +17,32 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Machop](../../assets/sprites/machop/front.gif "Machop: Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.") | [Machop](../../pokemon/machop.md/)<br>Lv. 30 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Marill](../../assets/sprites/marill/front.gif "Marill: When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.") | [Marill](../../pokemon/marill.md/)<br>Lv. 35 - 45 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.") | [Azumarill](../../pokemon/azumarill.md/)<br>Lv. 35 - 45 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Corphish](../../assets/sprites/corphish/front.gif "Corphish: Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food—it will eat anything. This Pokémon has no trouble living in filthy water.") | [Corphish](../../pokemon/corphish.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 100% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Corphish](../../assets/sprites/corphish/front.gif "Corphish: Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food—it will eat anything. This Pokémon has no trouble living in filthy water.") | [Corphish](../../pokemon/corphish.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 100% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Crawdaunt](../../assets/sprites/crawdaunt/front.gif "Crawdaunt: Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.") | [Crawdaunt](../../pokemon/crawdaunt.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 

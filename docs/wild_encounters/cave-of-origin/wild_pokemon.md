@@ -4,8 +4,8 @@
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 57 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Aerodactyl](../../assets/sprites/aerodactyl/front.gif "Aerodactyl: Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.") | [Aerodactyl](../../pokemon/aerodactyl.md/)<br>Lv. 57 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Sableye](../../assets/sprites/sableye/front.gif "Sableye: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.") | [Sableye](../../pokemon/sableye.md/)<br>Lv. 57 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -19,21 +19,21 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 37 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ B1F / B2F / B3F / B4F / B5F ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Unown](../../assets/sprites/unown/front.gif "Unown: This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.") | [Unown](../../pokemon/unown.md/)<br>Lv. 5 - 75 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Unown](../../assets/sprites/unown/front.gif "Unown: This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.") | [Unown](../../pokemon/unown.md/)<br>Lv. 5 - 75 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

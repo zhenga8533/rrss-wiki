@@ -6,8 +6,8 @@
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Mewtwo*](../../assets/sprites/mewtwo/front.gif "Mewtwo*: Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.") | [Mewtwo*](../../pokemon/mewtwo.md/)<br>Lv. 65 - 70 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 5% |
 | ![Kyogre](../../assets/sprites/kyogre/front.gif "Kyogre: Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.") | [Kyogre](../../pokemon/kyogre.md/)<br>Lv. 65 - 70 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Groudon](../../assets/sprites/groudon/front.gif "Groudon: Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.") | [Groudon](../../pokemon/groudon.md/)<br>Lv. 65 - 70 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -22,7 +22,7 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Ditto](../../assets/sprites/ditto/front.gif "Ditto: Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.") | [Ditto](../../pokemon/ditto.md/)<br>Lv. 60 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 

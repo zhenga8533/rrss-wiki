@@ -4,34 +4,34 @@
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 45 - 55 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 100% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 100% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 100% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 
 ## [ Front Rooms ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Omanyte](../../assets/sprites/omanyte/front.gif "Omanyte: Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.") | [Omanyte](../../pokemon/omanyte.md/)<br>Lv. 44 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Kabuto](../../assets/sprites/kabuto/front.gif "Kabuto: Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.") | [Kabuto](../../pokemon/kabuto.md/)<br>Lv. 44 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Anorith](../../assets/sprites/anorith/front.gif "Anorith: Anorith is said to be a type of Pokémon predecessor, with eight wings at the sides of its body. This Pokémon swam in the primordial sea by undulating these eight wings.") | [Anorith](../../pokemon/anorith.md/)<br>Lv. 44 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -45,22 +45,22 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Shuckle](../../assets/sprites/shuckle/front.gif "Shuckle: Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.") | [Shuckle](../../pokemon/shuckle.md/)<br>Lv. 44 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 30 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ## [ Water Rooms ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 16% |
 | ![Aerodactyl](../../assets/sprites/aerodactyl/front.gif "Aerodactyl: Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.") | [Aerodactyl](../../pokemon/aerodactyl.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 16% |
 | ![Swoobat](../../assets/sprites/swoobat/front.gif "Swoobat: Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.") | [Swoobat](../../pokemon/swoobat.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 16% |
@@ -70,41 +70,41 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 35 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Tentacruel](../../assets/sprites/tentacruel/front.gif "Tentacruel: Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.") | [Tentacruel](../../pokemon/tentacruel.md/)<br>Lv. 45 - 55 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Jellicent](../../assets/sprites/jellicent/front.gif "Jellicent: The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.") | [Jellicent](../../pokemon/jellicent.md/)<br>Lv. 45 - 55 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 100% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 100% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 
 ## [ Back Rooms ]
 
 ### Cave
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Omastar](../../assets/sprites/omastar/front.gif "Omastar: Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.") | [Omastar](../../pokemon/omastar.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Kabutops](../../assets/sprites/kabutops/front.gif "Kabutops: Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.") | [Kabutops](../../pokemon/kabutops.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
 | ![Armaldo](../../assets/sprites/armaldo/front.gif "Armaldo: Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.") | [Armaldo](../../pokemon/armaldo.md/)<br>Lv. 56 | ![Cave](../../assets/encounter_types/cave.png "Cave")<br>Cave | 10% |
@@ -118,13 +118,13 @@
 
 ### Rock Smash
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Shuckle](../../assets/sprites/shuckle/front.gif "Shuckle: Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.") | [Shuckle](../../pokemon/shuckle.md/)<br>Lv. 56 | ![Rock Smash](../../assets/encounter_types/rock_smash.png "Rock Smash")<br>Rock Smash | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 35 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

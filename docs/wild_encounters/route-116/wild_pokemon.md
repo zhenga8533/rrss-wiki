@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Growlithe](../../assets/sprites/growlithe/front.gif "Growlithe: Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won’t forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.") | [Growlithe](../../pokemon/growlithe.md/)<br>Lv. 10 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Doduo](../../assets/sprites/doduo/front.gif "Doduo: Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.") | [Doduo](../../pokemon/doduo.md/)<br>Lv. 10 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Natu](../../assets/sprites/natu/front.gif "Natu: Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree’s new shoots.") | [Natu](../../pokemon/natu.md/)<br>Lv. 10 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -18,13 +18,13 @@
 
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Delcatty](../../assets/sprites/delcatty/front.gif "Delcatty: Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.") | [Delcatty](../../pokemon/delcatty.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Eevee](../../assets/sprites/eevee/front.gif "Eevee: Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.") | [Eevee](../../pokemon/eevee.md/)<br>Lv. 10 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 

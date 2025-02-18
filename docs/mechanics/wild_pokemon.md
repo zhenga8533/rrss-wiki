@@ -106,6 +106,8 @@
 
 ## Petalburg City
 
+### [ Main Area ]
+
 **Surfing** (Lv. 25 - 35)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/marill/'>Marill</a> (50%)</li><li><a href='/rrss-wiki/pokemon/azumarill/'>Azumarill</a> (50%)</li></ol></code></pre>
@@ -250,6 +252,8 @@
 
 ## Dewford Town
 
+### [ Main Area ]
+
 **Surfing** (Lv. 25 - 35)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/wingull/'>Wingull</a> (25%)</li><li><a href='/rrss-wiki/pokemon/tentacool/'>Tentacool</a> (25%)</li><li><a href='/rrss-wiki/pokemon/frillish/'>Frillish</a> (25%)</li><li><a href='/rrss-wiki/pokemon/pelipper/'>Pelipper</a> (25%)</li></ol></code></pre>
@@ -267,6 +271,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/cloyster/'>Cloyster</a> (33%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
 
 ## Route 107
+
+### [ Main Area ]
 
 **DexNav** (Lv. 50)
 
@@ -443,6 +449,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (100%)</li></ol></code></pre>
 
 ## Route 111
+
+### [ Main Area ]
 
 **Rock Smash** (Lv. 22)
 
@@ -974,6 +982,8 @@
 
 ## Scorched Slab
 
+### [ Main Area ]
+
 **Cave** (Lv. 35)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/zubat/'>Zubat</a> (10%)</li><li><a href='/rrss-wiki/pokemon/onix/'>Onix</a> (10%)</li><li><a href='/rrss-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/aron/'>Aron</a> (10%)</li><li><a href='/rrss-wiki/pokemon/woobat/'>Woobat</a> (10%)</li><li><a href='/rrss-wiki/pokemon/drilbur/'>Drilbur</a> (10%)</li><li><a href='/rrss-wiki/pokemon/timburr/'>Timburr</a> (10%)</li><li><a href='/rrss-wiki/pokemon/axew/'>Axew</a> (10%)</li><li><a href='/rrss-wiki/pokemon/larvesta/'>Larvesta</a> (10%)</li><li><a href='/rrss-wiki/pokemon/noibat/'>Noibat</a> (10%)</li></ol></code></pre>
@@ -1302,6 +1312,8 @@
 
 ## Magma Hideout
 
+### [ Main Area ]
+
 **Surfing** (Lv. 40 - 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacool/'>Tentacool</a> (50%)</li><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (50%)</li></ol></code></pre>
@@ -1320,6 +1332,8 @@
 
 ## Aqua Hideout
 
+### [ Main Area ]
+
 **Surfing** (Lv. 40 - 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacool/'>Tentacool</a> (50%)</li><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (50%)</li></ol></code></pre>
@@ -1337,6 +1351,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/wailmer/'>Wailmer</a> (100%)</li></ol></code></pre>
 
 ## Route 124
+
+### [ Main Area ]
 
 **DexNav** (Lv. 50)
 
@@ -1365,6 +1381,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
 ## Mossdeep City
+
+### [ Main Area ]
 
 **Surfing** (Lv. 40 - 50)
 
@@ -1482,6 +1500,8 @@
 
 ## Route 126
 
+### [ Main Area ]
+
 **DexNav** (Lv. 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/alomomola/'>Alomomola</a> (100%)</li></ol></code></pre>
@@ -1510,6 +1530,8 @@
 
 ## Route 127
 
+### [ Main Area ]
+
 **DexNav** (Lv. 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/alomomola/'>Alomomola</a> (100%)</li></ol></code></pre>
@@ -1531,6 +1553,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (50%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (50%)</li></ol></code></pre>
 
 ## Route 128
+
+### [ Main Area ]
 
 **DexNav** (Lv. 50)
 
@@ -1578,6 +1602,8 @@
 
 ## Route 129
 
+### [ Main Area ]
+
 **DexNav** (Lv. 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/alomomola/'>Alomomola</a> (100%)</li></ol></code></pre>
@@ -1606,6 +1632,8 @@
 
 ## Route 130
 
+### [ Main Area ]
+
 **DexNav** (Lv. 50)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/alomomola/'>Alomomola</a> (100%)</li></ol></code></pre>
@@ -1633,6 +1661,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
 ## Route 131
+
+### [ Main Area ]
 
 **DexNav** (Lv. 50)
 
@@ -1813,6 +1843,8 @@
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/golbat/'>Golbat</a> (100%)</li></ol></code></pre>
 
 ## Sootopolis City
+
+### [ Main Area ]
 
 **Surfing** (Lv. 45 - 55)
 

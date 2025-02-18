@@ -2,7 +2,7 @@
 
 ## [ 1F ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
@@ -13,7 +13,7 @@
 
 ## [ 1F / 2F ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 
@@ -24,7 +24,7 @@
 
 ## [ B1F ]
 
-### Generic Trainers
+### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 | P4 | P5 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|

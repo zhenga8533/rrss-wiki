@@ -2,7 +2,7 @@
 
 ## [ Fortree ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 
@@ -14,7 +14,7 @@
 
 ## [ Southwest ]
 
-### Generic Trainers
+### Trainer Rosters
 
 ### Rematches
 

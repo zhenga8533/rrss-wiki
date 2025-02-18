@@ -1,36 +1,38 @@
 # Route 128 — Wild Pokémon
 
+## [ Main Area ]
+
 ### DexNav
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Alomomola](../../assets/sprites/alomomola/front.gif "Alomomola: It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.") | [Alomomola](../../pokemon/alomomola.md/)<br>Lv. 50 | ![DexNav](../../assets/encounter_types/dexnav.png "DexNav")<br>DexNav | 100% |
 
 ### Surfing
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Frillish](../../assets/sprites/frillish/front.gif "Frillish: If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.") | [Frillish](../../pokemon/frillish.md/)<br>Lv. 40 - 50 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 | ![Jellicent](../../assets/sprites/jellicent/front.gif "Jellicent: The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.") | [Jellicent](../../pokemon/jellicent.md/)<br>Lv. 40 - 50 | ![Surfing](../../assets/encounter_types/surfing.png "Surfing")<br>Surfing | 50% |
 
 ### Old Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Luvdisc](../../assets/sprites/luvdisc/front.gif "Luvdisc: Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.") | [Luvdisc](../../pokemon/luvdisc.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 15 | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod")<br>Old Rod | 50% |
 
 ### Good Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Luvdisc](../../assets/sprites/luvdisc/front.gif "Luvdisc: Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.") | [Luvdisc](../../pokemon/luvdisc.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 35 | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod")<br>Good Rod | 50% |
 
 ### Super Rod
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Luvdisc](../../assets/sprites/luvdisc/front.gif "Luvdisc: Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.") | [Luvdisc](../../pokemon/luvdisc.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 
@@ -38,8 +40,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Tentacruel](../../assets/sprites/tentacruel/front.gif "Tentacruel: Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.") | [Tentacruel](../../pokemon/tentacruel.md/)<br>Lv. 55 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Seadra](../../assets/sprites/seadra/front.gif "Seadra: Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.") | [Seadra](../../pokemon/seadra.md/)<br>Lv. 55 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Starmie](../../assets/sprites/starmie/front.gif "Starmie: Starmie swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this Pokémon’s body glows in seven colors.") | [Starmie](../../pokemon/starmie.md/)<br>Lv. 55 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |

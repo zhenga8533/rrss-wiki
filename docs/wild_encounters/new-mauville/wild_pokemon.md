@@ -2,8 +2,8 @@
 
 ### Grass
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Pikachu](../../assets/sprites/pikachu/front.gif "Pikachu: This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.") | [Pikachu](../../pokemon/pikachu.md/)<br>Lv. 35 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Magneton](../../assets/sprites/magneton/front.gif "Magneton: Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.") | [Magneton](../../pokemon/magneton.md/)<br>Lv. 35 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
 | ![Muk](../../assets/sprites/muk/front.gif "Muk: This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.") | [Muk](../../pokemon/muk.md/)<br>Lv. 35 | ![Grass](../../assets/encounter_types/grass.png "Grass")<br>Grass | 10% |
@@ -18,8 +18,8 @@
 
 ### Horde
 
-| Sprite | Pokémon | Encounter Type | Chance |
-|:------:|---------|:--------------:|--------|
+| Sprite | Pokémon | Encounter | Chance |
+|:------:|---------|:---------:|--------|
 | ![Klink](../../assets/sprites/klink/front.gif "Klink: The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.") | [Klink](../../pokemon/klink.md/)<br>Lv. 23 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 | ![Tynamo](../../assets/sprites/tynamo/front.gif "Tynamo: One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.") | [Tynamo](../../pokemon/tynamo.md/)<br>Lv. 23 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 50% |
 
