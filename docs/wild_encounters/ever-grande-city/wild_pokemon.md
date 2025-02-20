@@ -1,5 +1,7 @@
 # Ever Grande City — Wild Pokémon
 
+## [ Main Area ]
+
 ### Surfing
 
 | Sprite | Pokémon | Encounter | Chance |

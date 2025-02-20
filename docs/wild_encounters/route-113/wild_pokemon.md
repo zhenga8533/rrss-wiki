@@ -1,5 +1,7 @@
 # Route 113 — Wild Pokémon
 
+## [ Main Area ]
+
 ### Grass
 
 | Sprite | Pokémon | Encounter | Chance |

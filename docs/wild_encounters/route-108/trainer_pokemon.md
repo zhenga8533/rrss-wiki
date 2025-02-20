@@ -1,5 +1,7 @@
 # Route 108 — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

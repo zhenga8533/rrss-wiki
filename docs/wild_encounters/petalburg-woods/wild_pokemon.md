@@ -1,5 +1,7 @@
 # Petalburg Woods — Wild Pokémon
 
+## [ Main Area ]
+
 ### Grass
 
 | Sprite | Pokémon | Encounter | Chance |

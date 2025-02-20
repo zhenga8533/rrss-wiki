@@ -1,5 +1,7 @@
 # Soaring in the Sky — Wild Pokémon
 
+## [ Main Area ]
+
 **Note:** <i>You will only see these Pokémon if you were able to use the .cro file!</i>
 
 **Hint:** <i>Any wild Pokémon found here will have their hidden ability as well as at least 3 perfect IVs.</i>

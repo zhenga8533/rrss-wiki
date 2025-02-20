@@ -1,5 +1,7 @@
 # Jagged Pass — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

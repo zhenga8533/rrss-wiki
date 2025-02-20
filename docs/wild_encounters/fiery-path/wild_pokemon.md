@@ -1,5 +1,7 @@
 # Fiery Path — Wild Pokémon
 
+## [ Main Area ]
+
 ### Grass
 
 | Sprite | Pokémon | Encounter | Chance |

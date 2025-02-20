@@ -1,5 +1,7 @@
 # Rusturf Tunnel — Wild Pokémon
 
+## [ Main Area ]
+
 ### Cave
 
 | Sprite | Pokémon | Encounter | Chance |

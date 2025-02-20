@@ -1,5 +1,7 @@
 # Route 105 — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 | Trainer | P1 | P2 | P3 |

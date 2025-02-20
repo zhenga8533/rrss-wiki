@@ -1,5 +1,7 @@
 # Route 117 — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

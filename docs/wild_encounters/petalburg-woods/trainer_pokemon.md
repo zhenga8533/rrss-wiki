@@ -1,5 +1,7 @@
 # Petalburg Woods — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

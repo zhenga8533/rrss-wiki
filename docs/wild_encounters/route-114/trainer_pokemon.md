@@ -1,5 +1,7 @@
 # Route 114 — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

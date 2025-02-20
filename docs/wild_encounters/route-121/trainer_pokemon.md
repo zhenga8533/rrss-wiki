@@ -1,5 +1,7 @@
 # Route 121 — Trainer Pokémon
 
+## [ Main Area ]
+
 ### Trainer Rosters
 
 ### Rematches

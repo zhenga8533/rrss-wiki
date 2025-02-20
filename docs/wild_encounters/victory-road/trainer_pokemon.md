@@ -26,7 +26,8 @@
 
 ### Trainer Rosters
 
+### Special Battles
+
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![PKMN Trainer Wally](../../assets/important_trainers/wally.png "PKMN Trainer Wally")<br>PKMN Trainer Wally [583] | <div class="sprite-cell">![Roserade](../../assets/sprites/roserade/front.gif "Roserade: With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.")<br>[Roserade](../../pokemon/roserade.md)<br>Lv. 70</div> | <div class="sprite-cell">![Talonflame](../../assets/sprites/talonflame/front.gif "Talonflame: When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.")<br>[Talonflame](../../pokemon/talonflame.md)<br>Lv. 70</div> | <div class="sprite-cell">![Azumarill](../../assets/sprites/azumarill/front.gif "Azumarill: Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.")<br>[Azumarill](../../pokemon/azumarill.md)<br>Lv. 70</div> | <div class="sprite-cell">![Magnezone](../../assets/sprites/magnezone/front.gif "Magnezone: It evolved from exposure to a special magnetic field. Three units generate magnetism.")<br>[Magnezone](../../pokemon/magnezone.md)<br>Lv. 70</div> | <div class="sprite-cell">![Garchomp](../../assets/sprites/garchomp/front.gif "Garchomp: It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.")<br>[Garchomp](../../pokemon/garchomp.md)<br>Lv. 70</div> | <div class="sprite-cell">![Gallade](../../assets/sprites/gallade/front.gif "Gallade: A master of courtesy and swordsmanship, it fights using extending swords on its elbows.")<br>[Gallade](../../pokemon/gallade.md)<br>Lv. 72</div> |
 

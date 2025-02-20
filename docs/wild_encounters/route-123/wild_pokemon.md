@@ -1,5 +1,7 @@
 # Route 123 — Wild Pokémon
 
+## [ Main Area ]
+
 ### Tall Grass
 
 | Sprite | Pokémon | Encounter | Chance |

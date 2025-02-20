@@ -11,7 +11,8 @@
 
 ### Trainer Rosters
 
+### Special Battles
+
 | Trainer | P1 | P2 | P3 | P4 |
 |:-------:|:--:|:--:|:--:|:--:|
-| ![Lorekeeper Zinnia](../../assets/important_trainers/zinnia.png "Lorekeeper Zinnia")<br>Lorekeeper Zinnia [898] | <div class="sprite-cell">![Altaria](../../assets/sprites/altaria/front.gif "Altaria: Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.")<br>[Altaria](../../pokemon/altaria.md)<br>Lv. 76</div> | <div class="sprite-cell">![Tyrantrum](../../assets/sprites/tyrantrum/front.gif "Tyrantrum: Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.")<br>[Tyrantrum](../../pokemon/tyrantrum.md)<br>Lv. 76</div> | <div class="sprite-cell">![Noivern](../../assets/sprites/noivern/front.gif "Noivern: The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.")<br>[Noivern](../../pokemon/noivern.md)<br>Lv. 76</div> | <div class="sprite-cell">![Salamence](../../assets/sprites/salamence/front.gif "Salamence: By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.")<br>[Salamence](../../pokemon/salamence.md)<br>Lv. 78</div> |
 

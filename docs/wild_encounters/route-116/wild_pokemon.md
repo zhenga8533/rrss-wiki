@@ -1,5 +1,7 @@
 # Route 116 — Wild Pokémon
 
+## [ Main Area ]
+
 ### Grass
 
 | Sprite | Pokémon | Encounter | Chance |
