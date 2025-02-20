@@ -12,7 +12,7 @@
 
 ### [ 1F / 2F (Postgame) ]
 
-## Route 110
+### [ Trick House (Dark Room) ]
 
 ## Mauville City
 
@@ -44,11 +44,7 @@
 
 ## Magma Hideout
 
-### [ Main Area ]
-
 ## Aqua Hideout
-
-### [ Main Area ]
 
 ### [ Gym ]
 

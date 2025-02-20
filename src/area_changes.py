@@ -53,7 +53,7 @@ def parse_wild_pokemon(wild_pokemon: list[str], data_pokemon: Data, logger: Logg
 
 def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
     # Initialize markdown string
-    trainers_md = ""
+    trainers_md = "<h3>Trainer Rosters</h3>\n\n"
     section_md = "### Trainer Rosters\n\n"
     section_table = ""
 
@@ -64,23 +64,40 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
 
     # Parse trainer data
     num_pokemon = 0
+    special_battle = False
     for line in trainers:
         if line.startswith("ID"):
             continue
         elif line == "Rematches":
+            trainers_md += "<h3>Rematches</h3>\n\n"
             section_md += "### Rematches\n\n"
             section_table = ""
             continue
+        elif line.startswith("Special Battle"):
+            if not special_battle:
+                special_battle = True
+                trainers_md += "<h3>Special Battles</h3>\n\n"
+                section_md += "### Special Battles\n\n"
+                section_table = ""
+
+            trainer = line.split(" - ")[1]
+            if line.startswith("Rival"):
+                trainer = "Rival"
+            trainers_md += f"1. {trainer}\n\n"
+            continue
 
         trainer_id, trainer, roster = [s.strip() for s in line.split("|")]
+
+        trainers_md += f"1. {trainer} [{trainer_id}]\n\n"
 
         trainer_sprite = find_trainer_sprite(trainer, "trainers", logger).replace("../", "../../")
         section_table += f"| {trainer_sprite}<br>{trainer} [{trainer_id}] |"
 
         pokemon = roster.split(", ")
         num_pokemon = max(num_pokemon, len(pokemon))
-        for p in pokemon:
+        for i, p in enumerate(pokemon):
             p, level = p.rsplit(" ", 1)
+            trainers_md += f"\t{i}. Lv. {level} [{p}](../pokemon/{format_id(p)}.md/)\n\n"
 
             pokemon_sprite = find_pokemon_sprite(p, "front", data_pokemon, logger).replace("../", "../../")
             pokemon_link = f"[{p}](../../pokemon/{format_id(p)}.md)"
@@ -103,22 +120,16 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
     return wild_pokemon_md, section_md
 
 
-def parse_changes(area_changes: dict, data_pokemon: Data, dir_path: str, logger: Logger) -> dict[str, str]:
+def parse_changes(
+    area_changes: dict, data_pokemon: Data, dir_path: str, keys: list[str], logger: Logger
+) -> dict[str, str]:
     # Initialize markdown strings
-    mds = {
-        "wild_pokemon": "",
-        "trainer_pokemon": "",
-        "special_battles": "",
-    }
+    mds = {key: "" for key in keys}
 
     # Parse area changes data
     for area, sections in area_changes.items():
         first_pass = True
-        area_mds = {
-            "wild_pokemon": "",
-            "trainer_pokemon": "",
-            "special_battles": "",
-        }
+        area_mds = {key: "" for key in keys}
 
         for section, categories in sections.items():
             logger.log(logging.DEBUG, f"Parsing area changes for {area} [ {section} ]...")
@@ -131,9 +142,10 @@ def parse_changes(area_changes: dict, data_pokemon: Data, dir_path: str, logger:
                 # Add location headers
                 if first_pass:
                     mds[category] += f"## {area}\n\n"
-                    mds[category] += "" if section == "Main Area" and len(sections) == 1 else f"### [ {section} ]\n\n"
+                    cat_changes = len([s for s in sections if len(sections[s][category]) > 0])
+                    mds[category] += "" if section == "Main Area" and cat_changes == 1 else f"### [ {section} ]\n\n"
                     area_mds[category] = f"# {area} — {revert_id(category, symbol='_')}\n\n"
-                    area_mds += f"## [ {section} ]\n\n"
+                    area_mds[category] += f"## [ {section} ]\n\n"
                 else:
                     mds[category] += f"### [ {section} ]\n\n"
                     area_mds[category] += f"## [ {section} ]\n\n"
@@ -196,6 +208,8 @@ def main():
         "trainer_pokemon": "# Trainer Pokémon\n\n---\n\n## Overview\n\n",
         "special_battles": "# Special Battles\n\n",
     }
+    keys = list(mds.keys())
+
     area_changes = {}
     curr_location = None
     curr_section = None
@@ -229,11 +243,7 @@ def main():
                     curr_section += " (Postgame)"
 
                 area_changes[curr_location] = area_changes.get(curr_location, {})
-                area_changes[curr_location][curr_section] = {
-                    "wild_pokemon": [],
-                    "trainer_pokemon": [],
-                    "special_battles": [],
-                }
+                area_changes[curr_location][curr_section] = {key: [] for key in keys}
             # Change table formatting
             elif " | " in line:
                 area_changes[curr_location][curr_section][change_key].append(line)
@@ -246,9 +256,16 @@ def main():
 
                 if line.startswith("Trainers"):
                     change_key = "trainer_pokemon"
+                    if " - " in line:
+                        curr_section = line.split(" - ")[1]
+                        location_changes = area_changes[curr_location]
+                        if curr_section not in location_changes:
+                            location_changes[curr_section] = {key: [] for key in keys}
                 elif line.startswith("Special Battle"):
                     change_key = "special_battles"
-                    area_changes[curr_location][curr_section][change_key].append(line)
+                    section_changes = area_changes[curr_location][curr_section]
+                    section_changes[change_key].append(line)
+                    section_changes["trainer_pokemon"].append(line)
                 elif line == "POST GAME":
                     postgame = True
                 elif curr_location in area_changes:
@@ -271,7 +288,7 @@ def main():
     logger.log(logging.INFO, f"Succesfully parsed {n} lines of data from {file_path}")
 
     # Parse area changes data
-    change_mds = parse_changes(area_changes, data_pokemon, WILD_ENCOUNTER_PATH, logger)
+    change_mds = parse_changes(area_changes, data_pokemon, WILD_ENCOUNTER_PATH, keys, logger)
     for key in change_mds:
         mds[key] += change_mds[key]
 
