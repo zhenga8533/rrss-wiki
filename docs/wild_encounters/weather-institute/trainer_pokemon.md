@@ -1,5 +1,7 @@
 # Weather Institute — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

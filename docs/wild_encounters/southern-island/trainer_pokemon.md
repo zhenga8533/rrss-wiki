@@ -1,5 +1,7 @@
 # Southern Island — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

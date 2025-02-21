@@ -1,5 +1,7 @@
 # Route 104 — Wild Pokémon
 
+---
+
 ## [ South ]
 
 ### Grass
@@ -54,6 +56,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Luvdisc](../../assets/sprites/luvdisc/front.gif "Luvdisc: Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.") | [Luvdisc](../../pokemon/luvdisc.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ North ]
 

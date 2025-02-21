@@ -1,5 +1,7 @@
 # Route 119 — Wild Pokémon
 
+---
+
 ## [ Mauville ]
 
 ### Tall Grass
@@ -48,6 +50,8 @@
 |:------:|---------|:---------:|--------|
 | ![Feebas](../../assets/sprites/feebas/front.gif "Feebas: While Feebas’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.") | [Feebas](../../pokemon/feebas.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Milotic*](../../assets/sprites/milotic/front.gif "Milotic*: Milotic live at the bottom of large lakes. When this Pokémon’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.") | [Milotic*](../../pokemon/milotic.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Fortree ]
 

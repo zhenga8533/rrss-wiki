@@ -1,5 +1,7 @@
 # Mirage Mountain — Wild Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. 670/680 BST Pokémon are Lv. 70. 720 BST Pokémon are Lv. 80.</i>

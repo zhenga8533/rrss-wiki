@@ -1,5 +1,7 @@
 # Mt. Pyre — Wild Pokémon
 
+---
+
 ## [ 1F / 2F ]
 
 ### Grass
@@ -23,6 +25,8 @@
 |:------:|---------|:---------:|--------|
 | ![Gastly](../../assets/sprites/gastly/front.gif "Gastly: Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.") | [Gastly](../../pokemon/gastly.md/)<br>Lv. 25 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
+---
+
 ## [ 3F / 4F ]
 
 ### Grass
@@ -45,6 +49,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Haunter](../../assets/sprites/haunter/front.gif "Haunter: Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.") | [Haunter](../../pokemon/haunter.md/)<br>Lv. 30 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
+
+---
 
 ## [ Summit 1 ]
 
@@ -74,6 +80,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Bronzor](../../assets/sprites/bronzor/front.gif "Bronzor: Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.") | [Bronzor](../../pokemon/bronzor.md/)<br>Lv. 25 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
+
+---
 
 ## [ Summit 2 ]
 

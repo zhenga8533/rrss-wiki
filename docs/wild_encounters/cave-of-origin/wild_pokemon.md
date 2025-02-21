@@ -1,5 +1,7 @@
 # Cave of Origin — Wild Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Cave
@@ -22,6 +24,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif "Golbat: Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.") | [Golbat](../../pokemon/golbat.md/)<br>Lv. 37 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
+
+---
 
 ## [ B1F / B2F / B3F / B4F / B5F ]
 

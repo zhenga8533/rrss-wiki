@@ -1,5 +1,7 @@
 # Route 107 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -40,6 +42,8 @@
 | ![Clawitzer](../../assets/sprites/clawitzer/front.gif "Clawitzer: By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.") | [Clawitzer](../../pokemon/clawitzer.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 33% |
 | ![Dragalge](../../assets/sprites/dragalge/front.gif "Dragalge: Tales are told of ships that wander into seas where Dragalge live, never to return.") | [Dragalge](../../pokemon/dragalge.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 33% |
 | ![Corsola](../../assets/sprites/corsola/front.gif "Corsola: Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.") | [Corsola](../../pokemon/corsola.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 33% |
+
+---
 
 ## [ Underwater ]
 

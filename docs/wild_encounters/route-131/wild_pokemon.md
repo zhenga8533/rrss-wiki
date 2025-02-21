@@ -1,5 +1,7 @@
 # Route 131 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

@@ -1,5 +1,7 @@
 # Route 132 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

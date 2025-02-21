@@ -1,5 +1,7 @@
 # Route 114 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Grass

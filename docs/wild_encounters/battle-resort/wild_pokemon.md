@@ -1,5 +1,7 @@
 # Battle Resort — Wild Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 ### Surfing

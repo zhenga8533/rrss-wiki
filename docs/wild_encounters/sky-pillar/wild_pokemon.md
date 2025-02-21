@@ -1,5 +1,7 @@
 # Sky Pillar — Wild Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 ### Floor

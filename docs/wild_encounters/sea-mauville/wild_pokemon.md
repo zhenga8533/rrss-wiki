@@ -1,5 +1,7 @@
 # Sea Mauville — Wild Pokémon
 
+---
+
 ## [ Outside ]
 
 ### Surfing
@@ -31,6 +33,8 @@
 |:------:|---------|:---------:|--------|
 | ![Shellder](../../assets/sprites/shellder/front.gif "Shellder: At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.") | [Shellder](../../pokemon/shellder.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Wailmer](../../assets/sprites/wailmer/front.gif "Wailmer: Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces.") | [Wailmer](../../pokemon/wailmer.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Inside ]
 

@@ -1,5 +1,7 @@
 # Route 120 — Wild Pokémon
 
+---
+
 ## [ Fortree ]
 
 ### Tall Grass
@@ -47,6 +49,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Whiscash](../../assets/sprites/whiscash/front.gif "Whiscash: If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.") | [Whiscash](../../pokemon/whiscash.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ Southwest ]
 

@@ -1,5 +1,7 @@
 # Soaring in the Sky — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 **Note:** <i>You will only see these Pokémon if you were able to use the .cro file!</i>

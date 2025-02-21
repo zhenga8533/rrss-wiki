@@ -1,5 +1,7 @@
 # Route 129 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Wailmer](../../assets/sprites/wailmer/front.gif "Wailmer: Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces.") | [Wailmer](../../pokemon/wailmer.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Underwater ]
 

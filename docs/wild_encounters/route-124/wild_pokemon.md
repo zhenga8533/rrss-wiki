@@ -1,5 +1,7 @@
 # Route 124 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Chinchou](../../assets/sprites/chinchou/front.gif "Chinchou: Chinchou’s two antennas are filled with cells that generate strong electricity. This Pokémon’s cells create so much electrical power, it even makes itself tingle slightly.") | [Chinchou](../../pokemon/chinchou.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Underwater ]
 

@@ -1,5 +1,7 @@
 # Petalburg City — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Surfing

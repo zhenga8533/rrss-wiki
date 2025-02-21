@@ -1,5 +1,7 @@
 # Route 130 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Dragalge](../../assets/sprites/dragalge/front.gif "Dragalge: Tales are told of ships that wander into seas where Dragalge live, never to return.") | [Dragalge](../../pokemon/dragalge.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Underwater ]
 

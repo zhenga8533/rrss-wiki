@@ -1,5 +1,7 @@
 # Route 111 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Rock Smash
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Gyarados](../../assets/sprites/gyarados/front.gif "Gyarados: Once Gyarados goes on a rampage, its ferociously violent blood doesn’t calm until it has burned everything down. There are records of this Pokémon’s rampages lasting a whole month.") | [Gyarados](../../pokemon/gyarados.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Whiscash](../../assets/sprites/whiscash/front.gif "Whiscash: If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.") | [Whiscash](../../pokemon/whiscash.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Desert ]
 

@@ -1,6 +1,8 @@
 # Pokémon League — Trainer Pokémon
 
-## [ Main Area ]
+---
+
+## [ R1 ]
 
 ### Trainer Rosters
 
@@ -9,7 +11,9 @@
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 
-## [ Main Area (Postgame) ]
+---
+
+## [ R2 (Postgame) ]
 
 ### Trainer Rosters
 

@@ -1,5 +1,7 @@
 # New Mauville — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Grass

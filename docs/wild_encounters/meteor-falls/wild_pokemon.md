@@ -1,5 +1,7 @@
 # Meteor Falls — Wild Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Grass
@@ -53,6 +55,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Dragonair](../../assets/sprites/dragonair/front.gif "Dragonair: Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.") | [Dragonair](../../pokemon/dragonair.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ 1F / 2F ]
 
@@ -109,6 +113,8 @@
 |:------:|---------|:---------:|--------|
 | ![Dragonair](../../assets/sprites/dragonair/front.gif "Dragonair: Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.") | [Dragonair](../../pokemon/dragonair.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 
+---
+
 ## [ B1F ]
 
 ### Cave
@@ -163,6 +169,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Dragonair](../../assets/sprites/dragonair/front.gif "Dragonair: Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.") | [Dragonair](../../pokemon/dragonair.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ B1F / B2F ]
 

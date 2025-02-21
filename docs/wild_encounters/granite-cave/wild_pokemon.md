@@ -1,5 +1,7 @@
 # Granite Cave — Wild Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Cave
@@ -29,6 +31,8 @@
 |:------:|---------|:---------:|--------|
 | ![Tepig](../../assets/sprites/tepig/front.gif "Tepig: It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.") | [Tepig](../../pokemon/tepig.md/)<br>Lv. 12 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
 
+---
+
 ## [ B1F ]
 
 ### Cave
@@ -57,6 +61,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Zubat](../../assets/sprites/zubat/front.gif "Zubat: Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.") | [Zubat](../../pokemon/zubat.md/)<br>Lv. 12 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
+
+---
 
 ## [ B2F ]
 

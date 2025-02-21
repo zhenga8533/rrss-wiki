@@ -1,5 +1,7 @@
 # Route 126 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Clamperl](../../assets/sprites/clamperl/front.gif "Clamperl: Clamperl grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this Pokémon is getting close to evolution.") | [Clamperl](../../pokemon/clamperl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Underwater ]
 

@@ -1,5 +1,7 @@
 # Magma Hideout — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Surfing

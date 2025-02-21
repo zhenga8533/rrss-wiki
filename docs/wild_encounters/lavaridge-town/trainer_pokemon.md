@@ -1,5 +1,7 @@
 # Lavaridge Town — Trainer Pokémon
 
+---
+
 ## [ Gym ]
 
 ### Trainer Rosters

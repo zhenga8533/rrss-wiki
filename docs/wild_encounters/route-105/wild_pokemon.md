@@ -1,5 +1,7 @@
 # Route 105 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

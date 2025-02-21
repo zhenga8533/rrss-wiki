@@ -1,5 +1,7 @@
 # S.S Tidal — Trainer Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 ### Trainer Rosters

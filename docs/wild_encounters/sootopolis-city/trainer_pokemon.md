@@ -1,3 +1,7 @@
+# Sootopolis City — Trainer Pokémon
+
+---
+
 ## [ Gym ]
 
 ### Trainer Rosters

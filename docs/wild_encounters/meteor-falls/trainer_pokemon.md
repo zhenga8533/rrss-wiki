@@ -1,5 +1,7 @@
 # Meteor Falls — Trainer Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Trainer Rosters
@@ -8,6 +10,8 @@
 
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
+
+---
 
 ## [ 1F / 2F ]
 
@@ -19,6 +23,8 @@
 |:-------:|:--:|:--:|:--:|:--:|:--:|
 | ![Dragon Tamer Nicolas (C)](../../assets/trainers/dragon_tamer.png "Dragon Tamer Nicolas (C)")<br>Dragon Tamer Nicolas (C) [481] | <div class="sprite-cell">![Gyarados](../../assets/sprites/gyarados/front.gif "Gyarados: Once Gyarados goes on a rampage, its ferociously violent blood doesn’t calm until it has burned everything down. There are records of this Pokémon’s rampages lasting a whole month.")<br>[Gyarados](../../pokemon/gyarados.md)<br>Lv. 75</div> | <div class="sprite-cell">![Sceptile](../../assets/sprites/sceptile/front.gif "Sceptile: Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.")<br>[Sceptile](../../pokemon/sceptile.md)<br>Lv. 75</div> | <div class="sprite-cell">![Haxorus](../../assets/sprites/haxorus/front.gif "Haxorus: Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.")<br>[Haxorus](../../pokemon/haxorus.md)<br>Lv. 75</div> | <div class="sprite-cell">![Tyrantrum](../../assets/sprites/tyrantrum/front.gif "Tyrantrum: Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.")<br>[Tyrantrum](../../pokemon/tyrantrum.md)<br>Lv. 75</div> | <div class="sprite-cell">![Aerodactyl](../../assets/sprites/aerodactyl/front.gif "Aerodactyl: Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.")<br>[Aerodactyl](../../pokemon/aerodactyl.md)<br>Lv. 75</div> |
 | ![Old Couple John & Jay (C)](../../assets/trainers/old_couple.png "Old Couple John & Jay (C)")<br>Old Couple John & Jay (C) [634] | <div class="sprite-cell">![Poliwrath](../../assets/sprites/poliwrath/front.gif "Poliwrath: Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.")<br>[Poliwrath](../../pokemon/poliwrath.md)<br>Lv. 75</div> | <div class="sprite-cell">![Hitmontop](../../assets/sprites/hitmontop/front.gif "Hitmontop: Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.")<br>[Hitmontop](../../pokemon/hitmontop.md)<br>Lv. 75</div> | <div class="sprite-cell">![Hariyama](../../assets/sprites/hariyama/front.gif "Hariyama: Hariyama’s thick body may appear fat, but it is actually a hunk of solid muscle. If this Pokémon bears down and tightens all its muscles, its body becomes as hard as a rock.")<br>[Hariyama](../../pokemon/hariyama.md)<br>Lv. 75</div> | <div class="sprite-cell">![Conkeldurr](../../assets/sprites/conkeldurr/front.gif "Conkeldurr: Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.")<br>[Conkeldurr](../../pokemon/conkeldurr.md)<br>Lv. 75</div> | <div class="sprite-cell">![Lucario](../../assets/sprites/lucario/front.gif "Lucario: By reading the auras of all things, it can tell how others are feeling from over half a mile away.")<br>[Lucario](../../pokemon/lucario.md)<br>Lv. 75</div> |
+
+---
 
 ## [ B1F ]
 

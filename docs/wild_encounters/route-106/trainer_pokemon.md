@@ -1,5 +1,7 @@
 # Route 106 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

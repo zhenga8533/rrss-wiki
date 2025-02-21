@@ -1,3 +1,7 @@
+# Route 103 — Trainer Pokémon
+
+---
+
 ## [ West of River ]
 
 ### Trainer Rosters
@@ -10,6 +14,8 @@
 | ![PKMN Trainer May](../../assets/important_trainers/may.png "PKMN Trainer May")<br>PKMN Trainer May [004] | <div class="sprite-cell">![Treecko](../../assets/sprites/treecko/front.gif "Treecko: Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.")<br>[Treecko](../../pokemon/treecko.md)<br>Lv. 5</div> |
 | ![PKMN Trainer May](../../assets/important_trainers/may.png "PKMN Trainer May")<br>PKMN Trainer May [005] | <div class="sprite-cell">![Torchic](../../assets/sprites/torchic/front.gif "Torchic: Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.")<br>[Torchic](../../pokemon/torchic.md)<br>Lv. 5</div> |
 | ![PKMN Trainer May](../../assets/important_trainers/may.png "PKMN Trainer May")<br>PKMN Trainer May [006] | <div class="sprite-cell">![Mudkip](../../assets/sprites/mudkip/front.gif "Mudkip: In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.")<br>[Mudkip](../../pokemon/mudkip.md)<br>Lv. 5</div> |
+
+---
 
 ## [ East of River ]
 

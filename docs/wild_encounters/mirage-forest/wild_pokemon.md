@@ -1,5 +1,7 @@
 # Mirage Forest — Wild Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 **Hint:** <i>580 BST Pokémon are Lv. 65. 600 BST Pokémon are Lv. 68. Anything higher is Lv. 70.</i>

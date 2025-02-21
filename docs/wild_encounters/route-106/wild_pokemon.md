@@ -1,5 +1,7 @@
 # Route 106 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

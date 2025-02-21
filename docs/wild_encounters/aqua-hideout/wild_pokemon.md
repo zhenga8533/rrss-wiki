@@ -1,5 +1,7 @@
 # Aqua Hideout — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Surfing

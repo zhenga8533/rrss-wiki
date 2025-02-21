@@ -1,5 +1,7 @@
 # Victory Road — Trainer Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Trainer Rosters
@@ -12,6 +14,8 @@
 | ![Street Thug Regan](../../assets/trainers/street_thug.png "Street Thug Regan")<br>Street Thug Regan [793] | <div class="sprite-cell">![Drapion](../../assets/sprites/drapion/front.gif "Drapion: It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.")<br>[Drapion](../../pokemon/drapion.md)<br>Lv. 65</div> | <div class="sprite-cell">![Weavile](../../assets/sprites/weavile/front.gif "Weavile: They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.")<br>[Weavile](../../pokemon/weavile.md)<br>Lv. 65</div> | <div class="sprite-cell">![Krookodile](../../assets/sprites/krookodile/front.gif "Krookodile: They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.")<br>[Krookodile](../../pokemon/krookodile.md)<br>Lv. 65</div> | <div class="sprite-cell">![Toxicroak](../../assets/sprites/toxicroak/front.gif "Toxicroak: Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.")<br>[Toxicroak](../../pokemon/toxicroak.md)<br>Lv. 65</div> | <div class="sprite-cell">![Beedrill](../../assets/sprites/beedrill/front.gif "Beedrill: Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.")<br>[Beedrill](../../pokemon/beedrill.md)<br>Lv. 65</div> |
 | ![Brains & Brawn Aden & Finn](../../assets/trainers/brains_brawn.png "Brains & Brawn Aden & Finn")<br>Brains & Brawn Aden & Finn [732] | <div class="sprite-cell">![Musharna](../../assets/sprites/musharna/front.gif "Musharna: The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.")<br>[Musharna](../../pokemon/musharna.md)<br>Lv. 65</div> | <div class="sprite-cell">![Primeape](../../assets/sprites/primeape/front.gif "Primeape: When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.")<br>[Primeape](../../pokemon/primeape.md)<br>Lv. 65</div> | <div class="sprite-cell">![Gardevoir](../../assets/sprites/gardevoir/front.gif "Gardevoir: Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pokémon will try to protect its Trainer even at the risk of its own life.")<br>[Gardevoir](../../pokemon/gardevoir.md)<br>Lv. 65</div> | <div class="sprite-cell">![Pangoro](../../assets/sprites/pangoro/front.gif "Pangoro: It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.")<br>[Pangoro](../../pokemon/pangoro.md)<br>Lv. 65</div> | <div class="sprite-cell">![Medicham](../../assets/sprites/medicham/front.gif "Medicham: Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.")<br>[Medicham](../../pokemon/medicham.md)<br>Lv. 65</div> |
 
+---
+
 ## [ B1F ]
 
 ### Trainer Rosters
@@ -21,6 +25,8 @@
 | Trainer | P1 | P2 | P3 | P4 | P5 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|
 | ![Ace Duo Jude & Rory](../../assets/trainers/ace_duo.png "Ace Duo Jude & Rory")<br>Ace Duo Jude & Rory [831] | <div class="sprite-cell">![Rotom](../../assets/sprites/rotom/front.gif "Rotom: Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.")<br>[Rotom](../../pokemon/rotom.md)<br>Lv. 75</div> | <div class="sprite-cell">![Mamoswine](../../assets/sprites/mamoswine/front.gif "Mamoswine: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.")<br>[Mamoswine](../../pokemon/mamoswine.md)<br>Lv. 75</div> | <div class="sprite-cell">![Electivire](../../assets/sprites/electivire/front.gif "Electivire: It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.")<br>[Electivire](../../pokemon/electivire.md)<br>Lv. 75</div> | <div class="sprite-cell">![Magmortar](../../assets/sprites/magmortar/front.gif "Magmortar: It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.")<br>[Magmortar](../../pokemon/magmortar.md)<br>Lv. 75</div> | <div class="sprite-cell">![Scizor](../../assets/sprites/scizor/front.gif "Scizor: Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.")<br>[Scizor](../../pokemon/scizor.md)<br>Lv. 75</div> |
+
+---
 
 ## [ 2F ]
 

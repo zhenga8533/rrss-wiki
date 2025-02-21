@@ -1,5 +1,7 @@
 # Dewford Town — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Surfing

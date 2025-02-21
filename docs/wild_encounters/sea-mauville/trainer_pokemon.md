@@ -1,5 +1,7 @@
 # Sea Mauville — Trainer Pokémon
 
+---
+
 ## [ Outside ]
 
 ### Trainer Rosters
@@ -8,6 +10,8 @@
 |:-------:|:--:|
 | ![Sailor Duncan](../../assets/trainers/sailor.png "Sailor Duncan")<br>Sailor Duncan [363] | <div class="sprite-cell">![Barbaracle](../../assets/sprites/barbaracle/front.gif "Barbaracle: Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.")<br>[Barbaracle](../../pokemon/barbaracle.md)<br>Lv. 38</div> |
 | ![Tuber Charlie](../../assets/trainers/tuber.png "Tuber Charlie")<br>Tuber Charlie [362] | <div class="sprite-cell">![Lanturn](../../assets/sprites/lanturn/front.gif "Lanturn: Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.")<br>[Lanturn](../../pokemon/lanturn.md)<br>Lv. 38</div> |
+
+---
 
 ## [ Inside ]
 

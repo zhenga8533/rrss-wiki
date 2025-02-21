@@ -1,5 +1,7 @@
 # Mt. Chimney — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

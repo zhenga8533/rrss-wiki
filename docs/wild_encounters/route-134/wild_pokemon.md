@@ -1,5 +1,7 @@
 # Route 134 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

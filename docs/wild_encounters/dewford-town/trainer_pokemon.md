@@ -1,3 +1,7 @@
+# Dewford Town — Trainer Pokémon
+
+---
+
 ## [ Gym ]
 
 ### Trainer Rosters

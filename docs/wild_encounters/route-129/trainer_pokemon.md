@@ -1,5 +1,7 @@
 # Route 129 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters
@@ -12,6 +14,8 @@
 | ![Ace Trainer Honor](../../assets/trainers/ace_trainer.png "Ace Trainer Honor")<br>Ace Trainer Honor [818] | <div class="sprite-cell">![Vanilluxe](../../assets/sprites/vanilluxe/front.gif "Vanilluxe: Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.")<br>[Vanilluxe](../../pokemon/vanilluxe.md)<br>Lv. 55</div> | <div class="sprite-cell">![Gigalith](../../assets/sprites/gigalith/front.gif "Gigalith: Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.")<br>[Gigalith](../../pokemon/gigalith.md)<br>Lv. 55</div> | <div class="sprite-cell">![Simisage](../../assets/sprites/simisage/front.gif "Simisage: Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.")<br>[Simisage](../../pokemon/simisage.md)<br>Lv. 55</div> | <div class="sprite-cell">![Omastar](../../assets/sprites/omastar/front.gif "Omastar: Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.")<br>[Omastar](../../pokemon/omastar.md)<br>Lv. 55</div> |
 | ![Swimmer Tisha](../../assets/trainers/swimmer.png "Swimmer Tisha")<br>Swimmer Tisha [542] | <div class="sprite-cell">![Politoed](../../assets/sprites/politoed/front.gif "Politoed: The curled hair on Politoed’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.")<br>[Politoed](../../pokemon/politoed.md)<br>Lv. 55</div> | <div class="sprite-cell">![Simipour](../../assets/sprites/simipour/front.gif "Simipour: It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.")<br>[Simipour](../../pokemon/simipour.md)<br>Lv. 55</div> |
 | ![Triathlete Swimmer Chase](../../assets/trainers/triathlete_swimmer.png "Triathlete Swimmer Chase")<br>Triathlete Swimmer Chase [167] | <div class="sprite-cell">![Kingdra](../../assets/sprites/kingdra/front.gif "Kingdra: Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.")<br>[Kingdra](../../pokemon/kingdra.md)<br>Lv. 56</div> |
+
+---
 
 ## [ Underwater ]
 

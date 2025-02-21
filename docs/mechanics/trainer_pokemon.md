@@ -22,6 +22,10 @@
 
 4. DllField - Static Encounter / Gift Pokémon Values
 
+---
+
+## Route 103
+
 ### [ West of River ]
 
 <h3>Trainer Rosters</h3>
@@ -178,6 +182,8 @@
 
 	4. Lv. 75 [Pikachu](../pokemon/pikachu.md/)
 
+---
+
 ## Route 102
 
 <h3>Trainer Rosters</h3>
@@ -255,6 +261,10 @@
 	2. Lv. 75 [Stoutland](../pokemon/stoutland.md/)
 
 	3. Lv. 75 [Diggersby](../pokemon/diggersby.md/)
+
+---
+
+## Petalburg City
 
 ### [ Gym ]
 
@@ -371,6 +381,8 @@
 1. Courtney
 
 1. Matt
+
+---
 
 ## Route 104
 
@@ -536,6 +548,8 @@
 
 	3. Lv. 75 [Whimsicott](../pokemon/whimsicott.md/)
 
+---
+
 ## Petalburg Woods
 
 <h3>Trainer Rosters</h3>
@@ -605,6 +619,8 @@
 	2. Lv. 75 [Masquerain](../pokemon/masquerain.md/)
 
 	3. Lv. 75 [Kricketune](../pokemon/kricketune.md/)
+
+---
 
 ## Rustboro City
 
@@ -705,6 +721,8 @@
 	1. Lv. 75 [Liepard](../pokemon/liepard.md/)
 
 	2. Lv. 75 [Swoobat](../pokemon/swoobat.md/)
+
+---
 
 ## Route 116
 
@@ -822,6 +840,8 @@
 
 	3. Lv. 75 [Exeggutor](../pokemon/exeggutor.md/)
 
+---
+
 ## Rusturf Tunnel
 
 <h3>Trainer Rosters</h3>
@@ -849,6 +869,8 @@
 	1. Lv. 22 [Drilbur](../pokemon/drilbur.md/)
 
 	2. Lv. 22 [Larvitar](../pokemon/larvitar.md/)
+
+---
 
 ## Route 106
 
@@ -982,6 +1004,10 @@
 
 	3. Lv. 75 [Machamp](../pokemon/machamp.md/)
 
+---
+
+## Dewford Town
+
 ### [ Gym ]
 
 <h3>Trainer Rosters</h3>
@@ -1021,6 +1047,8 @@
 <h3>Special Battles</h3>
 
 1. Leader Brawly
+
+---
 
 ## Route 107
 
@@ -1102,6 +1130,10 @@
 
 	0. Lv. 60 [Lanturn](../pokemon/lanturn.md/)
 
+---
+
+## Granite Cave
+
 ### [ B2F ]
 
 <h3>Trainer Rosters</h3>
@@ -1137,6 +1169,8 @@
 <h3>Special Battles</h3>
 
 1. Zinnia
+
+---
 
 ## Route 109
 
@@ -1362,6 +1396,8 @@
 
 	4. Lv. 75 [Banette](../pokemon/banette.md/)
 
+---
+
 ## Slateport City
 
 <h3>Trainer Rosters</h3>
@@ -1425,6 +1461,8 @@
 	1. Lv. 51 [Tentacruel](../pokemon/tentacruel.md/)
 
 	2. Lv. 51 [Feraligatr](../pokemon/feraligatr.md/)
+
+---
 
 ## Route 110
 
@@ -1780,6 +1818,8 @@
 
 1. Rival (Mudkip)
 
+---
+
 ## Mauville City
 
 ### [ Main Area ]
@@ -1851,6 +1891,8 @@
 <h3>Special Battles</h3>
 
 1. Wattson
+
+---
 
 ## Route 117
 
@@ -2079,6 +2121,8 @@
 	4. Lv. 75 [Lucario](../pokemon/lucario.md/)
 
 	5. Lv. 75 [Snorlax](../pokemon/snorlax.md/)
+
+---
 
 ## Route 111
 
@@ -2400,6 +2444,8 @@
 
 	4. Lv. 75 [Kabutops](../pokemon/kabutops.md/)
 
+---
+
 ## Route 112
 
 ### [ South ]
@@ -2489,6 +2535,8 @@
 	1. Lv. 27 [Nidorina](../pokemon/nidorina.md/)
 
 	2. Lv. 27 [Nidorino](../pokemon/nidorino.md/)
+
+---
 
 ## Route 113
 
@@ -2621,6 +2669,8 @@
 	2. Lv. 75 [Musharna](../pokemon/musharna.md/)
 
 	3. Lv. 75 [Starmie](../pokemon/starmie.md/)
+
+---
 
 ## Route 114
 
@@ -2758,6 +2808,8 @@
 
 	3. Lv. 75 [Octillery](../pokemon/octillery.md/)
 
+---
+
 ## Meteor Falls
 
 ### [ 1F ]
@@ -2884,6 +2936,8 @@
 
 	4. Lv. 65 [Ampharos](../pokemon/ampharos.md/)
 
+---
+
 ## Mt. Chimney
 
 <h3>Trainer Rosters</h3>
@@ -2953,6 +3007,8 @@
 1. Maxie
 
 1. Archie
+
+---
 
 ## Jagged Pass
 
@@ -3114,6 +3170,8 @@
 
 	3. Lv. 75 [Simisage](../pokemon/simisage.md/)
 
+---
+
 ## Lavaridge Town
 
 ### [ Gym ]
@@ -3188,6 +3246,8 @@
 
 1. Flannery
 
+---
+
 ## Route 105
 
 <h3>Trainer Rosters</h3>
@@ -3235,6 +3295,8 @@
 	1. Lv. 36 [Dratini](../pokemon/dratini.md/)
 
 	2. Lv. 36 [Pelipper](../pokemon/pelipper.md/)
+
+---
 
 ## Route 108
 
@@ -3321,6 +3383,8 @@
 	3. Lv. 75 [Braviary](../pokemon/braviary.md/)
 
 	4. Lv. 75 [Houndoom](../pokemon/houndoom.md/)
+
+---
 
 ## Sea Mauville
 
@@ -3415,6 +3479,8 @@
 	2. Lv. 76 [Mismagius](../pokemon/mismagius.md/)
 
 	3. Lv. 75 [Mawile](../pokemon/mawile.md/)
+
+---
 
 ## Route 115
 
@@ -3590,6 +3656,10 @@
 
 	4. Lv. 75 [Heracross](../pokemon/heracross.md/)
 
+---
+
+## Route 118
+
 ### [ West of Inlet ]
 
 <h3>Trainer Rosters</h3>
@@ -3742,6 +3812,8 @@
 
 	2. Lv. 38 [Zoroark](../pokemon/zoroark.md/)
 
+---
+
 ## Southern Island
 
 <h3>Trainer Rosters</h3>
@@ -3783,6 +3855,8 @@
 1. Courtney
 
 1. Matt
+
+---
 
 ## Route 119
 
@@ -4094,6 +4168,8 @@
 
 1. Rival (Mudkip)
 
+---
+
 ## Weather Institute
 
 <h3>Trainer Rosters</h3>
@@ -4163,6 +4239,8 @@
 1. Tabitha
 
 1. Shelly
+
+---
 
 ## Fortree City
 
@@ -4235,6 +4313,8 @@
 <h3>Special Battles</h3>
 
 1. Winona
+
+---
 
 ## Route 120
 
@@ -4478,6 +4558,8 @@
 
 	3. Lv. 75 [Umbreon](../pokemon/umbreon.md/)
 
+---
+
 ## Route 121
 
 <h3>Trainer Rosters</h3>
@@ -4581,6 +4663,8 @@
 	2. Lv. 75 [Ampharos](../pokemon/ampharos.md/)
 
 	3. Lv. 75 [Stoutland](../pokemon/stoutland.md/)
+
+---
 
 ## Route 123
 
@@ -4705,6 +4789,8 @@
 	2. Lv. 75 [Musharna](../pokemon/musharna.md/)
 
 	3. Lv. 75 [Solrock](../pokemon/solrock.md/)
+
+---
 
 ## Mt. Pyre
 
@@ -4912,6 +4998,8 @@
 
 1. Matt
 
+---
+
 ## Lilycove City
 
 <h3>Trainer Rosters</h3>
@@ -5007,6 +5095,8 @@
 1. Rival (Torchic)
 
 1. Rival (Mudkip)
+
+---
 
 ## Magma Hideout
 
@@ -5128,6 +5218,8 @@
 
 	2. Lv. 75 [Rapidash](../pokemon/rapidash.md/)
 
+---
+
 ## Aqua Hideout
 
 ### [ Main Area ]
@@ -5247,6 +5339,8 @@
 	1. Lv. 75 [Lapras](../pokemon/lapras.md/)
 
 	2. Lv. 75 [Golduck](../pokemon/golduck.md/)
+
+---
 
 ## Route 124
 
@@ -5410,6 +5504,10 @@
 
 	3. Lv. 75 [Gyarados](../pokemon/gyarados.md/)
 
+---
+
+## Mossdeep City
+
 ### [ Gym ]
 
 <h3>Trainer Rosters</h3>
@@ -5546,6 +5644,8 @@
 
 1. Matt
 
+---
+
 ## Route 125
 
 <h3>Trainer Rosters</h3>
@@ -5607,6 +5707,8 @@
 	2. Lv. 75 [Raticate](../pokemon/raticate.md/)
 
 	3. Lv. 75 [Kingler](../pokemon/kingler.md/)
+
+---
 
 ## Route 126
 
@@ -5679,6 +5781,8 @@
 1. Free Diver Jillian [753]
 
 	0. Lv. 60 [Azumarill](../pokemon/azumarill.md/)
+
+---
 
 ## Route 127
 
@@ -5754,6 +5858,8 @@
 
 	0. Lv. 60 [Walrein](../pokemon/walrein.md/)
 
+---
+
 ## Route 128
 
 ### [ Main Area ]
@@ -5826,6 +5932,8 @@
 
 	0. Lv. 60 [Luvdisc](../pokemon/luvdisc.md/)
 
+---
+
 ## Route 129
 
 ### [ Main Area ]
@@ -5884,6 +5992,8 @@
 
 	0. Lv. 60 [Tentacruel](../pokemon/tentacruel.md/)
 
+---
+
 ## Route 130
 
 ### [ Main Area ]
@@ -5919,6 +6029,8 @@
 1. Free Diver Cordura [755]
 
 	0. Lv. 60 [Corsola](../pokemon/corsola.md/)
+
+---
 
 ## Route 131
 
@@ -5986,6 +6098,8 @@
 
 1. Wallace
 
+---
+
 ## Route 132
 
 <h3>Trainer Rosters</h3>
@@ -6007,6 +6121,8 @@
 1. Swimmer Gilbert [139]
 
 	0. Lv. 59 [Poliwrath](../pokemon/poliwrath.md/)
+
+---
 
 ## Route 133
 
@@ -6054,6 +6170,8 @@
 
 	0. Lv. 59 [Kingdra](../pokemon/kingdra.md/)
 
+---
+
 ## Route 134
 
 <h3>Trainer Rosters</h3>
@@ -6099,6 +6217,10 @@
 	1. Lv. 58 [Sawk](../pokemon/sawk.md/)
 
 	2. Lv. 58 [Breloom](../pokemon/breloom.md/)
+
+---
+
+## Seafloor Cavern
 
 ### [ Front Rooms ]
 
@@ -6202,6 +6324,10 @@
 
 1. Archie
 
+---
+
+## Sootopolis City
+
 ### [ Gym ]
 
 <h3>Trainer Rosters</h3>
@@ -6287,6 +6413,8 @@
 <h3>Special Battles</h3>
 
 1. Wallace
+
+---
 
 ## Victory Road
 
@@ -6454,9 +6582,11 @@
 
 1. Wally
 
+---
+
 ## Pokémon League
 
-### [ Main Area ]
+### [ R1 ]
 
 <h3>Trainer Rosters</h3>
 
@@ -6532,17 +6662,17 @@
 
 <h3>Special Battles</h3>
 
-1. Sidney
+1. Sidney (R1)
 
-1. Phoebe
+1. Phoebe (R1)
 
-1. Glacia
+1. Glacia (R1)
 
-1. Drake
+1. Drake (R1)
 
-1. Steven
+1. Steven (R1)
 
-### [ Main Area (Postgame) ]
+### [ R2 (Postgame) ]
 
 <h3>Trainer Rosters</h3>
 
@@ -6618,15 +6748,17 @@
 
 <h3>Special Battles</h3>
 
-1. Sidney
+1. Sidney (R2)
 
-1. Phoebe
+1. Phoebe (R2)
 
-1. Glacia
+1. Glacia (R2)
 
-1. Drake
+1. Drake (R2)
 
-1. Steven
+1. Steven (R2)
+
+---
 
 ## Credits
 
@@ -6724,6 +6856,8 @@
 
 1. Rival (Mudkip)
 
+---
+
 ## Sky Pillar
 
 ### [ Main Area (Postgame) ]
@@ -6747,6 +6881,8 @@
 <h3>Special Battles</h3>
 
 1. Zinnia
+
+---
 
 ## S.S Tidal
 
@@ -6833,6 +6969,8 @@
 	2. Lv. 75 [Clawitzer](../pokemon/clawitzer.md/)
 
 	3. Lv. 75 [Pangoro](../pokemon/pangoro.md/)
+
+---
 
 ## Battle Resort
 

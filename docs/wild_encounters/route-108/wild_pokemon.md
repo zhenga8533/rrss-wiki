@@ -1,5 +1,7 @@
 # Route 108 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

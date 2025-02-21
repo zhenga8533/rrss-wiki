@@ -1,5 +1,7 @@
 # Sootopolis City — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Surfing

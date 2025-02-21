@@ -1,5 +1,7 @@
 # Victory Road — Wild Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Cave
@@ -50,6 +52,8 @@
 |:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ B1F ]
 
@@ -102,6 +106,8 @@
 |:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Basculin](../../assets/sprites/basculin-red-striped/front.gif "Basculin: Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.") | [Basculin](../../pokemon/basculin-red-striped.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ 2F ]
 

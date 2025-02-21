@@ -1,5 +1,7 @@
 # Credits — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

@@ -1,5 +1,7 @@
 # Route 131 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters
@@ -11,6 +13,8 @@
 | ![Swimmer Susie](../../assets/trainers/swimmer.png "Swimmer Susie")<br>Swimmer Susie [150] | <div class="sprite-cell">![Corsola](../../assets/sprites/corsola/front.gif "Corsola: Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.")<br>[Corsola](../../pokemon/corsola.md)<br>Lv. 54</div> | <div class="sprite-cell">![Vaporeon](../../assets/sprites/vaporeon/front.gif "Vaporeon: Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.")<br>[Vaporeon](../../pokemon/vaporeon.md)<br>Lv. 54</div> | <div class="sprite-cell">![Dewgong](../../assets/sprites/dewgong/front.gif "Dewgong: Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.")<br>[Dewgong](../../pokemon/dewgong.md)<br>Lv. 54</div> |
 | ![Swimmer Richard](../../assets/trainers/swimmer.png "Swimmer Richard")<br>Swimmer Richard [137] | <div class="sprite-cell">![Octillery](../../assets/sprites/octillery/front.gif "Octillery: Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.")<br>[Octillery](../../pokemon/octillery.md)<br>Lv. 54</div> | <div class="sprite-cell">![Barbaracle](../../assets/sprites/barbaracle/front.gif "Barbaracle: Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.")<br>[Barbaracle](../../pokemon/barbaracle.md)<br>Lv. 54</div> | <div class="sprite-cell">![Cloyster](../../assets/sprites/cloyster/front.gif "Cloyster: Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.")<br>[Cloyster](../../pokemon/cloyster.md)<br>Lv. 54</div> |
 | ![Sis & Bro Rell & Ian](../../assets/trainers/sis_bro.png "Sis & Bro Rell & Ian")<br>Sis & Bro Rell & Ian [544] | <div class="sprite-cell">![Slowbro](../../assets/sprites/slowbro/front.gif "Slowbro: Slowbro’s tail has a Shellder firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.")<br>[Slowbro](../../pokemon/slowbro.md)<br>Lv. 56</div> | <div class="sprite-cell">![Slowking](../../assets/sprites/slowking/front.gif "Slowking: Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.")<br>[Slowking](../../pokemon/slowking.md)<br>Lv. 57</div> |
+
+---
 
 ## [ Main Area (Postgame) ]
 

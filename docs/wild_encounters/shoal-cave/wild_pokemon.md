@@ -1,5 +1,7 @@
 # Shoal Cave — Wild Pokémon
 
+---
+
 ## [ 1F ]
 
 ### Cave
@@ -53,6 +55,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Cloyster](../../assets/sprites/cloyster/front.gif "Cloyster: Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.") | [Cloyster](../../pokemon/cloyster.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ B1F / B2F / B3F ]
 
@@ -114,6 +118,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Cloyster](../../assets/sprites/cloyster/front.gif "Cloyster: Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.") | [Cloyster](../../pokemon/cloyster.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ Ice Room ]
 

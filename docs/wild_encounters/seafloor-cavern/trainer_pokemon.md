@@ -1,3 +1,7 @@
+# Seafloor Cavern — Trainer Pokémon
+
+---
+
 ## [ Front Rooms ]
 
 ### Trainer Rosters
@@ -14,6 +18,8 @@
 | ![Team Aqua Grunt](../../assets/trainers/aqua_grunt.png "Team Aqua Grunt")<br>Team Aqua Grunt [860] | <div class="sprite-cell">![Barbaracle](../../assets/sprites/barbaracle/front.gif "Barbaracle: Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.")<br>[Barbaracle](../../pokemon/barbaracle.md)<br>Lv. 60</div> | <div class="sprite-cell">![Seviper](../../assets/sprites/seviper/front.gif "Seviper: Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.")<br>[Seviper](../../pokemon/seviper.md)<br>Lv. 60</div> |
 | ![Team Aqua Grunt](../../assets/trainers/aqua_grunt.png "Team Aqua Grunt")<br>Team Aqua Grunt [187] | <div class="sprite-cell">![Nidoqueen](../../assets/sprites/nidoqueen/front.gif "Nidoqueen: Nidoqueen’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.")<br>[Nidoqueen](../../pokemon/nidoqueen.md)<br>Lv. 60</div> | <div class="sprite-cell">![Jellicent](../../assets/sprites/jellicent/front.gif "Jellicent: The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.")<br>[Jellicent](../../pokemon/jellicent.md)<br>Lv. 60</div> |
 | ![Team Aqua Grunt](../../assets/trainers/aqua_grunt.png "Team Aqua Grunt")<br>Team Aqua Grunt [353] | <div class="sprite-cell">![Roserade](../../assets/sprites/roserade/front.gif "Roserade: With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.")<br>[Roserade](../../pokemon/roserade.md)<br>Lv. 60</div> | <div class="sprite-cell">![Golduck](../../assets/sprites/golduck/front.gif "Golduck: Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.")<br>[Golduck](../../pokemon/golduck.md)<br>Lv. 60</div> |
+
+---
 
 ## [ Back Rooms ]
 

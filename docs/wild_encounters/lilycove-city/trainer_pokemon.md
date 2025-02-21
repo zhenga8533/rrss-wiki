@@ -1,5 +1,7 @@
 # Lilycove City — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters

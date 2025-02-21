@@ -30,6 +30,8 @@
 
 4. DllField - Static Encounter / Gift Pokémon Values
 
+---
+
 ## Route 101
 
 **Grass** (Lv. 5)
@@ -43,6 +45,8 @@
 **Horde** (Lv. 5)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/chikorita/'>Chikorita</a> (50%)</li><li><a href='/rrss-wiki/pokemon/fennekin/'>Fennekin</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 103
 
@@ -74,6 +78,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 102
 
 **Grass** (Lv. 6)
@@ -104,6 +110,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/crawdaunt/'>Crawdaunt</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Petalburg City
 
 **Surfing** (Lv. 25 - 35)
@@ -121,6 +129,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/seaking/'>Seaking</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 104
 
@@ -184,6 +194,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/basculin-red-striped/'>Basculin</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Petalburg Woods
 
 **Grass** (Lv. 9)
@@ -197,6 +209,8 @@
 **Horde** (Lv. 9)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/bulbasaur/'>Bulbasaur</a> (50%)</li><li><a href='/rrss-wiki/pokemon/snivy/'>Snivy</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 116
 
@@ -212,6 +226,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/eevee/'>Eevee</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Rusturf Tunnel
 
 **Cave** (Lv. 10)
@@ -225,6 +241,8 @@
 **Horde** (Lv. 10)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/cyndaquil/'>Cyndaquil</a> (50%)</li><li><a href='/rrss-wiki/pokemon/chimchar/'>Chimchar</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 106
 
@@ -248,6 +266,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/kingler/'>Kingler</a> (33%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
 
+---
+
 ## Dewford Town
 
 **Surfing** (Lv. 25 - 35)
@@ -265,6 +285,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/cloyster/'>Cloyster</a> (33%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
+
+---
 
 ## Route 107
 
@@ -295,6 +317,8 @@
 **Grass** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
+
+---
 
 ## Granite Cave
 
@@ -344,6 +368,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/zubat/'>Zubat</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 109
 
 **DexNav** (Lv. 50)
@@ -366,6 +392,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/lumineon/'>Lumineon</a> (33%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
 
+---
+
 ## Slateport City
 
 **Surfing** (Lv. 40)
@@ -383,6 +411,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/wailmer/'>Wailmer</a> (33%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (33%)</li><li><a href='/rrss-wiki/pokemon/dragonair/'>Dragonair</a> (33%)</li></ol></code></pre>
+
+---
 
 ## Route 110
 
@@ -414,6 +444,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/octillery/'>Octillery</a> (50%)</li><li><a href='/rrss-wiki/pokemon/qwilfish/'>Qwilfish</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Route 117
 
 **Grass** (Lv. 18)
@@ -443,6 +475,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 111
 
@@ -484,6 +518,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/sandshrew/'>Sandshrew</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 112
 
 ### [ South ]
@@ -514,6 +550,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tyrogue/'>Tyrogue</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Fiery Path
 
 **Grass** (Lv. 23)
@@ -528,6 +566,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/dunsparce/'>Dunsparce</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 113
 
 **Grass** (Lv. 24)
@@ -541,6 +581,8 @@
 **Horde** (Lv. 15)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/skarmory/'>Skarmory</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 114
 
@@ -575,6 +617,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/qwilfish/'>Qwilfish</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Meteor Falls
 
@@ -698,6 +742,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/dragonair/'>Dragonair</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Jagged Pass
 
 **Grass** (Lv. 28)
@@ -711,6 +757,8 @@
 **Horde** (Lv. 17)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/mankey/'>Mankey</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 105
 
@@ -734,6 +782,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/kingler/'>Kingler</a> (33%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
 
+---
+
 ## Route 108
 
 **DexNav** (Lv. 50)
@@ -755,6 +805,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/lumineon/'>Lumineon</a> (33%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
+
+---
 
 ## Sea Mauville
 
@@ -794,6 +846,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/shellder/'>Shellder</a> (50%)</li><li><a href='/rrss-wiki/pokemon/wailmer/'>Wailmer</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Route 115
 
 **Grass** (Lv. 35)
@@ -824,6 +878,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/gyarados/'>Gyarados</a> (100%)</li></ol></code></pre>
 
+---
+
 ## New Mauville
 
 **Grass** (Lv. 35)
@@ -833,6 +889,8 @@
 **Horde** (Lv. 23)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/klink/'>Klink</a> (50%)</li><li><a href='/rrss-wiki/pokemon/tynamo/'>Tynamo</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 118
 
@@ -867,6 +925,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/sharpedo/'>Sharpedo</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 119
 
@@ -922,6 +982,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/feebas/'>Feebas</a> (50%)</li><li><a href='/rrss-wiki/pokemon/milotic/'>Milotic*</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Route 120
 
 ### [ Fortree ]
@@ -975,6 +1037,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/whiscash/'>Whiscash</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Scorched Slab
 
@@ -1030,6 +1094,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/whiscash/'>Whiscash</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 121
 
 **Grass** (Lv. 40)
@@ -1047,6 +1113,8 @@
 **Horde** (Lv. 26)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/drowzee/'>Drowzee</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Safari Zone
 
@@ -1186,6 +1254,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/seaking/'>Seaking</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 122
 
 **DexNav** (Lv. 50)
@@ -1207,6 +1277,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/lumineon/'>Lumineon</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 123
 
@@ -1233,6 +1305,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/crawdaunt/'>Crawdaunt</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Mt. Pyre
 
@@ -1284,6 +1358,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/bronzor/'>Bronzor</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Lilycove City
 
 **Rock Smash** (Lv. 45)
@@ -1306,6 +1382,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (33%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (33%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (33%)</li></ol></code></pre>
 
+---
+
 ## Magma Hideout
 
 **Surfing** (Lv. 40 - 50)
@@ -1324,6 +1402,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/wailmer/'>Wailmer</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Aqua Hideout
 
 **Surfing** (Lv. 40 - 50)
@@ -1341,6 +1421,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/wailmer/'>Wailmer</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 124
 
@@ -1372,6 +1454,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
+---
+
 ## Mossdeep City
 
 **Surfing** (Lv. 40 - 50)
@@ -1389,6 +1473,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/sharpedo/'>Sharpedo</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 125
 
@@ -1411,6 +1497,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/cloyster/'>Cloyster</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Shoal Cave
 
@@ -1488,6 +1576,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/snorunt/'>Snorunt</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Route 126
 
 ### [ Main Area ]
@@ -1518,6 +1608,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
+---
+
 ## Route 127
 
 **DexNav** (Lv. 50)
@@ -1539,6 +1631,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (50%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 128
 
@@ -1570,6 +1664,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
+---
+
 ## Ever Grande City
 
 **Surfing** (Lv. 45 - 55)
@@ -1587,6 +1683,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/luvdisc/'>Luvdisc</a> (50%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Route 129
 
@@ -1618,6 +1716,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
+---
+
 ## Route 130
 
 ### [ Main Area ]
@@ -1648,6 +1748,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/tentacruel/'>Tentacruel</a> (10%)</li><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (10%)</li><li><a href='/rrss-wiki/pokemon/starmie/'>Starmie</a> (10%)</li><li><a href='/rrss-wiki/pokemon/lanturn/'>Lanturn</a> (10%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (10%)</li><li><a href='/rrss-wiki/pokemon/huntail/'>Huntail</a> (10%)</li><li><a href='/rrss-wiki/pokemon/gorebyss/'>Gorebyss</a> (10%)</li><li><a href='/rrss-wiki/pokemon/relicanth/'>Relicanth</a> (10%)</li><li><a href='/rrss-wiki/pokemon/jellicent/'>Jellicent</a> (10%)</li><li><a href='/rrss-wiki/pokemon/dragalge/'>Dragalge</a> (10%)</li></ol></code></pre>
 
+---
+
 ## Route 131
 
 **DexNav** (Lv. 50)
@@ -1670,6 +1772,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/clawitzer/'>Clawitzer</a> (50%)</li><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Pacifidlog Town
 
 **Surfing** (Lv. 40 - 50)
@@ -1687,6 +1791,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/corsola/'>Corsola</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Route 132
 
@@ -1710,6 +1816,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (50%)</li><li><a href='/rrss-wiki/pokemon/dragonair/'>Dragonair</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Route 133
 
 **DexNav** (Lv. 50)
@@ -1732,6 +1840,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (50%)</li><li><a href='/rrss-wiki/pokemon/dragonair/'>Dragonair</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Route 134
 
 **DexNav** (Lv. 50)
@@ -1753,6 +1863,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/seadra/'>Seadra</a> (50%)</li><li><a href='/rrss-wiki/pokemon/dragonair/'>Dragonair</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Seafloor Cavern
 
@@ -1828,6 +1940,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/golbat/'>Golbat</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Sootopolis City
 
 **Surfing** (Lv. 45 - 55)
@@ -1845,6 +1959,8 @@
 **Super Rod** (Lv. 55)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/magikarp/'>Magikarp</a> (50%)</li><li><a href='/rrss-wiki/pokemon/gyarados/'>Gyarados</a> (50%)</li></ol></code></pre>
+
+---
 
 ## Cave of Origin
 
@@ -1868,6 +1984,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/unown/'>Unown</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Soaring in the Sky
 
 **Note:** <i>You will only see these Pokémon if you were able to use the .cro file!</i>
@@ -1877,6 +1995,8 @@
 **Flocks** (Lv. 60)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/pidgeot/'>Pidgeot</a> (14%)</li><li><a href='/rrss-wiki/pokemon/dragonite/'>Dragonite</a> (14%)</li><li><a href='/rrss-wiki/pokemon/staraptor/'>Staraptor</a> (14%)</li><li><a href='/rrss-wiki/pokemon/honchkrow/'>Honchkrow</a> (14%)</li><li><a href='/rrss-wiki/pokemon/togekiss/'>Togekiss</a> (14%)</li><li><a href='/rrss-wiki/pokemon/unfezant/'>Unfezant</a> (14%)</li><li><a href='/rrss-wiki/pokemon/talonflame/'>Talonflame</a> (14%)</li></ol></code></pre>
+
+---
 
 ## Victory Road
 
@@ -1950,6 +2070,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (50%)</li><li><a href='/rrss-wiki/pokemon/basculin-red-striped/'>Basculin</a> (50%)</li></ol></code></pre>
 
+---
+
 ## Sky Pillar
 
 ### [ Main Area (Postgame) ]
@@ -1961,6 +2083,8 @@
 **Horde** (Lv. 43)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/altaria/'>Altaria</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Battle Resort
 
@@ -1982,6 +2106,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/luvdisc/'>Luvdisc</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Mirage Forest
 
 ### [ Main Area (Postgame) ]
@@ -1995,6 +2121,8 @@
 **Rock Smash** (Lv. 60)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/ditto/'>Ditto</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Mirage Cave
 
@@ -2010,6 +2138,8 @@
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/ditto/'>Ditto</a> (100%)</li></ol></code></pre>
 
+---
+
 ## Mirage Mountain
 
 ### [ Main Area (Postgame) ]
@@ -2023,6 +2153,8 @@
 **Rock Smash** (Lv. 60)
 
 <pre><code><ol><li><a href='/rrss-wiki/pokemon/ditto/'>Ditto</a> (100%)</li></ol></code></pre>
+
+---
 
 ## Mirage Island
 

@@ -1,5 +1,7 @@
 # Scorched Slab — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Cave
@@ -47,6 +49,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.") | [Poliwhirl](../../pokemon/poliwhirl.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ Basement ]
 

@@ -1,5 +1,7 @@
 # Route 126 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters
@@ -13,6 +15,8 @@
 | ![Ace Trainer Leopold](../../assets/trainers/ace_trainer.png "Ace Trainer Leopold")<br>Ace Trainer Leopold [809] | <div class="sprite-cell">![Blastoise](../../assets/sprites/blastoise/front.gif "Blastoise: Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.")<br>[Blastoise](../../pokemon/blastoise.md)<br>Lv. 55</div> | <div class="sprite-cell">![Golurk](../../assets/sprites/golurk/front.gif "Golurk: It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.")<br>[Golurk](../../pokemon/golurk.md)<br>Lv. 55</div> | <div class="sprite-cell">![Electivire](../../assets/sprites/electivire/front.gif "Electivire: It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.")<br>[Electivire](../../pokemon/electivire.md)<br>Lv. 55</div> | <div class="sprite-cell">![Cryogonal](../../assets/sprites/cryogonal/front.gif "Cryogonal: They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.")<br>[Cryogonal](../../pokemon/cryogonal.md)<br>Lv. 55</div> |
 | ![Swimmer Brenda](../../assets/trainers/swimmer.png "Swimmer Brenda")<br>Swimmer Brenda [148] | <div class="sprite-cell">![Masquerain](../../assets/sprites/masquerain/front.gif "Masquerain: Masquerain’s antennas have eyelike patterns that usually give it an angry look. If the “eyes” are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.")<br>[Masquerain](../../pokemon/masquerain.md)<br>Lv. 55</div> | <div class="sprite-cell">![Gorebyss](../../assets/sprites/gorebyss/front.gif "Gorebyss: Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey’s body and drains the prey of its body fluids.")<br>[Gorebyss](../../pokemon/gorebyss.md)<br>Lv. 55</div> |
 | ![Swimmer Nikki](../../assets/trainers/swimmer.png "Swimmer Nikki")<br>Swimmer Nikki [147] | <div class="sprite-cell">![Huntail](../../assets/sprites/huntail/front.gif "Huntail: Huntail’s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pokémon swims by wiggling its slender body like a snake.")<br>[Huntail](../../pokemon/huntail.md)<br>Lv. 54</div> | <div class="sprite-cell">![Lumineon](../../assets/sprites/lumineon/front.gif "Lumineon: To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.")<br>[Lumineon](../../pokemon/lumineon.md)<br>Lv. 54</div> | <div class="sprite-cell">![Swanna](../../assets/sprites/swanna/front.gif "Swanna: Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.")<br>[Swanna](../../pokemon/swanna.md)<br>Lv. 54</div> |
+
+---
 
 ## [ Underwater ]
 

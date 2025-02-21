@@ -1,5 +1,7 @@
 # Route 132 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav

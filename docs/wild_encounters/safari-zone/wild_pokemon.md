@@ -1,5 +1,7 @@
 # Safari Zone — Wild Pokémon
 
+---
+
 ## [ 1 ]
 
 ### Grass
@@ -60,6 +62,8 @@
 |:------:|---------|:---------:|--------|
 | ![Qwilfish](../../assets/sprites/qwilfish/front.gif "Qwilfish: Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.") | [Qwilfish](../../pokemon/qwilfish.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 
+---
+
 ## [ 2 ]
 
 ### Grass
@@ -118,6 +122,8 @@
 |:------:|---------|:---------:|--------|
 | ![Lumineon](../../assets/sprites/lumineon/front.gif "Lumineon: To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.") | [Lumineon](../../pokemon/lumineon.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
 
+---
+
 ## [ 3 ]
 
 ### Grass
@@ -175,6 +181,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Whiscash](../../assets/sprites/whiscash/front.gif "Whiscash: If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.") | [Whiscash](../../pokemon/whiscash.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 100% |
+
+---
 
 ## [ 4 ]
 

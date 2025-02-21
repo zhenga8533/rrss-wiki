@@ -1,5 +1,7 @@
 # Route 128 — Wild Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### DexNav
@@ -35,6 +37,8 @@
 |:------:|---------|:---------:|--------|
 | ![Luvdisc](../../assets/sprites/luvdisc/front.gif "Luvdisc: Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.") | [Luvdisc](../../pokemon/luvdisc.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
 | ![Relicanth](../../assets/sprites/relicanth/front.gif "Relicanth: Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.") | [Relicanth](../../pokemon/relicanth.md/)<br>Lv. 55 | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod")<br>Super Rod | 50% |
+
+---
 
 ## [ Underwater ]
 

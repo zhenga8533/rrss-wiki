@@ -1,5 +1,7 @@
 # Sky Pillar — Trainer Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 ### Trainer Rosters

@@ -1,5 +1,7 @@
 # Battle Resort — Trainer Pokémon
 
+---
+
 ## [ Main Area (Postgame) ]
 
 ### Trainer Rosters

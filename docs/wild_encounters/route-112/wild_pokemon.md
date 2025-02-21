@@ -1,5 +1,7 @@
 # Route 112 — Wild Pokémon
 
+---
+
 ## [ South ]
 
 ### Grass
@@ -28,6 +30,8 @@
 | Sprite | Pokémon | Encounter | Chance |
 |:------:|---------|:---------:|--------|
 | ![Durant](../../assets/sprites/durant/front.gif "Durant: They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.") | [Durant](../../pokemon/durant.md/)<br>Lv. 15 | ![Horde](../../assets/encounter_types/horde.png "Horde")<br>Horde | 100% |
+
+---
 
 ## [ North ]
 

@@ -1,5 +1,7 @@
 # Route 127 — Trainer Pokémon
 
+---
+
 ## [ Main Area ]
 
 ### Trainer Rosters
@@ -14,6 +16,8 @@
 | ![Fisherman Roger](../../assets/trainers/fisherman.png "Fisherman Roger")<br>Fisherman Roger [535] | <div class="sprite-cell">![Kingler](../../assets/sprites/kingler/front.gif "Kingler: Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.")<br>[Kingler](../../pokemon/kingler.md)<br>Lv. 56</div> |
 | ![Black Belt Koji](../../assets/trainers/black_belt.png "Black Belt Koji")<br>Black Belt Koji [538] | <div class="sprite-cell">![Infernape](../../assets/sprites/infernape/front.gif "Infernape: It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.")<br>[Infernape](../../pokemon/infernape.md)<br>Lv. 55</div> | <div class="sprite-cell">![Heracross](../../assets/sprites/heracross/front.gif "Heracross: Heracross has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the Pokémon a secure and solid footing to forcefully fling away foes with its proud horn.")<br>[Heracross](../../pokemon/heracross.md)<br>Lv. 55</div> | <div class="sprite-cell">![Emboar](../../assets/sprites/emboar/front.gif "Emboar: It has mastered fast and powerful fighting moves. It grows a beard of fire.")<br>[Emboar](../../pokemon/emboar.md)<br>Lv. 55</div> |
 | ![Triathlete Swimmer Jaylon](../../assets/trainers/triathlete_swimmer.png "Triathlete Swimmer Jaylon")<br>Triathlete Swimmer Jaylon [717] | <div class="sprite-cell">![Floatzel](../../assets/sprites/floatzel/front.gif "Floatzel: Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.")<br>[Floatzel](../../pokemon/floatzel.md)<br>Lv. 56</div> |
+
+---
 
 ## [ Underwater ]
 
