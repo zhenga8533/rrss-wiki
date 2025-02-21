@@ -113,9 +113,46 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
     wild_pokemon_md = ""
     section_md = ""
 
+    trainer = ""
+    extension = ""
+
     # Parse special battles data
     for line in trainers:
-        pass
+        if line.startswith("Special Battle - "):
+            if trainer != "":
+                wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
+
+            trainer = line.split(" - ")[1]
+            if trainer.startswith("Rival"):
+                starter = trainer.rsplit(" ", 1)[1][1:-1]
+                if starter == "Treecko":
+                    wild_pokemon_md += "### Rival\n\n"
+                    brendan_sprite = find_trainer_sprite("Brendan", "important_trainers", logger)
+                    may_sprite = find_trainer_sprite("May", "important_trainers", logger)
+                    wild_pokemon_md += f"{brendan_sprite} {may_sprite}\n\n"
+
+                wild_pokemon_md += f'=== "{starter}"\n\n\t<pre><code>'
+                extension = "\t"
+            else:
+                trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger)
+                wild_pokemon_md += f"### {trainer}\n\n{trainer_sprite}\n\n<pre><code>"
+
+                extension = ""
+            continue
+        elif line.startswith("Pokemon"):
+            continue
+
+        pokemon, level, item, ability, moves = [s.strip() for s in line.split(" | ")]
+
+        wild_pokemon_md += (extension if not wild_pokemon_md.endswith(">") else "") + f"{pokemon} @ {item}\n"
+        wild_pokemon_md += extension + f"<b>Ability:</b> {ability}\n"
+        wild_pokemon_md += extension + f"<b>Level:</b> {level}\n"
+        wild_pokemon_md += extension + "<b>Moves:</b>\n"
+        wild_pokemon_md += (
+            "\n".join([f"{extension}{i}. {m}" for i, m in enumerate(moves.split(", "), 1)]) + f"\n{extension}<br>"
+        )
+
+    wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
 
     return wild_pokemon_md, section_md
 
@@ -128,7 +165,7 @@ def parse_changes(
 
     # Parse area changes data
     for area, sections in area_changes.items():
-        first_pass = True
+        first_pass = {key: True for key in keys}
         area_mds = {key: "" for key in keys}
 
         for section, categories in sections.items():
@@ -140,15 +177,21 @@ def parse_changes(
                     continue
 
                 # Add location headers
-                if first_pass:
-                    mds[category] += f"## {area}\n\n"
+                if first_pass[category]:
+                    mds[category] += f"---\n\n## {area}\n\n"
                     cat_changes = len([s for s in sections if len(sections[s][category]) > 0])
-                    mds[category] += "" if section == "Main Area" and cat_changes == 1 else f"### [ {section} ]\n\n"
+                    mds[category] += (
+                        ""
+                        if (section == "Main Area" and cat_changes == 1) or category == "special_battles"
+                        else f"### [ {section} ]\n\n"
+                    )
+
                     area_mds[category] = f"# {area} — {revert_id(category, symbol='_')}\n\n"
-                    area_mds[category] += f"## [ {section} ]\n\n"
+                    area_mds[category] += f"---\n\n## [ {section} ]\n\n"
+                    first_pass[category] = False
                 else:
-                    mds[category] += f"### [ {section} ]\n\n"
-                    area_mds[category] += f"## [ {section} ]\n\n"
+                    mds[category] += f"### [ {section} ]\n\n" if category != "special_battles" else ""
+                    area_mds[category] += f"---\n\n## [ {section} ]\n\n"
 
                 # Parse change data
                 md, area_md = (
@@ -162,8 +205,6 @@ def parse_changes(
                 )
                 mds[category] += md
                 area_mds[category] += area_md
-
-            first_pass = False
 
         # Save area changes data to wild encounters
         area_id = format_id(area)
