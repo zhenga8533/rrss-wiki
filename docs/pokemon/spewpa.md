@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #665 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 8.4 kg /<br>18.5 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status conditions.">Shed Skin</span><br>2. <span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
+| #665 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 8.4 kg /<br>18.5 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status conditions.">Shed Skin</span><br>3. <span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
 
 ---
 

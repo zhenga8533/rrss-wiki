@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10061 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 0.9 kg /<br>2.0 lbs | 1. <span class="tooltip" title="Prevents lowering of ally Grass-type Pokémon’s stats.">Flower Veil</span><br>2. <span class="tooltip" title="The Pokémon can pass an item to an ally.">Symbiosis</span> | N/A |
+| #10061 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 0.9 kg /<br>2.0 lbs | 1. <span class="tooltip" title="Prevents lowering of ally Grass-type Pokémon’s stats.">Flower Veil</span><br>3. <span class="tooltip" title="The Pokémon can pass an item to an ally.">Symbiosis</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #179 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 7.8 kg /<br>17.2 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.">Plus</span> | N/A |
+| #179 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 7.8 kg /<br>17.2 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>3. <span class="tooltip" title="Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.">Plus</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses an opposing Pokémon’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span> | #46 |
+| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses an opposing Pokémon’s dangerous moves.">Anticipation</span><br>3. <span class="tooltip" title="Protects the Pokémon from things like sand, hail, and powder.">Overcoat</span> | #46 |
 
 ---
 

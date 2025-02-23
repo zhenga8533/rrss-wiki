@@ -329,7 +329,7 @@ def to_md(
     if len(pokemon["abilities"]) > 2:
         pokemon["abilities"] = pokemon["abilities"][:2]
 
-    for i, ability in enumerate(pokemon["abilities"], 1):
+    for ability in pokemon["abilities"]:
         ability_id = ability["name"]
         if ability_id == "none":
             continue
@@ -340,7 +340,8 @@ def to_md(
             .get("omega-ruby-alpha-sapphire", ability_data["effect"])
             .replace("\n", " ")
         )
-        abilities.append(f'{i}. <span class="tooltip" title="{ability_effect}">{revert_id(ability_id)}</span>')
+        slot = ability["slot"]
+        abilities.append(f'{slot}. <span class="tooltip" title="{ability_effect}">{revert_id(ability_id)}</span>')
     md += " | " + "<br>".join(abilities)
 
     local_no = pokemon["pokedex_numbers"].get("original-sinnoh", None)

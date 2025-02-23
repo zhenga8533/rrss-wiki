@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #360 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 14.0 kg /<br>30.9 lbs | 1. <span class="tooltip" title="Prevents opposing Pokémon from escaping.">Shadow Tag</span><br>2. <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #360 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 14.0 kg /<br>30.9 lbs | 1. <span class="tooltip" title="Prevents opposing Pokémon from escaping.">Shadow Tag</span><br>3. <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
