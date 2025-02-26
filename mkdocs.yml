@@ -41,6 +41,10 @@ extra_css:
 nav:
   - Getting Started:
       - Home: index.md
+      - Changelog: getting_started/changelog.md
+      - Download Links: getting_started/download_links.md
+      - How To Install: getting_started/how_to_install.md
+      - Known Bugs: getting_started/known_bugs.md
   - Mechanics:
       - Attack Changes: mechanics/attack_changes.md
       - Encounter Changes: mechanics/encounter_changes.md
