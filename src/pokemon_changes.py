@@ -79,7 +79,7 @@ def change_attribute(
                 chance_int = int(chance[1:-2])
 
                 # Add the item to the attribute change string
-                attribute_change += f"{data_item.get_tooltip(item, "sun-moon")} {chance}, "
+                attribute_change += f"{data_item.get_tooltip(item, 'sun-moon')} {chance}, "
 
                 # Add the held item to the data
                 held_items = data["held_items"]
@@ -216,7 +216,7 @@ def change_table(changes: list[str], pokemon: str, forms: list[str], data_pokemo
                     level, move = re.match(pattern, move).groups()
 
                     # Add the move to the table and the data
-                    table += f"| {data_move.get_tooltip(move, "omega-ruby-alpha-sapphire")} | {level} |   "
+                    table += f"| {data_move.get_tooltip(move, 'omega-ruby-alpha-sapphire')} | {level} |   "
                     moves.append({"name": format_id(move), "level_learned_at": int(level), "learn_method": "level-up"})
                 table = table[:-3] + "\n"
 
@@ -306,7 +306,7 @@ def main():
             line = line.strip("| ")
 
             while i < n and not check_empty(next_line):
-                line += " " + next_line.strip("| ")
+                line += ("\n" if next_line[3] == "." else " ") + next_line.strip("| ")
                 i += 1
                 next_line = lines[i + 1]
 

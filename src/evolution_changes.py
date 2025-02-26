@@ -119,10 +119,10 @@ def main():
                     evo = columns[2]
 
                     columns[1] = (
-                        f'<div class="sprite-cell">{find_pokemon_sprite(pre, 'front', data_pokemon, logger)}<br>[{pre}](../pokemon/{format_id(pre)}.md/)</div>'
+                        f'<div class="sprite-cell">{find_pokemon_sprite(pre, "front", data_pokemon, logger)}<br>[{pre}](../pokemon/{format_id(pre)}.md/)</div>'
                     )
                     columns[2] = (
-                        f'<div class="sprite-cell">{find_pokemon_sprite(evo, 'front', data_pokemon, logger)}<br>[{evo}](../pokemon/{format_id(evo)}.md/)</div>'
+                        f'<div class="sprite-cell">{find_pokemon_sprite(evo, "front", data_pokemon, logger)}<br>[{evo}](../pokemon/{format_id(evo)}.md/)</div>'
                     )
                     md += f"| {' | '.join(columns) } |\n"
 

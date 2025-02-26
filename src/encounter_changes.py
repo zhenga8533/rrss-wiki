@@ -74,7 +74,7 @@ def main():
                     sprite = find_pokemon_sprite(pokemon, "front", data_pokemon, logger)
                     changes = "<br>".join(
                         [
-                            f"{i}. {change.capitalize()}"
+                            f"{i}. {change[0].upper() + change[1:]}"
                             for i, change in enumerate(re.split(r", | and ", columns[1]), 1)
                         ]
                     )

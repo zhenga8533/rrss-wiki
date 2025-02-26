@@ -195,7 +195,7 @@ def parse_moves(moves: list, headers: list, move_key: str, data_move: Data) -> s
             if category == "Lv.":
                 md_body += f"| {move['level_learned_at']} "
             elif category == "TM":
-                md_body += f"| {move_data['machines'].get(move_key, "tbd").upper()} "
+                md_body += f"| {move_data['machines'].get(move_key, 'tbd').upper()} "
             elif category == "Move":
                 move_id = move_data["name"]
                 move_effect = (

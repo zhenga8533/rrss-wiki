@@ -22,5 +22,8 @@
 
 ## Files Mentioned
 
-1. a/0/1/3 - Pokémon Encounter Data 2. a/1/9/1 - Pokémon Level Up Moves 3. a/1/9/2 - Pokémon Evolution Methods 4. a/1/9/5 - Pokémon Personal Stats
+1. a/0/1/3 - Pokémon Encounter Data
+2. a/1/9/1 - Pokémon Level Up Moves
+3. a/1/9/2 - Pokémon Evolution Methods
+4. a/1/9/5 - Pokémon Personal Stats
 
