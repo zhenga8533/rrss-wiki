@@ -17,6 +17,11 @@
 
 ### Trainer Rosters
 
+| Trainer | P1 | P2 |
+|:-------:|:--:|:--:|
+| ![Young Couple Lois & Hal](../../assets/trainers/young_couple.png "Young Couple Lois & Hal")<br>Young Couple Lois & Hal [364] | <div class="sprite-cell">![Leavanny](../../assets/sprites/leavanny/front.gif "Leavanny: It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.")<br>[Leavanny](../../pokemon/leavanny.md)<br>Lv. 38</div> | <div class="sprite-cell">![Scolipede](../../assets/sprites/scolipede/front.gif "Scolipede: With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.")<br>[Scolipede](../../pokemon/scolipede.md)<br>Lv. 38</div> |
+| ![Mysterious Sisters Scall & Ion](../../assets/trainers/mysterious_sisters.png "Mysterious Sisters Scall & Ion")<br>Mysterious Sisters Scall & Ion [780] | <div class="sprite-cell">![Banette](../../assets/sprites/banette/front.gif "Banette: A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pokémon’s energy would escape if it were to ever open its mouth.")<br>[Banette](../../pokemon/banette.md)<br>Lv. 60</div> | <div class="sprite-cell">![Mr. Mime](../../assets/sprites/mr-mime/front.png "Mr. Mime: Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.")<br>[Mr. Mime](../../pokemon/mr-mime.md)<br>Lv. 59</div> |
+
 ### Rematches
 
 | Trainer | P1 | P2 | P3 | P4 |

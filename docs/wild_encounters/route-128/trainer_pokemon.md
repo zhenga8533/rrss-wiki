@@ -6,6 +6,14 @@
 
 ### Trainer Rosters
 
+| Trainer | P1 | P2 | P3 | P4 |
+|:-------:|:--:|:--:|:--:|:--:|
+| ![Ace Trainer Cornelius](../../assets/trainers/ace_trainer.png "Ace Trainer Cornelius")<br>Ace Trainer Cornelius [808] | <div class="sprite-cell">![Spiritomb](../../assets/sprites/spiritomb/front.gif "Spiritomb: It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.")<br>[Spiritomb](../../pokemon/spiritomb.md)<br>Lv. 55</div> | <div class="sprite-cell">![Noivern](../../assets/sprites/noivern/front.gif "Noivern: The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.")<br>[Noivern](../../pokemon/noivern.md)<br>Lv. 55</div> | <div class="sprite-cell">![Glalie](../../assets/sprites/glalie/front.gif "Glalie: Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.")<br>[Glalie](../../pokemon/glalie.md)<br>Lv. 55</div> | <div class="sprite-cell">![Eelektross](../../assets/sprites/eelektross/front.gif "Eelektross: They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.")<br>[Eelektross](../../pokemon/eelektross.md)<br>Lv. 55</div> |
+| ![Fisherman Wayne](../../assets/trainers/fisherman.png "Fisherman Wayne")<br>Fisherman Wayne [539] | <div class="sprite-cell">![Wailord](../../assets/sprites/wailord/front.gif "Wailord: When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pokémon leaping out of the sea with others in its pod.")<br>[Wailord](../../pokemon/wailord.md)<br>Lv. 56</div> |
+| ![Triathlete Swimmer Isaiah](../../assets/trainers/triathlete_swimmer.png "Triathlete Swimmer Isaiah")<br>Triathlete Swimmer Isaiah [165] | <div class="sprite-cell">![Lumineon](../../assets/sprites/lumineon/front.gif "Lumineon: To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.")<br>[Lumineon](../../pokemon/lumineon.md)<br>Lv. 56</div> |
+| ![Tuber Delmar](../../assets/trainers/tuber.png "Tuber Delmar")<br>Tuber Delmar [827] | <div class="sprite-cell">![Palpitoad](../../assets/sprites/palpitoad/front.gif "Palpitoad: It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.")<br>[Palpitoad](../../pokemon/palpitoad.md)<br>Lv. 56</div> |
+| ![Tuber Marlene](../../assets/trainers/tuber.png "Tuber Marlene")<br>Tuber Marlene [828] | <div class="sprite-cell">![Poliwhirl](../../assets/sprites/poliwhirl/front.gif "Poliwhirl: The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.")<br>[Poliwhirl](../../pokemon/poliwhirl.md)<br>Lv. 56</div> |
+
 ### Rematches
 
 | Trainer | P1 | P2 | P3 | P4 |

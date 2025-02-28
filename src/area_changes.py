@@ -69,9 +69,12 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
         if line.startswith("ID"):
             continue
         elif line == "Rematches":
+            if section_table:
+                section_md += add_table_header(num_pokemon) + section_table + "\n"
+                section_table = ""
+
             trainers_md += "<h3>Rematches</h3>\n\n"
             section_md += "### Rematches\n\n"
-            section_table = ""
             continue
         elif line.startswith("Special Battle"):
             if not special_battle:
