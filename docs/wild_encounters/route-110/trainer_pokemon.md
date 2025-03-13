@@ -88,8 +88,17 @@
 
 ### Trainer Rosters
 
-### Special Battles
-
 | Trainer | P1 | P2 | P3 |
 |:-------:|:--:|:--:|:--:|
+| ![Lass Robin](../../assets/trainers/lass.png "Lass Robin")<br>Lass Robin [212] | <div class="sprite-cell">![Paras](../../assets/sprites/paras/front.gif "Paras: Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.")<br>[Paras](../../pokemon/paras.md)<br>Lv. 24</div> | <div class="sprite-cell">![Swadloon](../../assets/sprites/swadloon/front.gif "Swadloon: It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.")<br>[Swadloon](../../pokemon/swadloon.md)<br>Lv. 24</div> | <div class="sprite-cell">![Pansage](../../assets/sprites/pansage/front.gif "Pansage: It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.")<br>[Pansage](../../pokemon/pansage.md)<br>Lv. 24</div> |
+| ![Ace Duo Pike & Shiel](../../assets/trainers/ace_duo.png "Ace Duo Pike & Shiel")<br>Ace Duo Pike & Shiel [829] | <div class="sprite-cell">![Vaporeon](../../assets/sprites/vaporeon/front.gif "Vaporeon: Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.")<br>[Vaporeon](../../pokemon/vaporeon.md)<br>Lv. 28</div> | <div class="sprite-cell">![Flareon](../../assets/sprites/flareon/front.gif "Flareon: Flareon’s fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon’s body temperature can rise to a maximum of 1,650 degrees Fahrenheit.")<br>[Flareon](../../pokemon/flareon.md)<br>Lv. 28</div> |
+| ![Schoolkid Ted](../../assets/trainers/schoolkid.png "Schoolkid Ted")<br>Schoolkid Ted [215] | <div class="sprite-cell">![Panpour](../../assets/sprites/panpour/front.gif "Panpour: The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.")<br>[Panpour](../../pokemon/panpour.md)<br>Lv. 24</div> | <div class="sprite-cell">![Yanma](../../assets/sprites/yanma/front.gif "Yanma: Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.")<br>[Yanma](../../pokemon/yanma.md)<br>Lv. 24</div> | <div class="sprite-cell">![Watchog](../../assets/sprites/watchog/front.gif "Watchog: When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.")<br>[Watchog](../../pokemon/watchog.md)<br>Lv. 24</div> |
+
+### Special Battles
+
+1. [Rival (Treecko)]()
+
+1. [Rival (Torchic)]()
+
+1. [Rival (Mudkip)]()
 

@@ -89,7 +89,7 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
             if line.startswith("Rival"):
                 trainer = "Rival"
             trainers_md += f"1. {trainer}\n\n"
-            section_md = f"1. [{trainer}]()\n\n"  # TODO: Add special battle links
+            section_md += f"1. [{trainer}]()\n\n"  # TODO: Add special battle links
 
             continue
 
@@ -110,7 +110,9 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
             pokemon_link = f"[{p}](../../pokemon/{format_id(p)}.md)"
             section_table += f' <div class="sprite-cell">{pokemon_sprite}<br>{pokemon_link}<br>Lv. {level}</div> |'
         section_table += "\n"
-    section_md += add_table_header(num_pokemon) + section_table + "\n"
+
+    if section_table:
+        section_md += add_table_header(num_pokemon) + section_table + "\n"
 
     return trainers_md, section_md
 
