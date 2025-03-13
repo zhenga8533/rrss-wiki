@@ -80,6 +80,8 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
             if not special_battle:
                 special_battle = True
                 trainers_md += "<h3>Special Battles</h3>\n\n"
+
+                section_md += add_table_header(num_pokemon) + section_table + "\n"
                 section_md += "### Special Battles\n\n"
                 section_table = ""
 
@@ -87,6 +89,8 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
             if line.startswith("Rival"):
                 trainer = "Rival"
             trainers_md += f"1. {trainer}\n\n"
+            section_md = f"1. [{trainer}]()\n\n"  # TODO: Add special battle links
+
             continue
 
         trainer_id, trainer, roster = [s.strip() for s in line.split("|")]
