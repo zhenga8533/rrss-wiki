@@ -146,12 +146,18 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
                 trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger)
                 wild_pokemon_md += f"### {trainer}\n\n{trainer_sprite}\n\n<pre><code>"
 
+                section_md += f"### {trainer}\n\n{trainer_sprite}\n\n"
+                section_md += "| Pokémon | Attributes | Item | Moves |\n"
+                section_md += "|:-------:|------------|:----:|-------|\n"
+
                 extension = ""
             continue
         elif line.startswith("Pokemon"):
             continue
 
         pokemon, level, item, ability, moves = [s.strip() for s in line.split(" | ")]
+        pokemon_data = data_pokemon.get_data(pokemon)
+        types = pokemon_data["types"]
 
         wild_pokemon_md += (extension if not wild_pokemon_md.endswith(">") else "") + f"{pokemon} @ {item}\n"
         wild_pokemon_md += extension + f"<b>Ability:</b> {ability}\n"
@@ -161,7 +167,17 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
             "\n".join([f"{extension}{i}. {m}" for i, m in enumerate(moves.split(", "), 1)]) + f"\n{extension}<br>"
         )
 
+        pokemon_sprite = find_pokemon_sprite(pokemon, "front", data_pokemon, logger).replace("../", "../../")
+        pokemon_link = f"[{pokemon}](../../pokemon/{format_id(pokemon)}.md)"
+
+        section_md += f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>**Ability:** {ability}<br>"
+        section_md += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in types])
+        section_md += f" | {item} | "
+        section_md += "<br>".join([f"{i}. {m}" for i, m in enumerate(moves.split(", "), 1)])
+        section_md += " |\n"
+
     wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
+    section_md += "\n"
 
     return wild_pokemon_md, section_md
 
