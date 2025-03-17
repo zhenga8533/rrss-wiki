@@ -5136,7 +5136,7 @@
 
 	0. Lv. 54 [Aggron](../pokemon/aggron.md/)
 
-1. Team Magma Grunt [5] [669]
+1. Team Magma Grunt [x5] [669]
 
 	0. Lv. 39 [Flareon](../pokemon/flareon.md/)
 
@@ -5258,7 +5258,7 @@
 
 	0. Lv. 54 [Victreebel](../pokemon/victreebel.md/)
 
-1. Team Aqua Grunt [5] [672]
+1. Team Aqua Grunt [x5] [672]
 
 	0. Lv. 39 [Vaporeon](../pokemon/vaporeon.md/)
 
@@ -5582,7 +5582,7 @@
 
 <h3>Trainer Rosters</h3>
 
-1. Team Magma Grunt [5] [670]
+1. Team Magma Grunt [x5] [670]
 
 	0. Lv. 59 [Flareon](../pokemon/flareon.md/)
 
@@ -5610,7 +5610,7 @@
 
 	2. Lv. 77 [Nidoking](../pokemon/nidoking.md/)
 
-1. Team Aqua Grunt [5] [673]
+1. Team Aqua Grunt [x5] [673]
 
 	0. Lv. 59 [Vaporeon](../pokemon/vaporeon.md/)
 

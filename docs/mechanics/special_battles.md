@@ -1170,8 +1170,8 @@
 2. Brave Bird
 3. Steel Wing
 4. Thunder Wave
-<br>Sigilyph @ Magic Guard
-<b>Ability:</b> Life Orb
+<br>Sigilyph @ Life Orb
+<b>Ability:</b> Magic Guard
 <b>Level:</b> 48
 <b>Moves:</b>
 1. Psychic
@@ -1481,7 +1481,7 @@
 3. Megahorn
 4. Hammer Arm
 <br>Camerupt @ Focus Sash
-<b>Ability:</b> Focus Sash
+<b>Ability:</b> Solid Rock
 <b>Level:</b> 55
 <b>Moves:</b>
 1. Earthquake
@@ -1547,7 +1547,7 @@
 3. Blizzard
 4. Earthquake
 <br>Nidoqueen @ Life Orb
-<b>Ability:</b> Life Orb
+<b>Ability:</b> Sheer Force
 <b>Level:</b> 55
 <b>Moves:</b>
 1. Sludge Wave
@@ -1943,7 +1943,7 @@
 3. Superpower
 4. Knock Off
 <br>Magnezone @ Air Balloon
-<b>Ability:</b> Air Balloon
+<b>Ability:</b> Sturdy
 <b>Level:</b> 70
 <b>Moves:</b>
 1. Thunderbolt

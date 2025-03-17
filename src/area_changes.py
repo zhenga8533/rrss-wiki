@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 from util.data import Data
-from util.file import load, save
+from util.file import download_file, load, save
 from util.format import check_empty, find_pokemon_sprite, find_trainer_sprite, format_id, revert_id
 from util.logger import Logger
 
@@ -117,7 +117,9 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
     return trainers_md, section_md
 
 
-def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
+def parse_special(
+    trainers: list[str], data_pokemon: Data, data_ability: Data, data_item: Data, data_move: Data, logger: Logger
+) -> tuple[str, str]:
     # Initialize markdown string
     wild_pokemon_md = ""
     section_md = ""
@@ -156,6 +158,7 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
             continue
 
         pokemon, level, item, ability, moves = [s.strip() for s in line.split(" | ")]
+        moves = moves.split(", ")
         pokemon_data = data_pokemon.get_data(pokemon)
         types = pokemon_data["types"]
 
@@ -163,18 +166,49 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
         wild_pokemon_md += extension + f"<b>Ability:</b> {ability}\n"
         wild_pokemon_md += extension + f"<b>Level:</b> {level}\n"
         wild_pokemon_md += extension + "<b>Moves:</b>\n"
-        wild_pokemon_md += (
-            "\n".join([f"{extension}{i}. {m}" for i, m in enumerate(moves.split(", "), 1)]) + f"\n{extension}<br>"
-        )
+        wild_pokemon_md += "\n".join([f"{extension}{i}. {m}" for i, m in enumerate(moves, 1)]) + f"\n{extension}<br>"
 
         pokemon_sprite = find_pokemon_sprite(pokemon, "front", data_pokemon, logger).replace("../", "../../")
         pokemon_link = f"[{pokemon}](../../pokemon/{format_id(pokemon)}.md)"
 
-        section_md += f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>**Ability:** {ability}<br>"
+        ability_data = data_ability.get_data(ability)
+        ability_effect = (
+            ability_data["flavor_text_entries"]
+            .get("omega-ruby-alpha-sapphire", ability_data["effect"])
+            .replace("\n", " ")
+        )
+
+        if item != "No Item":
+            item_data = data_item.get_data(item)
+            item_effect = (
+                item_data["flavor_text_entries"]
+                .get("omega-ruby-alpha-sapphire", item_data["effect"])
+                .replace("\n", " ")
+            )
+            item_path = f"../docs/assets/items/{format_id(item, symbol="_")}.png"
+            if not os.path.exists(item_path):
+                download_file(item_path, item_data["sprite"], logger)
+
+        section_md += f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>"
+        section_md += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
         section_md += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in types])
-        section_md += f" | {item} | "
-        section_md += "<br>".join([f"{i}. {m}" for i, m in enumerate(moves.split(", "), 1)])
-        section_md += " |\n"
+        section_md += (
+            f' | ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
+            if item != "No Item"
+            else "| No Item | "
+        )
+
+        # Load move data
+        for i, move in enumerate(moves, 1):
+            if move == "—":
+                section_md += f"{i}. {move}<br>"
+                continue
+
+            move_data = data_move.get_data(move)
+            move_effect = move_data["effect"]
+            move_text = move_data["flavor_text_entries"].get("platinum", move_effect).replace("\n", " ")
+            section_md += f'{i}. <span class="tooltip" title="{move_text}">{move}</span><br>'
+        section_md = section_md[:-4] + " |\n"
 
     wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
     section_md += "\n"
@@ -183,7 +217,14 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
 
 
 def parse_changes(
-    area_changes: dict, data_pokemon: Data, dir_path: str, keys: list[str], logger: Logger
+    area_changes: dict,
+    data_pokemon: Data,
+    data_ability: Data,
+    data_item: Data,
+    data_move: Data,
+    dir_path: str,
+    keys: list[str],
+    logger: Logger,
 ) -> dict[str, str]:
     # Initialize markdown strings
     mds = {key: "" for key in keys}
@@ -225,7 +266,7 @@ def parse_changes(
                     else (
                         parse_trainers(changes, data_pokemon, logger)
                         if category == "trainer_pokemon"
-                        else parse_special(changes, data_pokemon, logger)
+                        else parse_special(changes, data_pokemon, data_ability, data_item, data_move, logger)
                     )
                 )
                 mds[category] += md
@@ -259,9 +300,15 @@ def main():
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Area Changes Parser", LOG_PATH + "area_changes.log", LOG)
 
-    # Initialize Pokemon data object
+    # Initialize data object
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    ABILITY_INPUT_PATH = os.getenv("ABILITY_INPUT_PATH")
+    ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
     data_pokemon = Data(POKEMON_INPUT_PATH, logger)
+    data_ability = Data(ABILITY_INPUT_PATH, logger)
+    data_item = Data(ITEM_INPUT_PATH, logger)
+    data_move = Data(MOVE_INPUT_PATH, logger)
 
     # Read input data file
     file_path = INPUT_PATH + "AreaChanges.txt"
@@ -354,7 +401,9 @@ def main():
     logger.log(logging.INFO, f"Succesfully parsed {n} lines of data from {file_path}")
 
     # Parse area changes data
-    change_mds = parse_changes(area_changes, data_pokemon, WILD_ENCOUNTER_PATH, keys, logger)
+    change_mds = parse_changes(
+        area_changes, data_pokemon, data_ability, data_item, data_move, WILD_ENCOUNTER_PATH, keys, logger
+    )
     for key in change_mds:
         mds[key] += change_mds[key]
 

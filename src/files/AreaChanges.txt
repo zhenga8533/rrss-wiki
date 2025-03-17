@@ -1611,7 +1611,7 @@ o-------------------------------------------------------------------------------
 o---------------o----o------------------o-------------------o-----------------------------------------------------------------------o
 | Skarmory      | 48 | Sitrus Berry     | Sturdy            | Iron Head, Brave Bird, Stealth Rock, Roost                            |
 | Honchkrow     | 48 | Scope Lens       | Super Luck        | Night Slash, Brave Bird, Steel Wing, Thunder Wave                     |
-| Sigilyph      | 48 | Magic Guard      | Life Orb          | Psychic, Hurricane, Dazzling Gleam, Ice Beam                          |
+| Sigilyph      | 48 | Life Orb         | Magic Guard       | Psychic, Hurricane, Dazzling Gleam, Ice Beam                          |
 | Gyarados      | 48 | Wacan Berry      | Intimidate        | Dragon Dance, Waterfall, Bounce, Earthquake                           |
 | Talonflame    | 48 | Sharp Beak       | Gale Wings        | Brave Bird, Flare Blitz, Will-O-Wisp, Roost                           |
 | Altaria       | 50 | Altarianite      | Natural Cure      | Dragon Dance, Body Slam, Earthquake, Roost                            |
@@ -1976,7 +1976,7 @@ o-------------------------------------------------------------------------------
 | 238 | Team Magma Grunt        | Magcargo 52, Camerupt 52, Rhydon 52                                                               |
 | 336 | Team Magma Grunt        | Zangoose 54                                                                                       |
 | 240 | Team Magma Grunt        | Aggron 54                                                                                         |
-| 669 | Team Magma Grunt [5]    | Flareon 39, Flareon 39, Flareon 39, Flareon 39, Flareon 39                                        |
+| 669 | Team Magma Grunt [x5]   | Flareon 39, Flareon 39, Flareon 39, Flareon 39, Flareon 39                                        |
 | 696 | Magma Admin Courtney    | Rapidash 55, Pyroar 55, Rhyperior 55, Camerupt 55, Nidoking 55, Charizard 57                      |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Special Battle - Courtney                                                                                                         |
@@ -1986,7 +1986,7 @@ o---------------o----o------------------o-------------------o-------------------
 | Rapidash      | 55 | Power Herb       | Flame Body        | Flare Blitz, Megahorn, Bounce, Wild Charge                            |
 | Pyroar        | 55 | Wise Glasses     | Rivalry           | Heat Wave, Hyper Voice, Dark Pulse, Will-O-Wisp                       |
 | Rhyperior     | 55 | Muscle Band      | Solid Rock        | Stone Edge, Earthquake, Megahorn, Hammer Arm                          |
-| Camerupt      | 55 | Focus Sash       | Focus Sash        | Earthquake, Fire Blast, Stone Edge, Body Slam                         |
+| Camerupt      | 55 | Focus Sash       | Solid Rock        | Earthquake, Fire Blast, Stone Edge, Body Slam                         |
 | Nidoking      | 55 | Life Orb         | Sheer Force       | Sludge Wave, Thunder, Fire Blast, Earth Power                         |
 | Charizard     | 57 | Charizardite Y   | Blaze             | Fire Blast, Air Slash, Solar Beam, Focus Blast                        |
 o-----------------------------------------------------------------------------------------------------------------------------------o
@@ -2011,7 +2011,7 @@ o-------------------------------------------------------------------------------
 | 180 | Team Aqua Grunt         | Lumineon 52, Sharpedo 52, Ferrothorn 52                                                           |
 | 334 | Team Aqua Grunt         | Seviper 54                                                                                        |
 | 182 | Team Aqua Grunt         | Victreebel 54                                                                                     |
-| 672 | Team Aqua Grunt [5]     | Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39                                   |
+| 672 | Team Aqua Grunt [x5]    | Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39, Vaporeon 39                                   |
 | 685 | Aqua Admin Matt         | Golduck 55, Barbaracle 55, Ferrothorn 55, Sharpedo 55, Nidoqueen 55, Blastoise 57                 |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | Special Battle - Matt                                                                                                             |
@@ -2022,7 +2022,7 @@ o---------------o----o------------------o-------------------o-------------------
 | Barbaracle    | 55 | Rindo Berry      | Tough Claws       | Razor Shell, X-Scissor, Cross Chop, Stone Edge                        |
 | Ferrothorn    | 55 | Rocky Helmet     | Iron Barbs        | Thunder Wave, Power Whip, Poison Jab, Gyro Ball                       |
 | Sharpedo      | 55 | Focus Sash       | Speed Boost       | Hydro Pump, Crunch, Blizzard, Earthquake                              |
-| Nidoqueen     | 55 | Life Orb         | Life Orb          | Sludge Wave, Thunder, Blizzard, Earth Power                           |
+| Nidoqueen     | 55 | Life Orb         | Sheer Force       | Sludge Wave, Thunder, Blizzard, Earth Power                           |
 | Blastoise     | 57 | Blastoisinite    | Torrent           | Hydro Pump, Dark Pulse, Blizzard, Aura Sphere                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
 
@@ -2811,7 +2811,7 @@ o---------------o----o------------------o-------------------o-------------------
 | Roserade      | 70 | Focus Sash       | Poison Point      | Sleep Powder, Petal Dance, Sludge Bomb, Dazzling Gleam                |
 | Talonflame    | 70 | Sharp Beak       | Gale Wings        | Brave Bird, Flare Blitz, Swords Dance, Roost                          |
 | Azumarill     | 70 | Assault Vest     | Huge Power        | Aqua Tail, Play Rough, Superpower, Knock Off                          |
-| Magnezone     | 70 | Air Balloon      | Air Balloon       | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave                  |
+| Magnezone     | 70 | Air Balloon      | Sturdy            | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave                  |
 | Garchomp      | 70 | Yache Berry      | Rough Skin        | Outrage, Earthquake, Stone Edge, Fire Blast                           |
 | Gallade       | 72 | Galladite        | Justified         | Close Combat, Zen Headbutt, Knock Off, Protect                        |
 o---------------o----o------------------o-------------------o-----------------------------------------------------------------------o
@@ -3011,10 +3011,10 @@ o-------------------------------------------------------------------------------
 o-----------------------------------------------------------------------------------------------------------------------------------o
 | ID  | Trainer                 | Pokemon                                                                                           |
 o-----------------------------------------------------------------------------------------------------------------------------------o
-| 670 | Team Magma Grunt [5]    | Flareon 59, Flareon 59, Flareon 59, Flareon 59, Flareon 59                                        |
+| 670 | Team Magma Grunt [x5]   | Flareon 59, Flareon 59, Flareon 59, Flareon 59, Flareon 59                                        |
 | 901 | Team Magma Grunt        | Ninetales 75, Weezing 75, Emboar 75                                                               |
 | 698 | Magma Admin Courtney    | Charizard 79, Pyroar 77, Nidoking 77                                                              |
-| 673 | Team Aqua Grunt [5]     | Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59                                   |
+| 673 | Team Aqua Grunt [x5]    | Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59, Vaporeon 59                                   |
 | 905 | Team Aqua Grunt         | Politoed 75, Muk 75, Feraligatr 75                                                                |
 | 688 | Aqua Admin Matt         | Blastoise 79, Barbaracle 77, Nidoqueen 77                                                         |
 o-----------------------------------------------------------------------------------------------------------------------------------o
