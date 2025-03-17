@@ -6,7 +6,7 @@
 
 ### Wallace
 
-![Wallace](../assets/important_trainers/wallace.png "Wallace")
+![Wallace](../../assets/important_trainers/wallace.png "Wallace")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

@@ -6,7 +6,7 @@
 
 ### Flannery
 
-![Flannery](../assets/important_trainers/flannery.png "Flannery")
+![Flannery](../../assets/important_trainers/flannery.png "Flannery")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

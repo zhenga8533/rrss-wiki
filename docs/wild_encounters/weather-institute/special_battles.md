@@ -6,7 +6,7 @@
 
 ### Tabitha
 
-![Tabitha](../assets/important_trainers/tabitha.png "Tabitha")
+![Tabitha](../../assets/important_trainers/tabitha.png "Tabitha")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -18,7 +18,7 @@
 | ![Darmanitan](../../assets/sprites/darmanitan-standard/front.gif "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | **Lv. 48** [Darmanitan](../../pokemon/darmanitan-standard.md)<br>**Ability:** Sheer Force<br>![fire](../../assets/types/fire.png) | Life Orb | 1. Flare Blitz<br>2. Rock Slide<br>3. Zen Headbutt<br>4. Earthquake |
 ### Shelly
 
-![Shelly](../assets/important_trainers/shelly.png "Shelly")
+![Shelly](../../assets/important_trainers/shelly.png "Shelly")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

@@ -6,7 +6,7 @@
 
 ### Zinnia
 
-![Zinnia](../assets/important_trainers/zinnia.png "Zinnia")
+![Zinnia](../../assets/important_trainers/zinnia.png "Zinnia")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

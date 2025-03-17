@@ -6,7 +6,7 @@
 
 ### Leader Brawly
 
-![Leader Brawly](../assets/important_trainers/brawly.png "Leader Brawly")
+![Leader Brawly](../../assets/important_trainers/brawly.png "Leader Brawly")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

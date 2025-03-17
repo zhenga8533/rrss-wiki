@@ -6,7 +6,7 @@
 
 ### Matt
 
-![Matt](../assets/important_trainers/matt.png "Matt")
+![Matt](../../assets/important_trainers/matt.png "Matt")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

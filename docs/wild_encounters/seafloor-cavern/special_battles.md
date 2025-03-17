@@ -6,7 +6,7 @@
 
 ### Maxie
 
-![Maxie](../assets/important_trainers/maxie.png "Maxie")
+![Maxie](../../assets/important_trainers/maxie.png "Maxie")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -18,7 +18,7 @@
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 65** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Cameruptite | 1. Fire Blast<br>2. Earth Power<br>3. Flash Cannon<br>4. Rock Slide |
 ### Archie
 
-![Archie](../assets/important_trainers/archie.png "Archie")
+![Archie](../../assets/important_trainers/archie.png "Archie")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

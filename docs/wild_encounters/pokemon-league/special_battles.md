@@ -6,7 +6,7 @@
 
 ### Sidney (R1)
 
-![Sidney (R1)](../assets/important_trainers/sidney.png "Sidney (R1)")
+![Sidney (R1)](../../assets/important_trainers/sidney.png "Sidney (R1)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -18,11 +18,11 @@
 | ![Absol](../../assets/sprites/absol/front.gif "Absol: Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.") | **Lv. 72** [Absol](../../pokemon/absol.md)<br>**Ability:** Super Luck<br>![dark](../../assets/types/dark.png) | Absolite | 1. Sucker Punch<br>2. Play Rough<br>3. Fire Blast<br>4. Iron Tail |
 ### Phoebe (R1)
 
-![Phoebe (R1)](../assets/important_trainers/phoebe.png "Phoebe (R1)")
+![Phoebe (R1)](../../assets/important_trainers/phoebe.png "Phoebe (R1)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
-| ![Mismagius](../../assets/sprites/mismagius/front.gif "Mismagius: Its cries sound like incantations to torment the foe. It appears where you least expect it.") | **Lv. 71** [Mismagius](../../pokemon/mismagius.md)<br>**Ability:** Levitate<br>![ghost](../../assets/types/ghost.png) | Wise Glasses | 1. Shadow Ball<br>2. Moonblast<br>3. Thunderbolt<br>4. Thunder Wave |
+| ![Mismagius](../../assets/sprites/mismagius/front.gif "Mismagius: Its cries sound like incantations to torment the foe. It appears where you least expect it.") | **Lv. 71** [Mismagius](../../pokemon/mismagius.md)<br>**Ability:** Levitate<br>![ghost](../../assets/types/ghost.png) ![fairy](../../assets/types/fairy.png) | Wise Glasses | 1. Shadow Ball<br>2. Moonblast<br>3. Thunderbolt<br>4. Thunder Wave |
 | ![Gengar](../../assets/sprites/gengar/front.gif "Gengar: Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.") | **Lv. 71** [Gengar](../../pokemon/gengar.md)<br>**Ability:** Levitate<br>![ghost](../../assets/types/ghost.png) ![poison](../../assets/types/poison.png) | Expert Belt | 1. Shadow Ball<br>2. Sludge Wave<br>3. Focus Blast<br>4. Hypnosis |
 | ![Gourgeist](../../assets/sprites/gourgeist-average/front.gif "Gourgeist: It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.") | **Lv. 71** [Gourgeist](../../pokemon/gourgeist-average.md)<br>**Ability:** Insomnia<br>![ghost](../../assets/types/ghost.png) ![grass](../../assets/types/grass.png) | Assault Vest | 1. Petal Blizzard<br>2. Phantom Force<br>3. Rock Slide<br>4. Fire Blast |
 | ![Chandelure](../../assets/sprites/chandelure/front.gif "Chandelure: The spirits burned up in its ominous flame lose their way and wander this world forever.") | **Lv. 71** [Chandelure](../../pokemon/chandelure.md)<br>**Ability:** Flame Body<br>![ghost](../../assets/types/ghost.png) ![fire](../../assets/types/fire.png) | Choice Scarf | 1. Fire Blast<br>2. Shadow Ball<br>3. Energy Ball<br>4. Trick |
@@ -30,7 +30,7 @@
 | ![Sableye](../../assets/sprites/sableye/front.gif "Sableye: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.") | **Lv. 73** [Sableye](../../pokemon/sableye.md)<br>**Ability:** Prankster<br>![dark](../../assets/types/dark.png) ![ghost](../../assets/types/ghost.png) | Sablenite | 1. Knock Off<br>2. Recover<br>3. Will-O-Wisp<br>4. Metal Burst |
 ### Glacia (R1)
 
-![Glacia (R1)](../assets/important_trainers/glacia.png "Glacia (R1)")
+![Glacia (R1)](../../assets/important_trainers/glacia.png "Glacia (R1)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -42,7 +42,7 @@
 | ![Glalie](../../assets/sprites/glalie/front.gif "Glalie: Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.") | **Lv. 74** [Glalie](../../pokemon/glalie.md)<br>**Ability:** Moody<br>![ice](../../assets/types/ice.png) | Glalitite | 1. Double-Edge<br>2. Freeze-Dry<br>3. Earthquake<br>4. Ice Shard |
 ### Drake (R1)
 
-![Drake (R1)](../assets/important_trainers/drake.png "Drake (R1)")
+![Drake (R1)](../../assets/important_trainers/drake.png "Drake (R1)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -54,7 +54,7 @@
 | ![Salamence](../../assets/sprites/salamence/front.gif "Salamence: By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.") | **Lv. 75** [Salamence](../../pokemon/salamence.md)<br>**Ability:** Intimidate<br>![dragon](../../assets/types/dragon.png) ![flying](../../assets/types/flying.png) | Salamencite | 1. Dragon Rush<br>2. Body Slam<br>3. Fire Blast<br>4. Earthquake |
 ### Steven (R1)
 
-![Steven (R1)](../assets/important_trainers/steven.png "Steven (R1)")
+![Steven (R1)](../../assets/important_trainers/steven.png "Steven (R1)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -71,7 +71,7 @@
 
 ### Sidney (R2)
 
-![Sidney (R2)](../assets/important_trainers/sidney.png "Sidney (R2)")
+![Sidney (R2)](../../assets/important_trainers/sidney.png "Sidney (R2)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -83,7 +83,7 @@
 | ![Tyranitar](../../assets/sprites/tyranitar/front.gif "Tyranitar: Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.") | **Lv. 82** [Tyranitar](../../pokemon/tyranitar.md)<br>**Ability:** Sand Stream<br>![rock](../../assets/types/rock.png) ![dark](../../assets/types/dark.png) | Tyranitarite | 1. Dragon Dance<br>2. Stone Edge<br>3. Crunch<br>4. Ice Punch |
 ### Phoebe (R2)
 
-![Phoebe (R2)](../assets/important_trainers/phoebe.png "Phoebe (R2)")
+![Phoebe (R2)](../../assets/important_trainers/phoebe.png "Phoebe (R2)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -95,7 +95,7 @@
 | ![Gengar](../../assets/sprites/gengar/front.gif "Gengar: Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.") | **Lv. 82** [Gengar](../../pokemon/gengar.md)<br>**Ability:** Levitate<br>![ghost](../../assets/types/ghost.png) ![poison](../../assets/types/poison.png) | Gengarite | 1. Shadow Ball<br>2. Sludge Wave<br>3. Focus Blast<br>4. Hypnosis |
 ### Glacia (R2)
 
-![Glacia (R2)](../assets/important_trainers/glacia.png "Glacia (R2)")
+![Glacia (R2)](../../assets/important_trainers/glacia.png "Glacia (R2)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -107,7 +107,7 @@
 | ![Abomasnow](../../assets/sprites/abomasnow/front.gif "Abomasnow: It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.") | **Lv. 84** [Abomasnow](../../pokemon/abomasnow.md)<br>**Ability:** Snow Warning<br>![grass](../../assets/types/grass.png) ![ice](../../assets/types/ice.png) | Abomasite | 1. Blizzard<br>2. Wood Hammer<br>3. Ice Shard<br>4. Earthquake |
 ### Drake (R2)
 
-![Drake (R2)](../assets/important_trainers/drake.png "Drake (R2)")
+![Drake (R2)](../../assets/important_trainers/drake.png "Drake (R2)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -119,7 +119,7 @@
 | ![Latios](../../assets/sprites/latios/front.gif "Latios: Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.") | **Lv. 85** [Latios](../../pokemon/latios.md)<br>**Ability:** Levitate<br>![dragon](../../assets/types/dragon.png) ![psychic](../../assets/types/psychic.png) | Latiosite | 1. Dragon Pulse<br>2. Psyshock<br>3. Earthquake<br>4. Roost |
 ### Steven (R2)
 
-![Steven (R2)](../assets/important_trainers/steven.png "Steven (R2)")
+![Steven (R2)](../../assets/important_trainers/steven.png "Steven (R2)")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

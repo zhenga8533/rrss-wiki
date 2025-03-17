@@ -6,7 +6,7 @@
 
 ### Winona
 
-![Winona](../assets/important_trainers/winona.png "Winona")
+![Winona](../../assets/important_trainers/winona.png "Winona")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

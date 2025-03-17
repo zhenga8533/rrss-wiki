@@ -6,7 +6,7 @@
 
 ### Leader Roxanne
 
-![Leader Roxanne](../assets/important_trainers/roxanne.png "Leader Roxanne")
+![Leader Roxanne](../../assets/important_trainers/roxanne.png "Leader Roxanne")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

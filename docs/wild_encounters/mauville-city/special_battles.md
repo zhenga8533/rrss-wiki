@@ -6,7 +6,7 @@
 
 ### Wally
 
-![Wally](../assets/important_trainers/wally.png "Wally")
+![Wally](../../assets/important_trainers/wally.png "Wally")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -21,7 +21,7 @@
 
 ### Wattson
 
-![Wattson](../assets/important_trainers/wattson.png "Wattson")
+![Wattson](../../assets/important_trainers/wattson.png "Wattson")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

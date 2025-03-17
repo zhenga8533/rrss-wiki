@@ -6,7 +6,7 @@
 
 ### Liza & Tate
 
-![Liza & Tate](../assets/important_trainers/liza.png "Liza & Tate")
+![Liza & Tate](../../assets/important_trainers/liza.png "Liza & Tate")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -23,7 +23,7 @@
 
 ### Courtney
 
-![Courtney](../assets/important_trainers/courtney.png "Courtney")
+![Courtney](../../assets/important_trainers/courtney.png "Courtney")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -32,7 +32,7 @@
 | ![Nidoking](../../assets/sprites/nidoking/front.gif "Nidoking: Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.") | **Lv. 77** [Nidoking](../../pokemon/nidoking.md)<br>**Ability:** Sheer Force<br>![poison](../../assets/types/poison.png) ![ground](../../assets/types/ground.png) | Life Orb | 1. Sludge Bomb<br>2. Earth Power<br>3. Fire Blast<br>4. Thunder |
 ### Matt
 
-![Matt](../assets/important_trainers/matt.png "Matt")
+![Matt](../../assets/important_trainers/matt.png "Matt")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

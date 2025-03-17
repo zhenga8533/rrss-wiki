@@ -6,7 +6,7 @@
 
 ### Tabitha
 
-![Tabitha](../assets/important_trainers/tabitha.png "Tabitha")
+![Tabitha](../../assets/important_trainers/tabitha.png "Tabitha")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -16,7 +16,7 @@
 | ![Darmanitan](../../assets/sprites/darmanitan-standard/front.gif "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | **Lv. 35** [Darmanitan](../../pokemon/darmanitan-standard.md)<br>**Ability:** Sheer Force<br>![fire](../../assets/types/fire.png) | Life Orb | 1. Flare Blitz<br>2. Hammer Arm<br>3. Zen Headbutt<br>4. Swagger |
 ### Shelly
 
-![Shelly](../assets/important_trainers/shelly.png "Shelly")
+![Shelly](../../assets/important_trainers/shelly.png "Shelly")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -26,7 +26,7 @@
 | ![Jellicent](../../assets/sprites/jellicent/front.gif "Jellicent: The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.") | **Lv. 35** [Jellicent](../../pokemon/jellicent.md)<br>**Ability:** Cursed Body<br>![water](../../assets/types/water.png) ![ghost](../../assets/types/ghost.png) | Life Orb | 1. Scald<br>2. Shadow Ball<br>3. Energy Ball<br>4. Recover |
 ### Maxie
 
-![Maxie](../assets/important_trainers/maxie.png "Maxie")
+![Maxie](../../assets/important_trainers/maxie.png "Maxie")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
@@ -37,7 +37,7 @@
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 36** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Quick Claw | 1. Earth Power<br>2. Lava Plume<br>3. Rock Slide<br>4. Flash Cannon |
 ### Archie
 
-![Archie](../assets/important_trainers/archie.png "Archie")
+![Archie](../../assets/important_trainers/archie.png "Archie")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|

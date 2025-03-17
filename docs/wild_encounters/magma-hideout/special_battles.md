@@ -6,7 +6,7 @@
 
 ### Courtney
 
-![Courtney](../assets/important_trainers/courtney.png "Courtney")
+![Courtney](../../assets/important_trainers/courtney.png "Courtney")
 
 | Pokémon | Attributes | Item | Moves |
 |:-------:|------------|:----:|-------|
