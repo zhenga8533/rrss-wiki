@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Liza & Tate
 
 ![Liza & Tate](../../assets/important_trainers/liza.png "Liza & Tate")
@@ -21,6 +22,7 @@
 
 ## [ Main Area (Postgame) ]
 
+
 ### Courtney
 
 ![Courtney](../../assets/important_trainers/courtney.png "Courtney")
@@ -30,6 +32,7 @@
 | ![Charizard](../../assets/sprites/charizard/front.gif "Charizard: Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.") | **Lv. 79** [Charizard](../../pokemon/charizard.md)<br>**Ability:** Blaze<br>![fire](../../assets/types/fire.png) ![flying](../../assets/types/flying.png) | Charizardite Y | 1. Fire Blast<br>2. Air Slash<br>3. Focus Blast<br>4. Solar Beam |
 | ![Pyroar](../../assets/sprites/pyroar/front.gif "Pyroar: With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride’s cubs.") | **Lv. 77** [Pyroar](../../pokemon/pyroar.md)<br>**Ability:** Rivalry<br>![fire](../../assets/types/fire.png) ![normal](../../assets/types/normal.png) | Silk Scarf | 1. Hyper Voice<br>2. Flamethrower<br>3. Dark Pulse<br>4. Attract |
 | ![Nidoking](../../assets/sprites/nidoking/front.gif "Nidoking: Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.") | **Lv. 77** [Nidoking](../../pokemon/nidoking.md)<br>**Ability:** Sheer Force<br>![poison](../../assets/types/poison.png) ![ground](../../assets/types/ground.png) | Life Orb | 1. Sludge Bomb<br>2. Earth Power<br>3. Fire Blast<br>4. Thunder |
+
 ### Matt
 
 ![Matt](../../assets/important_trainers/matt.png "Matt")

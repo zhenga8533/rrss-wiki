@@ -4,6 +4,7 @@
 
 ## [ Main Area ]
 
+
 ### Tabitha
 
 ![Tabitha](../../assets/important_trainers/tabitha.png "Tabitha")
@@ -14,6 +15,7 @@
 | ![Weezing](../../assets/sprites/weezing/front.gif "Weezing: Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.") | **Lv. 33** [Weezing](../../pokemon/weezing.md)<br>**Ability:** Levitate<br>![poison](../../assets/types/poison.png) | Wise Glasses | 1. Sludge Bomb<br>2. Flamethrower<br>3. Thunderbolt<br>4. Shadow Ball |
 | ![Snorlax](../../assets/sprites/snorlax/front.gif "Snorlax: Snorlax’s typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.") | **Lv. 33** [Snorlax](../../pokemon/snorlax.md)<br>**Ability:** Thick Fat<br>![normal](../../assets/types/normal.png) | Sitrus Berry | 1. Body Slam<br>2. Rock Slide<br>3. Rest<br>4. Sleep Talk |
 | ![Darmanitan](../../assets/sprites/darmanitan-standard/front.gif "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | **Lv. 35** [Darmanitan](../../pokemon/darmanitan-standard.md)<br>**Ability:** Sheer Force<br>![fire](../../assets/types/fire.png) | Life Orb | 1. Flare Blitz<br>2. Hammer Arm<br>3. Zen Headbutt<br>4. Swagger |
+
 ### Shelly
 
 ![Shelly](../../assets/important_trainers/shelly.png "Shelly")
@@ -24,6 +26,7 @@
 | ![Muk](../../assets/sprites/muk/front.gif "Muk: This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.") | **Lv. 33** [Muk](../../pokemon/muk.md)<br>**Ability:** Poison Touch<br>![poison](../../assets/types/poison.png) | Black Sludge | 1. Poison Jab<br>2. Rock Slide<br>3. Shadow Sneak<br>4. Minimize |
 | ![Lapras](../../assets/sprites/lapras/front.gif "Lapras: People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.") | **Lv. 33** [Lapras](../../pokemon/lapras.md)<br>**Ability:** Water Absorb<br>![water](../../assets/types/water.png) ![ice](../../assets/types/ice.png) | Sitrus Berry | 1. Scald<br>2. Ice Beam<br>3. Rest<br>4. Sleep Talk |
 | ![Jellicent](../../assets/sprites/jellicent/front.gif "Jellicent: The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.") | **Lv. 35** [Jellicent](../../pokemon/jellicent.md)<br>**Ability:** Cursed Body<br>![water](../../assets/types/water.png) ![ghost](../../assets/types/ghost.png) | Life Orb | 1. Scald<br>2. Shadow Ball<br>3. Energy Ball<br>4. Recover |
+
 ### Maxie
 
 ![Maxie](../../assets/important_trainers/maxie.png "Maxie")
@@ -35,6 +38,7 @@
 | ![Pupitar](../../assets/sprites/pupitar/front.gif "Pupitar: Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.") | **Lv. 34** [Pupitar](../../pokemon/pupitar.md)<br>**Ability:** Shed Skin<br>![rock](../../assets/types/rock.png) ![ground](../../assets/types/ground.png) | Eviolite | 1. Rock Slide<br>2. Dig<br>3. Dragon Dance<br>4. Iron Head |
 | ![Lampent](../../assets/sprites/lampent/front.gif "Lampent: It arrives near the moment of death and steals spirit from the body.") | **Lv. 34** [Lampent](../../pokemon/lampent.md)<br>**Ability:** Flame Body<br>![ghost](../../assets/types/ghost.png) ![fire](../../assets/types/fire.png) | Focus Sash | 1. Heat Wave<br>2. Shadow Ball<br>3. Will-O-Wisp<br>4. Energy Ball |
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 36** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Quick Claw | 1. Earth Power<br>2. Lava Plume<br>3. Rock Slide<br>4. Flash Cannon |
+
 ### Archie
 
 ![Archie](../../assets/important_trainers/archie.png "Archie")

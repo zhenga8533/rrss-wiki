@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Leader Roxanne
 
 ![Leader Roxanne](../../assets/important_trainers/roxanne.png "Leader Roxanne")

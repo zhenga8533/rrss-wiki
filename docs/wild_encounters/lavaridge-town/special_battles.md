@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Flannery
 
 ![Flannery](../../assets/important_trainers/flannery.png "Flannery")

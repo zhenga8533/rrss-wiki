@@ -4,6 +4,7 @@
 
 ## [ Main Area (Postgame) ]
 
+
 ### Zinnia
 
 ![Zinnia](../../assets/important_trainers/zinnia.png "Zinnia")

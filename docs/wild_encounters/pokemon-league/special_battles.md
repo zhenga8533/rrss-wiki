@@ -4,6 +4,7 @@
 
 ## [ R1 ]
 
+
 ### Sidney (R1)
 
 ![Sidney (R1)](../../assets/important_trainers/sidney.png "Sidney (R1)")
@@ -16,6 +17,7 @@
 | ![Tyranitar](../../assets/sprites/tyranitar/front.gif "Tyranitar: Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.") | **Lv. 70** [Tyranitar](../../pokemon/tyranitar.md)<br>**Ability:** Sand Stream<br>![rock](../../assets/types/rock.png) ![dark](../../assets/types/dark.png) | Assault Vest | 1. Stone Edge<br>2. Crunch<br>3. Ice Punch<br>4. Superpower |
 | ![Greninja](../../assets/sprites/greninja/front.gif "Greninja: It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.") | **Lv. 70** [Greninja](../../pokemon/greninja.md)<br>**Ability:** Protean<br>![water](../../assets/types/water.png) ![dark](../../assets/types/dark.png) | Expert Belt | 1. Dark Pulse<br>2. Hydro Pump<br>3. Ice Beam<br>4. Gunk Shot |
 | ![Absol](../../assets/sprites/absol/front.gif "Absol: Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.") | **Lv. 72** [Absol](../../pokemon/absol.md)<br>**Ability:** Super Luck<br>![dark](../../assets/types/dark.png) | Absolite | 1. Sucker Punch<br>2. Play Rough<br>3. Fire Blast<br>4. Iron Tail |
+
 ### Phoebe (R1)
 
 ![Phoebe (R1)](../../assets/important_trainers/phoebe.png "Phoebe (R1)")
@@ -28,6 +30,7 @@
 | ![Chandelure](../../assets/sprites/chandelure/front.gif "Chandelure: The spirits burned up in its ominous flame lose their way and wander this world forever.") | **Lv. 71** [Chandelure](../../pokemon/chandelure.md)<br>**Ability:** Flame Body<br>![ghost](../../assets/types/ghost.png) ![fire](../../assets/types/fire.png) | Choice Scarf | 1. Fire Blast<br>2. Shadow Ball<br>3. Energy Ball<br>4. Trick |
 | ![Dusknoir](../../assets/sprites/dusknoir/front.gif "Dusknoir: The antenna on its head captures radio waves from the world of spirits that command it to take people there.") | **Lv. 71** [Dusknoir](../../pokemon/dusknoir.md)<br>**Ability:** Pressure<br>![ghost](../../assets/types/ghost.png) | Life Orb | 1. Phantom Force<br>2. Earthquake<br>3. Rock Slide<br>4. Ice Punch |
 | ![Sableye](../../assets/sprites/sableye/front.gif "Sableye: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.") | **Lv. 73** [Sableye](../../pokemon/sableye.md)<br>**Ability:** Prankster<br>![dark](../../assets/types/dark.png) ![ghost](../../assets/types/ghost.png) | Sablenite | 1. Knock Off<br>2. Recover<br>3. Will-O-Wisp<br>4. Metal Burst |
+
 ### Glacia (R1)
 
 ![Glacia (R1)](../../assets/important_trainers/glacia.png "Glacia (R1)")
@@ -40,6 +43,7 @@
 | ![Mamoswine](../../assets/sprites/mamoswine/front.gif "Mamoswine: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.") | **Lv. 72** [Mamoswine](../../pokemon/mamoswine.md)<br>**Ability:** Thick Fat<br>![ice](../../assets/types/ice.png) ![ground](../../assets/types/ground.png) | Choice Scarf | 1. Icicle Crash<br>2. Earthquake<br>3. Stone Edge<br>4. Superpower |
 | ![Walrein](../../assets/sprites/walrein/front.gif "Walrein: Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.") | **Lv. 72** [Walrein](../../pokemon/walrein.md)<br>**Ability:** Ice Body<br>![ice](../../assets/types/ice.png) ![water](../../assets/types/water.png) | Leftovers | 1. Surf<br>2. Blizzard<br>3. Hail<br>4. Protect |
 | ![Glalie](../../assets/sprites/glalie/front.gif "Glalie: Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.") | **Lv. 74** [Glalie](../../pokemon/glalie.md)<br>**Ability:** Moody<br>![ice](../../assets/types/ice.png) | Glalitite | 1. Double-Edge<br>2. Freeze-Dry<br>3. Earthquake<br>4. Ice Shard |
+
 ### Drake (R1)
 
 ![Drake (R1)](../../assets/important_trainers/drake.png "Drake (R1)")
@@ -52,6 +56,7 @@
 | ![Kingdra](../../assets/sprites/kingdra/front.gif "Kingdra: Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.") | **Lv. 73** [Kingdra](../../pokemon/kingdra.md)<br>**Ability:** Sniper<br>![water](../../assets/types/water.png) ![dragon](../../assets/types/dragon.png) | Scope Lens | 1. Hydro Pump<br>2. Ice Beam<br>3. Draco Meteor<br>4. Flash Cannon |
 | ![Dragalge](../../assets/sprites/dragalge/front.gif "Dragalge: Tales are told of ships that wander into seas where Dragalge live, never to return.") | **Lv. 73** [Dragalge](../../pokemon/dragalge.md)<br>**Ability:** Adaptability<br>![poison](../../assets/types/poison.png) ![dragon](../../assets/types/dragon.png) | Choice Specs | 1. Sludge Wave<br>2. Draco Meteor<br>3. Focus Blast<br>4. Thunder |
 | ![Salamence](../../assets/sprites/salamence/front.gif "Salamence: By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.") | **Lv. 75** [Salamence](../../pokemon/salamence.md)<br>**Ability:** Intimidate<br>![dragon](../../assets/types/dragon.png) ![flying](../../assets/types/flying.png) | Salamencite | 1. Dragon Rush<br>2. Body Slam<br>3. Fire Blast<br>4. Earthquake |
+
 ### Steven (R1)
 
 ![Steven (R1)](../../assets/important_trainers/steven.png "Steven (R1)")
@@ -69,6 +74,7 @@
 
 ## [ R2 (Postgame) ]
 
+
 ### Sidney (R2)
 
 ![Sidney (R2)](../../assets/important_trainers/sidney.png "Sidney (R2)")
@@ -81,6 +87,7 @@
 | ![Greninja](../../assets/sprites/greninja/front.gif "Greninja: It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.") | **Lv. 80** [Greninja](../../pokemon/greninja.md)<br>**Ability:** Protean<br>![water](../../assets/types/water.png) ![dark](../../assets/types/dark.png) | Expert Belt | 1. Ice Beam<br>2. Dark Pulse<br>3. Gunk Shot<br>4. Hydro Pump |
 | ![Absol](../../assets/sprites/absol/front.gif "Absol: Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.") | **Lv. 82** [Absol](../../pokemon/absol.md)<br>**Ability:** Super Luck<br>![dark](../../assets/types/dark.png) | Scope Lens | 1. Night Slash<br>2. Play Rough<br>3. Psycho Cut<br>4. Megahorn |
 | ![Tyranitar](../../assets/sprites/tyranitar/front.gif "Tyranitar: Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.") | **Lv. 82** [Tyranitar](../../pokemon/tyranitar.md)<br>**Ability:** Sand Stream<br>![rock](../../assets/types/rock.png) ![dark](../../assets/types/dark.png) | Tyranitarite | 1. Dragon Dance<br>2. Stone Edge<br>3. Crunch<br>4. Ice Punch |
+
 ### Phoebe (R2)
 
 ![Phoebe (R2)](../../assets/important_trainers/phoebe.png "Phoebe (R2)")
@@ -93,6 +100,7 @@
 | ![Dusknoir](../../assets/sprites/dusknoir/front.gif "Dusknoir: The antenna on its head captures radio waves from the world of spirits that command it to take people there.") | **Lv. 81** [Dusknoir](../../pokemon/dusknoir.md)<br>**Ability:** Pressure<br>![ghost](../../assets/types/ghost.png) | Choice Band | 1. Phantom Force<br>2. Earthquake<br>3. Rock Slide<br>4. Ice Punch |
 | ![Sableye](../../assets/sprites/sableye/front.gif "Sableye: Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.") | **Lv. 83** [Sableye](../../pokemon/sableye.md)<br>**Ability:** Prankster<br>![dark](../../assets/types/dark.png) ![ghost](../../assets/types/ghost.png) | Leftovers | 1. Recover<br>2. Toxic<br>3. Protect<br>4. Foul Play |
 | ![Gengar](../../assets/sprites/gengar/front.gif "Gengar: Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.") | **Lv. 82** [Gengar](../../pokemon/gengar.md)<br>**Ability:** Levitate<br>![ghost](../../assets/types/ghost.png) ![poison](../../assets/types/poison.png) | Gengarite | 1. Shadow Ball<br>2. Sludge Wave<br>3. Focus Blast<br>4. Hypnosis |
+
 ### Glacia (R2)
 
 ![Glacia (R2)](../../assets/important_trainers/glacia.png "Glacia (R2)")
@@ -105,6 +113,7 @@
 | ![Mamoswine](../../assets/sprites/mamoswine/front.gif "Mamoswine: Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.") | **Lv. 82** [Mamoswine](../../pokemon/mamoswine.md)<br>**Ability:** Thick Fat<br>![ice](../../assets/types/ice.png) ![ground](../../assets/types/ground.png) | Choice Scarf | 1. Icicle Crash<br>2. Earthquake<br>3. Stone Edge<br>4. Superpower |
 | ![Glalie](../../assets/sprites/glalie/front.gif "Glalie: Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.") | **Lv. 84** [Glalie](../../pokemon/glalie.md)<br>**Ability:** Moody<br>![ice](../../assets/types/ice.png) | Focus Sash | 1. Light Screen<br>2. Earthquake<br>3. Protect<br>4. Blizzard |
 | ![Abomasnow](../../assets/sprites/abomasnow/front.gif "Abomasnow: It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.") | **Lv. 84** [Abomasnow](../../pokemon/abomasnow.md)<br>**Ability:** Snow Warning<br>![grass](../../assets/types/grass.png) ![ice](../../assets/types/ice.png) | Abomasite | 1. Blizzard<br>2. Wood Hammer<br>3. Ice Shard<br>4. Earthquake |
+
 ### Drake (R2)
 
 ![Drake (R2)](../../assets/important_trainers/drake.png "Drake (R2)")
@@ -117,6 +126,7 @@
 | ![Kingdra](../../assets/sprites/kingdra/front.gif "Kingdra: Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.") | **Lv. 83** [Kingdra](../../pokemon/kingdra.md)<br>**Ability:** Sniper<br>![water](../../assets/types/water.png) ![dragon](../../assets/types/dragon.png) | Scope Lens | 1. Hydro Pump<br>2. Ice Beam<br>3. Draco Meteor<br>4. Flash Cannon |
 | ![Salamence](../../assets/sprites/salamence/front.gif "Salamence: By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.") | **Lv. 85** [Salamence](../../pokemon/salamence.md)<br>**Ability:** Intimidate<br>![dragon](../../assets/types/dragon.png) ![flying](../../assets/types/flying.png) | Life Orb | 1. Outrage<br>2. Earthquake<br>3. Fire Blast<br>4. Hydro Pump |
 | ![Latios](../../assets/sprites/latios/front.gif "Latios: Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.") | **Lv. 85** [Latios](../../pokemon/latios.md)<br>**Ability:** Levitate<br>![dragon](../../assets/types/dragon.png) ![psychic](../../assets/types/psychic.png) | Latiosite | 1. Dragon Pulse<br>2. Psyshock<br>3. Earthquake<br>4. Roost |
+
 ### Steven (R2)
 
 ![Steven (R2)](../../assets/important_trainers/steven.png "Steven (R2)")

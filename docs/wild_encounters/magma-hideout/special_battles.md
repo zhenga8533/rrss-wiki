@@ -4,6 +4,7 @@
 
 ## [ Main Area ]
 
+
 ### Courtney
 
 ![Courtney](../../assets/important_trainers/courtney.png "Courtney")

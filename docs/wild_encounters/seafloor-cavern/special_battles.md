@@ -4,6 +4,7 @@
 
 ## [ Back Rooms ]
 
+
 ### Maxie
 
 ![Maxie](../../assets/important_trainers/maxie.png "Maxie")
@@ -16,6 +17,7 @@
 | ![Tyranitar](../../assets/sprites/tyranitar/front.gif "Tyranitar: Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.") | **Lv. 63** [Tyranitar](../../pokemon/tyranitar.md)<br>**Ability:** Sand Stream<br>![rock](../../assets/types/rock.png) ![dark](../../assets/types/dark.png) | Assault Vest | 1. Stone Edge<br>2. Crunch<br>3. Iron Tail<br>4. Blizzard |
 | ![Chandelure](../../assets/sprites/chandelure/front.gif "Chandelure: The spirits burned up in its ominous flame lose their way and wander this world forever.") | **Lv. 63** [Chandelure](../../pokemon/chandelure.md)<br>**Ability:** Flame Body<br>![ghost](../../assets/types/ghost.png) ![fire](../../assets/types/fire.png) | Focus Sash | 1. Trick Room<br>2. Fire Blast<br>3. Shadow Ball<br>4. Energy Ball |
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 65** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Cameruptite | 1. Fire Blast<br>2. Earth Power<br>3. Flash Cannon<br>4. Rock Slide |
+
 ### Archie
 
 ![Archie](../../assets/important_trainers/archie.png "Archie")

@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Leader Brawly
 
 ![Leader Brawly](../../assets/important_trainers/brawly.png "Leader Brawly")

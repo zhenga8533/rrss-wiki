@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Winona
 
 ![Winona](../../assets/important_trainers/winona.png "Winona")

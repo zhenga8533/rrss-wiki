@@ -4,6 +4,7 @@
 
 ## [ Main Area (Postgame) ]
 
+
 ### Wallace
 
 ![Wallace](../../assets/important_trainers/wallace.png "Wallace")

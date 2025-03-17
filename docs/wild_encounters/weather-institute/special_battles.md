@@ -4,6 +4,7 @@
 
 ## [ Main Area ]
 
+
 ### Tabitha
 
 ![Tabitha](../../assets/important_trainers/tabitha.png "Tabitha")
@@ -16,6 +17,7 @@
 | ![Gigalith](../../assets/sprites/gigalith/front.gif "Gigalith: Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.") | **Lv. 46** [Gigalith](../../pokemon/gigalith.md)<br>**Ability:** Sturdy<br>![rock](../../assets/types/rock.png) | Custap Berry | 1. Stone Edge<br>2. Superpower<br>3. Earthquake<br>4. Heavy Slam |
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 46** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Focus Sash | 1. Flamethrower<br>2. Earth Power<br>3. Rock Slide<br>4. Flash Cannon |
 | ![Darmanitan](../../assets/sprites/darmanitan-standard/front.gif "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | **Lv. 48** [Darmanitan](../../pokemon/darmanitan-standard.md)<br>**Ability:** Sheer Force<br>![fire](../../assets/types/fire.png) | Life Orb | 1. Flare Blitz<br>2. Rock Slide<br>3. Zen Headbutt<br>4. Earthquake |
+
 ### Shelly
 
 ![Shelly](../../assets/important_trainers/shelly.png "Shelly")

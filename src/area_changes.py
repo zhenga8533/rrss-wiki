@@ -146,7 +146,7 @@ def parse_special(trainers: list[str], data_pokemon: Data, logger: Logger) -> tu
                 trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger)
                 wild_pokemon_md += f"### {trainer}\n\n{trainer_sprite}\n\n<pre><code>"
 
-                section_md += f"### {trainer}\n\n{trainer_sprite.replace('../', '../../')}\n\n"
+                section_md += f"\n### {trainer}\n\n{trainer_sprite.replace('../', '../../')}\n\n"
                 section_md += "| Pokémon | Attributes | Item | Moves |\n"
                 section_md += "|:-------:|------------|:----:|-------|\n"
 

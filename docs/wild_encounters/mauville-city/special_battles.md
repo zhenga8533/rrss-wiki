@@ -4,6 +4,7 @@
 
 ## [ Main Area ]
 
+
 ### Wally
 
 ![Wally](../../assets/important_trainers/wally.png "Wally")
@@ -18,6 +19,7 @@
 ---
 
 ## [ Gym ]
+
 
 ### Wattson
 

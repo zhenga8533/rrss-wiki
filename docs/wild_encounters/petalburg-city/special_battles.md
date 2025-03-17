@@ -4,6 +4,7 @@
 
 ## [ Gym ]
 
+
 ### Norman
 
 ![Norman](../../assets/important_trainers/norman.png "Norman")
@@ -21,6 +22,7 @@
 
 ## [ Main Area (Postgame) ]
 
+
 ### Courtney
 
 ![Courtney](../../assets/important_trainers/courtney.png "Courtney")
@@ -33,6 +35,7 @@
 | ![Camerupt](../../assets/sprites/camerupt/front.gif "Camerupt: The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.") | **Lv. 75** [Camerupt](../../pokemon/camerupt.md)<br>**Ability:** Solid Rock<br>![fire](../../assets/types/fire.png) ![ground](../../assets/types/ground.png) | Focus Sash | 1. Overheat<br>2. Earthquake<br>3. Explosion<br>4. Stone Edge |
 | ![Nidoking](../../assets/sprites/nidoking/front.gif "Nidoking: Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.") | **Lv. 75** [Nidoking](../../pokemon/nidoking.md)<br>**Ability:** Sheer Force<br>![poison](../../assets/types/poison.png) ![ground](../../assets/types/ground.png) | Life Orb | 1. Sludge Wave<br>2. Earth Power<br>3. Thunder<br>4. Fire Blast |
 | ![Charizard](../../assets/sprites/charizard/front.gif "Charizard: Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.") | **Lv. 77** [Charizard](../../pokemon/charizard.md)<br>**Ability:** Blaze<br>![fire](../../assets/types/fire.png) ![flying](../../assets/types/flying.png) | Charizardite Y | 1. Fire Blast<br>2. Air Slash<br>3. Solar Beam<br>4. Focus Blast |
+
 ### Matt
 
 ![Matt](../../assets/important_trainers/matt.png "Matt")

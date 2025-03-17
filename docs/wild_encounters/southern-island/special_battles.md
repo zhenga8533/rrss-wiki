@@ -4,6 +4,7 @@
 
 ## [ Main Area ]
 
+
 ### Courtney
 
 ![Courtney](../../assets/important_trainers/courtney.png "Courtney")
@@ -13,6 +14,7 @@
 | ![Rapidash](../../assets/sprites/rapidash/front.gif "Rapidash: Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.") | **Lv. 42** [Rapidash](../../pokemon/rapidash.md)<br>**Ability:** Flame Body<br>![fire](../../assets/types/fire.png) | Muscle Band | 1. Heat Wave<br>2. Megahorn<br>3. Drill Run<br>4. Wild Charge |
 | ![Pyroar](../../assets/sprites/pyroar/front.gif "Pyroar: With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride’s cubs.") | **Lv. 42** [Pyroar](../../pokemon/pyroar.md)<br>**Ability:** Rivalry<br>![fire](../../assets/types/fire.png) ![normal](../../assets/types/normal.png) | Wise Glasses | 1. Flamethrower<br>2. Hyper Voice<br>3. Dark Pulse<br>4. Yawn |
 | ![Charizard](../../assets/sprites/charizard/front.gif "Charizard: Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.") | **Lv. 44** [Charizard](../../pokemon/charizard.md)<br>**Ability:** Blaze<br>![fire](../../assets/types/fire.png) ![flying](../../assets/types/flying.png) | Sitrus Berry | 1. Flamethrower<br>2. Air Slash<br>3. Dragon Pulse<br>4. Focus Blast |
+
 ### Matt
 
 ![Matt](../../assets/important_trainers/matt.png "Matt")

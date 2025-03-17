@@ -4,6 +4,7 @@
 
 ## [ 1F / 2F (Postgame) ]
 
+
 ### Zinnia
 
 ![Zinnia](../../assets/important_trainers/zinnia.png "Zinnia")

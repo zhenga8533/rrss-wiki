@@ -4,6 +4,7 @@
 
 ## [ 2F ]
 
+
 ### Wally
 
 ![Wally](../../assets/important_trainers/wally.png "Wally")

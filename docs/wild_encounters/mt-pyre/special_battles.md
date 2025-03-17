@@ -4,6 +4,7 @@
 
 ## [ Summit 2 ]
 
+
 ### Courtney
 
 ![Courtney](../../assets/important_trainers/courtney.png "Courtney")
@@ -14,6 +15,7 @@
 | ![Pyroar](../../assets/sprites/pyroar/front.gif "Pyroar: With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride’s cubs.") | **Lv. 42** [Pyroar](../../pokemon/pyroar.md)<br>**Ability:** Rivalry<br>![fire](../../assets/types/fire.png) ![normal](../../assets/types/normal.png) | Wise Glasses | 1. Fire Blast<br>2. Hyper Voice<br>3. Dark Pulse<br>4. Wild Charge |
 | ![Rhyperior](../../assets/sprites/rhyperior/front.gif "Rhyperior: It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.") | **Lv. 53** [Rhyperior](../../pokemon/rhyperior.md)<br>**Ability:** Solid Rock<br>![ground](../../assets/types/ground.png) ![rock](../../assets/types/rock.png) | Passho Berry | 1. Rock Wrecker<br>2. Earthquake<br>3. Hammer Arm<br>4. Thunder Punch |
 | ![Charizard](../../assets/sprites/charizard/front.gif "Charizard: Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.") | **Lv. 55** [Charizard](../../pokemon/charizard.md)<br>**Ability:** Blaze<br>![fire](../../assets/types/fire.png) ![flying](../../assets/types/flying.png) | Sitrus Berry | 1. Fire Blast<br>2. Air Slash<br>3. Dragon Pulse<br>4. Focus Blast |
+
 ### Matt
 
 ![Matt](../../assets/important_trainers/matt.png "Matt")

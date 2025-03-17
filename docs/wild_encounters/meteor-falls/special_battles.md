@@ -4,6 +4,7 @@
 
 ## [ 1F ]
 
+
 ### Tabitha
 
 ![Tabitha](../../assets/important_trainers/tabitha.png "Tabitha")
@@ -13,6 +14,7 @@
 | ![Mightyena](../../assets/sprites/mightyena/front.gif "Mightyena: Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill.") | **Lv. 33** [Mightyena](../../pokemon/mightyena.md)<br>**Ability:** Intimidate<br>![dark](../../assets/types/dark.png) | Muscle Band | 1. Crunch<br>2. Ice Fang<br>3. Thunder Fang<br>4. Swagger |
 | ![Weezing](../../assets/sprites/weezing/front.gif "Weezing: Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.") | **Lv. 33** [Weezing](../../pokemon/weezing.md)<br>**Ability:** Levitate<br>![poison](../../assets/types/poison.png) | Wise Glasses | 1. Sludge Bomb<br>2. Flamethrower<br>3. Thunderbolt<br>4. Shadow Ball |
 | ![Darmanitan](../../assets/sprites/darmanitan-standard/front.gif "Darmanitan: Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.") | **Lv. 35** [Darmanitan](../../pokemon/darmanitan-standard.md)<br>**Ability:** Sheer Force<br>![fire](../../assets/types/fire.png) | Life Orb | 1. Flare Blitz<br>2. Rock Slide<br>3. Zen Headbutt<br>4. Swagger |
+
 ### Shelly
 
 ![Shelly](../../assets/important_trainers/shelly.png "Shelly")
