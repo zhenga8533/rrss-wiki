@@ -23,5 +23,5 @@
 
 ### Special Battles
 
-1. [Zinnia]()
+1. [Zinnia](special_battles.md#zinnia)
 

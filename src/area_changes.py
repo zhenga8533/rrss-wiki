@@ -92,7 +92,7 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
                 trainer = "Rival"
 
             trainers_md += f"1. {trainer}\n\n"
-            section_md += f"1. [{trainer}]()\n\n"  # TODO: Add special battle links
+            section_md += f"1. [{trainer}](special_battles.md#{format_id(trainer)})\n\n"
 
             continue
 

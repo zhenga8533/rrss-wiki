@@ -15,5 +15,5 @@
 
 ### Special Battles
 
-1. [Leader Brawly]()
+1. [Leader Brawly](special_battles.md#leader-brawly)
 

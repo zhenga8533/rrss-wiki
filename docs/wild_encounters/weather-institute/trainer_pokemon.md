@@ -21,7 +21,7 @@
 
 ### Special Battles
 
-1. [Tabitha]()
+1. [Tabitha](special_battles.md#tabitha)
 
-1. [Shelly]()
+1. [Shelly](special_battles.md#shelly)
 

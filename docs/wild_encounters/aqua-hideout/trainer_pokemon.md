@@ -19,7 +19,7 @@
 
 ### Special Battles
 
-1. [Matt]()
+1. [Matt](special_battles.md#matt)
 
 ---
 

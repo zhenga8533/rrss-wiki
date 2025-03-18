@@ -16,15 +16,15 @@
 
 ### Special Battles
 
-1. [Sidney (R1)]()
+1. [Sidney (R1)](special_battles.md#sidney-r1)
 
-1. [Phoebe (R1)]()
+1. [Phoebe (R1)](special_battles.md#phoebe-r1)
 
-1. [Glacia (R1)]()
+1. [Glacia (R1)](special_battles.md#glacia-r1)
 
-1. [Drake (R1)]()
+1. [Drake (R1)](special_battles.md#drake-r1)
 
-1. [Steven (R1)]()
+1. [Steven (R1)](special_battles.md#steven-r1)
 
 ---
 
@@ -42,13 +42,13 @@
 
 ### Special Battles
 
-1. [Sidney (R2)]()
+1. [Sidney (R2)](special_battles.md#sidney-r2)
 
-1. [Phoebe (R2)]()
+1. [Phoebe (R2)](special_battles.md#phoebe-r2)
 
-1. [Glacia (R2)]()
+1. [Glacia (R2)](special_battles.md#glacia-r2)
 
-1. [Drake (R2)]()
+1. [Drake (R2)](special_battles.md#drake-r2)
 
-1. [Steven (R2)]()
+1. [Steven (R2)](special_battles.md#steven-r2)
 

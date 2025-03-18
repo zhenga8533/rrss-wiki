@@ -20,5 +20,5 @@
 
 ### Special Battles
 
-1. [Wallace]()
+1. [Wallace](special_battles.md#wallace)
 

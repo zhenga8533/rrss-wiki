@@ -12,7 +12,7 @@
 
 ### Special Battles
 
-1. [Wally]()
+1. [Wally](special_battles.md#wally)
 
 ---
 
@@ -30,5 +30,5 @@
 
 ### Special Battles
 
-1. [Wattson]()
+1. [Wattson](special_battles.md#wattson)
 

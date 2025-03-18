@@ -15,7 +15,7 @@
 
 ### Special Battles
 
-1. [Leader Roxanne]()
+1. [Leader Roxanne](special_battles.md#leader-roxanne)
 
 ---
 

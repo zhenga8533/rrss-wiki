@@ -19,7 +19,7 @@
 
 ### Special Battles
 
-1. [Courtney]()
+1. [Courtney](special_battles.md#courtney)
 
 ---
 

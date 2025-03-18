@@ -19,5 +19,5 @@
 
 ### Special Battles
 
-1. [Flannery]()
+1. [Flannery](special_battles.md#flannery)
 

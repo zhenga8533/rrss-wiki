@@ -32,7 +32,7 @@
 
 ### Special Battles
 
-1. [Maxie]()
+1. [Maxie](special_battles.md#maxie)
 
-1. [Archie]()
+1. [Archie](special_battles.md#archie)
 

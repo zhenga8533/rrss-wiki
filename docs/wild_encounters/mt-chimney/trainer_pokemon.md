@@ -17,11 +17,11 @@
 
 ### Special Battles
 
-1. [Tabitha]()
+1. [Tabitha](special_battles.md#tabitha)
 
-1. [Shelly]()
+1. [Shelly](special_battles.md#shelly)
 
-1. [Maxie]()
+1. [Maxie](special_battles.md#maxie)
 
-1. [Archie]()
+1. [Archie](special_battles.md#archie)
 

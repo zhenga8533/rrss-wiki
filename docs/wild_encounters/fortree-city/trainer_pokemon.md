@@ -27,5 +27,5 @@
 
 ### Special Battles
 
-1. [Winona]()
+1. [Winona](special_battles.md#winona)
 

@@ -46,5 +46,5 @@
 
 ### Special Battles
 
-1. [Wally]()
+1. [Wally](special_battles.md#wally)
 

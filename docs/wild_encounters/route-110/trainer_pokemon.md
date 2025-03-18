@@ -96,5 +96,5 @@
 
 ### Special Battles
 
-1. [Rival]()
+1. [Rival](special_battles.md#rival)
 

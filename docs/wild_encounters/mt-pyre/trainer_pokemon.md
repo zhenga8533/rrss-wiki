@@ -57,7 +57,7 @@
 
 ### Special Battles
 
-1. [Courtney]()
+1. [Courtney](special_battles.md#courtney)
 
-1. [Matt]()
+1. [Matt](special_battles.md#matt)
 
