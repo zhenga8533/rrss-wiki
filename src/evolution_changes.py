@@ -10,6 +10,16 @@ from util.logger import Logger
 
 
 def change_evolution(evolutions: list[dict], pokemon: str, change: str, logger: Logger) -> list:
+    """
+    Recursively change evolution data for a given Pokemon.
+
+    :param evolutions: List of evolution data for a given Pokemon.
+    :param pokemon: Name of the Pokemon to change evolution data for.
+    :param change: Evolution change to apply to the Pokemon.
+    :param logger: Logger object for logging messages.
+    :return: List of all Pokemon that have their evolution data changed.
+    """
+
     pokemon_evolutions = []
 
     for evolution in evolutions:
@@ -31,6 +41,15 @@ def change_evolution(evolutions: list[dict], pokemon: str, change: str, logger: 
 
 
 def change_pokemon(columns: list[str], data_pokemon: Data, logger: Logger) -> None:
+    """
+    Change evolution data for a given Pokemon.
+
+    :param columns: List of columns from the evolution changes table.
+    :param data_pokemon: Data object for loading and saving Pokemon data.
+    :param logger: Logger object for logging messages.
+    :return: None
+    """
+
     # Parse evolution data
     unevolved = columns[1]
     evolved = columns[2]

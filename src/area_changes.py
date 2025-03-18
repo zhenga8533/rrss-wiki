@@ -10,12 +10,22 @@ from util.logger import Logger
 
 
 def parse_wild_pokemon(wild_pokemon: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
+    """
+    Parses wild Pokémon data from a list of strings.
+
+    :param wild_pokemon: List of strings containing wild Pokémon data.
+    :param data_pokemon: Data object containing Pokémon data.
+    :param logger: Logger object for logging messages.
+    :return: Tuple of markdown strings for wild Pokémon and section.
+    """
+
     # Initialize markdown string
     wild_pokemon_md = ""
     section_md = ""
 
     # Parse wild Pokémon data
     for line in wild_pokemon:
+        # Filter out header lines
         if line.startswith("Method"):
             continue
         elif line.startswith("Hint:") or line.startswith("Note:"):
@@ -25,14 +35,17 @@ def parse_wild_pokemon(wild_pokemon: list[str], data_pokemon: Data, logger: Logg
             section_md += md
             continue
 
+        # Parse line data
         method, level, species = [s.strip() for s in line.split(" | ")]
         wild_pokemon = species.split(", ")
 
+        # Add markdown headers
         wild_pokemon_md += f"**{method}** (Lv. {level})\n\n<pre><code><ol>"
         section_md += f"### {method}\n\n"
         section_md += "| Sprite | Pokémon | Encounter | Chance |\n"
         section_md += "|:------:|---------|:---------:|--------|\n"
 
+        # Add Pokémon data
         n = len(wild_pokemon)
         chance = str(100 // n)
         for p in wild_pokemon:
@@ -52,6 +65,15 @@ def parse_wild_pokemon(wild_pokemon: list[str], data_pokemon: Data, logger: Logg
 
 
 def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> tuple[str, str]:
+    """
+    Parses trainer data from a list of strings.
+
+    :param trainers: List of strings containing trainer data.
+    :param data_pokemon: Data object containing Pokémon data.
+    :param logger: Logger object for logging messages.
+    :return: Tuple of markdown strings for trainers and section.
+    """
+
     # Initialize markdown string
     trainers_md = "<h3>Trainer Rosters</h3>\n\n"
     section_md = "### Trainer Rosters\n\n"
@@ -66,6 +88,7 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
     num_pokemon = 0
     special_battle = False
     for line in trainers:
+        # Filter out header lines
         if line.startswith("ID"):
             continue
         elif line == "Rematches":
@@ -96,13 +119,15 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
 
             continue
 
+        # Parse line data
         trainer_id, trainer, roster = [s.strip() for s in line.split("|")]
-
-        trainers_md += f"1. {trainer} [{trainer_id}]\n\n"
-
         trainer_sprite = find_trainer_sprite(trainer, "trainers", logger).replace("../", "../../")
+
+        # Add trainer data
+        trainers_md += f"1. {trainer} [{trainer_id}]\n\n"
         section_table += f"| {trainer_sprite}<br>{trainer} [{trainer_id}] |"
 
+        # Add trainer roster data
         pokemon = roster.split(", ")
         num_pokemon = max(num_pokemon, len(pokemon))
         for i, p in enumerate(pokemon):
@@ -123,6 +148,18 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
 def parse_special(
     trainers: list[str], data_pokemon: Data, data_ability: Data, data_item: Data, data_move: Data, logger: Logger
 ) -> tuple[str, str]:
+    """
+    Parses special battle data from a list of strings.
+
+    :param trainers: List of strings containing special battle data.
+    :param data_pokemon: Data object containing Pokémon data.
+    :param data_ability: Data object containing ability data.
+    :param data_item: Data object containing item data.
+    :param data_move: Data object containing move data.
+    :param logger: Logger object for logging messages.
+    :return: Tuple of markdown strings for special battles and section.
+    """
+
     # Initialize markdown string
     wild_pokemon_md = ""
     section_md = ""
@@ -136,6 +173,7 @@ def parse_special(
             if trainer != "":
                 wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
 
+            # Rival roster by starter
             trainer = line.split(" - ")[1]
             if trainer.startswith("Rival"):
                 starter = trainer.rsplit(" ", 1)[1][1:-1]
@@ -155,6 +193,7 @@ def parse_special(
                 section_md += f'=== "{starter}"\n\n'
 
                 extension = "\t"
+            # Other special battles
             else:
                 trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger)
                 wild_pokemon_md += f"### {trainer}\n\n{trainer_sprite}\n\n<pre><code>"
@@ -169,11 +208,13 @@ def parse_special(
         elif line.startswith("Pokemon"):
             continue
 
+        # Parse line data
         pokemon, level, item, ability, moves = [s.strip() for s in line.split(" | ")]
         moves = moves.split(", ")
         pokemon_data = data_pokemon.get_data(pokemon)
         types = pokemon_data["types"]
 
+        # Add Pokémon data
         wild_pokemon_md += (extension if not wild_pokemon_md.endswith(">") else "") + f"{pokemon} @ {item}\n"
         wild_pokemon_md += extension + f"<b>Ability:</b> {ability}\n"
         wild_pokemon_md += extension + f"<b>Level:</b> {level}\n"
@@ -183,6 +224,7 @@ def parse_special(
         pokemon_sprite = find_pokemon_sprite(pokemon, "front", data_pokemon, logger).replace("../", "../../")
         pokemon_link = f"[{pokemon}](../../pokemon/{format_id(pokemon)}.md)"
 
+        # Add Pokémon attributes
         ability_data = data_ability.get_data(ability)
         ability_effect = (
             ability_data["flavor_text_entries"]
@@ -238,6 +280,20 @@ def parse_changes(
     keys: list[str],
     logger: Logger,
 ) -> dict[str, str]:
+    """
+    Parses area changes data and generates markdown strings for each category.
+
+    :param area_changes: Dictionary containing area changes data.
+    :param data_pokemon: Data object containing Pokémon data.
+    :param data_ability: Data object containing ability data.
+    :param data_item: Data object containing item data.
+    :param data_move: Data object containing move data.
+    :param dir_path: Directory path for saving area changes data.
+    :param keys: List of keys for the area changes data.
+    :param logger: Logger object for logging messages.
+    :return: Dictionary containing markdown strings for each category.
+    """
+
     # Initialize markdown strings
     mds = {key: "" for key in keys}
 

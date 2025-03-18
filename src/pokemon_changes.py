@@ -27,6 +27,16 @@ stat_ids = {
 
 
 def replace_move(move_changes: str, learn_method: str, data: dict, data_move: Data) -> None:
+    """
+    Replace a move in the Pokemon data with a new move.
+
+    :param move_changes: The move changes to apply.
+    :param learn_method: The method by which the move is learned.
+    :param data: The Pokemon data to modify.
+    :param data_move: The move data to use for formatting.
+    :return: The formatted move string.
+    """
+
     move_str = ""
 
     for move in move_changes.split(", "):
@@ -60,6 +70,20 @@ def change_attribute(
     data_ability: Data,
     data_move: Data,
 ) -> str:
+    """
+    Change a Pokemon attribute and return the formatted string.
+
+    :param attribute: The attribute to change.
+    :param change: The change to apply to the attribute.
+    :param pokemon: The name of the Pokemon to change.
+    :param forms: List of forms for the Pokemon.
+    :param data_pokemon: The Pokemon data object.
+    :param data_item: The item data object.
+    :param data_ability: The ability data object.
+    :param data_move: The move data object.
+    :return: The formatted string for the attribute change.
+    """
+
     attribute_change = f"**{attribute}**: {change}"
 
     for form in forms:
@@ -159,6 +183,17 @@ def change_attribute(
 
 
 def change_table(changes: list[str], pokemon: str, forms: list[str], data_pokemon: Data, data_move: Data) -> str:
+    """
+    Change the Pokemon table and return the formatted string.
+
+    :param changes: The list of changes to apply.
+    :param pokemon: The name of the Pokemon to change.
+    :param forms: List of forms for the Pokemon.
+    :param data_pokemon: The Pokemon data object.
+    :param data_move: The move data object.
+    :return: The formatted string for the table change.
+    """
+
     table = ""
 
     ## Stat changes
