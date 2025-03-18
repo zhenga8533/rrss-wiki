@@ -137,22 +137,31 @@ def parse_special(
             if trainer.startswith("Rival"):
                 starter = trainer.rsplit(" ", 1)[1][1:-1]
                 if starter == "Treecko":
-                    wild_pokemon_md += "### Rival\n\n"
                     brendan_sprite = find_trainer_sprite("Brendan", "important_trainers", logger)
                     may_sprite = find_trainer_sprite("May", "important_trainers", logger)
+
+                    wild_pokemon_md += "### Rival\n\n"
                     wild_pokemon_md += f"{brendan_sprite} {may_sprite}\n\n"
 
+                    section_md += "### Rival\n\n"
+                    section_md += (
+                        f"{brendan_sprite.replace('../', '../../')} {may_sprite.replace('../', '../../')}\n\n"
+                    )
+
                 wild_pokemon_md += f'=== "{starter}"\n\n\t<pre><code>'
+                section_md += f'=== "{starter}"\n\n'
+
                 extension = "\t"
             else:
                 trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger)
                 wild_pokemon_md += f"### {trainer}\n\n{trainer_sprite}\n\n<pre><code>"
 
                 section_md += f"\n### {trainer}\n\n{trainer_sprite.replace('../', '../../')}\n\n"
-                section_md += "| Pokémon | Attributes | Item | Moves |\n"
-                section_md += "|:-------:|------------|:----:|-------|\n"
 
                 extension = ""
+
+            section_md += extension + "| Pokémon | Attributes | Item | Moves |\n"
+            section_md += extension + "|:-------:|------------|:----:|-------|\n"
             continue
         elif line.startswith("Pokemon"):
             continue
@@ -189,7 +198,7 @@ def parse_special(
             if not os.path.exists(item_path):
                 download_file(item_path, item_data["sprite"], logger)
 
-        section_md += f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>"
+        section_md += extension + f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>"
         section_md += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
         section_md += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in types])
         section_md += (
