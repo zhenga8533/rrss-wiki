@@ -2,6 +2,50 @@
 
 ---
 
+## Route 103
+
+### Rival
+
+![Brendan](../assets/important_trainers/brendan.png "Brendan") ![May](../assets/important_trainers/may.png "May")
+
+=== "Mudkip"
+
+	<pre><code>Treecko @ No Item
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Pound
+	2. Leer
+	3. —
+	4. —
+	</code></pre>
+
+=== "Treecko"
+
+	<pre><code>Torchic @ No Item
+	<b>Ability:</b> Blaze
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Scratch
+	2. Growl
+	3. —
+	4. —
+	</code></pre>
+
+=== "Torchic"
+
+	<pre><code>Mudkip @ No Item
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 5
+	<b>Moves:</b>
+	1. Tackle
+	2. Growl
+	3. —
+	4. —
+	</code></pre>
+
+---
+
 ## Petalburg City
 
 ### Norman
@@ -332,7 +376,7 @@
 
 ![Brendan](../assets/important_trainers/brendan.png "Brendan") ![May](../assets/important_trainers/may.png "May")
 
-=== "Treecko"
+=== "Mudkip"
 
 	<pre><code>Swellow @ Silk Scarf
 	<b>Ability:</b> Guts
@@ -368,7 +412,7 @@
 	4. Grass Whistle
 	</code></pre>
 
-=== "Torchic"
+=== "Treecko"
 
 	<pre><code>Swellow @ Silk Scarf
 	<b>Ability:</b> Guts
@@ -404,7 +448,7 @@
 	4. Feather Dance
 	</code></pre>
 
-=== "Mudkip"
+=== "Torchic"
 
 	<pre><code>Swellow @ Silk Scarf
 	<b>Ability:</b> Guts
@@ -902,7 +946,7 @@
 
 ![Brendan](../assets/important_trainers/brendan.png "Brendan") ![May](../assets/important_trainers/may.png "May")
 
-=== "Treecko"
+=== "Mudkip"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts
@@ -946,7 +990,7 @@
 	4. Grass Whistle
 	</code></pre>
 
-=== "Torchic"
+=== "Treecko"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts
@@ -990,7 +1034,7 @@
 	4. Will-O-Wisp
 	</code></pre>
 
-=== "Mudkip"
+=== "Torchic"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts
@@ -1292,7 +1336,7 @@
 
 ![Brendan](../assets/important_trainers/brendan.png "Brendan") ![May](../assets/important_trainers/may.png "May")
 
-=== "Treecko"
+=== "Mudkip"
 
 	<pre><code>Swellow @ Toxic Orb
 	<b>Ability:</b> Guts
@@ -1344,7 +1388,7 @@
 	4. Grass Whistle
 	</code></pre>
 
-=== "Torchic"
+=== "Treecko"
 
 	<pre><code>Swellow @ Toxic Orb
 	<b>Ability:</b> Guts
@@ -1396,7 +1440,7 @@
 	4. Earthquake
 	</code></pre>
 
-=== "Mudkip"
+=== "Torchic"
 
 	<pre><code>Swellow @ Toxic Orb
 	<b>Ability:</b> Guts
@@ -2520,7 +2564,7 @@
 
 ![Brendan](../assets/important_trainers/brendan.png "Brendan") ![May](../assets/important_trainers/may.png "May")
 
-=== "Treecko"
+=== "Mudkip"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts
@@ -2572,7 +2616,7 @@
 	4. Protect
 	</code></pre>
 
-=== "Torchic"
+=== "Treecko"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts
@@ -2624,7 +2668,7 @@
 	4. Protect
 	</code></pre>
 
-=== "Mudkip"
+=== "Torchic"
 
 	<pre><code>Swellow @ Flame Orb
 	<b>Ability:</b> Guts

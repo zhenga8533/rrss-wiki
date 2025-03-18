@@ -96,9 +96,5 @@
 
 ### Special Battles
 
-1. [Rival (Treecko)]()
-
-1. [Rival (Torchic)]()
-
-1. [Rival (Mudkip)]()
+1. [Rival]()
 

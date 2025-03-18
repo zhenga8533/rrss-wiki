@@ -86,8 +86,11 @@ def parse_trainers(trainers: list[str], data_pokemon: Data, logger: Logger) -> t
                 section_table = ""
 
             trainer = line.split(" - ")[1]
-            if line.startswith("Rival"):
+            if trainer.startswith("Rival"):
+                if not trainer.endswith("Mudkip)"):
+                    continue
                 trainer = "Rival"
+
             trainers_md += f"1. {trainer}\n\n"
             section_md += f"1. [{trainer}]()\n\n"  # TODO: Add special battle links
 
@@ -136,7 +139,7 @@ def parse_special(
             trainer = line.split(" - ")[1]
             if trainer.startswith("Rival"):
                 starter = trainer.rsplit(" ", 1)[1][1:-1]
-                if starter == "Treecko":
+                if starter == "Mudkip":
                     brendan_sprite = find_trainer_sprite("Brendan", "important_trainers", logger)
                     may_sprite = find_trainer_sprite("May", "important_trainers", logger)
 

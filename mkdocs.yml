@@ -890,6 +890,7 @@ nav:
       - Route 101:
           - Wild Pokémon: wild_encounters/route-101/wild_pokemon.md
       - Route 103:
+          - Special Battles: wild_encounters/route-103/special_battles.md
           - Trainer Pokémon: wild_encounters/route-103/trainer_pokemon.md
           - Wild Pokémon: wild_encounters/route-103/wild_pokemon.md
       - Route 102:

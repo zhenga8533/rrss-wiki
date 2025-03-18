@@ -54,6 +54,10 @@
 
 	0. Lv. 5 [Mudkip](../pokemon/mudkip.md/)
 
+<h3>Special Battles</h3>
+
+1. Rival
+
 ### [ East of River ]
 
 <h3>Trainer Rosters</h3>
@@ -1812,11 +1816,7 @@
 
 <h3>Special Battles</h3>
 
-1. Rival (Treecko)
-
-1. Rival (Torchic)
-
-1. Rival (Mudkip)
+1. Rival
 
 ---
 
@@ -4162,11 +4162,7 @@
 
 <h3>Special Battles</h3>
 
-1. Rival (Treecko)
-
-1. Rival (Torchic)
-
-1. Rival (Mudkip)
+1. Rival
 
 ---
 
@@ -5090,11 +5086,7 @@
 
 <h3>Special Battles</h3>
 
-1. Rival (Treecko)
-
-1. Rival (Torchic)
-
-1. Rival (Mudkip)
+1. Rival
 
 ---
 
@@ -6850,11 +6842,7 @@
 
 <h3>Special Battles</h3>
 
-1. Rival (Treecko)
-
-1. Rival (Torchic)
-
-1. Rival (Mudkip)
+1. Rival
 
 ---
 
