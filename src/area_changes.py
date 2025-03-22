@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 from util.data import Data
-from util.file import download_file, load, save
+from util.file import load, save
 from util.format import check_empty, find_pokemon_sprite, find_trainer_sprite, format_id, revert_id
 from util.logger import Logger
 
@@ -225,44 +225,18 @@ def parse_special(
         pokemon_link = f"[{pokemon}](../../pokemon/{format_id(pokemon)}.md)"
 
         # Add Pokémon attributes
-        ability_data = data_ability.get_data(ability)
-        ability_effect = (
-            ability_data["flavor_text_entries"]
-            .get("omega-ruby-alpha-sapphire", ability_data["effect"])
-            .replace("\n", " ")
-        )
-
-        if item != "No Item":
-            item_data = data_item.get_data(item)
-            item_effect = (
-                item_data["flavor_text_entries"]
-                .get("omega-ruby-alpha-sapphire", item_data["effect"])
-                .replace("\n", " ")
-            )
-            item_path = f"../docs/assets/items/{format_id(item, symbol="_")}.png"
-            if not os.path.exists(item_path):
-                download_file(item_path, item_data["sprite"], logger)
+        item_img = data_item.get_image(item)
+        if item_img != item:
+            item_img += "<br>"
 
         section_md += extension + f"| {pokemon_sprite} | **Lv. {level}** {pokemon_link}<br>"
-        section_md += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
+        section_md += f"**Ability:** {data_ability.get_tooltip(ability, 'omega-ruby-alpha-sapphire')}<br>"
         section_md += " ".join([f"![{t}](../../assets/types/{format_id(t)}.png)" for t in types])
-        section_md += (
-            f' | ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
-            if item != "No Item"
-            else "| No Item | "
+        section_md += f" | {item_img + data_item.get_tooltip(item, 'omega-ruby-alpha-sapphire')} | "
+        section_md += "<br>".join(
+            [f"{i}. {data_move.get_tooltip(move, 'omega-ruby-alpha-sapphire')}" for i, move in enumerate(moves, 1)]
         )
-
-        # Load move data
-        for i, move in enumerate(moves, 1):
-            if move == "—":
-                section_md += f"{i}. {move}<br>"
-                continue
-
-            move_data = data_move.get_data(move)
-            move_effect = move_data["effect"]
-            move_text = move_data["flavor_text_entries"].get("platinum", move_effect).replace("\n", " ")
-            section_md += f'{i}. <span class="tooltip" title="{move_text}">{move}</span><br>'
-        section_md = section_md[:-4] + " |\n"
+        section_md += " |\n"
 
     wild_pokemon_md = wild_pokemon_md[:-4] + "</code></pre>\n\n"
     section_md += "\n"
